@@ -48,6 +48,7 @@ pub fn parse_body(
         .tokenize()
         .map_err(|source| Error::Tokenization {
             name: name.to_string(),
+            body: preprocessed_body.clone(),
             source,
         })?;
 
@@ -56,6 +57,7 @@ pub fn parse_body(
         .position(|token| matches!(token, Token::Word(word) if word.keyword == Keyword::BEGIN))
         .ok_or_else(|| Error::MissingBeginBlock {
             name: name.to_string(),
+            body: preprocessed_body.clone(),
         })?;
     // The END must close the BEGIN. Taking the last one anywhere would slice
     // backwards when a stray END precedes the block.
@@ -67,6 +69,7 @@ pub fn parse_body(
         .filter(|&end| end > begin_idx)
         .ok_or_else(|| Error::MissingEndBlock {
             name: name.to_string(),
+            body: preprocessed_body.clone(),
         })?;
 
     let body_tokens = tokens[begin_idx + 1..end_idx].to_vec();
@@ -75,6 +78,7 @@ pub fn parse_body(
         .parse_statements()
         .map_err(|source| Error::ParseStatements {
             name: name.to_string(),
+            body: preprocessed_body.clone(),
             source,
         })?;
 

@@ -38,27 +38,33 @@ pub enum Error {
     },
 
     /// Tokenizing the function body failed.
-    #[error("trigger function '{name}' body could not be tokenized: {source}")]
+    #[error("trigger function '{name}' body could not be tokenized: {source}. Body: {body}")]
     Tokenization {
         /// The function name.
         name: String,
+        /// The preprocessed body that failed.
+        body: String,
         /// The tokenizer error.
         #[source]
         source: sqlparser::tokenizer::TokenizerError,
     },
 
     /// The function body has no BEGIN...END block.
-    #[error("trigger function '{name}' body has no BEGIN...END block")]
+    #[error("trigger function '{name}' body has no BEGIN...END block. Body: {body}")]
     MissingBeginBlock {
         /// The function name.
         name: String,
+        /// The preprocessed body that failed.
+        body: String,
     },
 
     /// The function body has no END statement.
-    #[error("trigger function '{name}' body has no END")]
+    #[error("trigger function '{name}' body has no END. Body: {body}")]
     MissingEndBlock {
         /// The function name.
         name: String,
+        /// The preprocessed body that failed.
+        body: String,
     },
 
     /// The function body opens a dollar-quoted literal that never closes.
@@ -69,10 +75,14 @@ pub enum Error {
     },
 
     /// Parsing the function body statements failed.
-    #[error("trigger function '{name}' body statements could not be parsed: {source}")]
+    #[error(
+        "trigger function '{name}' body statements could not be parsed: {source}. Body: {body}"
+    )]
     ParseStatements {
         /// The function name.
         name: String,
+        /// The preprocessed body that failed.
+        body: String,
         /// The parser error.
         #[source]
         source: sqlparser::parser::ParserError,
