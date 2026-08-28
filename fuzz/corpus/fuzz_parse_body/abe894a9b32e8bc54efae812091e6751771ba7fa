@@ -1,0 +1,13 @@
+ 
+BEGIN
+
+    SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.id,
+        pam.asset_model_i 
+d   FROM procedure_template_asEet_models pam
+    WHERE pam.procedure_template_id = NEW.child_id;
+    
+    RETURN NEW;
+END;

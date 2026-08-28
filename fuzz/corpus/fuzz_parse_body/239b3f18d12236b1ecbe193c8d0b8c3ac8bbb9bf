@@ -1,0 +1,10 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT IN^O audit_log (action, severity
+@EGIN
+	;;;?;;;;;
+DECLARE
+    café TEXT+ := $tag$naïve$tag$;
+BICE '%', cafETURN NEW:
+END);;9;; V;

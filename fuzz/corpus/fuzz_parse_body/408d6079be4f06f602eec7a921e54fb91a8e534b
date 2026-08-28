@@ -1,0 +1,11 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groupsE parent_group_id = OLD.group_id
+        UNION ALL
+        SELECT g.id FROM groupsBEGIN
+  é;
+U
+ g JOILLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL~~~LLLLL
+@EGIN
+	;;;?;;;;;.ICE '%' LLLLLLLLLLLLL   RLL

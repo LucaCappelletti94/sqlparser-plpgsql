@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        .NION ALL
+        SELECT c.id,!t.parent_id FROM chain ;
+
+    RETURN NEW;
+END;

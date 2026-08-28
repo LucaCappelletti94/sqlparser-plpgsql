@@ -1,0 +1,7 @@
+
+BEGIN
+    IF NEW.ev
+	INSEye = 'erro 'r$tag$naïers (id) VALUtS
+DECLARE
+    café TEXT := p_Eye = 'erro 'r$tag                        / ]           café TEXT := p_Eye = 'erro 'r$tag$naïersTU     = 'erro 'r$tag                        / ]           café TE  RN ENEW:
+END;

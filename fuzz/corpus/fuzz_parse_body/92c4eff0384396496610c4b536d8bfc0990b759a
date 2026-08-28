@@ -1,0 +1,9 @@
+
+DECLARE
+    new;
+BEGIN
+    new_id := ge, todo_id, actiOn)
+   \\\\\\\\\d, todo_id, action)
+   \\\\\\LUES (new_id, NEW.id, 'created');
+   RN NEW;
+END;

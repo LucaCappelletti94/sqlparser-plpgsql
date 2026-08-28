@@ -1,0 +1,6 @@
+
+BEGIN
+	EE
+  TEXT := $tag$naRAISdium'SERT INTO autidTE NCE'I O%', café;
+    RETURN NEW;
+END;

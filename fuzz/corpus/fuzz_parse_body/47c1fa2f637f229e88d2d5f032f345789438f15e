@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM roup_id
+        UNION ALL
+        SELECT g.id FROM groups g JOIN child_mmmmmmmmmmmmmmmm}mmmmmmmmmmm    RETURN OLD;
+END;

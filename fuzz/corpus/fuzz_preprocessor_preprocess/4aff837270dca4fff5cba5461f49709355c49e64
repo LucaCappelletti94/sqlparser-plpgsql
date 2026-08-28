@@ -1,0 +1,10 @@
+IN
+    IF N5EW.event_or'U$ES (new_id, NEW.id, 'created');
+    RETURN NEW;
+BEGIN
+	INSERT.iNT;
+	RETURN NEW;
+END;id);
+;	R
+ETURN NEW;
+E

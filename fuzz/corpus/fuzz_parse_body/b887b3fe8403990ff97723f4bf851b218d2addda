@@ -1,0 +1,14 @@
+
+BEGIN
+DEC
+IBNLEG
+   ~~~~~~~~~~~~~~~~~~~~~~~~~ IF NET
+DECLARE
+    new_Ad TEXT;
+BEGIN
+    new_id :=IN
+    new_id := gen_random_uuid();
+    INSERT INTO todo_history (idE N'   VA\UES ( tion)    
+VALTror' THENa cafW.id, 'created');
+    RETURN NEW;
+END;

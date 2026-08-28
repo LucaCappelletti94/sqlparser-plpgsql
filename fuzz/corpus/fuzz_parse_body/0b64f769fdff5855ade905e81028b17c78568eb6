@@ -1,0 +1,4 @@
+
+BEGIN
+	^INSERT INTO owners (iD) VAL;
+END;

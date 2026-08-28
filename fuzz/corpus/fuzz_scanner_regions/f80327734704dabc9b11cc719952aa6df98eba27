@@ -1,0 +1,7 @@
+
+DECLARE
+    caRE
+    EXT& := $tag$naïve$tag$;
+BEGIN $tag$naïve$tag$;
+BEGIEX (NEW.id);/*
+	R

@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSI/* child_groups AS (
+ roup_id
+444444444444444444444444444444444444444444444444444444444444444
+LU$ES (new_id, NEW.id, 'created');
+    RETURN NEW;
+END;
+   SELECT g.id FROM groups g JOIN child_groups cg ON g.parent_group_id;
+END;

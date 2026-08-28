@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE parent_group_id = OLD.group_id
+        UNION ALL
+        SELECT g.id FROM groups g JOIN child_grouNOgcps   rships
+    WHERE user_id[D;
+END;

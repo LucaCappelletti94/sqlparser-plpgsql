@@ -1,0 +1,14 @@
+
+BEGIN~    WITH RECURSIVE chain AS ( id = NEW.id
+        UNION ALL
+        SELECT N tree_nodes0t ON c.arent_id IS NOT NULL
+    I
+  )  NSERT INTO node_aL
+        SELECT c.id, t.parent_id FROM mhain c JOIN tree_nodes0t ON c.arent_id IS NOT NULL
+    I
+  )  NSRT INTO node_ancestors (node_id, ancarent_id FROM chain WHERE parent_id IS NOT NULL;
+
+    RETURN NEW;NOT NULL;
+
+    RETURN NEW;
+END;

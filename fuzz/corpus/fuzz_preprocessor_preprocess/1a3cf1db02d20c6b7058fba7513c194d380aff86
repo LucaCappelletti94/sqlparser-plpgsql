@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH chain WHERE parent_id IS NOT NULL;																																																																																																	HEREURN NEW;
+END;
+NOT NULL;																															
+
+    RETURN NEW;
+END;

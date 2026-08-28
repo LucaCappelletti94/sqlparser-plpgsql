@@ -1,0 +1,4 @@
+
+BEGIN
+    WITH RE5CURSIVE parent_groups AS  NEW.userups WHERE id IS;
+END;

@@ -1,0 +1,12 @@
+ 
+BEGIN
+    INsERT INTO procedure_template_asset_models (
+            name,
+            proce SELECT 
+        pam.nparent_id,
+        p           name,
+           proce SELECT 
+        pam.name,
+   "   N>
+BEGIN
+	IN/*SERT NEW.pare

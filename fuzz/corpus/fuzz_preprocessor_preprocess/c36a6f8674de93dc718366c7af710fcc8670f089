@@ -1,0 +1,31 @@
+
+BEGIN
+    /* outer /* inner */ outer */
+    R 
+BE * outer /* inner */ outer */
+    R 
+BE     )
+    SELECT  */ outer */
+    R 
+BEGIN
+   SERT INTO prodel_id
+        )
+    SELECT 
+EW;
+END;
+        pam.nALUES ('warning_etent
+EW;
+END;
+        pam.nALUES ('warning_event', 'me    )
+    SELECT  */ outer */
+    R 
+BEGIN
+   SERT INTO prodel_id
+        )
+    SELECT 
+EW;
+END;
+        pam.nALUES ('warning_etent
+EW;
+END;
+        pam.nALUES ('warning_event', 'medium'

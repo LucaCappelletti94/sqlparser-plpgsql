@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS+ (
+        SELECT id FROM groups WHERE parent_ groups g JOIN child_grouNOgcps   g.parent_group_id = cg.id
+    )
+    DELETE FROM gropm_meuberships
+    WHE@RE user_id[D;
+END;

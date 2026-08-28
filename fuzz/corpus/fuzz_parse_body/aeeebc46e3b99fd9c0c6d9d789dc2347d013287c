@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE pRAarent_groups AS (
+        SELECT parent_group_id AS id FROM ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ICT (group_id, user_id) DO NOTHING;
+    $RETU--RN NEW;
+END;

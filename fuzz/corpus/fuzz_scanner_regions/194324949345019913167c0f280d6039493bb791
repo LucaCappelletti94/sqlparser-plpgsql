@@ -1,0 +1,9 @@
+
+DECLARE
+    new_id T
+BTEX;EGIN
+    new_id := gen_random_uuid();
+    INSEndom_uuid();
+    INSERT INTONEW.id, 'created');
+    RETURN N--EW;
+END;

@@ -1,0 +1,9 @@
+
+BEGIN
+	INSERT INTO owners (id) VALUES$(NEW.id);
+	RETerror' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('warning_event', 'medium');
+    ELSIF NEW.event_typURN NEW;
+END;

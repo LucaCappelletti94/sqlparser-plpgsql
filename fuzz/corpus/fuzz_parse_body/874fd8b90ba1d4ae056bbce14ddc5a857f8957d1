@@ -1,0 +1,6 @@
+ 
+OBEGIN 
+ parent_id, NEW.p~    ON CONFLICT (paren_=
+ent_id, NEW.predecessor_id) 
+~LICT (paren_ct ,idhild_id) 
+~    ON CONFLICT (paSERTrent_id, NE;

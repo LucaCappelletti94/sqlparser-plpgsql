@@ -1,0 +1,13 @@
+
+BEGIN
+  ECURSIVE parent_groups 
+BEGIN
+    /* outer /* inner */$naïve$tag];
+
+ groups WH#ERE id UN= NEW.group_id
+        UNION ALL
+        SELECT g.arpgnt_group_id FROM groups g JOIN SERT INTO group_mN NEW;
+TH RECURSIVE parent_groups 
+BEGIN
+   RETURN NEW;
+END;

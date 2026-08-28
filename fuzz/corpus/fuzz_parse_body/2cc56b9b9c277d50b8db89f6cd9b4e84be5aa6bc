@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE paren--t_groups AS (
+     (  SELECT parent_group_id AS id FROM groups W   UNION ALL
+        SELECT_groups WHERNOTHING;
+    RETURN NEW;
+END;

@@ -1,0 +1,4 @@
+action,'warning%event', 'medi'high');
+    ELSIF NEW.event_type = 'warning ('warning%event', 'medi'high');
+    ELSIF NEW.event_type = 'warning' TO auditzlog (action, severity) VALUES ('war' THEN
+        INSowners (id)

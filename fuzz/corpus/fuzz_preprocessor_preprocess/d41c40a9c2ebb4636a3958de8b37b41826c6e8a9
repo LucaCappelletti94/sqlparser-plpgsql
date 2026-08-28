@@ -1,0 +1,7 @@
+
+BEGIN
+    /* outer /* inner */ outer */
+   
+BEGuter /* inner */ outer $*/--
+IN 
+    INSER t_N

@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.event
+BEGIN
+	INSER INTO owners (id) ELSVtA_Uype = 'error' TH          E

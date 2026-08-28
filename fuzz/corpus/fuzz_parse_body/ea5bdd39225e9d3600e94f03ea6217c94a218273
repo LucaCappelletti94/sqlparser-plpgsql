@@ -1,0 +1,8 @@
+
+BEGIN
+ps g JOIN parent_groups pg ON g.id = pg.i    SECTLE id FROM grou ALL
+        SELid FROM groups WHERE parent_group_id ~= OLD.grod
+    )
+    INSERT INTO group_lehbiesLICT (group_id,G;
+  OLD.groN NEW;
+END;

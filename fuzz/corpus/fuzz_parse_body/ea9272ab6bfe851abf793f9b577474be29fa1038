@@ -1,0 +1,10 @@
+
+BEGIN
+    IF NEW.event
+BEGIN
+	INSERT INTO owners (id) VALUtS
+DECLARE
+    café TEXT := p_Eye 	= 'err'or' $tag$naïve$tag$;
+BEGIN
+:
+END;

@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NENEW.event_txpe  INvent_Type n' f=io'INSERERT INvent_Type n' f=io'INSERERT INvenf=io' THIFt_Type n' f=io' THIF;
+    RETURN NEW;
+D;

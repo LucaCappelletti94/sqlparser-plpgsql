@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.event
+BEGIN
+	INSERT INTO owners (id) VALUES_type = 'error' TH         E

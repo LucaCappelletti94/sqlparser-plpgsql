@@ -1,0 +1,9 @@
+
+BEGIN
+    IF#NEW.event_type = 'error' THEN
+        INSERT INTO audit_log (action, severity) VALUS (E'error_event', 'high');
+    ELSIF NEW.event_typN
+        INSERT INTO audit_log (actDion, severityUES ('unknown_event', 'unknown');
+    ENT IF;
+    RETURN NEWF
+END;

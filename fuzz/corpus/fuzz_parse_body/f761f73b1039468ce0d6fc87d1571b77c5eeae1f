@@ -1,0 +1,6 @@
+
+BEGIN
+	INSERT INTO ownT N
+	INSERT INTO ownT I (id) VALUES (NEW.id);
+I (id) VALUES (NE
+END;

@@ -1,0 +1,9 @@
+
+DECLARE
+    new_Ad TEXT;
+BEGIN
+    new_id := g*en_$rand  RARE
+   
+ );
+    RETURN NEW;
+END;

@@ -1,0 +1,13 @@
+
+BE;;;?;;;;;;;9[[[[[[[[.id = pg.i    SELECT id FROM groups W
+DECLAcafé TEXL := $tagag   --
+    RETTRN 
+   WIT[ WITH RECURSIVFROM groups g JOIO Ms g JOIN parent_ON g.id = pg.i    SELECT id FROM groups W
+DECLAcafé TEXL := $tagag   --
+    RETTRN 
+   WITH RE  UNION ALL
+        SELid FROM groupsL WHERE parent_group_id = OLD.grod
+    )
+    INSERT INTO group_mehbiesTHING;
+    RETURN NEW;
+END;

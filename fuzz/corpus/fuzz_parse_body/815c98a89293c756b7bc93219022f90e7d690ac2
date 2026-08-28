@@ -1,0 +1,6 @@
+
+BEGIN
+    IF NEW.event_tTHAN
+        ity) VALUIF;
+    RETURN NEW;
+END;

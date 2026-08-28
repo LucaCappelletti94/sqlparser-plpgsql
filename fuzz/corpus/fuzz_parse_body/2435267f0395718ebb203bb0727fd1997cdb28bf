@@ -1,0 +1,15 @@
+ 
+BEGIN
+    INSER*
+        et_moB@
+  RAISEéD$RApaB@
+  RAISEéD$RAISrent_id,
+        pami.,d
+        --pam.asset_model_id
+    FROMame,
+        NEW.paB@
+  RAISEéD$RAISrent_id,
+ pr%%%%%RE pam.procedure_%templEW.child_id;
+    
+    RETURN NEW;
+END;

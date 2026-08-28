@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECUrent_groups 
+BEGIN
+    /* history (id, todo_id, actio) 
+$EW.id, 'created')n   g JOIN SE VALU$ES (neESidactio) 
+$EW.id, 'created')n   VALU$ESNEW.event_tpe = 
+DSRT IERT`INTO tocdo_history:=id, t (neESid, NEW.id, 'created');
+ : NTO  RETUR/*odN NEW;gro
+ENo_

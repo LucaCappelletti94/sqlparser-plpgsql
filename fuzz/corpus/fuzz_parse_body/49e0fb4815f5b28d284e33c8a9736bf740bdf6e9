@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS 
+ (   ps);
+[   RETURN OLD;
+END;

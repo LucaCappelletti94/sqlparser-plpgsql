@@ -1,0 +1,28 @@
+
+BEGIN
+	IN`SERTRETURN NEW;
+E,ND;
+ECLA
+RE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+    RAETURN LEW;
+E5N
+	IN`SERT INTO id);
+	RETURN NEW;
+E,ND;
+DECLA
+RE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+    -- Grüße 
+BEGIF 
+    INSERT INTO parent_procedureRT INT 世界
+   (RAISTE NCEB'I O%', café;
+    RETURN NEW;
+O parent_S (NEW.parent=_id, NEW.successorEND;
+_id) 
+    ON CONFLICT (parent_id, child_id) DO NOTHI.G;
+  
+   2   RETURN NEW;

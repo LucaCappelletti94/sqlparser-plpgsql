@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_models   SELECT 
+        pam.name_templEW.child_id;
+    
+    RETURN NEW;
+END;

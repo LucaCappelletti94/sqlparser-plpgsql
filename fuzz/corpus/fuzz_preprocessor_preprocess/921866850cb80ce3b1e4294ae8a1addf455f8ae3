@@ -1,0 +1,9 @@
+
+BEGIN
+    IF NEW.event_typE = 'error' THEN
+   RTonS ('info_ent': 'low');
+    ELSE
+   nknown');
+    END IF;
+    Rrror' THEN
+END;

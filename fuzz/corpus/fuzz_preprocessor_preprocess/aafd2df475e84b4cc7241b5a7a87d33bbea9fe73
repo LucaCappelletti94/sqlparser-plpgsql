@@ -1,0 +1,11 @@
+
+BEGIN
+    IO audit_log (action, severity) VALUES ('info_event': 'low');
+    ELownALUES ('warning_event', 'medium');
+    ELSIF NEWaction, severity) VALUES ('info_event': 'low');
+    ELSE
+        ERT INTOLUES ('info_event': 'loerity) VALUES ('unknownALUES ('warning_event', 'medium');
+ LUES ('unknown_event', 'unknown');
+    END IF;
+    Rrror' THEN
+END;

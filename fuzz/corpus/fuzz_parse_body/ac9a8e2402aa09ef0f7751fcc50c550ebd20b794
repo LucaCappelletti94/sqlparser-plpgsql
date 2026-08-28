@@ -1,0 +1,6 @@
+ 
+BEGIN 
+  ;;;;sor_id) 
+ INTO parent_procedure_templates (parent_id, child_id)
+ N NEW;
+END;

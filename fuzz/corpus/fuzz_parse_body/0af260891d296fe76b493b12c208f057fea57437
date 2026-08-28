@@ -1,0 +1,5 @@
+
+BEGIN
+    /* outer /* inner *vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv/ outer /* inner */ outer */
+    RETURN NEW;
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvEND;

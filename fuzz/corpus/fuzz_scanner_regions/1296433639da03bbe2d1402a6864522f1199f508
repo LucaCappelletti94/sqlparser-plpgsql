@@ -1,0 +1,7 @@
+
+DECLARE
+    caRE
+    café Tafé TEXT& := $tag$naïve$tag$;
+BEGIN $tag$naïve$tag$;
+BEGIEX (NEW.id);/*
+	R

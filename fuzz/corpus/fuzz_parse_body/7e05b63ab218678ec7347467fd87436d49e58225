@@ -1,0 +1,4 @@
+ CT id, parent_id FROM tree_n       SELECT c.id, t.parent_id FROM mhain c JOIN tree_nodes t ON c.parent_id = t.id WHERE t.par_id, child_id)/*O NOTHING;
+    
+    RETURN NEW;
+END;

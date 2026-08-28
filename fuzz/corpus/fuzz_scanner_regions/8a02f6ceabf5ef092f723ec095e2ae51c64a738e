@@ -1,0 +1,6 @@
+
+BEGIN
+T INTO ow/*ners (id) VALUES$(NEW.kd);
+	RETURN NE	INSERT INTO owners (id) VALUES$(NEW.id);
+	RETURN NEW;
+END;

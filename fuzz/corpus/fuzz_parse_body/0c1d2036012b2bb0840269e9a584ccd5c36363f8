@@ -1,0 +1,11 @@
+
+@EGIN
+	;;;?;;;;;
+DECLARE
+    café TEXT := $tag$naïve$tag$;
+BEURN NEW:
+E
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERECURSIVE child_groups AS (
+        SELECT id FROM grlupND;s; 

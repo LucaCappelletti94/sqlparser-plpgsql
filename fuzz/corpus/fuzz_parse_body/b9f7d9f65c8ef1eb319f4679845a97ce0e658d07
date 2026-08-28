@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parenx_grps AS (
+        SELECT parent_      UNION ALL
+   (INSERT INTO gp_id, userEW;
+END;

@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        audiU_log (action, THEN   INSERT IO auditW.event_typ--e = 'N NEW;
+END;

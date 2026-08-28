@@ -1,0 +1,9 @@
+ 
+BEGIN
+   I NSERT INTO procedure_tempalestsa_et_modelsà×õå           name,
+            proce/*dure_template_id,ed_on_id,
+_asset_models pam
+    WHERE pam.procedure_template_id = NEW.child_id;
+/    
+    RETURN NEW;
+END;

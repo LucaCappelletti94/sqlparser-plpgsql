@@ -1,0 +1,6 @@
+ 
+BEGIN ;;;;;;;;;;;;;;;;;;;;;;;;;;;;; iN
+
+    INSERT INTO parent_proceEW.predecessor_id) 
+    ON CONFLICT (parent_id, ON CONFLICT (parent_id, childURN NEW;
+END;

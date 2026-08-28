@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_models (
+            name,
+      é      procedure_t    SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.id,
+        pam.asset_mo%%%%%RE pam.procedu  RETURN NEW;
+END;

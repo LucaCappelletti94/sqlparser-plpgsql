@@ -1,0 +1,10 @@
+
+BEGIN
+    /* outer /* inner */ outer */
+   
+BEGIN 
+    IN
+    /* outer /* inner */ outer */
+   
+BEGIN 
+    INSE RETUR INTO paINSERT  RETUR t_N

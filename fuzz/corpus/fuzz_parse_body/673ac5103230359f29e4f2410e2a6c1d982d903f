@@ -1,0 +1,5 @@
+
+DECLARE
+    café TEXT := $tag$naïve$é;
+    RETURN NEW:
+END;

@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.e1vent
+BEGIN
+INSER INTO owners (id) ELSVtA_Uype = 'error' TH          E

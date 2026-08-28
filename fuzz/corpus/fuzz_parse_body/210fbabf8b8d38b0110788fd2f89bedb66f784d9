@@ -1,0 +1,3 @@
+NION ALL
+        SELECT g.id FROM groups g JOIN child_groups :=cg ON gttttttttttttttbtttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+END;

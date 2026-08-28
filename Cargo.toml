@@ -1,0 +1,30 @@
+[package]
+name = "sqlparser-plpgsql"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.88"
+license = "MIT"
+description = "Lexical scanner, preprocessor, and body parser for PL/pgSQL function bodies."
+
+[dependencies]
+sqlparser = { git = "https://github.com/apache/datafusion-sqlparser-rs", branch = "main", default-features = false }
+thiserror = { version = "2.0", default-features = false }
+
+[features]
+default = ["std"]
+std = ["sqlparser/std", "sqlparser/recursive-protection", "thiserror/std"]
+body-parse = []
+
+[dev-dependencies]
+proptest = "1"
+criterion = { version = "0.5", features = ["html_reports"] }
+
+[[bench]]
+name = "scan"
+harness = false
+
+[lints.rust]
+missing_docs = "deny"
+
+[lints.clippy]
+pedantic = { level = "deny", priority = -1 }

@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  fuzz-corpus:
+    name: Fuzz corpus regression
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install nightly
+        run: rustup toolchain install nightly --profile minimal
+
+      - uses: taiki-e/install-action@v2
+        with:
+          tool: cargo-fuzz
+
+      # -runs=0 executes every stored input once and exits. Fuzzing for a fixed
+      # time instead would let an unrelated new find turn a pull request red.
+      - name: Replay corpora
+        run: |
+          cargo +nightly fuzz run fuzz_scanner_regions \
+            fuzz/corpus/fuzz_scanner_regions/ -- -runs=0
+          cargo +nightly fuzz run fuzz_preprocessor_preprocess \
+            fuzz/corpus/fuzz_preprocessor_preprocess/ -- -runs=0
+          cargo +nightly fuzz run fuzz_parse_body \
+            fuzz/corpus/fuzz_parse_body/ -- -runs=0

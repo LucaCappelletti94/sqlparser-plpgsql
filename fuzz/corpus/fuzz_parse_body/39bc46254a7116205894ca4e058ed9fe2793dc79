@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_models (
+            namset_model_id
+        )
+    SELECT 
+        pam.name,
+        NEW.parent_i    
+    RETURN NEW;
+END;

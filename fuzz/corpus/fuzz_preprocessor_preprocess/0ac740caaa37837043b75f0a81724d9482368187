@@ -1,0 +1,24 @@
+$  /* outer /* inner */ outer */
+
+BEGIN 
+    IN
+    /* outer /* inner */ outer */
+   
+BEGIN   
+BEGIN 
+    IN
+   */
+    /* outer /* in/* outer /* inner */ outer */
+   
+BEGIN 
+    IVSERT  RETUR INTO paINzERT  RBE/XXX  /* outer /* inner */ outer */
+   
+BEGIN 
+ner */ outer */
+   
+    INSERT er /* innerag];
+
+  /* outer /* inner0 */ outer */
+   
+BEGIN 
+    ITUR INTO paINzERT  RBE RETUR4$--

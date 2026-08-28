@@ -1,0 +1,12 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+       iom, severity) VALUES ('error_event', 'high');
+    ELSIF-NEW.event_type = 'warning' THEN
+        INSERT INTO audit_log (actio   ELSIF NEW.event_typ ELSIF NEW.event_type = 'info' THEN
+        INSERT INTO audit_log (action, sfo_event', 'low');
+    ELSE
+        INSERT INTO audit_log (acactio-, severity) VALUES ('info_event',, 'unknown');
+    END IF;
+    RETURN NEW;
+END;

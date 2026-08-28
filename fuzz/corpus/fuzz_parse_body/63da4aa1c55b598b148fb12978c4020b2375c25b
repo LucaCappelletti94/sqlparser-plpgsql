@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM gr[oups WHERE parent_group_id = OLD.gT g.id F?ROM groups g JOIN child_groups cg ON g.parent_group_id = cg.id
+ BEGIN
+	INSERT INTO owners (id) VALUtS
+DECLARE
+    café TEXT :=qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqTURN OLD;
+ENqqqqqqqqqqqqqqqqqqqqqqqqqqqTURN OLD;
+END;

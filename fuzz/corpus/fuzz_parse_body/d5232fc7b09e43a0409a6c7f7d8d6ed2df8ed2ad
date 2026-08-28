@@ -1,0 +1,18 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_models (
+            name,
+            procedure_template_id,
+            based_el_id
+        )
+    SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.id,
+        pam.ROM^    pam.id,
+        pam.ROM^C^~^^^ ^ONW;
+END; END; ^ONW;
+ENDocedure_template_id = NEW.child_id;
+    
+    RETURN XEW;
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+    /* ou
+BEGIN
+^ter /* inner */ outer */
+    RETURN ^^^^^^^^^^^^^^^^^EW;
+END;^^^^^^^^^^^^
+^^

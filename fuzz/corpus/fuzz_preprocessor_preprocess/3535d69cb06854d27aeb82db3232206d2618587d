@@ -1,0 +1,5 @@
+
+BEGIN
+	INSERT IN(NEW.id);
+	RETURW;
+END;

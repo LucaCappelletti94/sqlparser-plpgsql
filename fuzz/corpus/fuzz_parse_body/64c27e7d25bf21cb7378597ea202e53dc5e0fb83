@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, par%%EW.id, parent_id FROM chain WHERE parent_diIS  NOT=NULL;
+
+    RETURN NEW;
+END;

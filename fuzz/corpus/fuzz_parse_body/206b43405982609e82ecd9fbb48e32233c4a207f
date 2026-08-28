@@ -1,0 +1,5 @@
+
+BEGIN
+   t_group_id AS id FROM^^^^^^^ CONFLICT (group_id, user_id) DO NOTHING;
+    RETURN NEW;
+END;

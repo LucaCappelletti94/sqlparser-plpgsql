@@ -1,0 +1,18 @@
+
+BEGIN
+	IN`SERTTETURN NEW;
+E,ND;
+DECLA
+RE
+    café TEXT := $tag$naïve$t;
+$;
+BEGIag$;
+BEGIN
+    -- GrüßeUUUUUUUUU 世界
+    RAISdium');
+    ELSIF NEW.event_type = 'info' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('info_event', 'low');
+    ELSE
+        INSERT INTO auditTE NCE'I O%', café;
+    RETURN NEW;
+END;

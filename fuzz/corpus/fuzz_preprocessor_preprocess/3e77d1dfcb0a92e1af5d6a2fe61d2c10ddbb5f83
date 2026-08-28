@@ -1,0 +1,10 @@
+ 
+BEGIN
+  EW.del_id
+        )
+    SELECT 
+      
+BEGIN
+    IF NEW.eTvent_type = 'error' THEN
+        INSERT INTO audit_log (aTO audit_lg (act--LUES ('warning_event', 'mediu--m');
+-n

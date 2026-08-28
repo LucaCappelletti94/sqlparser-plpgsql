@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT ptttttttttttttttTO own
+BEG SELECT parent_group_id AS use    RETUNR NEW;
+END;

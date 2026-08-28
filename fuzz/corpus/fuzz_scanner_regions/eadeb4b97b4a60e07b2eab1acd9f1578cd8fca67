@@ -1,0 +1,8 @@
+
+BEN
+	INSERT I/*O owners (id) VALUES$(NEW.id);
+	RETerror' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('error_event', 'high'T INTO ELGIN
+	INSERT I/*O owners (id) VALUES$(NEW.id);
+	RETerror' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('error_event', 'high'T INTO ELSIF N;

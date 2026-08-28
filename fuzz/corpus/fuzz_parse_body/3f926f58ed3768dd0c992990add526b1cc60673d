@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH ps AS (
+        SELECT parent_group_id AS _group_id FROM groupsg  JOIN parent_grOTHING;
+    RETURN NEW;@END;

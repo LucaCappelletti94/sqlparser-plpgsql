@@ -1,0 +1,9 @@
+
+@EGIN
+RN LENEW;ENDE
+   
+    R NEW;ENDE
+   
+    RAISE ISE NOTICE '%', <café;
+  
+!!  !!!

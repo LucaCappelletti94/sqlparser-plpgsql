@@ -1,0 +1,6 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT INTK audit_log (everity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+        INSE (action, severity) VALUES ('info_event', 'lND;

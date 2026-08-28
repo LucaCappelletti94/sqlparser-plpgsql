@@ -1,0 +1,5 @@
+
+BEGIN
+TALUES$(NEW.i9);
+	NSERT INTO$owners (id) VALUES$W.' ;
+%

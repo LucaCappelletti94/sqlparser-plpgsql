@@ -1,0 +1,8 @@
+
+DECLARE
+    café TEXT := $tag$naïve$tag$;
+IG
+B EN   -- Grüße 世界
+    RAIS0E NOTICE '%', café;
+    RETURN NEW:
+END;

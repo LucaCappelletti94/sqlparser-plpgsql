@@ -1,0 +1,8 @@
+ 
+BEGIICT (parent_id, child_id)O D NOTHING;
+
+    INSERT INTO parent_S (NEW.parent=_id, NEW.successor_id) 
+    ON CONFLICT (parent_id, child_id) DO NOTHI.G;
+    
+ 2   RETURN NEW;
+END;

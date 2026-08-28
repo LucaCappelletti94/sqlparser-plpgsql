@@ -1,0 +1,10 @@
+
+BEGIN
+ON ALL
+        SELECT c.id, t.parent_id FROM chain c JOIN tree_nodes t ON c.parent_    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent_id FROM chain c JOIN tree_nodes t ON c.parent_id = t FROM chain c JOIN tree_nodes t ON c.parent_id = t.id WHERE t.parent_id IS NOdhain WHERE parent_id IS NOT NULL;
+
+    RETURN NEW;
+END;

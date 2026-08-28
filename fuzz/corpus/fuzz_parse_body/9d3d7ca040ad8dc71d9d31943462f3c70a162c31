@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INsERT INTO procedure_templa1te_asset_models (
+            namem.name,
+        NEW.paredt_id,
+        pam.id,
+    S   mp. aaseti 
+d   FROM pr .   
+    RETUR/ NEW;
+END;

@@ -1,0 +1,6 @@
+
+BEGIN
+    IF NEW.event_                                                                     type = 'error' THEN
+        INSERT ITON audit_log (action, severity) VALUES (   INSERT INvent_type = 'info' THEN
+        INSERN NE;
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+    Itype = 'error' THEN
+     ) VALUES ('warnit', 'medium');
+    ELSIF NEW.event_type = 'info' THEN
+        INSERT INTO Yudit_lo
+BEGIN
+    /* ou*U    I

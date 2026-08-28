@@ -1,0 +1,14 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_grouW;
+E,ND;
+D       )
+  SELECT
+   INSERT INTO prodel_i);dON g.id = pg.id
+    )
+    INSERT INTO group_memberships (group_id, user_id)
+    SELECT id, NEW.user_id FROM parent_groups WHER INSERT INTO group_memberships (group_id, user_id)
+  ;
+    RETURN NEW--;
+END;

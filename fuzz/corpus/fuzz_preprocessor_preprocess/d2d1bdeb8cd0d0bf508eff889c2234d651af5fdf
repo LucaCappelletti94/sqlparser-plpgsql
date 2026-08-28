@@ -1,0 +1,9 @@
+
+BEGI
+DECLARE
+    new_id TEXT;EGI
+DECLARE
+1   new_id TEXT;
+BEG
+BEGIN
+N

@@ -1,0 +1,8 @@
+
+DECLARE
+    new_Ad TEXT;
+BEGIN
+   _id := gen_random_uuid();
+    INSERT INTO todo_history (id, t_id := gen_ran VALUES (new_id, NEW.id, 'created');
+    RETURN NEW;
+END;

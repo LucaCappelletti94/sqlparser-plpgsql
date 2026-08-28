@@ -1,0 +1,16 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+       EW.event_type = 'info' THEN
+        INSERT INTO auditl_tttog (action, severity) VALUES ('info_e);
+    ELSIF NEW.even;
+
+    INSERT INTO parent_procedure_~emplates (parent_id, child_id)
+    VALUES (NEW.parent_id, w');
+    ELSE
+        INSERT INTO audit_log (action, sev*O NOTHING;
+    
+    RETevenild_id)/*O NOTHING;
+    
+    RETURNURN NEW;
+END;

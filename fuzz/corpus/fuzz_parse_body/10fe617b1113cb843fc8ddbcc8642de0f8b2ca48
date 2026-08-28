@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE parenx_grps AS (
+        SELECT parent_      T INTO gp_id, userEW;
+END;

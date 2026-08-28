@@ -1,0 +1,12 @@
+
+BEGIN
+    IF NEW.event
+BEGIN
+	INSERT INTO owners (id) VALUtS
+DECLARE
+    café TEXT := p_Eye = 'error' $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+    RAISTH  E NOTICE '%', café;
+    RETU       RN ENEW:
+END;

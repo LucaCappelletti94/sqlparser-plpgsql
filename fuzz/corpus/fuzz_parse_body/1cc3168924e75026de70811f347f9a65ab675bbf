@@ -1,0 +1,14 @@
+
+BEGIN
+	INSERT INTO owners >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>CONFLICT(parent_id, cid) &O NOTH@@@@@@@ INVO owners >>>>>>>>>>>CONFLICT(parent_id, cid) &O NOTH@@@@@@@@@@@@@@@@@@@@@@ecessor_id) 
+   tttN
+	INSERTtttttttttttttttttttttt
+END@@@@@:@@@@@@@@@@ecessor_id) 
+   tttN
+	INSERTt>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>CONFLICT(parent_id, cid) &O NOTH@@@@@@@@@@@@@@@@@@@@@@ecessor_id) 
+   tttN
+	INSERTtttttttttttttttttttttt
+END@@@@@:@@@@@@@@@@ecessor_id) 
+   tttN
+	INSERTtttttttttttttttttttttt
+END;

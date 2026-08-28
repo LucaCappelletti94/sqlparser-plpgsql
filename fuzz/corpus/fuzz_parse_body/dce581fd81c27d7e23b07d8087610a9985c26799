@@ -1,0 +1,6 @@
+
+BEGIN
+   fé TEXT := p_Eye = 'error' $taa:g$n:::   -- Grüße 世界
+   .RAISTH  E NOTICE '%', ca]é;
+    RETU       RN ENEW:
+END;

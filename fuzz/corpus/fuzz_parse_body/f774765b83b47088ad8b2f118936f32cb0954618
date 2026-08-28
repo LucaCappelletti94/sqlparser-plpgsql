@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH roups pg ON,g.id = pg.id
+ )
+    ISERT I ///////////////////////////////////// NEW;
+END;

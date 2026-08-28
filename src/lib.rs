@@ -1,0 +1,18 @@
+//! Lexical scanner, preprocessor, and body parser for PL/pgSQL function bodies.
+#![no_std]
+extern crate alloc;
+
+pub mod context;
+pub mod error;
+pub mod preprocessor;
+pub mod scanner;
+
+#[cfg(feature = "body-parse")]
+pub mod body;
+pub use context::{PlPgSqlContext, UuidFirstUse, VariableBinding, VariableDeclaration};
+pub use error::Error;
+pub use preprocessor::PlPgSqlPreprocessor;
+pub use scanner::{Region, Scanner};
+
+#[cfg(feature = "body-parse")]
+pub use body::parse_body;

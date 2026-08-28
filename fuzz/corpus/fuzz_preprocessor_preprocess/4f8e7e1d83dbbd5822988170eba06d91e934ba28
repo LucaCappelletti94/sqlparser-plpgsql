@@ -1,0 +1,10 @@
+
+BEGIN outer 
+/BEGIN
+    IF T INTO audit_log (action, severity) VALUES)"VALUES ('unknown_event', 'unknown');
+    END IF;
+    RETURN NEW;
+END;ent', 'unknown');
+    END IF;
+    R/*ETURN NEW;
+END;

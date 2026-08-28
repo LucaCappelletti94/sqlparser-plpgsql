@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT p[a_idS (
+   RETUNR NSELECid AS use  T paren(t_group_id AS use    RETUNR NEW;
+END;

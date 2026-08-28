@@ -1,0 +1,6 @@
+
+DECLARE
+    café TTIEXT := $t
+BEGIN
+   /*E
+$;

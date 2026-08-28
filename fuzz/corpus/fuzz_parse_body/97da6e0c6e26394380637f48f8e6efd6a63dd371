@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id != W.id, parent_id FROM chainLL;
+
+    RETURN NEW;
+END;

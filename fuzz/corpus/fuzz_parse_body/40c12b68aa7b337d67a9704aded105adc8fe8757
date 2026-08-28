@@ -1,0 +1,7 @@
+3333333333333333333333333333333333333333333333333333333333333333@@@@@@@@@@@@@@@nt_pror_deecutemplates *pen_traid, child_id)
+    @@33333333333333333333333333333333333333333333333333333333333333333333333333333333333@@@@@@@@@@@@@@@@@@@@@@@@@@@@arent_id, NEW.predecessor_id) 
+    ON CONFL_id)
+    VALUES (NEW.parent_id, NEW.predeceN
+ssor_id) 
+     NEW;
+ENE;

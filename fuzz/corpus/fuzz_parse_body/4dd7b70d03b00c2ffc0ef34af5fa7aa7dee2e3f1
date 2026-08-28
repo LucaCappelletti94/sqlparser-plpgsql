@@ -1,0 +1,8 @@
+
+9DECLARE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+ ~  RAISE NOTcafé;
+    RETURN NEW;
+END;

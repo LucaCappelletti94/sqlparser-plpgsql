@@ -1,0 +1,12 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE parent_group_id = OLD.group_id
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT 
+        UNION ALL
+        SELid FROM groups WHERE parent_group_id = OLD.group_id
+        UNION ALL
+       ECT  SEgL

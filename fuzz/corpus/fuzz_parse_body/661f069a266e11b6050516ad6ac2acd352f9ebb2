@@ -1,0 +1,11 @@
+
+BEGIN
+    WITH RECURSIVFROIN parent_groups pg ON g.id = pg.id
+ mehbiesrmps (group_id, uer_id)
+    SELECsrmps (group_id, uer_id)
+    SELECT id, 					   )TO group_mehbie (group_id, uer_id)
+    SELECL id, 								[[[[[[[[{[[[[[[[[[[														NEW.user_idE child_gro}ps AS (
+        SELEC uer_id)
+    SELECT id, 					   )
+    INS		ERT INTO gs WHER NEW;
+END;

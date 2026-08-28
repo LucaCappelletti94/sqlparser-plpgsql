@@ -1,0 +1,3 @@
+
+BEGIN
+    o* outer /* inner */ outer FROM groups WHERE paND;

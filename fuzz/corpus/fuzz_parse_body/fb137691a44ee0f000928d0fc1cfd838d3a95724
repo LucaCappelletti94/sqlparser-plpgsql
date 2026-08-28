@@ -1,0 +1,11 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_group_idSERT INTO todo_history (id, todo_id
+   
+    RAI   QETURN NEW;
+END;tttttttttttttttttttttttttttttt  new_Ad TEXT;
+BEGId IS NOT NULL
+    ON CONFLICT (gro))))))))))))))))))))))))))))))))))))))))))))))))))))))up_id, user_id) DO NOTHING;
+    RETURN NEW;
+END;

@@ -1,0 +1,25 @@
+
+BEGIN
+	IN`SERTRETURN NEW;
+E,ND;
+DECLA
+RE
+    café TEXT := $$tag$;
+BEGIN
+    -- Grüße 世界
+é TEXT := $tagGIN
+    -- Grüße 世界
+    RAISN  NCE'I O%', café;ta_$naʯve$tag$;
+BEGI0N
+    -- Grüße 世界
+é TEXT := $tagGIN
+    -- Grüße 世界
+    RAIST NCE'I O%', café;
+ A
+RE
+    café TEXT := $ta_$naʯve$tag$;
+BEGIN
+    -- Grüße 世界
+é TEXGrüße 世界
+    RAISTE NCE'I    RETURN NEW;
+END;

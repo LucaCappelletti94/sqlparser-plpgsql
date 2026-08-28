@@ -1,0 +1,21 @@
+
+BEGIN
+    IF NEW.event
+BEGIN
+	INSERT INTO owneps (id) VALUtS
+DECLARE
+    café TEXs (id) VALUtS
+DECLARE
+    café TEXT := p_Eye = 'error' $tag$naïve$tag$;
+BEGIN
+ :::::::::   -- Grüße 世界
+    RAISTH  E = 'error' $tag$naïve$tag$;
+BEGIN
+ :::::::::   -- Grüße 世界
+    NOTICE '%', café;
+  T := p_Eye = 'error' $tag$naïve$tag$;
+BEGIN
+ :::::::::   -- Grüße 世界
+    RAISTH  E NOTICE '%', café;
+    RETU       RN ENEW:
+EN/*D;

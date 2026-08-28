@@ -1,0 +1,5 @@
+
+BEGIN
+TALUES$(NEW.i9);
+	NSER$owners (id) VALUES$W.' ;
+%

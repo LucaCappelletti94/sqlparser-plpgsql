@@ -1,0 +1,7 @@
+ 
+BEGIN 
+ }}parent_id, NEW.predecessor_id) 
+~    ON CONFLICT (parent_kd, child_id) DO NOTHING;
+
+    INSERT INTO parent_pro}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+    VALUES (Nnt_procedure_~emplaterEW.parent_id, Nparent_i$, child_id)/*O NOTHIN

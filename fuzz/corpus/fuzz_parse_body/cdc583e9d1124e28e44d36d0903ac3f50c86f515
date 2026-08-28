@@ -1,0 +1,12 @@
+ 
+22222222222222'''''''''''''''''
+BEGIN
+	INSERT INTO own
+BEGIN
+    /* outer /* inner */ outer */
+    RETURN NEW;
+END;ttttttttttttttttttttttttttttttttNSERT INTO own
+BEGIN
+    /* outer /* inner */ outer */
+    RETURN' NEW;
+END;tttttttttttttttttttttttttttttttttttttttttttttttttttt''''''''''''''''''''''''''''''''''''''''''''''''2222222222ttttttttttttttt222222222222222222222222222222tttt2t

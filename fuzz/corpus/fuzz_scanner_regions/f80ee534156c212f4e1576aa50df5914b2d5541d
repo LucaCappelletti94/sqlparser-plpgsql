@@ -1,0 +1,5 @@
+
+B NEW.e@'nht_ty`e =A$ 'error' THEN
+        INS' ('nfo' ', 'unknown');
+    END IF;
+    RETURN NE;

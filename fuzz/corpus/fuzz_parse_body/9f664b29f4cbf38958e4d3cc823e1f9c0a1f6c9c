@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groupscg ON g.parent_group_ihild_groups);
+    RETURN OLD;
+END;

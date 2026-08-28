@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT ic.parent_id = t.id WHERE t.parent_id IS NOT NULL
+    )
+ch/in WHERE parent_id IS NOT N   RETURN NEW;
+END;

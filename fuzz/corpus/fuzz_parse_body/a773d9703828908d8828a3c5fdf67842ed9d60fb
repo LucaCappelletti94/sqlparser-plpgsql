@@ -1,0 +1,4 @@
+ 
+BEGIN 
+    INSERT INTO parent_procedure_templ   ;
+END;

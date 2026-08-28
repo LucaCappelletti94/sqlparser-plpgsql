@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH ild_group AS (
+        S_id = cg.idRETURN OLD;
+END;

@@ -1,0 +1,6 @@
+
+BEGIF NEW.event_type = 'error' THE ('error_event', 'high'nt_type = 'warning' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('warning_event', 'medium')VALUES ('unknown_event', 'unknown');
+    END IF;
+    RETURE NEW;
+END;

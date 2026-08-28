@@ -1,0 +1,25 @@
+ 
+BEGIN
+  ERT IANTO procedu      based_on_id,
+            atiet_model_id
+ ""       )
+    SELECT 
+        pam.name,
+  ,     NEW.parent_id,
+        pam.id,
+        pa9.asset_m_on_id,
+            atiet_model_id
+ ""       )
+    SELECT 
+        pam.name,
+  ,     NEW.parent_id,
+        pam.id,
+        pa9.asset_model_id
+ ate_asset_models pam
+    WHE SELECT 
+    INTO owners (id) VALUES (NEW.Nodel_id
+ ate_asset_models pam
+    WHE SELECT 
+    INTO owners (id) VALUES (NEW.N
+	IN`SE    RETURN NEW;
+END;

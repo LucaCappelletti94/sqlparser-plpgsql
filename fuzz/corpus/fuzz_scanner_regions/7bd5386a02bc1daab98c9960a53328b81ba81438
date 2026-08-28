@@ -1,0 +1,6 @@
+
+BEGIN
+    /* outer 
+BEGIN
+    /* outer /* inner */ ou
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE chain AS_i
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+     
+DSERT INTO ?????????ES (new_id, NEW.id5 'created');
+EW;
+END;

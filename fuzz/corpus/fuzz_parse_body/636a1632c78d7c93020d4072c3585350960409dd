@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INsERT INTO procedure_tecplate_asset_moIN
+    WITH RECURSIVE ocedure_templaprocedure_template_id,
+            b
+        )
+    SELECT 
+        pam.name,
+ pam.d-- NEW.child_id;N NEW;
+END;

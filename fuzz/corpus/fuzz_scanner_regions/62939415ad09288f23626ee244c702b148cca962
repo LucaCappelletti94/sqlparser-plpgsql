@@ -1,0 +1,12 @@
+
+BEGI NEW.event_type = 'error' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('e?ror_event', 'high');
+    ELSIF NEW.event_type = 'warng' THEN
+     G/   INSERT INTO audit_log (action, severity) VALUES ('warning_typ[e = 'error' THEN
+        INSERT INTOevent', 'mediu
+/* inner */
+BEGIN
+	'm);
+    ELSIF t_log (!ction, severity) VALUIF;
+    RETURN NEW;
+END;

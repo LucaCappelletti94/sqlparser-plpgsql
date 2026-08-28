@@ -1,0 +1,12 @@
+BEGIN
+  REGIN
+  /**/
+    RETURN EW;N/DE
+;
+ /* inner */ outer /**/
+    RETURN EW;NDE
+;
+
+CEG = 'e/v
+SEé;
+END

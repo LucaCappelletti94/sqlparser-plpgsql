@@ -1,0 +1,14 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_models (
+            name,
+            procedure_template_id,
+            based_on_id,
+            asset_model_id
+        )
+    SELECT 
+        pam.name,
+      template_id = NEW.chil-d_id;
+    
+    RETURN NEW;
+END;

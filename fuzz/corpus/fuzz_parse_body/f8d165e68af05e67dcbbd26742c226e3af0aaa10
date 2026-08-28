@@ -1,0 +1,11 @@
+N
+    IF NEW.
+BEGI!N
+    IF NEW.event_type = 'erro;
+r' THEN
+       EW.event_
+B$$EGINone''''''''''''''''['''''''''''''''''''''''''''''''''r */aïtype = 'ijfo' THEN
+       INSE INSERT INTO auditl'''''''''''''''''''-'''''''''''''''['''''''''''''''''''''''''''''''''''''''''''''''''''''low');
+ve$t
+B$$EGINoner */aïve$t    ELSE
+        INRERT INTO audit_log (aacti

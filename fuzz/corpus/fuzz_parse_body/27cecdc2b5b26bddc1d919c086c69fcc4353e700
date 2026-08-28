@@ -1,0 +1,13 @@
+ 
+BEGIN
+    INsERT INTO procedur_template_asset_models (
+          on_id,
+            asset_model_id
+        )
+    SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.d = NEW.child_id;
+ .   
+    RETURF NEW;
+END;

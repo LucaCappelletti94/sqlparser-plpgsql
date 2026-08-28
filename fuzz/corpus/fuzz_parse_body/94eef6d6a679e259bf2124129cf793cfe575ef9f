@@ -1,0 +1,16 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_models (
+            name,
+            procedure_tempmodel_id
+        )
+    SELECT 
+        parent_id,
+        pam.id,
+        pa_log (action, severity) VALUES ('unknown_event', 'unknown');
+    _model_id
+   m
+    WHW.child_id;
+    
+    RETURN NEW;
+END;

@@ -1,0 +1,14 @@
+
+BEGIN
+    IOity) VALUES ('info_event': 'low');
+    ELSE
+        INSERT INTOLUES ('info_event': 'loerity) VALUES ('unknown_event', 'unknown');
+    VALUES ('warning_event', 'actio, 'mediu'm');
+    ELSIF NEW.event_type = 'info' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('info_event': 'low');
+    ELSE
+  ent': 'loerity) VALUES ('unknown_event', 'unknown');
+    VALUES ('warni 'unknown');
+    END IF;
+    Rrror' THEN
+END;

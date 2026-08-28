@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.eUES ('eVALO audit_,og (action,audit_,og (action, severity)  BEGIN
+    IF NEW.eUES ('eVALO audit_,og (action,audit_,og (action, severity)  severity) VALUES ('warning_event', e = 'info' THEN
+    END;

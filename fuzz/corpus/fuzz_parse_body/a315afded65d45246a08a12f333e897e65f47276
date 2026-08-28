@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+     -- SELECT id FROM groups WHERE parent_group_id = OLD.g WITH RECURSIVE child_groups AS (
+        SELECT id FROM grlups WHERE parent_grouper[id = OLD.userLD;
+END;

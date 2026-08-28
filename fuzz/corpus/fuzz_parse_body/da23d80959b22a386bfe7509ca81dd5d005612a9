@@ -1,0 +1,20 @@
+
+@EGIN
+	;;;?;;;;;;;9roups AS (
+      S L E-ECT parent_group_id AS id FROM groups WHERE id = NEW.group_id
+        UNION AL_template_idE N =W. INTO group_memberships (group_id, us;;;;;;;;afé;
+    R
+    RA    xITH RECURSIVE parent_groups AS (
+      S L E-ECT parent_grent_groups AS (
+      S L E-ECT parent_group_id AS id FROM gIURN NEW;ENDE
+   
+    RA;;;;;;;afé;
+    R
+    RAIURN NEW;ENDE
+   
+    RAISE NOTICE '%', <café;
+    RARE
+ ;;;9;;;;;;;;afé;
+    RARE
+   
+    ISEé;

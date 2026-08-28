@@ -1,0 +1,12 @@
+ 
+BEGIN
+  ERT IANTO procedu      based_on_id,
+            asset_model_id
+ ""       )
+    SELECT 
+        pam.name,
+  ,     NEW._model_id
+ ate_asset_models pam
+    WHERE pam.proce INTO owners (id) VALUES (NEW.N
+	IN`SE    RETURN NEW;
+END;

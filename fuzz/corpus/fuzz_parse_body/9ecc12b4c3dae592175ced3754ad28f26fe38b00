@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE parend_groups AS (
+     SELECT p[arent_group_idS (
+        S (
+    NSELECT pargno_UNR NEW;
+END;

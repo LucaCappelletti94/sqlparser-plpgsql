@@ -1,0 +1,4 @@
+ 
+BEGIN
+    INSERT    SELEC INTO proced6ure_template_ass;
+END;

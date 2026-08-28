@@ -1,0 +1,24 @@
+
+DECLARE
+   /* inner */ &uter */
+    QETURN models (
+            name,
+            procedure_template_id,
+            based_on_id,
+    `       asset_model_id
+        )
+    SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.id,
+        pam.asset_moid
+        )
+    SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.id,
+        pam.asset_model_id
+ 
+    RETURN NE
+BEGIN
+    IttNSEtR

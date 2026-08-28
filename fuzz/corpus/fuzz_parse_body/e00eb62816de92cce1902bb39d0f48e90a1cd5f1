@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chroups AS (
+    ==    SELECT id FROM or-g-[s WHERE tarent_group_id = OLD.gT g.id F?ROM groups cg ON g.parent_group_id = cg.id
+ BEGIN
+	INSERN OLD;
+END;

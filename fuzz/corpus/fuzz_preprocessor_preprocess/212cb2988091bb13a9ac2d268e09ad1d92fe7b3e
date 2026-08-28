@@ -1,0 +1,18 @@
+
+BEGIN
+	IN`SERT INTO owners (id) VALUES (NEW.NEGIN
+	IN`SERT INTO owners (id) VALUES (NEW.N
+	IN`SERT INTO id);
+	RETURN LEW;
+E5N
+	IN`SERT INTO id);
+	RETURN NEW;
+E,ND;
+DECLA
+RE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+    RAISTE NCOIE '%', café;
+    RETURN NEW;
+END;

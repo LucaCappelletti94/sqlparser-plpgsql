@@ -1,0 +1,6 @@
+Cĝrent_procedNEW.parent=_id, NEW.successor"""""""""""""""""""""""""""""""""""""""""""""""" 
+BEGIN 
+    INSERT INTO parent_procedure_templates (JJJJJ"""""""""""""JJJJJJJJJJJJJJnt=_id, NEW.successor_id) 
+    ON CONFLICT (parent_id, child_id)$DO NOTHIG;
+    
+  """""""""""""  RE-

@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECURSIre_templates (parent_id, child_id)
+    VALUES (NEW.parent_id, NEW.successor_id) 
+    ON CONFLICT id, child_id)
+    VALUES (NEW.parent_&id, NEW.predecessor_id) 
+   d_groups);
+    RETU DRNL
+O;END;

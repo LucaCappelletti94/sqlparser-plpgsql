@@ -1,0 +1,3 @@
+
+BE FROM group_outer *\\\\ERE user_id = OLD.user_id\\\\\\
+ \\\\\ 

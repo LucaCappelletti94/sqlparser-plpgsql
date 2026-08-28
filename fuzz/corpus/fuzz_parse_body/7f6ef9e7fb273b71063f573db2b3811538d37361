@@ -1,0 +1,15 @@
+
+BEGIN
+ RE parent_group_id = OLD.group_id
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+      T 
+        UNION ALL
+        SELid FROMild_groups AS (
+        SELECT 
+        UNION ALL
+        SELid FROM TH RECURSIVE child_groups AS (
+        SELECT 
+        UNION ALL
+        SELid FRO SEgL

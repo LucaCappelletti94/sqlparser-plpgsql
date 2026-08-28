@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_group_id AS id FROM groups W   UNION ALL
+        SELECT g.paretn_group_id FRoMpOu grs g~ JOIN parent_ FROM parent_groups WHERNOTHING;
+    RETURN NEW;
+END;

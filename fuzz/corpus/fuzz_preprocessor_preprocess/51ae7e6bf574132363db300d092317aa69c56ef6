@@ -1,0 +1,6 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        MNSERT INTO audit_log (action, severi 'medi\\\\\\\\\\\\\\\\\\\\\\\\\\\  ' THEN
+        INSERT INTO auditW.event_typ--e = 'N NEW;
+END;

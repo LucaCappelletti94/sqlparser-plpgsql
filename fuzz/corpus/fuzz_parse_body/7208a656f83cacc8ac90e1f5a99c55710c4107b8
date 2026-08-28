@@ -1,0 +1,4 @@
+ SELECT c.id, t.parent_id FROM chain c JOIN tree_nodes t ON c.parent_id = t.id WHERE t.pid FROM chain WHERE parent_id IS NOT NULL;
+
+    RETURN NEW;
+END;

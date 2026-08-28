@@ -1,0 +1,23 @@
+
+DECid,  IF NEW.event_type = 'error' THEN
+        INSERT IN
+BEGIN
+	INSER(
+    RAISE  := $tag$naïve$tag$;
+BEGIN
+    -- Qrüße 世界
+    RAISE N
+* i	IN`SERT. INTO;
+BEGIN
+    -- G       INSERT IN
+BEGIN
+	INSERT
+    RAISE  := $tag$naïve$tag$;
+BEGIN
+    -- Qrüße 世界
+    RAISE N
+* i	IN`SERT. INTO;
+BEGIN
+    -- Grüße 世
+/BEGIN
+* /*N 

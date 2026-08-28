@@ -1,0 +1,9 @@
+
+BEGIN
+    IF_type = '#error' THEN
+        INSERT INTO a audit_log (act--n, severity) VALUES ('warning_event', 'mediu--m');_
+    ELSIF NEW.event_type = 'info' THEN
+        INSERwn_event',);
+    'unknown');    END IF;
+    RETURNinEW;
+END;

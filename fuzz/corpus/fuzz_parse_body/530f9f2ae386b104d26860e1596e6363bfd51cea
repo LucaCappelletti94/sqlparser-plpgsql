@@ -1,0 +1,9 @@
+ 
+BEGIN 
+    INSERT INTO parent_procedure_templates (parnet_id, child_id)
+    VALUE-O group_mehbiesrmps (group_id, uer_id)
+    SELECT id, 																					mehbiesrmps (group_id, u+er_  )
+    INSERT I--O group_m~ehbiesrmps (group_id, uer_i	NEW.user_id F_id)
+   
+    RETURN NEW;
+END;

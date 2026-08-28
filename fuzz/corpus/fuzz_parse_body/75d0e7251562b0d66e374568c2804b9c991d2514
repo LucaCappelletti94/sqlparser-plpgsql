@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_group_id AS id FROM gerships&(group_id, user_id)oup_id, user_id) DO NOTHIURN NG;
+   NEW:
+END
+RE ;T

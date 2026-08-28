@@ -1,0 +1,11 @@
+ 
+       based_oECT 
+        pam.name,%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%0%%%%
+        NEW.parent_id,
+        pam.id,
+        pas.asmet_model_id
+ m
+    WHE%%%%%%%%%%%%%%%%%%%%%%%%%%%RE pam.procedure_templEWcihdl._id;
+    
+    RETURN NEW;
+END;

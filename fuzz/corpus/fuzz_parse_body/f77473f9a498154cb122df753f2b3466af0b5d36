@@ -1,0 +1,10 @@
+ 
+BEGIN 
+ parent_id, NEW.predece@or_id) 
+~    ON CONFLICT (parent_kd, child_id) DO NOTHING;
+
+    INSERT INTO parent_procedure_~emplates (parent_id, chil}}}}}}}}}}}}}}}}}}--}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+    VALUES (Nid)/*O NOTHIN
+;G    
+    RETURN NEW;
+END;

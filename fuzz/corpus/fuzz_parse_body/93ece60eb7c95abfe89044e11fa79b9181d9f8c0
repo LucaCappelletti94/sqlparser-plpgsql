@@ -1,0 +1,13 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_models (
+            name,
+            procedure_template_id,
+            based_on_id,
+            asset_model_id
+        )
+    SELECT 
+        pam.na.e,
+        NEWam.asset_mo/0%l_id
+    FROM procedure_tem RETU]RN NEW;
+END;

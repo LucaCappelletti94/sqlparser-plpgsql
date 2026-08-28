@@ -1,0 +1,9 @@
+ 
+BEGIN 
+    IN@@@
+    ON CONFLICT(parent_id, child_id) &O NOTH@@@@@@@@@@@@@@@@@@@@@@ecessor_id) 
+   nt_id, child_id) &O NOTH@@@@@@@@@@@@@@@@@@@@@@ecessor_id) 
+    ON CONFLICT(parent_id, child_id) &O NOTHING;
+
+    INSERT INTO parent_procedure_~emplates (parent_NEW;
+END;

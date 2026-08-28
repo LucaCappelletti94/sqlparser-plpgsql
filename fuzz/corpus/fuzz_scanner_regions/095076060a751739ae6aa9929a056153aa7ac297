@@ -1,0 +1,8 @@
+
+-BEGIN
+T IN
+BEGIN
+    WITH RECURSIVE chain AS (
+LA        SELETO ow/*ners (id) VALCT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT cUTL

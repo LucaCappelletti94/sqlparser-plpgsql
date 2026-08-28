@@ -1,0 +1,7 @@
+$= $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世.界
+    RAIS0E NOTICE '%'fé;
+    RETURNTICE '%', café;
+ RETURN NEW:
+END;

@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INsERT INTO procedure_tecplate_asset_models (
+            name,
+            procedure_templaprocedure       )
+    SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.d-- NEW.child_id;N NEW;
+END;

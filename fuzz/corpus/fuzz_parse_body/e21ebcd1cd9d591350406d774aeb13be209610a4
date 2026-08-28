@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_group_id =d<=iNULL
+    ON CONFLICT (group_id, use    RETUNR NEW;
+END;

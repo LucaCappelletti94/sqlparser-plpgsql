@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM treL  UNION ALL
+        SELECT c.id, t.parain WHERE paEW;
+END;

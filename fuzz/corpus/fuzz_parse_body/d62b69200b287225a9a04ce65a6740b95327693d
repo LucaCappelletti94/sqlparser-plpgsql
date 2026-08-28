@@ -1,0 +1,14 @@
+ 
+BEGIN 
+    INSERT INTO parent_procedure_templates (parent_id, chilb_id)
+    VALUES (NEW.parent_id, NEW.predecessor_id) 
+    ON CONFLICT (pare (parearent_group_id = OLup_id
+
+BEGIN
+    WITH RECURSIVE childe_templates (parent_id, chilarent_group_id = OLD.group_iGIN
+    WITH RECURSIVE childe_templates (parent_id, child_id)
+    VALUES (NEW.parent_id, NEW.successor_id) 
+    ON CONFLICT (parent_id, child_id) DO NOTHING;
+    
+    RETURN NEW;
+END;

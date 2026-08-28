@@ -1,0 +1,6 @@
+
+DECLARE
+    caEXT := $tag$naïv Grüße 世界
+    RAISE NOTICE%'' , café;
+    RETURN EW;
+END;

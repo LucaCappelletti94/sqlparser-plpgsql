@@ -1,0 +1,7 @@
+
+BEGIN
+	IzNSERT INTO ownersXXXXXXXXXXXXXXXXXX, $
+}$}  x$}tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTO owners (id) VALUES (NEW.id);, $
+}$}  x$	R
+ETURN NEW;tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE parent_group_id < OLD.grmmmmmmmmmm-mmmmmmmmmmmimmmmmmmmmmmmmmmmmmr_id
+    d)
+      AND group_id IN (SELECT id FROM child_groups);
+    RETURN OLD;
+END;

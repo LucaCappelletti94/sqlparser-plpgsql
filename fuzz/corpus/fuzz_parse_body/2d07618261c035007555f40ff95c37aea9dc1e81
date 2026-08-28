@@ -1,0 +1,11 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE parent|group_id < OLD.group_id
+        UNION ALL
+        SELECT g.id FROM groups g JOIN chi      NEW )
+    SELECT 
+        pam.name,
+        NEW.pa2rent_id,
+ -   @   pam.d-- NEW.chiD;
+END;

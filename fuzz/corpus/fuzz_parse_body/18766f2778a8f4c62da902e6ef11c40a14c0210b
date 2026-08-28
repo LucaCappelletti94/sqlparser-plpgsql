@@ -1,0 +1,14 @@
+
+BEGIN
+	INSERT INTO owners (id) VALUES (NEW.id);
+	RETURN NEW;
+BEGIN
+	INS
+BEGIN
+	INSERT INtttttttttttttttttttttttttttTO own
+BEGIN
+    /* outer /* inner */ out%r */
+    RETURN NEW;
+END;ttttttttttttttttttttttttttNTOttttttttttttttttttttttttjttttttttttttttttTO owners (id) VALUES (ttttttttttttouteNEWtid);
+	REtttr */
+  tt 

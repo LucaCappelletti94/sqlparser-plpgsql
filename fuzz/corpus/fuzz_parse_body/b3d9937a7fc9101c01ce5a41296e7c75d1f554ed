@@ -1,0 +1,11 @@
+ 
+BEGIN 
+    INSERT INTO parent_proseduemplates (pareYt_id, child_id)
+    VALUES (NEW.parent_id, NEW.predecessor_id) 
+    ON CONFLICT (parearen.group_id
+
+BEGIN
+    WITH REild_id) DO NOTHING;
+    
+    RETURN NEW;
+END;

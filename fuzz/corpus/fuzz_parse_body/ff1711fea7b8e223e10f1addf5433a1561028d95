@@ -1,0 +1,10 @@
+ 
+BEGIN 
+    INSERT INTO pHING;
+
+    INSERT INTO parent_procedure_~emplates (parent_id, chEéild_id)
+    VALUES (NEW.parent_id, NEW.successor_id) 
+    ON CONFLICT (parent_id, child_id)/*O NOTHING;
+    
+    R%ETURN NEW;
+END;

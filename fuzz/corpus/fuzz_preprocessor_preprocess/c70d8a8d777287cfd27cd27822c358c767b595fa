@@ -1,0 +1,12 @@
+ 
+BEGIELECT 
+        pam.namm,
+        NEW.parenN
+    INSERT INTO proce(
+            name,
+              based_on_id,
+    $$  ]    asset_model_id
+        )
+    SELECTprocedure_template_asset_models pamure_templates (parent_id, child_id)
+    VALUES (NEW.parent_id, NEW.predecesscor_id) NEW;
+END;

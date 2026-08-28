@@ -1,0 +1,10 @@
+ 
+BEGIN 
+    INSERT INTO parent_pror_deeclates *pentr_aid, child_id)
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@VALUES (NEW.parent_id, NEW.predecessor_id) 
+    ON CONFL_i)d
+    VALUES (NEW.parent_id, NEW.predecessor_id) 
+    ON CONFLICT(paOTHING;
+    
+    RETURN NEW;
+END;

@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+       SELECT g.id FROM groups g JOIN child_groups cg ON g.paren(NEW.id--
+	RETURNg.id
+ N OLD;
+END;

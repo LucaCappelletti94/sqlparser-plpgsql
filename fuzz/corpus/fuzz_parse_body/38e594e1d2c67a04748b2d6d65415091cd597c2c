@@ -1,0 +1,11 @@
+
+DECLARE
+    cag$;
+BEGIN
+    -- Grüß
+DECLARE
+    café TEXT =:= $tag$naïve$tag$;
+BEGIN
+ e 世界
+    RAISE NOTIC:
+E]ND;

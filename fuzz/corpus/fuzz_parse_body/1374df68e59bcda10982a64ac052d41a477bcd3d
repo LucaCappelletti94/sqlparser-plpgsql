@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE chain  RECURSIVE chaiTURN NEW;T : $tagRETU RN $LL;
+
+    RETURN NEW;
+END;

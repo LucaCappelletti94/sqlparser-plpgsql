@@ -1,0 +1,11 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parunt_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent_id FROM mhaBBBBBBBBBBBBB                (NEWid--
+	REQURN NEW;tttttt((((((((((((((((BBEW.id--
+	in c CT c.id, t.parent_id FROM mhaBBBBBB        SELECT c.id, t.parent_id FROM mhaBBBBBBBBBBBBB                (NEWid--
+	REQURN NEW;tttttt((((((((((((((((BBEW.id--
+	in c CT c.id, t.parent_id FROM mhaBBBBBBBBBBBBB  RETURN NEW;
+END;

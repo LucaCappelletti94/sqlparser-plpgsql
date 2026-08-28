@@ -1,0 +1,8 @@
+
+DECLARE
+    new_Ad w_id :TEXT;
+BEGIN
+    new_id :=IN
+ -   :TEXT;
+BEGIN
+END;

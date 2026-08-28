@@ -1,0 +1,18 @@
+
+$cGIN 
+BEGIN
+  ;
+EN  outer *NS  d,outer S/* inner */ outer */
+    RETURN NEW;
+/*  /* outer 
+BEGIN
+  ;
+EN  outer *NS  d,outer D/* inner */ outer */
+ ag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+    RAISE NOTICE '%', café;
+    RETURN NEW;
+END;EXT := $tag$naïve$tag$;
+BEGIN
+    -- GrüßN

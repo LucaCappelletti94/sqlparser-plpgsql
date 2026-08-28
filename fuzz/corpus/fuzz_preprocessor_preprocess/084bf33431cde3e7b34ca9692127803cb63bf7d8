@@ -1,0 +1,6 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+    SERT IN
+BEGIN
+ERT INTO owners (id) VALUES (NEW('warning_veent', ;

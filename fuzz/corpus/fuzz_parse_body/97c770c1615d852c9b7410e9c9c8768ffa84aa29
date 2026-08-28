@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RRECUSIVE chain AS (
+        SELECT id, parent_id FROM treeinnt_id IS NOT NULL;
+																																																																																																																																  
+  RETURN NEW;
+END;

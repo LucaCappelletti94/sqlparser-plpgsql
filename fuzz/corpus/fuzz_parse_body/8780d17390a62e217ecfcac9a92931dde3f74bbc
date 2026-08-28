@@ -1,0 +1,11 @@
+ 
+BEGIN 
+    INSERT INTO parent_procedure_templates (parent_id, child_id)
+    VALUES (NEW.parent_id, NEW.predecessor_id) 
+    ON CONFLICT (parearent_group_id = OLD.group_id
+
+BEGIN
+    WITH REild_id) DO NOTHING;
+    
+    RETURN NEW;
+END;

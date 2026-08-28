@@ -1,0 +1,12 @@
+ 
+BEGIN
+    INsERT IXNTO prodels (
+           pam.d--        b
+        )
+    SELECT 
+       2222222222222222222222222222222222 e,
+        NEW.parent.parent_id,
+        pam.d-- NEW.child_id;
+ .   
+    RETURN NEW;
+END;

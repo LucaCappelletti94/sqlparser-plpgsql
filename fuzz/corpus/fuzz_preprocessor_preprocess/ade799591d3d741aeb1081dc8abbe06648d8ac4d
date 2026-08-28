@@ -1,0 +1,9 @@
+
+BEGIN
+	IN` 世界 TEXTEGIN
+    -- Grüße 世界
+    R -- Grüße 世界 
+)T := $tag$naïve$tag$;
+BEGIN
+    --`Grüße 世界
+    REND;

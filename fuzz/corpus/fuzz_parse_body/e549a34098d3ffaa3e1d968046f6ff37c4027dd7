@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE parent_group_id  parent..................._group_id = OLD.g WITH RECURSIVE child_groups AS ROM child_groups);
+    RETURN OLD;
+END;

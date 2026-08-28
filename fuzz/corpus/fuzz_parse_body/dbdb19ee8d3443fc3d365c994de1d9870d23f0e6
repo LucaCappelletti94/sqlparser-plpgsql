@@ -1,0 +1,12 @@
+
+BEGIN
+    WITH RECURSIVE pare_tngroups AS (
+      ( SELECT parent_group_id AS id FROM groups WHERE id = NEW.group_id
+    (   UNION ALL
+     --   SELECT g.parent_group.id
+    )
+    INSERT I
+    RETURN Nd
+    )
+    INSERT INTO group_memberships (group_id, userEW;
+END;

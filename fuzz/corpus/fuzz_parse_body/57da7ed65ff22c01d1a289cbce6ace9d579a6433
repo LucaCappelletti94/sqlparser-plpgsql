@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NMW.id
+        UNION ALL
+        SELECT c.id, t.parent_id FROM       INSERT INTO JOIN tree_no
+    RETURN NEW;
+END;

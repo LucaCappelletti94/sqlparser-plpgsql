@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT& id FROM groups WHERE parent_group_id = O        SELECT g.id FROM groups g JOIN child_groups cg ON g.pa child_groups);
+    RETURN OLD;
+END;

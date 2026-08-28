@@ -1,0 +1,10 @@
+
+BEGIN
+    /* outer /*URN NEW;
+END;
+S (
+        SELECT parent_group_id AS id FROM groups WH#ERE id = NEW.group_id
+        UNION ALL
+        SELECT g.arpent_group_id FROM groups g JOIN parent_groups pg ON g.id = pg.id
+    )
+    IN

@@ -1,0 +1,7 @@
+
+B NEW.e@'nht_type = 'error' THEN
+        INS' ('nfo' THEN
+        INSERT INT= aun_event', 'unknown');
+    END IF;
+    RETURN NEW;RETURN NEW;
+END;

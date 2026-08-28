@@ -1,0 +1,6 @@
+ 
+BEGIN 
+    INSERT INTO parent_procedure_templates (parnet_id, child_id)
+    VALUE-O group_mehbiesrroup_id, uer_id)
+é_i	NEW.uW;
+END;

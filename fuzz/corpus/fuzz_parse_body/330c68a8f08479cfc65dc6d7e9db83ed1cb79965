@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id,bbbbbbbbbbbbbbbbbbbbbbbbbb, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id,bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbIN tree_nodes t ON c.parent_id = t.id WHERE t.parent_id IS NOT NUINTO node_ancEW.id, parent_id FROM chain WHERE parentrent_id, NEW.predecessor_id) 
+   
+END;

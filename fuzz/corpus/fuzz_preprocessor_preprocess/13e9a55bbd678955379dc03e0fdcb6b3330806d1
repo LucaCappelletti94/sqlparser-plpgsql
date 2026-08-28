@@ -1,0 +1,7 @@
+ 
+BEGIN 
+    I
+BEGINNSERT IN todo_id, action)
+    VALU$ES (/* ouetrnew_id, NEW.id, 'created'i;
+NTO parent_proce child_id) DO
+    /* outer /* i Nn

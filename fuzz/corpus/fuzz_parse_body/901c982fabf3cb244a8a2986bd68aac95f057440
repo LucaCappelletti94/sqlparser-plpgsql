@@ -1,0 +1,6 @@
+
+BEGIN
+   :WI (gr}oup_id, uer_id)
+    S  ONFLICT (group_id, user_id) DO NOTHING;
+    RETURN NEW;
+END;

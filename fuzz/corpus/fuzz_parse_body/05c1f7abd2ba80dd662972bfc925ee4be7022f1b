@@ -1,0 +1,17 @@
+ 
+BEGIN
+    INsERT INTO procedure_template_asset_models (
+            name,
+            procedure_template_id,
+                       asset_model_id
+        )
+    SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.id,
+q       mp. al_i 
+d   FROM procedure_template_asset_models pam
+    WHERE pam.procedure_template_id = NEW.child_id;
+    
+    RETURN NEW;
+END;

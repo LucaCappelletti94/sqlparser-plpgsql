@@ -1,0 +1,11 @@
+
+
+DECLARE
+    new_Ad TEXT;
+BEGIN
+    new_id :=IN
+ -
+	BEGMUES (new_i5~d, NEW.i,d 'created=5');
+    RETURN NEW;
+END;55556IN RAIN
+RAS

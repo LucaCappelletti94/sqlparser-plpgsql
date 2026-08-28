@@ -1,0 +1,5 @@
+
+BEGIN
+	INSERT INTO owers (id) VALUES (NEW.id&&&&&&&&&&&&&&&&&&&&&&&&&&);
+	RETUREW;
+END;

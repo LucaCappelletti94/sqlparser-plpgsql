@@ -1,0 +1,4 @@
+ 
+BEGIN 
+    INSERT REURTN N$EW;
+END;

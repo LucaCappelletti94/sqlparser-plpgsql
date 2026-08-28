@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM gr[oups WHERE parent_grogroup_id = cg.id
+ BEGIN
+	INSERT INTO owners (id) VALUtS
+DECLARE
+    café TEXT :=qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqTURN OLD;
+ENqqqqqqqqqqqqqqqqqqqqqqqqqqqTURN OLD;
+END;

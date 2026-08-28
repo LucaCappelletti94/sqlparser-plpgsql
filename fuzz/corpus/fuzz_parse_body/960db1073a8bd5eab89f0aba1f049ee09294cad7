@@ -1,0 +1,10 @@
+
+BEING
+    WITH RECURSIVE ces WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id,bbbbb FROM mhain c JOIN tree_nmdes t ON c.parent_id = t.id WHERE t.parent_id IS NOT NULL
+    )
+  |||bbbbbbbb t.par
+
+    RETU||||||||||||||||||||||||||||||||RN NEW;
+END;

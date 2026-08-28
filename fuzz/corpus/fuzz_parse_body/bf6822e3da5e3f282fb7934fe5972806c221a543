@@ -1,0 +1,13 @@
+ 
+BEGIN 
+ parent_id, NEW.predece@or_id) 
+~    ON CONFLICT (parent_kd, child_id) DO NOTHING;
+
+    INSERT INTO parent_procedure_~emplates (parent_id, chil}}}}}}}}}}}}}}}}}}--}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+    VALUES (Nnt_procedure_~emplates (parent_id, child_id)
+    VALUES (NEW.parent_id, NEW.successor_id) 
+    ON CONFLICT (parEW.parent_id, NEW.successor_id) 
+    ON CONFLICT (parent_i$, child_id)/*O NOTHIN
+;G    
+    RETURN NEW;
+END;

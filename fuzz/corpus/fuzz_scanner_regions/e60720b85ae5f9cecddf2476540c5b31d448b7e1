@@ -1,0 +1,7 @@
+
+-BEGIN
+T IN
+BEGIN
+    WI ow/*ners (id) VALCT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT cUTL

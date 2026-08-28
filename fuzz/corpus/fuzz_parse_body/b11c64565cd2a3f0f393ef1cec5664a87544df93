@@ -1,0 +1,7 @@
+ 
+BEGIN 
+    INSERT INTO parent_procedure_templates r(paent_id, child_id)
+    VALUES (NEW.parent_id, NEW.predT (parent_id, chil-_id) DO NOTHING;
+
+   NEW;
+END;

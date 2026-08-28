@@ -1,0 +1,1 @@
+END; BEGIN SELECT 1;

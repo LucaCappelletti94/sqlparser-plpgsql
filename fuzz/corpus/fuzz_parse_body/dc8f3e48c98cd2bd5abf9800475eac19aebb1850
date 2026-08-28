@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM treeAS (
+        SELECT id, parent_id FROM tree_nodes WHERE -id _nod c.id, t.parent_id4 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;NEW.id, parent_id IS NOT NULL;
+
+    RETURN NEW;
+END;

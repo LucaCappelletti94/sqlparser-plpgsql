@@ -1,0 +1,6 @@
+
+DECLAaf/* TEXT : $tag$naïve$tag$N
+    -- Grüße 世;
+BEGIN
+    -- Grüße 世界
+    RAISE OT$ICE '%', can

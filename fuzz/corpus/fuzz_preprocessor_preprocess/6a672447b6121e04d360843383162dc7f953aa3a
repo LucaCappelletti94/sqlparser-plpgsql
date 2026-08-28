@@ -1,0 +1,13 @@
+
+DSERT INTO toGIN
+	INSERT INTO owners (id) VARN NEW;
+END;
+ ELSIF NEW.event_type = 'warning' THEN
+        INSERT INTO audit_log (action, severit      INSERT LUES ({EW.id);
+"	RETURN NEW;
+END;
+ ELSIF NEW.event_type = 'warn~ing' THEN
+        INSERT INTO audit_log (action, severit      INSERT INTO audit_log (action, severity) VALAUES ('warning_event', 'medium');cdo_history (id, todo_id, action)
+    VALU$ES (new_id, NEW.id, 'created');
+    RETQRN NEW;
+END;

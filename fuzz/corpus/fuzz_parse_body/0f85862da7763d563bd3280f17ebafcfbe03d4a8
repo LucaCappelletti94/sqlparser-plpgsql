@@ -1,0 +1,13 @@
+     INSERT INTO audi
+BEGIN
+    IF NEW.event_type = 'error=' THEN
+  
+    ELSE
+        INSERT INTO audit_log (acaction, severity) VALUE ('info_even, t','unknown');
+    END IF;
+    RETURN NEW;
+END;t_log (acaction, severity) VALUE ('info_even, t','unknown');
+    END I
+F;
+    RET
+BEGIN

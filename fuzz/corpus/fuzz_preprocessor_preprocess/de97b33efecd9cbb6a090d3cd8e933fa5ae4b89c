@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH chain WHERE parent_id IS NOT NULL;																																																																																																	HERE parent_id IS 																
+
+    RETURN NEW;
+END;
+NOT NULL;																															
+
+    RETURN NEW;
+END;

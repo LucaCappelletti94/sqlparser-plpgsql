@@ -1,0 +1,13 @@
+ 
+BEGIN 
+    INSERT INTO parent_procedure_templates (parent_id, child_id)
+
+BEGIN
+    WITH REC--SIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+     F * outer /      UNION AELECT NEW.is (pednt_ria, child_id)
+    VALUES (NEW.parent=_id, NEW.successor_id) 
+    ON CONFLICT (parent_id, child_id) DO NOTHI.G;
+    
+ 6   RETURN NEW;
+END;

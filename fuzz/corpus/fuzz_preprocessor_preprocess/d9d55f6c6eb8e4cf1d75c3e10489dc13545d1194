@@ -1,0 +1,5 @@
+ 
+BEGIN 
+    I
+BEGINNSERT INTO parent_procedure_templates (parenHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHt_id, child_Id)
+    VALUES (NEW.paren Nn

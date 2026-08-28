@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECURSIVFROM groups g JOIN parent_groups pg ON g.id = pg.id
+    )
+    IN)
+    SEL    )
+    INSERT INTO group_mehbiesrmps (group_id, uer_id)
+    SELECT id, NEW.usETURN NEW;
+END;

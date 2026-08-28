@@ -1,0 +1,41 @@
+
+BEGIN
+	IN``SERTRETURN NEW;
+E,ND;
+DECLA
+RE
+    café TEX`SERTRETURN NEW;
+E,ND;
+DECLA
+RE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+    RAETUR! LEW;
+E5N
+	IN`SERT INTO id);
+	R    RAETUR! LEW;
+E5N
+	IN`SERT INTO id);
+	RETURN NEW;
+E,ND;
+DECLA
+RE
+    c= $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+    RAETUR! LEW;
+E5N
+	IN`SERT INTO id);
+	R    RAETUR! LEW;
+E5N
+	IN`SEBT INTO id);
+	RETURN NEW;
+E,ND;
+DECLA
+RE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+ , café;
+    RETURN NEW;
+END;

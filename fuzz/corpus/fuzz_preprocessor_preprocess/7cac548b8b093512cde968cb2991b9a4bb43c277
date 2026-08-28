@@ -1,0 +1,8 @@
+
+BEWIN
+    IF NEW.event_typ 'error' THEN
+        I IN
+BEGIN
+INTO own
+BEd) TEXT;EGI
+DE pa

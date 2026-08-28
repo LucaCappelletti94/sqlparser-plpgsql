@@ -1,0 +1,8 @@
+
+BEGIN
+	INSERT INTO own
+BEGIN
+    /* outer /* inner */ outer */
+    RETURN NEW;
+END;ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+END;

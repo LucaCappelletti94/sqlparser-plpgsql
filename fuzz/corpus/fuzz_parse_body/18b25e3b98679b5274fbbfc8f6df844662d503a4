@@ -1,0 +1,15 @@
+
+BEGIN
+    IF NEW.
+@EGIN
+	;;;?;;;;;
+DECLARE
+    café TEXTevent_type = 'error' THEN
+        INSERT INTK audit_log (action, severity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_typ := $tag$naïve$tag$;
+BICE '%', café;
+    RETURN NEW:
+END;;9;;;;;
+BEGIN
+	^INSEe =RT  'warning' THEN
+        INSERT INTO IauditNT_O

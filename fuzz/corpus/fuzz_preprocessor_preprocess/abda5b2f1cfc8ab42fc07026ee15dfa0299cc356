@@ -1,0 +1,11 @@
+
+BEGIN outer 
+/BEGIN
+    IF T INTO audLUES ('info_event', 'low');
+ UES ('unknown_event', 'unknown');
+    END IF;
+    RETURN NEW;
+END;ent', 'unknown');
+    END IF;
+    RETURN NEW;
+END;

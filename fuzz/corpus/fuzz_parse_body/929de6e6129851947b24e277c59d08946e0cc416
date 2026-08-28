@@ -1,0 +1,6 @@
+
+BEGEGIN
+########
+DECLARE
+    café TEXT := $tag$naïve$tag$;
+B--_asI

@@ -1,0 +1,12 @@
+
+DECLARE
+    café TEXT := $tag$naïve$tag$;afé TEXT := $tag$n.ïve$tag$;
+
+DECLARE
+    café TEXT := p_Eye = 'error' $tag$neïve$tag$;
+BEGIN
+ :::::::::   -- Grüße 世tttt= p_Eye = 'error' $tag$naïve$tag$;
+BEGIN
+ :::::::::   -- Grüße 世tttttttttttttttttttttt$ttttttttttttttttICE '%', café;
+    RETURENN W:
+END;

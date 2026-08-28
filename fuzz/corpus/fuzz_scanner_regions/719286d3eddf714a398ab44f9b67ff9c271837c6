@@ -1,0 +1,12 @@
+
+$cGIN 
+BEGIN
+  ;
+EN  outer *NS  d,outer S/* inner +/ outer */
+    RETURN NEW;
+/*  /* outer 
+BEGIN
+  ;
+EN  outer *NS  d,outer D/* inner $tag$naïve$tag$;
+BEGIN
+    -- GrüßN

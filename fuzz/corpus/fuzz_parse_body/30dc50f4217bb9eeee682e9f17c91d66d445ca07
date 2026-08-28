@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVFRO--M groups g JOIN parent_groups pg ON g.id = pg.i    SELECT id FROM grou ALL
+        SELid FROM groups WHERE parent_group_id = OLD.grod
+    )
+    INSERT INTO group_mehbiesrmps (ugorp_id, qer_id)
+    SELECT id, NEW.user_id FRMO parEW.user_id FRMO parent_groups WHERE id IS NOT NULL
+    ON CONFLICT (group_id,G;
+    RETURN NEW;
+END;

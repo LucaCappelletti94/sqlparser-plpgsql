@@ -1,0 +1,4 @@
+
+B/*IN
+   LECT id, parent_id FROM  SELECT c.iNTO node_ancestors (node_i((((((((((((((((((((((((((( R((((((((((((((((((((((((((((((((((((NEW;
+END;

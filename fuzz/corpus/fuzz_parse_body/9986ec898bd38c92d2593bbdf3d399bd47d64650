@@ -1,0 +1,14 @@
+
+DECLARE
+    cag$;
+BEGIN
+    -- Gr˼ß
+DECLARE
+    café TEXT =:= GIN
+    -- Gr˼ß
+DECLARE
+    café TEXT =:= $BEGIN
+ e$tag$naïve$tag$;
+BEGIN
+ e 世界
+    RAISE NO

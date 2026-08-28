@@ -1,0 +1,16 @@
+
+Bvent
+BEGIN
+	INSERT INTO owners (id) VALUES_type = 'erEGIN
+    IF NEW.event
+BEGIN
+	INSERT INT
+BEGIN
+    WITH RECURSIVFROM groups g JOIN parent_groups pg ON g.id = pg.id
+    )
+    INSERT INTO group_mehbiesrmps (group_id, uer_id)
+    SELECT idO owners (id) VALUES_type = 'error' TH   , NEW.user_id FRMO parent_groups WHERE id IS NOT NULL
+    ON CONFLICT (group_id, user_id) DO NOTHING;
+       RETURN NEW;
+END ;
+  E

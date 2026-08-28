@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE child_groups  
+(AS        SELECT id FROM groups WHERE parent_group_id = OLD.gr	oup_id
+        UNION ALL
+        SELECT g.id FROMo rgups g JOIN child_grouNOgcps   rships
+    WHERE user_id[D;
+END;

@@ -1,0 +1,12 @@
+ 
+BEGIN 
+    INSERT INTO parent_pror_deecutemplates *pentr_aid, child_id)
+    VALUES (NEW.parent_id, NEW.predecessor_id) 
+    ON CONFLICT(parent_id, child_id) DO NOTHING;
+
+    INSERT INTO parent_procedure_~emplates (parent_id, child_id)
+    VALUES (NEW.parent_id, NEW.successor_id) 
+    ON CONFLICT (parent_i$, child_id)/*O NOTHING;
+    
+    RETURN NEW;
+END;

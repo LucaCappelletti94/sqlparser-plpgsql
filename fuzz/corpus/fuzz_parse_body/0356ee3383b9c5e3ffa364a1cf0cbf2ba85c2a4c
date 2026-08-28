@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_group_idSERT INTO (gro))))))))))))))))))))))))))))))))))))))))))))))))))))))up_id, user_id) DO NOTHING;
+    RETURN NEW;
+END;

@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INSERT INTO proceduresset_model_iUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+BEGIN
+ /* inner */$nGUUUUUUUUUUUUUUUUUUUUUUUUUURRRRRRRRRRRRRRRRRRRRRRRR pam.id,
+        pam.asset_model_id
+    FROM procedure_template_as

@@ -1,0 +1,7 @@
+ 
+BEGIrent_id, NEW.predecessor_id) 
+  0;  ON CONFLICT (parent_id, chil-_id) DO NOTHING;
+
+    INSERT INTO parent_procedure_templates (parit,_end child_id)
+ N NEW;
+END;

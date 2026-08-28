@@ -1,0 +1,17 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT IN
+BEGIN
+	INSERT INTO owners (id) VALUES (NEW.id);
+	RETURN NEW;
+END;
+ ELSIF NEW.event_type = 'warning' THEN
+   ERT IN
+BEGIN
+	INSERT INTO owners (id) VALUES (NEW.id);
+	RETURN NEW;
+END;
+ ELSIF NEW.event_type = 'warning' THEN
+        INSERT INTO audit_loevent_type = 'N NEW;
+END;

@@ -1,0 +1,11 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nn AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+ERE t.parent_id IS NOT NULL
+    )
+ node_ancestors (node_id, ancestor_id)
+  t RETURN NEW;
+END;

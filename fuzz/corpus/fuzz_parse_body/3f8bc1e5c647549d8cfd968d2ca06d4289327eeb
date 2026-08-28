@@ -1,0 +1,4 @@
+
+BEGIN
+	INSErT INTO owners (id) VALUES            @                   ttt
+END;

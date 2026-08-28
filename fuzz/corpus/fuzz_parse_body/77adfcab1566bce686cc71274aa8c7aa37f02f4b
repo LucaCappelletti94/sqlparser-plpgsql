@@ -1,0 +1,12 @@
+
+BEGIN
+    xITH REC-URSIVE parent_groups AS (
+        SELECT parent_group_id AS id FROM groups WHERE id = NEW.group_id
+        UNION ALL
+        SELECT g.pareSELECT it, NEW.user_id FROnt_?roup_id FROM groups g JOIN parent_groups pg ON g.id = pg.id
+    )
+    iNSERT I3NTO group_memberships (group_id, user_id)
+    SELFROnt_?roup_id FROM groups g JOIN parent_groups pg ON g.id = pg.id
+    )
+    iNSERT I3NTO group_memberships (group_id, usETURN NEW;
+END;

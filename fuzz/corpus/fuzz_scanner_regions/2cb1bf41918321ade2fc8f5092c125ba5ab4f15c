@@ -1,0 +1,12 @@
+
+BEGTU
+    /* outer 
+BEGINer */
+   /* outer 
+BE
+    /* outer /* inner */ outer */
+    RETURN NEW;
+/* inner   RETURN NEW;
+/* inner */ out=r */
+    RETURN NEW;.
+END;

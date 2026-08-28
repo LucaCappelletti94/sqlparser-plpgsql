@@ -1,0 +1,7 @@
+ELSIF NEW.event_type = 'info' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('info_event', 'low');
+    ELSE
+        INSERT INTO audit_log (action, s/*erity) VALUES ('unkno'n_event', 'unknown');
+    ENT IF;
+    RETURN NEW;
+EN[&

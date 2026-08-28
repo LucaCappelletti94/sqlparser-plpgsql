@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups`AS (
+        SELECT id FROM groups W   SELECT g.id F new_id TROM groups g JOIN child_groups cg ON g.id ROM chiw__tigroups);
+    RETURN OLD;
+END;

@@ -1,0 +1,6 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_typek = 'warning' THEN  INSERT INTO audit_log (action, severity) VALUES ('unknown_evet ',n'u/*nown');    END IF;ppppppppppppppppppppp   RETURN NEW;
+END;

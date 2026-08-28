@@ -1,0 +1,8 @@
+
+BEGIN
+    Itype = 'error' THEN
+    ;
+    END ;
+    END I_lo
+BEGIN
+    /* ou*U    I

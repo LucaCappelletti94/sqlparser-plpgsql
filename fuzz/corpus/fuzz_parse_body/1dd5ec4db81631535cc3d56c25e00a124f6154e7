@@ -1,0 +1,11 @@
+ 
+       based_on_id,
+            asset_model_id
+        )
+    SELECT 
+        pam.name,
+        NEW.par WHE%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%RE pamCT 
+        pam.namihdl._id;
+    
+    RLTURN NEW;
+END;

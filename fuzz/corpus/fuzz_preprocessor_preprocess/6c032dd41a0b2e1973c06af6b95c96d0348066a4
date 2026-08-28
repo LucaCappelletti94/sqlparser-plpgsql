@@ -1,0 +1,8 @@
+
+BEGINips (group_id, user_id)
+    SELECT id,ױEW.user_id FROM parent_groups WHERE id IS NOT NULL
+   id = NEW. = pg.id
+    )
+    INSERT INTO group_memberships (group_id, user_id)
+   RETURN NEW;
+END;

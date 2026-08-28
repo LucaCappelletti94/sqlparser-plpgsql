@@ -1,0 +1,14 @@
+
+
+BEGIN
+    /* outer /* inner */ outer */
+   (
+        SELECT 
+BEGIN
+	I
+	GIN
+    WITH RETURN NEW;
+END;ttttttttttttttttttttttttttttttttNSERT INTO own
+BEGIN
+    /* outer /* inner */ ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+END;

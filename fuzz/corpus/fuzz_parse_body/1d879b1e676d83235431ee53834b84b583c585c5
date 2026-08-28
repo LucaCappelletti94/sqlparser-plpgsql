@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROMM group  g.id FROM groups g JOIN child_grouNOgcps   g%parent_group_id = cg.id
+    )
+    DELE;
+END;

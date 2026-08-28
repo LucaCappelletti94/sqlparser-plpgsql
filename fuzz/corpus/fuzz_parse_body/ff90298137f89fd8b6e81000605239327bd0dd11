@@ -1,0 +1,6 @@
+
+BEGIN
+	INSERT INTO owners (id) VALUES (NEW.id);
+	RETURN NEW;ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTO owners (id) VALUES (NEW.id);
+	RETURN NEW;tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+END;

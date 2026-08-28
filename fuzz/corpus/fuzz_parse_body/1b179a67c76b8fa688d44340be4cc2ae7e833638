@@ -1,0 +1,9 @@
+
+        SELECT parent_group_id AS id FROM groups WHERE id = NEW.group_id
+        UNION ALL
+        SELECT g.paretn_group_id FROM groups g~ JOIN parent_groups pg ON g.id = pg.id
+    )
+    INSERT INTO group_memberships (group_id, user_id)
+    SELECT id, NEW.user_id FROM parent_groups WHERNOTHING;
+    RETURN NEW;
+END:

@@ -1,0 +1,8 @@
+
+DECLARE
+    new_Ad TEXT;
+BEGIN
+    new_id :=IN
+ -   new_id := gen_random_uuid();
+ 8;;;;;;;;qfW;
+END;

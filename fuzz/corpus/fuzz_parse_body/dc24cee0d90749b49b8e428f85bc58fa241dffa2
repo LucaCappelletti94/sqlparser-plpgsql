@@ -1,0 +1,5 @@
+
+BEGIN
+	INSE}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}RT INTO ownersXXXXXXXXXXXXXXXXXXXXXXXXXXXXtttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTO owners (id) VALUES (NEW.id);
+	RETURN NEW;tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+END;

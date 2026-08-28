@@ -1,0 +1,4 @@
+ 
+BEGIN 
+    INSERT INTO parent_pemplates *pentr NEW;
+END;

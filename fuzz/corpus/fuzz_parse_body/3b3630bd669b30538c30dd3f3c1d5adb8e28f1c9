@@ -1,0 +1,10 @@
+
+BEGIN
+    IF NEW.^vent_type = 'error=' THEN
+  
+    ELSE
+        INSERT INTO aud2
+_log (acaction, severity) VALUE ('info_even, t','unknown');
+    END IF;
+    RETURN NEW;
+END;

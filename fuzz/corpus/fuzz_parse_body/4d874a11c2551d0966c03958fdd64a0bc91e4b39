@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+  (     SELECT ip_id = cg.idB A
+GII	N
+NSERBE     RAISE NOTIC:END;
+T INTO owners (id) VALUtS
+DECLARE

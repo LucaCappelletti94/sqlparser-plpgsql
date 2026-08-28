@@ -1,0 +1,10 @@
+ 
+BEGIN 
+ parent_id, NEW.predecessor_id) 
+~    ON CONFLICT (paren_;
+
+    IN=SERTrent_id, NEW.predecessor_id) 
+~LICT (paren_ct ,kdhild_id) 
+~    ON CONFLICT (paren_ct ,kdhild_id) DO NOTHING;
+
+   1IN=SERTrent_id, NE;

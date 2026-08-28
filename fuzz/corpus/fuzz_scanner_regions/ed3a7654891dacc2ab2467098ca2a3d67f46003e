@@ -1,0 +1,22 @@
+
+BEGIN
+    /* outer 
+BEGIN
+    /* outer /* inner */ Outer */
+   /* outer 
+BEGIN
+    /* outdr /* inner */ outer *IN
+    /* outer 
+BEGIN
+    /* outer /* inner */ Outer */
+   /* outer 
+BEGIN
+    /* outer /* inner */ outer */
+    RETURN NEW;
+/* inner   RETURN NEW;
+/* inner */ o/
+    RETURN NEW;
+/* inner   RET/* outer
+/* inner */ out=r */
+    RETURN NEW;.
+END;

@@ -1,0 +1,12 @@
+
+BEGIN
+    WITH RECURSIVE$chain AS (
+        SELECT id, pareee_nodes WHERE id = NEW.id
+   !    UNION ALL
+        SELECT c.id,bS (
+        SELECT id, paT NULL;
+
+    RETURN NEW;
+END
+DECLARTEXT INTO ow;
+ner

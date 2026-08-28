@@ -1,0 +1,18 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_models (
+  d,
+            based_on_id,
+            asset_model_id
+        )
+    SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.id,
+        pam.asset_model_i 
+d   FROM procedure_template_asset_models pam
+               name,
+            procedure_template
+    
+    RETURN NEW;
+END;

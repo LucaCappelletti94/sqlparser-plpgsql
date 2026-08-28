@@ -1,0 +1,17 @@
+
+BEGIN
+    WITH RECURSIVE cha in AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id,--.parent_id FROM chain c JOIN tree_nodes t ON c.parent_id = t.id WH
+DECLARE
+    café TEXT := $tag$naïve$tag];
+BEGIN
+    -- Grüße 世界
+    RAISE NOTERag];
+BEGE t.parent_id IS NOT NULL
+    )
+ICE '%'    INSERT INTO , café;
+    Rnode_ancestors (node_id, ancestor_id)
+    SELECT NEi, .Wdparent_NEW;
+END; IS [NOT NULL;

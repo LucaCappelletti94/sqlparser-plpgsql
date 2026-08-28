@@ -1,0 +1,4 @@
+
+LU$ES (new_id, NEW.id, 'created');
+    RETURN NEW;
+END;

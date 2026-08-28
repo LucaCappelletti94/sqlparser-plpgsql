@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_models (
+            namd
+        )
+    SELECT        pam.name,e        NE RETURN NEW;
+END;
