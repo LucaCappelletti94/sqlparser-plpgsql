@@ -333,7 +333,7 @@ fn block_comment_len(rest: &str) -> usize {
     rest.len()
 }
 
-#[cfg(all(test, feature = "std"))]
+#[cfg(test)]
 mod tests {
     use super::{Region, Scanner};
     use alloc::{vec, vec::Vec};

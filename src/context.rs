@@ -221,7 +221,7 @@ impl PlPgSqlContext {
     }
 }
 
-#[cfg(all(test, feature = "std"))]
+#[cfg(test)]
 mod tests {
     use super::{PlPgSqlContext, VariableBinding, VariableDeclaration};
     use alloc::{string::ToString, vec::Vec};

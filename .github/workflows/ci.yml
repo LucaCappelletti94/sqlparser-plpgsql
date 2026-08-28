@@ -21,10 +21,17 @@ jobs:
       - name: Test
         run: cargo test --release --all-features
 
-      # Requirement D: body parsing must build without std. This compiles but
-      # runs nothing, because every test module is gated on the std feature.
-      - name: Build without std
+      # Requirement D. The suite runs against the crate built without its std
+      # feature, and the crate is built for a target where std does not exist
+      # at all, so an accidental dependency on it cannot compile.
+      - name: Test without std
         run: cargo test --release --no-default-features --features body-parse
+
+      - name: Build for a target without std
+        run: |
+          rustup target add thumbv7em-none-eabihf
+          cargo build --no-default-features --features body-parse \
+            --target thumbv7em-none-eabihf
 
       - name: Document
         run: cargo doc --no-deps

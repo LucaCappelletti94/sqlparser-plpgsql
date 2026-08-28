@@ -2,6 +2,10 @@
 #![no_std]
 extern crate alloc;
 
+// libtest and proptest need std, while the library itself never does.
+#[cfg(test)]
+extern crate std;
+
 pub mod context;
 pub mod error;
 pub mod preprocessor;

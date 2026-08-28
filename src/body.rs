@@ -107,7 +107,7 @@ pub fn parse_body(
     ))
 }
 
-#[cfg(all(test, feature = "std"))]
+#[cfg(test)]
 mod tests {
     use super::parse_body;
     use crate::Error;

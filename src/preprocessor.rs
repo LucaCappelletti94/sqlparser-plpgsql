@@ -837,7 +837,7 @@ impl PlPgSqlPreprocessor {
     }
 }
 
-#[cfg(all(test, feature = "std"))]
+#[cfg(test)]
 mod tests {
     use super::*;
     use proptest::prelude::*;
