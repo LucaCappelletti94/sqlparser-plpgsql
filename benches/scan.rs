@@ -1,10 +1,8 @@
-//! Benchmarks for the scanner, the preprocessor, and the body parser.
+//! Benchmarks for the scanner, preprocessor, and body parser.
 //!
-//! Every fixture is a real PL/pgSQL trigger body except the two adversarial
-//! ones, which cover the paths that used to panic.
+//! Every fixture is a real trigger body except the two adversarial ones.
 
-// criterion_group! expands to an undocumented public function, and a bench
-// binary has no API for missing_docs to protect.
+// criterion_group! expands to an undocumented public function.
 #![allow(missing_docs)]
 
 use std::{hint::black_box, time::Duration};

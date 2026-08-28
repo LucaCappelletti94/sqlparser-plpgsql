@@ -1,7 +1,4 @@
-//! Context tracking for PL/pgSQL translation.
-//!
-//! This module defines the `PlPgSqlContext` struct which tracks variable
-//! declarations, their types, and the current translation scope.
+//! Tracks PL/pgSQL variable declarations, bindings, and translation scope.
 
 use alloc::{
     collections::BTreeMap,
@@ -30,9 +27,8 @@ pub struct VariableBinding {
     pub expression: String,
 }
 
-/// Tracks the first INSERT that used a UUID variable.
-/// This allows subsequent INSERTs to use `last_insert_rowid()` to get the same
-/// value.
+/// Tracks the first INSERT that used a UUID variable, so later ones can reach
+/// it with `last_insert_rowid()`.
 #[derive(Debug, Clone)]
 pub struct UuidFirstUse {
     /// The table name where the UUID was first inserted
@@ -41,9 +37,8 @@ pub struct UuidFirstUse {
     pub column_name: String,
 }
 
-/// Translation context for PL/pgSQL to SQLite. Tracks scoped bindings (cleared
-/// per IF block) separately from persistent ones (SELECT INTO), plus UUID
-/// first-use state for the `last_insert_rowid()` pattern.
+/// Translation context. Scoped bindings clear per IF block, persistent ones do
+/// not.
 #[derive(Debug, Clone, Default)]
 pub struct PlPgSqlContext {
     declarations: BTreeMap<String, VariableDeclaration>,

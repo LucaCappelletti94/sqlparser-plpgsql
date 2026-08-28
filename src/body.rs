@@ -21,9 +21,7 @@ use crate::{Error, PlPgSqlContext, PlPgSqlPreprocessor, Scanner};
 ///
 /// # Errors
 ///
-/// Returns an [`Error`] when the body holds an exception handler or an
-/// unterminated dollar-quoted string, or when preprocessing, tokenization,
-/// block detection, or statement parsing fails.
+/// Returns an [`Error`] when the body is malformed or cannot be parsed.
 pub fn parse_body(
     name: &str,
     raw_body: &str,
@@ -59,8 +57,7 @@ pub fn parse_body(
             name: name.to_string(),
             body: preprocessed_body.clone(),
         })?;
-    // The END must close the BEGIN. Taking the last one anywhere would slice
-    // backwards when a stray END precedes the block.
+    // The END must close the BEGIN, or a stray earlier one slices backwards.
     let end_idx = tokens
         .iter()
         .rposition(|token| matches!(token, Token::Word(word) if word.keyword == Keyword::END))
@@ -162,8 +159,6 @@ mod tests {
         ));
     }
 
-    /// Found by fuzzing: the last END was taken from the whole token stream,
-    /// so an END before the BEGIN produced a backwards slice.
     #[test]
     fn an_end_before_the_begin_is_refused() {
         assert!(matches!(

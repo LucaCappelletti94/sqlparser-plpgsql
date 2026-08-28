@@ -1,17 +1,15 @@
-//! One scanner over PL/pgSQL body text, shared by every transform in this
-//! module.
+//! One scanner over PL/pgSQL body text, answering whether a byte is inside a
+//! string or a comment or is live code.
 //!
-//! The transforms all need the same question answered: is this byte offset
-//! inside a string literal or a comment, or is it live text? Four separate
-//! answers to it, three of them wrong about the `''` escape, are what produced
-//! the family of defects R52 to R55.
+//! Every transform shares it. Separate scanners disagreed about the `''`
+//! escape.
 
 use alloc::{string::String, vec, vec::Vec};
 
 /// What the scanner is inside at a given offset.
 #[derive(Clone, Copy, PartialEq, Eq, Debug)]
 pub enum Region {
-    /// Live text, where a keyword is a keyword.
+    /// Live code, where a keyword is a keyword.
     Code,
     /// Anything quoted or commented, where it is not.
     Quoted,
@@ -19,11 +17,8 @@ pub enum Region {
 
 /// Walks `text` once, reporting the region each byte belongs to.
 ///
-/// Handles single-quoted strings with the `''` escape and with backslash
-/// escapes, double-quoted identifiers, dollar-quoted strings with arbitrary
-/// tags, `--` line comments, and `/* */` block comments. The delimiters
-/// themselves count as [`Region::Quoted`], so a scan for a keyword can simply
-/// skip every quoted byte.
+/// Delimiters count as [`Region::Quoted`], so a keyword scan can skip every
+/// quoted byte.
 pub struct Scanner<'a> {
     text: &'a str,
 }
@@ -62,10 +57,8 @@ impl<'a> Scanner<'a> {
         regions
     }
 
-    /// True when a dollar-quoted literal opens and never closes.
-    ///
-    /// Such a literal swallows the rest of the text, so nothing after it is
-    /// live code.
+    /// True when a dollar-quoted literal opens and never closes, swallowing the
+    /// rest of the text.
     #[must_use]
     pub fn has_unterminated_dollar_quote(&self) -> bool {
         let mut index = 0;
@@ -162,11 +155,9 @@ impl<'a> Scanner<'a> {
     /// Re-emits every dollar-quoted literal as a single-quoted one, doubling
     /// any single quote inside it.
     ///
-    /// `$tag$...$tag$` is PostgreSQL syntax with no SQLite counterpart, so a
-    /// dollar-quoted literal surviving into a trigger body made the emitted
-    /// `CREATE TRIGGER` fail to apply. Doubling is the only escape SQLite has.
-    /// Every other quoted span is copied byte for byte, so a `$` inside an
-    /// ordinary string is not mistaken for a delimiter.
+    /// `$tag$...$tag$` has no SQLite counterpart, and doubling is the only
+    /// escape SQLite has. Other quoted spans are copied byte for byte, so a `$`
+    /// inside an ordinary string is not mistaken for a delimiter.
     #[must_use]
     pub fn requote_dollar_literals(&self) -> String {
         let mut out = String::with_capacity(self.text.len());
@@ -201,12 +192,11 @@ fn is_word_byte(byte: Option<u8>) -> bool {
     byte.is_some_and(|byte| byte.is_ascii_alphanumeric() || byte == b'_' || byte == b'$')
 }
 
-/// Length of the single-quoted string starting at the front of `rest`,
-/// including both quotes.
+/// Length of the single-quoted string at the front of `rest`, both quotes
+/// included.
 ///
-/// A doubled quote is an escaped quote and stays inside, which is the case
-/// three of the four replaced scanners got wrong. A backslash escape is honored
-/// too, for `E'...'` strings.
+/// A doubled quote is an escape and stays inside. Backslash escapes are
+/// honored too, for `E'...'` strings.
 fn single_quoted_len(rest: &str) -> usize {
     let bytes = rest.as_bytes();
     let mut index = 1;
@@ -437,7 +427,6 @@ mod tests {
         assert_eq!(regions_of(text)[16], Region::Code);
     }
 
-    /// Found by fuzzing: requoting sliced a backwards range and panicked.
     #[test]
     fn an_unterminated_dollar_quote_requotes_to_the_end() {
         assert_eq!(Scanner::new("$$").requote_dollar_literals(), "''");

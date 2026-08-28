@@ -1,8 +1,5 @@
-//! Preprocessor for PL/pgSQL function bodies.
-//!
-//! Transforms variable assignments (`:=`) into SET statements, extracts DECLARE
-//! blocks, and rewrites SELECT INTO as SET subqueries for sqlparser
-//! compatibility.
+//! Rewrites PL/pgSQL function bodies into shapes sqlparser accepts: `:=`
+//! assignments, DECLARE blocks, and SELECT INTO.
 
 use alloc::{
     format,
@@ -21,11 +18,8 @@ use crate::Error;
 /// Preprocessor for PL/pgSQL function bodies.
 pub struct PlPgSqlPreprocessor;
 
-/// Rewrite a dollar-quoted default as a single-quoted one, which is the only
-/// string literal SQLite has.
-///
-/// Anything else is returned unchanged, so a value that is already a literal or
-/// an expression passes through.
+/// Rewrite a dollar-quoted default as a single-quoted one, the only string
+/// literal SQLite has. Anything else passes through.
 fn single_quoted_default(default: &str) -> String {
     let Some(body) = dollar_quoted_body(default) else {
         return default.to_string();
@@ -49,10 +43,6 @@ fn dollar_quoted_body(text: &str) -> Option<&str> {
 }
 
 /// Refuses a statement that assigns to a qualified target.
-///
-/// # Errors
-///
-/// Returns [`Error::QualifiedAssignment`] with the target parts.
 fn reject_qualified_assignment(statement: &str) -> Result<(), Error> {
     let Some((qualifier, name)) = qualified_assignment_target(statement) else {
         return Ok(());
@@ -63,20 +53,18 @@ fn reject_qualified_assignment(statement: &str) -> Result<(), Error> {
 /// The `(qualifier, name)` a statement assigns to, when its target is
 /// qualified.
 ///
-/// Two rules, because the two spellings carry different evidence. `:=` only
-/// ever assigns in plpgsql, so a qualified name in front of one is conclusive
-/// wherever it sits. A lone `=` also compares, so it counts only where a
-/// statement can start, and no SQL statement opens with a qualified identifier.
+/// `:=` only ever assigns, so a qualified name before one is conclusive
+/// anywhere. A lone `=` also compares, so it counts only where a statement can
+/// start.
 fn qualified_assignment_target(statement: &str) -> Option<(String, String)> {
     qualified_walrus_target(statement).or_else(|| qualified_equals_target(statement))
 }
 
 /// The qualified target of a `:=` assignment anywhere in `statement`.
 ///
-/// The name is read the same way the rewrite below reads it, back from the
-/// operator over identifier characters, so the two agree on what the target is.
-/// A named function argument also spells `:=`, but its name is never qualified,
-/// so it cannot land here.
+/// Read back from the operator exactly as the rewrite reads it, so the two
+/// agree on the target. A named function argument also spells `:=`, but its
+/// name is never qualified.
 fn qualified_walrus_target(statement: &str) -> Option<(String, String)> {
     let mut from = 0;
     while let Some(offset) = Scanner::new(&statement[from..]).find_str_in_code(":=") {
@@ -92,10 +80,9 @@ fn qualified_walrus_target(statement: &str) -> Option<(String, String)> {
 /// The qualified target of a bare `=` assignment at a statement start.
 ///
 /// A statement starts at the front of the chunk or just past `BEGIN`, `THEN`,
-/// `ELSE`, or `LOOP`, since the caller has already split on live semicolons. A
-/// `THEN` or `ELSE` inside an open `CASE` belongs to the expression rather than
-/// to a branch, and skipping those is what keeps
-/// `CASE WHEN c THEN t.n = 1 ELSE FALSE END` a comparison.
+/// `ELSE`, or `LOOP`. A `THEN` or `ELSE` inside an open `CASE` belongs to the
+/// expression, which keeps `CASE WHEN c THEN t.n = 1 ELSE FALSE END` a
+/// comparison.
 fn qualified_equals_target(statement: &str) -> Option<(String, String)> {
     statement_starts(statement)
         .into_iter()
@@ -153,8 +140,8 @@ fn statement_starts(statement: &str) -> Vec<usize> {
 
 /// True for a character an unquoted identifier can carry.
 ///
-/// One definition rather than one per reader, since a byte test and a character
-/// test would disagree the moment a name is not ASCII.
+/// One definition rather than one per reader, since a byte test and a
+/// character test would disagree on a non-ASCII name.
 fn is_identifier_char(character: char) -> bool {
     character.is_alphanumeric() || character == '_'
 }
@@ -162,10 +149,8 @@ fn is_identifier_char(character: char) -> bool {
 /// Where the identifier that ends `text` begins, or `text.len()` when `text`
 /// does not end in one.
 ///
-/// Walks back over characters rather than searching for the last character that
-/// is not an identifier one, because that search returns the offset of a
-/// character and adding one to it lands inside a multi-byte character. Slicing
-/// there panics, which is what a body carrying a non-ASCII name would have hit.
+/// Walks back over characters rather than searching for the last non-identifier
+/// one, whose offset plus one can land inside a multi-byte character.
 fn trailing_identifier_start(text: &str) -> usize {
     text.char_indices()
         .rev()
@@ -184,8 +169,8 @@ fn identifier_end(text: &str, from: usize) -> usize {
 
 /// The first offset at or after `from` that is not ASCII whitespace.
 ///
-/// ASCII rather than Unicode whitespace, since SQL does not treat a
-/// non-breaking space as a separator and neither should this.
+/// ASCII rather than Unicode, since SQL does not treat a non-breaking space as
+/// a separator.
 fn skip_ascii_whitespace(text: &str, from: usize) -> usize {
     text[from..]
         .find(|character: char| !character.is_ascii_whitespace())
@@ -194,9 +179,8 @@ fn skip_ascii_whitespace(text: &str, from: usize) -> usize {
 
 /// Reads `<qualifier>.<name>` followed by a lone `=` at `from`.
 ///
-/// The `=` must stand alone, so `==` and the `=>` that spells a named function
-/// argument are both rejected. A leading `<`, `>`, or `!` would already have
-/// ended the name, so only what follows the `=` needs checking.
+/// The `=` must stand alone, so `==` and the `=>` of a named argument are both
+/// rejected.
 fn qualified_name_at_with_equals(statement: &str, from: usize) -> Option<(String, String)> {
     let qualifier_start = skip_ascii_whitespace(statement, from);
     let qualifier_end = identifier_end(statement, qualifier_start);
@@ -338,16 +322,13 @@ impl PlPgSqlPreprocessor {
     }
 
     fn transform_body(body: &str, context: &PlPgSqlContext) -> Result<String, Error> {
-        // A dollar-quoted literal has no SQLite syntax, so it becomes a
-        // single-quoted one first. Doing it before the keyword rewrites means
-        // every later transform sees an ordinary string it already understands,
-        // rather than a span each would have to learn about separately.
+        // Requoting first means every later transform sees an ordinary string
+        // rather than a span each would have to learn about.
         let mut result = Scanner::new(body).requote_dollar_literals();
 
-        // Transform PostgreSQL ELSIF → ELSEIF (sqlparser uses ELSEIF keyword)
+        // sqlparser spells it ELSEIF.
         result = Self::transform_elsif(&result);
 
-        // Rewrite := assignments as SET statements (standalone assignments only).
         result = Self::transform_assignments(&result, context)?;
 
         result = Self::transform_select_into(&result, context);
@@ -355,8 +336,8 @@ impl PlPgSqlPreprocessor {
         Self::transform_raise_statements(&result)
     }
 
-    /// Rewrites RAISE statements; scans body text directly so RAISE inside
-    /// IF/THEN blocks is transformed too.
+    /// Rewrites RAISE statements, scanning body text directly so one inside an
+    /// IF or THEN block is transformed too.
     ///
     /// # Errors
     ///
@@ -394,16 +375,13 @@ impl PlPgSqlPreprocessor {
                     .unwrap_or(rest.len());
                 (len, false)
             } else {
-                // Not a recognized RAISE level - pass through unchanged
                 result.push_str(&body[search_from..after_raise_start]);
                 search_from = after_raise_start;
                 continue;
             };
 
-            // Emit everything before this RAISE
             result.push_str(&body[search_from..raise_pos]);
 
-            // Find the semicolon that ends this RAISE statement
             let after_level = after_raise_start + level_bytes;
             let stmt_end =
                 Self::find_unquoted_semicolon(&body[after_level..]).map(|p| after_level + p);
@@ -419,10 +397,9 @@ impl PlPgSqlPreprocessor {
                 result.push_str("SELECT RAISE(ABORT, ");
                 result.push_str(&msg);
                 result.push(')');
-                // Keep the semicolon
                 result.push(';');
             }
-            // else: informational - drop entirely (emit nothing)
+            // Informational levels are dropped.
 
             search_from = stmt_end.map_or(body.len(), |end| end + 1);
         }
@@ -453,11 +430,10 @@ impl PlPgSqlPreprocessor {
     fn extract_first_string_literal(args: &str) -> &str {
         let trimmed = args.trim();
         if let Some(stripped) = trimmed.strip_prefix('\'') {
-            // Find the closing quote, respecting escaped '' pairs
+            // A doubled quote is an escape, not the close.
             let mut chars = stripped.char_indices();
             while let Some((i, c)) = chars.next() {
                 if c == '\'' {
-                    // Check for '' escape
                     match chars.next() {
                         Some((_, '\'')) => {}          // escaped quote, keep going
                         _ => return &trimmed[..i + 2], // +1 for opening quote, +1 for closing
@@ -465,7 +441,6 @@ impl PlPgSqlPreprocessor {
                 }
             }
         }
-        // Fallback: take up to first comma (or whole thing)
         match args.find(',') {
             Some(p) => args[..p].trim(),
             None => args.trim(),
@@ -838,8 +813,7 @@ impl PlPgSqlPreprocessor {
         let var_name = line[..assign_pos].trim();
         let expression = line[assign_pos + 2..].trim();
 
-        // Verify it's a declared variable (or looks like one - starts with letter,
-        // contains only valid chars)
+        // A name is valid when it could be an identifier at all.
         let is_valid_var = var_name.chars().all(|c| c.is_alphanumeric() || c == '_')
             && var_name
                 .chars()
@@ -1120,8 +1094,6 @@ END";
         assert_eq!(plain.as_deref(), Some("42"));
     }
 
-    /// Found by fuzzing: the byte after `RAISE` was assumed to be one byte
-    /// wide, so a multi-byte character there split a slice.
     #[test]
     fn raise_followed_by_a_multibyte_character_is_passed_through() {
         let body = "BEGIN\n  RAISE\u{e9};\nEND";
