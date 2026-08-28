@@ -269,6 +269,8 @@ impl PlPgSqlPreprocessor {
         let begin_pos = scanner.find_keyword("BEGIN", 0);
 
         match (declare_pos, begin_pos) {
+            // MUTANT: equivalent: `<=` cannot differ, since DECLARE and BEGIN
+            // are different keywords and never share an offset.
             (Some(d), Some(b)) if d < b => (
                 Some(body[d + "DECLARE".len()..b].trim().to_string()),
                 body[b..].to_string(),
@@ -370,6 +372,8 @@ impl PlPgSqlPreprocessor {
                 || Self::starts_with_ignoring_case(rest, "DEBUG")
                 || Self::starts_with_ignoring_case(rest, "LOG")
             {
+                // MUTANT: equivalent: `!=` only shifts where an informational
+                // level ends, and the whole statement is dropped either way.
                 let len = rest
                     .find(|c: char| c.is_whitespace() || c == ';')
                     .unwrap_or(rest.len());
@@ -579,6 +583,8 @@ impl PlPgSqlPreprocessor {
         let from_pos = Self::find_top_level_keyword(stmt, "FROM", into_pos);
 
         // A WITH prefix belongs inside each generated subquery.
+        // MUTANT: equivalent: `<=` cannot differ, since WITH and SELECT are
+        // different keywords and never share an offset.
         let with_pos = Self::find_top_level_keyword(stmt, "WITH", 0).filter(|w| *w < select_pos);
         let prefix = &stmt[..with_pos.unwrap_or(select_pos)];
         let with_part = with_pos.map_or("", |w| &stmt[w..select_pos]);
@@ -1160,10 +1166,150 @@ END";
         ));
     }
 
+    fn preprocessed(body: &str) -> String {
+        PlPgSqlPreprocessor::preprocess(body).expect("preprocess").0
+    }
+
+    /// A `=` inside an open CASE is a comparison, not an assignment target.
+    #[test]
+    fn a_qualified_equals_inside_a_case_is_a_comparison() {
+        let body = "BEGIN\n  v := CASE WHEN a THEN t.n = 1 ELSE FALSE END;\nEND";
+        assert!(PlPgSqlPreprocessor::preprocess(body).is_ok());
+    }
+
+    #[test]
+    fn a_qualified_equals_after_then_is_refused() {
+        assert!(matches!(
+            PlPgSqlPreprocessor::preprocess("BEGIN\n  IF a THEN NEW.col = 1;\n  END IF;\nEND")
+                .unwrap_err(),
+            Error::QualifiedAssignment { .. }
+        ));
+    }
+
+    #[test]
+    fn a_qualified_comparison_operator_is_not_an_assignment() {
+        assert!(PlPgSqlPreprocessor::preprocess("BEGIN\n  IF NEW.col == 1 THEN x;\nEND").is_ok());
+        assert!(PlPgSqlPreprocessor::preprocess("BEGIN\n  IF NEW.col => 1 THEN x;\nEND").is_ok());
+    }
+
+    #[test]
+    fn every_informational_raise_level_is_dropped() {
+        for body in [
+            "BEGIN\n  RAISE INFO 'x';\n  RETURN NEW;\nEND",
+            "BEGIN\n  RAISE INFO\n    'x';\n  RETURN NEW;\nEND",
+            "BEGIN\n  RAISE INFO;\n  RETURN NEW;\nEND",
+            "BEGIN\n  RAISE DEBUG 'x';\n  RETURN NEW;\nEND",
+            "BEGIN\n  RAISE LOG 'x';\n  RETURN NEW;\nEND",
+            "BEGIN\n  RAISE WARNING 'x';\n  RETURN NEW;\nEND",
+        ] {
+            let out = preprocessed(body);
+            assert!(!out.to_uppercase().contains("RAISE"), "not dropped: {out}");
+            assert!(out.contains("RETURN NEW"), "lost the tail: {out}");
+        }
+    }
+
+    /// Dropping a RAISE consumes its terminating semicolon and nothing else.
+    #[test]
+    fn dropping_a_raise_consumes_exactly_its_semicolon() {
+        let out = preprocessed("BEGIN\n  RAISE NOTICE 'x';\n  RETURN NEW;\nEND");
+        assert_eq!(out.matches(';').count(), 1, "stray semicolon: {out}");
+    }
+
     proptest! {
         #[test]
         fn exception_handler_detection_never_panics(s in ".*") {
             let _ = PlPgSqlPreprocessor::has_exception_handler(&s);
         }
+    }
+    #[test]
+    fn select_into_becomes_one_set_per_variable() {
+        assert_eq!(
+            preprocessed("BEGIN\n  SELECT a, b INTO x, y FROM t;\nEND"),
+            "BEGIN\n  SET x = (SELECT a FROM t LIMIT 1);\n  SET y = (SELECT b FROM t LIMIT 1);\nEND"
+        );
+    }
+
+    /// A leading CTE belongs inside every generated subquery.
+    #[test]
+    fn a_with_prefix_moves_into_the_subquery() {
+        assert_eq!(
+            preprocessed("BEGIN\n  WITH c AS (SELECT 1) SELECT a INTO x FROM c;\nEND"),
+            "BEGIN\n  SET x = (WITH c AS (SELECT 1) SELECT a FROM c LIMIT 1);\nEND"
+        );
+    }
+
+    /// Shapes with no SET spelling are left for the body translator to refuse.
+    #[test]
+    fn select_into_is_left_alone_when_it_cannot_be_rewritten() {
+        for body in [
+            "BEGIN\n  SELECT a, b INTO v FROM t;\nEND",
+            "BEGIN\n  SELECT a INTO STRICT v FROM t;\nEND",
+        ] {
+            assert_eq!(preprocessed(body), body, "should pass through");
+        }
+    }
+
+    #[test]
+    fn a_qualified_comparison_operator_at_a_statement_start_is_not_an_assignment() {
+        assert!(PlPgSqlPreprocessor::preprocess("BEGIN\n  NEW.col == 1;\nEND").is_ok());
+        assert!(PlPgSqlPreprocessor::preprocess("BEGIN\n  NEW.col => 1;\nEND").is_ok());
+    }
+    #[test]
+    fn declare_is_only_a_block_when_it_precedes_begin() {
+        let (decls, body) =
+            PlPgSqlPreprocessor::split_declare_and_body("DECLARE\n  v INT;\nBEGIN\n  x;\nEND");
+        assert_eq!(decls.as_deref(), Some("v INT;"));
+        assert_eq!(body, "BEGIN\n  x;\nEND");
+
+        let (none, from_begin) =
+            PlPgSqlPreprocessor::split_declare_and_body("\n  BEGIN\n  x;\nEND");
+        assert!(none.is_none());
+        assert_eq!(
+            from_begin, "BEGIN\n  x;\nEND",
+            "text before BEGIN is dropped"
+        );
+
+        let (after, whole) =
+            PlPgSqlPreprocessor::split_declare_and_body("BEGIN\n  DECLARE x;\nEND");
+        assert!(after.is_none(), "DECLARE after BEGIN is not a block");
+        assert_eq!(whole, "BEGIN\n  DECLARE x;\nEND");
+    }
+
+    #[test]
+    fn a_doubled_quote_stays_inside_a_raise_message() {
+        let out = preprocessed("BEGIN\n  RAISE EXCEPTION 'it''s';\nEND");
+        assert!(out.contains("'it''s'"), "literal was cut short: {out}");
+    }
+
+    #[test]
+    fn raise_using_message_is_extracted_and_other_clauses_refused() {
+        let out = preprocessed("BEGIN\n  RAISE EXCEPTION USING MESSAGE = 'boom';\nEND");
+        assert!(out.contains("'boom'"), "message not used: {out}");
+
+        assert!(matches!(
+            PlPgSqlPreprocessor::preprocess("BEGIN\n  RAISE EXCEPTION USING DETAIL = 'x';\nEND")
+                .unwrap_err(),
+            Error::UnsupportedRaiseUsing { .. }
+        ));
+    }
+
+    /// A semicolon or comma inside a literal must not split anything.
+    #[test]
+    fn punctuation_inside_a_literal_does_not_split() {
+        assert_eq!(
+            preprocessed("BEGIN\n  SELECT 'a;b' INTO x FROM t;\nEND"),
+            "BEGIN\n  SET x = (SELECT 'a;b' FROM t LIMIT 1);\nEND"
+        );
+        assert_eq!(
+            preprocessed("BEGIN\n  SELECT 'a,b' INTO x FROM t;\nEND"),
+            "BEGIN\n  SET x = (SELECT 'a,b' FROM t LIMIT 1);\nEND"
+        );
+    }
+
+    #[test]
+    fn a_keyword_inside_a_quoted_span_is_never_top_level() {
+        let find = PlPgSqlPreprocessor::find_top_level_keyword;
+        assert_eq!(find("SELECT 'x INTO' FROM t", "INTO", 0), None);
+        assert_eq!(find("SELECT \"x INTO\" FROM t", "INTO", 0), None);
     }
 }
