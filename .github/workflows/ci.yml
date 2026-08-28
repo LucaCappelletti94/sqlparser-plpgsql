@@ -6,6 +6,29 @@ on:
     branches: [main]
 
 jobs:
+  check:
+    name: Test, lint and document
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Format
+        run: cargo fmt --all -- --check
+
+      - name: Clippy
+        run: cargo clippy --all-targets --all-features -- -D warnings
+
+      - name: Test
+        run: cargo test --release --all-features
+
+      # Requirement D: body parsing must build without std. This compiles but
+      # runs nothing, because every test module is gated on the std feature.
+      - name: Build without std
+        run: cargo test --release --no-default-features --features body-parse
+
+      - name: Document
+        run: cargo doc --no-deps
+
   fuzz-corpus:
     name: Fuzz corpus regression
     runs-on: ubuntu-latest
