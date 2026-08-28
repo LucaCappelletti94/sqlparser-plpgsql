@@ -1,4 +1,4 @@
-//! Lexical scanner, preprocessor, and body parser for PL/pgSQL function bodies.
+#![doc = include_str!("../README.md")]
 #![no_std]
 extern crate alloc;
 

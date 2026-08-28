@@ -1,2 +1,41 @@
 # sqlparser-plpgsql
-PL/pgSQL scanning, preprocessing, and body parsing for sqlparser-rs.
+
+[![CI](https://github.com/LucaCappelletti94/sqlparser-plpgsql/actions/workflows/ci.yml/badge.svg)](https://github.com/LucaCappelletti94/sqlparser-plpgsql/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LucaCappelletti94/sqlparser-plpgsql/blob/main/LICENSE)
+
+Reading a PL/pgSQL function body means knowing which bytes are live code and which sit inside a string, a comment, or a dollar-quoted literal. Every transform here shares one scanner that answers exactly that, so a keyword inside a literal is never mistaken for a keyword. The crate is `no_std`, needing only `alloc`.
+
+`Scanner` classifies each byte and searches only the live parts.
+
+```rust
+use sqlparser_plpgsql::Scanner;
+
+let body = "IF x THEN y := 'THEN inside a string'; END IF";
+let scanner = Scanner::new(body);
+
+assert_eq!(scanner.find_keyword("THEN", 0), Some(5));
+assert_eq!(scanner.find_keyword("THEN", 6), None);
+```
+
+Dollar-quoted literals have no SQLite spelling, so they are re-emitted as ordinary single-quoted ones with any inner quote doubled.
+
+```rust
+use sqlparser_plpgsql::Scanner;
+
+let scanner = Scanner::new("msg := $tag$it's here$tag$");
+assert_eq!(scanner.requote_dollar_literals(), "msg := 'it''s here'");
+```
+
+`PlPgSqlPreprocessor` rewrites a whole body into shapes a SQL parser accepts, turning `:=` assignments into `SET`, lifting `DECLARE` defaults into a context, and folding `SELECT INTO` into scalar subqueries. It returns that context alongside the rewritten text.
+
+```rust
+use sqlparser_plpgsql::PlPgSqlPreprocessor;
+
+let (sql, _context) = PlPgSqlPreprocessor::preprocess("BEGIN\n  total := 1;\nEND")
+    .expect("a body with no qualified assignment");
+assert_eq!(sql, "BEGIN\n  SET total = 1;\nEND");
+```
+
+Enabling the `body-parse` feature adds `parse_body`, which preprocesses, tokenizes, and parses a body into a `sqlparser` `BeginEndStatements`, refusing the shapes that cannot survive the trip: an exception handler, an unterminated dollar quote, or a missing `BEGIN` or `END`.
+
+Licensed under the MIT license.
