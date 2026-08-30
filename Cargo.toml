@@ -5,6 +5,9 @@ edition = "2024"
 rust-version = "1.88"
 license = "MIT"
 description = "Lexical scanner, preprocessor, and body parser for PL/pgSQL function bodies."
+repository = "https://github.com/LucaCappelletti94/sqlparser-plpgsql"
+homepage = "https://github.com/LucaCappelletti94/sqlparser-plpgsql"
+documentation = "https://docs.rs/sqlparser-plpgsql"
 
 [dependencies]
 sqlparser = { git = "https://github.com/apache/datafusion-sqlparser-rs", branch = "main", default-features = false }
