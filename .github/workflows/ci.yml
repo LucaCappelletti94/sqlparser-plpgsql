@@ -84,3 +84,22 @@ jobs:
           token: ${{ secrets.CODECOV_TOKEN }}
           files: lcov.info
           fail_ci_if_error: true
+
+  msrv:
+    name: Minimum supported Rust version
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Must track `rust-version` in Cargo.toml. A floor nothing builds against
+      # is a claim, not a guarantee.
+      - name: Install the declared floor
+        uses: dtolnay/rust-toolchain@master
+        with:
+          toolchain: "1.88"
+
+      - name: Test
+        run: cargo test --all-targets --all-features
+
+      - name: Test without std
+        run: cargo test --all-targets --no-default-features --features body-parse
