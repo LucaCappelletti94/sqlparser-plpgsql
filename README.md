@@ -1,6 +1,7 @@
 # sqlparser-plpgsql
 
 [![CI](https://github.com/LucaCappelletti94/sqlparser-plpgsql/actions/workflows/ci.yml/badge.svg)](https://github.com/LucaCappelletti94/sqlparser-plpgsql/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/LucaCappelletti94/sqlparser-plpgsql/graph/badge.svg)](https://codecov.io/gh/LucaCappelletti94/sqlparser-plpgsql)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LucaCappelletti94/sqlparser-plpgsql/blob/main/LICENSE)
 [![crates.io](https://img.shields.io/crates/v/sqlparser-plpgsql.svg)](https://crates.io/crates/sqlparser-plpgsql)
 [![docs.rs](https://docs.rs/sqlparser-plpgsql/badge.svg)](https://docs.rs/sqlparser-plpgsql)
