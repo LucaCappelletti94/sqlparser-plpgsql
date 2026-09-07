@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LucaCappelletti94/sqlparser-plpgsql/blob/main/LICENSE)
 [![crates.io](https://img.shields.io/crates/v/sqlparser-plpgsql.svg)](https://crates.io/crates/sqlparser-plpgsql)
 [![docs.rs](https://docs.rs/sqlparser-plpgsql/badge.svg)](https://docs.rs/sqlparser-plpgsql)
+[![Codacy](https://app.codacy.com/project/badge/Grade/b37765c04f474c72b46dd13172673581)](https://app.codacy.com/gh/LucaCappelletti94/sqlparser-plpgsql/dashboard)
 
 Reading a PL/pgSQL function body means knowing which bytes are live code and which sit inside a string, a comment, or a dollar-quoted literal. Every transform here shares one scanner that answers exactly that, so a keyword inside a literal is never mistaken for a keyword. The crate is `no_std`, needing only `alloc`.
 
