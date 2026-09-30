@@ -707,8 +707,8 @@ checksum = "0c790de23124f9ab44544d7ac05d60440adc586479ce501c1d6d7da3cd8c9cf5"
 
 [[package]]
 name = "sqlparser"
-version = "0.62.0"
-source = "git+https://github.com/apache/datafusion-sqlparser-rs?branch=main#75a1040597fd6233f24a6b41641b360e30fb01b9"
+version = "0.63.0"
+source = "git+https://github.com/apache/datafusion-sqlparser-rs?branch=main#5cad9060d38229ebf22a3b8625c685d5ad8552db"
 dependencies = [
  "log",
  "recursive",
