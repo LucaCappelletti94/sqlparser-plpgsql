@@ -1,0 +1,2 @@
+ CT id, parent_id FROM tree_n              
+BEGIN

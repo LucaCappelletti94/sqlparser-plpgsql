@@ -1,0 +1,6 @@
+
+DECLARE
+    newew_id TEXT;
+BEGIN
+    new_id := ge, to`_id T  NEW;
+END;

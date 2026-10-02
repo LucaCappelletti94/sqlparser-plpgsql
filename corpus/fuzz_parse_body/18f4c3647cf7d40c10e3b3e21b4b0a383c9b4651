@@ -1,0 +1,4 @@
+
+BEGIN
+  <= 0IF og (acti NEW;
+END;

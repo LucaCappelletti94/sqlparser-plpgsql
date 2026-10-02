@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE chent_group_id = OLD.group_id
+       $UNIOroups WHERE      $UNION ALL
+        SELECT g.id FROM gqqqqqqqqqqqqqqqTURN OLD;
+END;

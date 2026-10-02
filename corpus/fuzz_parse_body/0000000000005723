@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE
+BEGIN
+	INSERT INTO child_groups AS (
+        S ELECT iers W;(id) V>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.>>>>>>>>>>>>>>>>>>>-->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>ALUES (NEW.id);
+	RETU#RN NEW;ttttttttttttttttttttttttttttttttttttttttttttttttd FROM grouowners (itttttttttttttttttttttttttttttttd FROM grouowners (id)ps 

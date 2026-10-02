@@ -1,0 +1,6 @@
+:ECLARE
+    new_id tEXT;
+BEGIN
+    new_id :\\\\\\\\\\ VALUES (new_id, NEW.id, 'created\);
+    RETURN NEW;
+END;

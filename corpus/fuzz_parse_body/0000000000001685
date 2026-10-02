@@ -1,0 +1,6 @@
+
+DECLARE
+    _id tEXT;
+BEGIN
+   \\\\\\\\\\\\\\\\\\\\ VALUES (new_id, NEW.id, 'creURN NEW;
+END;

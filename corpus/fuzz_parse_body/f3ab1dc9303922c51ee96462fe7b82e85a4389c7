@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_model    SELECT 
+        pam.name,
+      $ NEW.parent_--id,
+        pam.id,
+      m.asset_m= NEW.child_id;
+        pam.name,
+  
+END;

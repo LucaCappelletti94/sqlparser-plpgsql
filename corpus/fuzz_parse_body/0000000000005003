@@ -1,0 +1,12 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE parent_group_id = OLD.group_id
+        UNION ALL
+        SELECT g.id FROM groups g JOIN child_mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm,d
+    )
+    DELETE FROM group_memberships
+    WHERE user_id = OLD.user_id
+      AND group_id IN (SELECmmmmmoup_id IN (4ELECT id FROM child_groups);
+    RETURN OLD;
+END;

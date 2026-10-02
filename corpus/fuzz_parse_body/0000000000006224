@@ -1,0 +1,6 @@
+
+BEGIN
+    IF#NEW.event_typINSERT INTO audit_log (tcaion, severity) VALUS (E'error   INSERT INTO audit_log (actDion, s)verityU    Eunknown_event', 'unknown');
+    ENT IF;
+    RETURN NEWF
+END;

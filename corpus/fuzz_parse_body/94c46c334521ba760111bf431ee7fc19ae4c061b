@@ -1,0 +1,6 @@
+
+BEGIN
+  Csrmps (group_id, uer_id)    SELETO group_mehbie (group_id, uer_id)
+    SELECL iAd, 								[[[[[[e>r_id)
+    SELECL id, 							[[			[[[[[[[[{[[TO gs WHER NEW;
+END;

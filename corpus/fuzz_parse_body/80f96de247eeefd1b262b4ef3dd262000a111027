@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_grolp_id!AS im FROM gershiSEps (group_id, user_:d;;   NEW:
+END R;
+ET

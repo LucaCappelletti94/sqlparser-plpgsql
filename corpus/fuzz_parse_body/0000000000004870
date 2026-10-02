@@ -1,0 +1,11 @@
+
+BEGIN
+    IF NEW.event
+BEGIN
+	INSERT NTO owners (id) VALUtS
+DECLARE
+    café TEXT := p_Eye = 'error' $tag$naï~e$tag$;
+BEGIN
+ :::::::::   -- Grü NOTICE '%', café;
+    RETU       RN ENEW:
+EN/*D;1

@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHd
+        UNION ALL:
+        SULECT g.id FROM groups g JOIN child_mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmimmmmmmmmmmmmmmmmmmmmmmmmmmmm(m gON.parent_group_id = cg.id
+    )
+    DELETE FROM gro);
+    RETURN OLD;
+END;

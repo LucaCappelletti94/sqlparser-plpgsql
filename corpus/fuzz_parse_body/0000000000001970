@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (   id FROM groups W+ERE parent_groufp_id = O
+DECww=[OLD.user_id
+      AND group_id IN[BEGMN
+  RA+++++++ENDd_groups);
+    Roups);
+    RETURN: OLD;
+END;

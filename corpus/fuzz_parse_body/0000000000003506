@@ -1,0 +1,7 @@
+
+BEGIN
+   
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent_id FROM mhain c JOIN tree_nodes ~ ON c.par NEW;
+END;

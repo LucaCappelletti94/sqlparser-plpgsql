@@ -1,0 +1,6 @@
+
+DECLARE
+    n<EXT;
+BEGIN
+    new_iew_d := ge, to`_id T  NEW;
+END;

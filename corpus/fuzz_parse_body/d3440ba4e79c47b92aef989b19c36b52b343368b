@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURes (parent_id, child_id)
+    VALUES (NEW.parNFLICT id, _iihdldc)
+    V&id, NEredecesso$r
+O;END;

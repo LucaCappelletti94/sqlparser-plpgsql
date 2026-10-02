@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, pFROM tree_nodes WHERE id = NEW.i[
+     0000rent_id FROM cECT NE;
+
+    RETURN NEW;
+END;

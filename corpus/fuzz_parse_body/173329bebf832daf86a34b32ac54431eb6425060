@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.eUE@@@@@@@@@@@@@@@@@@@@@@@@@@@vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv@@@@@vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvVvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv@@@@@vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvVvvvvvvvvvvvvvvvvv@@@@@@@@@@@@@A@@@@@@@@@@@@  ENT IF;
+    RETRUN NEW;
+END;

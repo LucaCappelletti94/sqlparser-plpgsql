@@ -1,0 +1,9 @@
+
+DECLARE
+    café TEXT := $tag$naïve$tag$;
+BEIG JN   -- 
+BEGIN
+    IF$ NEW.event
+BEGIN
+ve$t         Grüße 世界
+   af 

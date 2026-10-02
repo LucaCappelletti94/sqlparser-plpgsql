@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_group_idS (
+        S (
+        Sent use    RETUNR NEW;
+END;

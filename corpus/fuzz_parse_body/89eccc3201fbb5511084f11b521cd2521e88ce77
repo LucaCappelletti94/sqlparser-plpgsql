@@ -1,0 +1,5 @@
+
+BEGIN
+    /* uter /* inner */ outer */
+    RETURN W?
+END;

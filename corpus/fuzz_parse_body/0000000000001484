@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_   WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT M mhain c JOINERT INTO node_ancestors (node_id, ancarent_
+
+    RETURN NEW;
+END;

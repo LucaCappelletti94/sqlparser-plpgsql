@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE c--in AS (
+        SELECT id, parent_id FROM tree_nodes OFdRi  chain _HERIVE_ghild_groups AS (
+        SELCT id ;
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+  Csrmps (group_id, uer_id)
+    SELECT id, 					   )TO group_mehbie (group_id, uer_id)
+    SELECL id, 								[[[[[[e>r_id)
+    SELECL id, 								[[[[[[[[{[[[[[[[[[[														NEW.user_)
+    INS		ERT INTO gs WHER NEW;
+END;

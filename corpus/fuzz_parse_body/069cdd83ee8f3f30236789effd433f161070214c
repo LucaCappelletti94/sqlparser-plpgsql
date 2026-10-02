@@ -1,0 +1,9 @@
+ 
+BEGIN
+    INsERT IXNTO proc SELECT 
+        pam.name,
+        NEW.parent_id,
+ -       pam.d-- NEW.child_id;
+ .   
+!   RETURN ;NEW
+END;

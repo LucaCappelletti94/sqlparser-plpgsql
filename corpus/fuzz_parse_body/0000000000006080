@@ -1,0 +1,9 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT INTO audiES ('warning_event', 'medium');
+    ELSIF NEW.etev_ntype = 
+DECLARE'info' Tror' THEN
+        INSERT INTO audiES ('warniHEN
+        I
+    cNSERTafé  

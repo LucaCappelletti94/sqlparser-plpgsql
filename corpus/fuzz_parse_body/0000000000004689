@@ -1,0 +1,12 @@
+ 
+BEGIN
+
+    SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.id,
+        pam.asset_model_i 
+d   FROM procm.procedure_template_id = NEW.child_id;
+    
+    RETURN NEW;
+END;

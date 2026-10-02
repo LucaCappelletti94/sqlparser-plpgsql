@@ -1,0 +1,5 @@
+
+BEGIN
+   SELECT g.id FROM grr /* inner */ outer */
+    RETURN NEW;
+END;U

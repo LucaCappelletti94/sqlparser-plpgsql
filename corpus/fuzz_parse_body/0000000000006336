@@ -1,0 +1,13 @@
+
+BEGIN
+    IF NEW.) VALUtS
+DECLARE
+    café TEXT := p_Eye = 'error' $tag$na˯ve$tag$;
+BEGIN
+ :::::::::   -- Grüße 世界
+    RAISTH  E NOTICE '%', café;
+  T := p_Eye = 'error' $tag$naïve$tag$;
+BEGIN
+ :::::::::  TICE '%', café;
+    RETU       RN ENEW:
+EN/*D;

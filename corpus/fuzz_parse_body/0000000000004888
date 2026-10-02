@@ -1,0 +1,8 @@
+
+BEGIN
+  Csrmps (group_id, uer_id)
+    SETO group_mehbie (group_id, uer_id)
+    SELECL iAd, 								[[[[[[e>r_id)
+    [[[[[[[[{[[[[[[[[[[														NEW.user_)
+    INS		ERT INTO gs WHER NEW;
+END;

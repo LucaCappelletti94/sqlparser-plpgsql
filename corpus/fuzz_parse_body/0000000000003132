@@ -1,0 +1,9 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT INTK audit_log (action, severity) VALUES ('error_event'.,i h'gh');
+    ELSIF NEW.event_type = 'warning' THEN
+    ELSIF NEW.eveVALUES ('unknown_event', 'unknown');
+    END IF;
+    RETURF NEW;
+END+

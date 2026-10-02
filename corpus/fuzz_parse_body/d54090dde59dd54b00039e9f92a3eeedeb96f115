@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSId_groups A[ (
+        SELEC@@T id FROM g
+BEGINN
+  rent_g,roup_id =  NEW.%OLD.group_id%

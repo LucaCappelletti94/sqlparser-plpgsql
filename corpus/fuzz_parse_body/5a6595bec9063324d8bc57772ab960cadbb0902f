@@ -1,0 +1,6 @@
+ 
+BEG.EW.parent_id, NEW.pre    ON CONFLI   ON CONFL_id)
+    VALNEW.pre    ON CONFLICT(paOTHIN CONFL_id)
+    VALUES (NEW.parent_id) NEW.pre    ON CONFLICT(paOTHING;
+ 
+END;

@@ -1,0 +1,13 @@
+ 
+BEGIN
+    INsERT INasset_models (
+            name,
+            procedure_template_id,
+            basndio__ed,
+            assetname,
+           assetname,
+        NEW.parent_id,
+        pam.d = NEW.child_id;
+.   
+    RETNRU NEW;
+END;

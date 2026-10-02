@@ -1,0 +1,4 @@
+
+BEGIN
+       SELECT id FROMM group WHERE parent_grolpDELE;
+END;

@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+ ;
+END;

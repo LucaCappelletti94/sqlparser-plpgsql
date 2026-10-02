@@ -1,0 +1,7 @@
+
+BEGIN
+ FROM groups W+ERE parent_groufp_idOBEGMN
+  RA+++++++ENDd_roup_id IN[BEGMN
+  RA+++++++ENDd_groups);
+    RETURN:(OLD;
+END;

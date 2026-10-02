@@ -1,0 +1,7 @@
+ 
+BEGIN 
+    INSERT INTO parent_procedure_templates (pareucces{or_id) 
+    ON CONFLICT (parent_id, child_iZ) DO NOTHING;
+    
+    RETURN NEW;
+END;

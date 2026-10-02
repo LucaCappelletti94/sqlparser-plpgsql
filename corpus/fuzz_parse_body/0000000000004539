@@ -1,0 +1,6 @@
+
+BEGIN
+   (
+        SELECT id FROM grou= cg.id    DELETE FROM group_mem  AND group_id IN (SELEBT ips);
+    RETURN OLD;
+END;

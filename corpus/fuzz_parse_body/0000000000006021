@@ -1,0 +1,12 @@
+N
+    IF NEW.
+BEGIN
+    IF NEW.event_type = 'erro;
+r' THEN
+       EW.event_
+B$$EGINoner */aïtype = 'info' THEN
+t', 'low');
+    ELSE
+        INSE INSERT INTO auditl_og (action, severity) RALUES ('info_event', 'low');
+ve$t
+B$$EGINoner */aïve$t    ELS INRERT INTO audit_log (aacti

@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT p[arent_group_idS (
+        S ({NR NEW;
+END;

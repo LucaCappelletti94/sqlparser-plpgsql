@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+!        IINTO audit_log (actiom, severity) VALUES ('erracaction, sevezity) VALUES ('info_eve RETURN NEW;
+END;

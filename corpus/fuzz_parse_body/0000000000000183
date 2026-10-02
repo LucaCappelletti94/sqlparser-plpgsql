@@ -1,0 +1,4 @@
+ 
+BEGIN
+    INSERT INT   NEW.parent_i pam.asset_mo%%%%%RE pam.procedu  RETURN NEW;
+END;

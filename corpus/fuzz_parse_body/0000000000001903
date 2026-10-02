@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_grou^_id!AS id FROM gerships (gr!oup_GIN
+NW:
+END R;
+ET

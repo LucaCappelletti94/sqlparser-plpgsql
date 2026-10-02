@@ -1,0 +1,6 @@
+
+BEGIN
+	INSERTR INTO owners (id) VALUES (NEW.id);
+	RETURN NEW;tttjttES (NEW.id);
+	REtttttttt
+END;

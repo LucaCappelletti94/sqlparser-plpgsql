@@ -1,0 +1,20 @@
+
+BEGIN
+	***********************0:=***********************SEé;
+EEé;
+E=NN
+0 RAISEé;
+EEé;
+E=N@Eé;
+E=NI*
+;
+E=NI*
+0 RAISEé;
+EEé;
+E=N;
+E=N@Eé;
+E=ND child_groups cg ON g.parent_group_id = cg.id
+    )
+    DELETE FROM group_memberships
+    WHERE usetttttttttttttt
+END;

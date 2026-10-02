@@ -1,0 +1,20 @@
+
+BEGIN
+ VALUESBEGIN
+ VALUES (NEW.id);
+	RETURNEGIN
+ VALUES (NEW.id);
+	BEGIN
+ VALUES (NEW.id);
+	RETURNEGIN
+ VALUES (NEW.id);
+	RETURNEGIN
+ V
+DECLARETURNEGIN
+ V
+DECLARE
+    new_id RT ITO todo_history (id, todo_id, action)
+    VALUES (new_id, NEW.id, 'created');
+    RETURN 
+NEW;
+END;

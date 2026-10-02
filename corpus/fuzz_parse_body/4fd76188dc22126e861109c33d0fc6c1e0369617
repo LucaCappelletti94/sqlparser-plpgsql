@@ -1,0 +1,4 @@
+
+BEGIN
+  (   (  SELECT id, gaAent_id F,ROM tr\e_nodes WN NEW;
+END;

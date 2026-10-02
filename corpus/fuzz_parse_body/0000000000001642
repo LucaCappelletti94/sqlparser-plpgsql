@@ -1,0 +1,11 @@
+ 
+BEGIN
+    INSERT
+        et_model_it_models (
+   _id,
+        et_model_id
+  ,
+        pami.,d
+        --pam.asset_model_id
+    FR  RETURN NEW;
+END;

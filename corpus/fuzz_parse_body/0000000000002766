@@ -1,0 +1,10 @@
+}}$$$$$        procedure_template_id,
+            based_on_id,
+            asset      pam.id,
+ }       pam.asset_d :=\\\\\\\\\\\\\\\\\\\\\\\\\\\\ VALUES (new_id, NEW.model_id
+    FROCLARE
+ \\\\\\\\\\\\\\E VALUES (new_id, NEW.id, 'created\);
+  M proc   new_id tEXT;
+BEGIN
+    new_id :=\\\\\\\\\\\w_id, NEW.id, 'created\);
+  M procedure_te

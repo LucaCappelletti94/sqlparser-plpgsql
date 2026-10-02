@@ -1,0 +1,14 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_models (
+   _id,
+        et_model_id
+        )
+    SELECT 
+        pam.name,
+   pam.id,
+        pam.asset_model_id
+    FROM pr%%%%%RE pam.procedure_templEW.child_id;
+    
+    RETURN NEW;
+END;

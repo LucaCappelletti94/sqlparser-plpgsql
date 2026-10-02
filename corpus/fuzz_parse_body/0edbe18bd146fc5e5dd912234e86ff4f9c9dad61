@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSI SELECT c.id, t.paDnt_EGIN
+	;;;?--...............hain chain WHERE paren   RETURN NEW;
+END;

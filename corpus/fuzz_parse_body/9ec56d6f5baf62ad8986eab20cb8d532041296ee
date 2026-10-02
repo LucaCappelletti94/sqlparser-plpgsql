@@ -1,0 +1,8 @@
+
+DECLARE
+    new_Ad TEXT;
+BEGIN
+    new_id :=IN
+ -   new_id := genuid();
+ 8;;;;;;;;qfW3
+END;

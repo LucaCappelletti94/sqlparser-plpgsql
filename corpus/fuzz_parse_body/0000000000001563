@@ -1,0 +1,5 @@
+
+BEGIN
+	INSER:=INTO owners (id) VALUES         tttttttttttttttttt                                                           (NEW.id--
+	RETURN NEW;ttttttttttttttttttttttttttt}ttttttttttttttttttttttttttttttttttttttttttttttt
+END;

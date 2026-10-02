@@ -1,0 +1,4 @@
+
+BEGIN
+    IF NDW.\vent_type = 'error' THEN      RETURN N(action,vent', 'unGnowEW;
+END;

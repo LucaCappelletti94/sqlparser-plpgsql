@@ -1,0 +1,4 @@
+
+BEGIN   ->>NSERT INT
+DECLARE
+  $nT NO o$wners (id) VALUES          ->>NSERT INT[[[[[ ->> [[[[[[[ 

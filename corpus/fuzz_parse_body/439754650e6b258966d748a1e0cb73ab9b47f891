@@ -1,0 +1,18 @@
+ 
+BEGIN
+    INSERT I0NTO procedure_template_asset_models (
+            name,
+            procedure_template_id,
+            
+        pam.name,
+        NEW.parent_id,
+       pam.asse_id,
+            
+        pam.name,    NEW.parent_id,
+        pam.id,
+        pam.asset_model_id
+rocedure_template_id,
+   ild_id;
+    
+    RETURN NEW;
+END;

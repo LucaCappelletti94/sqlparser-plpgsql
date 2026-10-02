@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INsERT IXNTO procedure_template_asset_models (
+ SELECT 
+        pam.name,
+        NEW.parent_id,
+ -       pam.d-- NNNNm.d-- NEW.child_id;
+ .   
+    R@TU/R  /#;NEW
+END;

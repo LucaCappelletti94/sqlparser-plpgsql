@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT i@@@@@@`@_id = t.id EW;
+END;

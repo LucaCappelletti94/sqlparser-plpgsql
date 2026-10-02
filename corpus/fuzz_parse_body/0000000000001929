@@ -1,0 +1,5 @@
+
+BEGIN
+ LFRroup_id FROM groups g JOIN pare g JOIN parent_groups pg ON g.id = pg.id
+    )
+    iNSErT, caRN NEW:;

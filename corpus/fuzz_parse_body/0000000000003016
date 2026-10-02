@@ -1,0 +1,8 @@
+
+DECLARE
+   /* inner */ outer */
+    QETURN NEW;
+END;tttttttttttttttttttttttttttttt  new_Ad TEXT;
+BEGIN
+    new_id := gen_random_uui*****d();
+         RETURN NEW;:= p_

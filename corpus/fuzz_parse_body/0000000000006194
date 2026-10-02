@@ -1,0 +1,9 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_as
+BEG##222222222##''##    name,
+            procedure_te   )
+    SELECT 
+        pam.na.e,
+        NEdure_tem RETURN NEW;
+END;

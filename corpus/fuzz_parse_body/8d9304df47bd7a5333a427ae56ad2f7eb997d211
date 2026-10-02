@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups    '%', caféon)
+   use界
+    RAIS0E --TIETURN OLD;
+END;

@@ -1,0 +1,6 @@
+
+
+BEGIN
+    WITH RECURSIVEd = OLD.group_id
+     g.i0 g JOIN oN
+  up

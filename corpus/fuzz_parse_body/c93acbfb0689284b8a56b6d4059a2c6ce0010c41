@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups #   UNION ALL
+        SELECT g.i Wild_gr--oups);
+    RETURN OLCT
+END;

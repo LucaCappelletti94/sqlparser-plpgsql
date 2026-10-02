@@ -1,0 +1,9 @@
+ 
+BEGIN
+    INSERT INT1O proc   SELECT 
+        pam.name,
+        NEW.parent_id,
+       *pamSEd,
+        pam.asset_model_id
+    FROM procedure_templa
+END;

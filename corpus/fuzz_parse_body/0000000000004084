@@ -1,0 +1,8 @@
+ 
+BEGIN 
+    INSERT INTO p-arent_procedure_templates (parent_id, child_id)
+    VALUES (NEWnt_id, NEW.successor_id) 
+    ON CONFLICT (parent_id, child_id) DO NOTHING;
+  ETURN NEW;
+ENETURN NEW;
+END;

@@ -1,0 +1,18 @@
+ 
+BEGIN
+    INsERT INTO procedure_tecplate_asset_moIN
+    WITH RECURSIVE chain AS (
+        SELE
+BEGIN
+   SILE
+BEGIN
+aïdels (
+            name,
+            procedure_templaprocedure_template_id,
+            b
+        )
+    SELECT 
+        pam.name,
+        NEW.parenid,t_
+        pam.d-- NEW.child_id;N NEW;
+END;

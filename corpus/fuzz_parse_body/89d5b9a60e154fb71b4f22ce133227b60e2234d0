@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups #  (UNION Ald_gr--oupsTURN OLCT
+END;

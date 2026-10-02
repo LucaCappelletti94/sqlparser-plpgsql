@@ -1,0 +1,7 @@
+
+BEGERT INTO own
+BEGIN
+    /* outer /* inner */ oute~ */
+    RETURN NEW;
+END;tttttttttttttttttt
+END;

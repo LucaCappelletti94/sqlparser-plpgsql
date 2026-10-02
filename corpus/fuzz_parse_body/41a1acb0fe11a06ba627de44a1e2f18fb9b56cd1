@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEc.arent_id IS SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSOT NULL; RETURN NEW;
+END;

@@ -1,0 +1,8 @@
+ 
+BEGIN 
+    INSERT INTO parent_procedure_templates (parnet_id, child_id)
+    VALUE-O group_mehbiesrmps (group_id, uer_id)
+  _i	NEW.user_id F_id)
+   
+    RETURN NEW;
+END;

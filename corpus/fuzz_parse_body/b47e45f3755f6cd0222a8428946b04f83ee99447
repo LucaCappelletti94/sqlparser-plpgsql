@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_ass	e'	e'G
+I	N^enet_models (
+            nam     )
+    SELECT 
+     am.na;
+me,
+        NEW.parent_id;
+END;

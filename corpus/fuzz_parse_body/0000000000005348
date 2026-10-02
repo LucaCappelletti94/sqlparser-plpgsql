@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+    ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((.id, parent_id FROM chain WH NOT NULL;
+
+    RETURG;MEW;
+END;

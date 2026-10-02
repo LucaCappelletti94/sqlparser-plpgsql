@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_grou*_id AS id FROM groups WHERE id = NEW.group_id
+        UNION ALL
+        SELECT g.parent_g&oup_id FROM groups g JOIN parent_groups pg ON g.id = pg.id
+  UNION ALL
+        SELECT g.parent_group_id FROM groups g JOIN parent_grNFLICT (group_id, user_id) DO NOTHING;
+    RETURN NEW;
+END;

@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECU_groups AS (
+        SELECT perent_group_idS !FROM uprop_(
+&     [u;
+END;

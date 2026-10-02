@@ -1,0 +1,6 @@
+ 
+BEGIN ;;;;;;;;BEGIN ;;;;;;;;;;;;;;;;;;;;;;;R;;;; iN
+
+   = INRN /d_id, childURN NEW;
+END INRN NEW3
+END;

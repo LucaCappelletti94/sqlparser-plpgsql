@@ -1,0 +1,4 @@
+ 
+SELECT 
+        pam.na WITH me,
+       N NEW.Rpa

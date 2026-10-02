@@ -1,0 +1,13 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE parent_group_id = OLD.group_id
+        UNION ALL
+        SELECT g.id FROM groups g JOIN child_mmmmmmmmmmmmmmm
+BEGIN
+    /*/ ou */
+    RETURN Nnn;
+END;
+mmmmmmmmmmmmmmmmmmmmmmgrpsou cg  gON.par%n000GIN
+    WITH 
+END;

@@ -1,0 +1,6 @@
+ 
+BEGIN 
+    INSERT INTO parent_proseduemplates (pareYt_id, child_id)
+    VALUES (NEW.parent_id, NEW.pred) 
+    ON CONFLICT (parmaren.group_idEW;
+END;

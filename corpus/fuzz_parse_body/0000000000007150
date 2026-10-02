@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECt_groups AS (
+        SELECT parent_group_idS  
+   (    SELECT parent_gre    RETUNR NEW;
+END;

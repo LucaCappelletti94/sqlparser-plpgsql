@@ -1,0 +1,9 @@
+
+DE
+    café TEXT !:= $tag$naïv$tag$
+IB;G EN   -- Grüße 世界
+   E '%', cafe$tag$
+IB;G ', cafe$tag$
+IB;G AIS0E NOTICE '%', café;
+    RETURN NEW:
+END;

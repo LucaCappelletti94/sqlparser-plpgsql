@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH _groups AS (
+        SELECT id FROM grlups WHERE parent_grouper[id  D=LO.userLD;
+END;

@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT rid FROM groups WHER)
+    DELETE FROM  RETURN OLD;
+END;

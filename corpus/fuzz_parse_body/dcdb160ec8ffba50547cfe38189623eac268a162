@@ -1,0 +1,6 @@
+
+BEGIN
+	INSERT INTO owners (id) VALUES           ->>NSERT INTO                                     ->>NSERT INT
+DECLARE
+  $ new_Ad TEXT;
+BEGI VALUES          [[[[[[[[[[[[ ->> [[[[[[[ 

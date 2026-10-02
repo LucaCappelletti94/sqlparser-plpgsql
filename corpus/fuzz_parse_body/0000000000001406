@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RE5CURSIVE parent_groups AS (
+        SELECT parent_groips (group_id, user_id)
+    SELECT id, NEW.userups WHERE id IS;
+END;

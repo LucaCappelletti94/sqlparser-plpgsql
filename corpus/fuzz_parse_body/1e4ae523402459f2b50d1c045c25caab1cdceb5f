@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE paERnt_groups AS (
+        SELECT parent_group_id =d<=iNULL
+    ON CTUNR NEW;
+END;

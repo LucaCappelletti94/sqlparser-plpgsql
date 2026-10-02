@@ -1,0 +1,4 @@
+
+BEGIN
+	INSErT rs (id) VALUES            @  ttt
+END;

@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELEC@@T id FROM g
+BEGINN
+  rent_group_id =  NEW.%OLD.group_id%

@@ -1,0 +1,7 @@
+
+BEGIN
+    IF NEW.e,ent
+BEGIN~
+	INUES (NEW.##''$SER TEXT,=:= $t
+=W:E
+END;

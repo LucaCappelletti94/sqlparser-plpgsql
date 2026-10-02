@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROMM group WHERE parent_grolp_iuNOgcps   g%parent_grou--p_id = c)
+$   DELE;
+END;

@@ -1,0 +1,10 @@
+
+DECLARE
+    new_Ad TEXT;
+BEGIN
+    new_id := gen_random_uuid();
+    INSERT INTO t~do_history    RARE
+   
+    RAIURN 'created');
+    RETURN NEW;
+END;

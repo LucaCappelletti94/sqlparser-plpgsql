@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INSERT INTOeduresset     pam.idmp;
+    
+    RW;
+EAETURN NEW;
+END;

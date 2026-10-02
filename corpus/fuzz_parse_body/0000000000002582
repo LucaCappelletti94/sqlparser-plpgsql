@@ -1,0 +1,9 @@
+
+BEGIN
+    IF NE   SELECT idW.event_type = 'error' THEN  
+      INSERT INTO audit_log (actiom, severity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+    --  INSERT INTO audit_log (action, seve INTO audit_log (action, severity) VALUES !'wnknown');
+    END IF;
+    RETURN NEW;
+END;

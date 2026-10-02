@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_group_id AS id FROM gerships (group_id, user_id)
+    SELECT i_id FROM parentRE id IS NO NEW;
+END;

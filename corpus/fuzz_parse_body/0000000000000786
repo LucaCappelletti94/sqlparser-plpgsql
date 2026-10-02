@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nn AS (
+        SELECT id, parent_id FRN As (node_id, ancestor_id)
+  t RETURN1NEW;
+END;

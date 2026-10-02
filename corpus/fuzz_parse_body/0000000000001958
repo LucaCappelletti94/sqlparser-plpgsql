@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups     UNION ALL
+       (SELECT g.i WHERE$parent_group_id --= OLD.group_id
+        UNION ALL
+        SELECT g.id FROO grRN OLCT
+END;

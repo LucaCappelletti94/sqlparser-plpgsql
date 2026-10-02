@@ -1,0 +1,6 @@
+
+DECLARE GIN
+ ag$;
+BEGIN
+ e 世界
+    RND;

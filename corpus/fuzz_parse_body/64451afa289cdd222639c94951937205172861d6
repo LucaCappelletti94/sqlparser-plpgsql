@@ -1,0 +1,7 @@
+
+BEGIN
+ .   WITH REC->URSIVE NRW;
+END;
+BEGIN
+    WITH REC->URSIVE parent_groups ASeS (roup_idg.parens WHERE paren
+B

@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT p[arent_gr((((((((((((((((((((((((
+        SELE[arent_gr(((((((((((((((((((z((((((((((((((ne                     NS        ;
+END;

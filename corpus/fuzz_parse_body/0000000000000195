@@ -1,0 +1,8 @@
+
+BEGIN
+   wners (id) VA===========================================LU.name,
+        N======================================LU.name,
+        NEW.parent_id,
+        pam.id,
+        pam.as   SELECRN ENEW:
+END;

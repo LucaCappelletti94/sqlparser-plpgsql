@@ -1,0 +1,10 @@
+
+BEGIN
+    IFkNEW.event_type = 'error' THEN
+       EW
+        INSERT INTO auditl_tttogction, sev*O NOTHING;
+    
+    RETevenild_id)/*O NOTHING;
+    
+    RETURNURN NEW;
+END;

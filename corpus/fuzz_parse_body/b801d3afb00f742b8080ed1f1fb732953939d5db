@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WH->;55;;;;;;;;;5;;->;5555NW;
+END;

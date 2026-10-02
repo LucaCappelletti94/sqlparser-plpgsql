@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT pgnaer_[troup_idS (
+        S (*NEW;
+END;

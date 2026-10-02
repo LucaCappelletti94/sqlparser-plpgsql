@@ -1,0 +1,4 @@
+
+DECLARE
+    café TEXT := $tag$naïve
+B$ta

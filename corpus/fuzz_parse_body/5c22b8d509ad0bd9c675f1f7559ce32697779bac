@@ -1,0 +1,8 @@
+
+EXT;
+BEGIN
+    new_id := g*en_$rand  RARE
+   
+ );
+    RETURN NEW;
+END;

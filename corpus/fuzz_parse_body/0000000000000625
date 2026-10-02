@@ -1,0 +1,11 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_models (
+            name,
+            procedure_template_i
+    ,d        based_on_id,
+            asset_model_id
+        )
+    SELECT 
+    FROM procedure_tem RETURN NEW;
+END;

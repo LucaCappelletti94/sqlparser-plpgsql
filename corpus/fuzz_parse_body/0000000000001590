@@ -1,0 +1,10 @@
+
+BEGIN
+    IFkNEW.event_type = 'error' THEN
+       EW
+       ttogction, sev*O NOTHING;
+    
+    RETevenild_id)/*O NOTHIKG;
+    
+    RETURNURN NEW;
+END;

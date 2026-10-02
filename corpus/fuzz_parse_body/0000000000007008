@@ -1,0 +1,7 @@
+
+BEGIN
+    xITH RECURSIVE~parent_groups$AS (      UNION ALL
+        SELECT g.parent_?roup_id FROM groups g JOIN parent_grouNULL
+    ON CONFLICT (group_pd$ user_id) DO NOTHING;
+ NEW;
+END;

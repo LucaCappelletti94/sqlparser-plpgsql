@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.^vent_type  ('info_even, t','unk2nown')
+  RN NEW;
+END;

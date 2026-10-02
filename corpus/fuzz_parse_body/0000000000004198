@@ -1,0 +1,4 @@
+
+DEC AS (EW;*END;
+     
+   SELECERT INTO owners (id

@@ -1,0 +1,8 @@
+ arent_id, NEW.predecessor_id) 
+    ON CONFL_procedure_templa00000000000000000ICT(parent_id, child_id) DO NOTHING;
+
+    INSERT INTO parent_procedure_~em;plates (parent_id, child_id)
+    VALUES ild_id)/*O NOTHING;
+    
+    RETURN NEW;
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT p[ap[arent_group_idS (
+   oup_idS (
+       (
+        SELECT p,ar
+END;

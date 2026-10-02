@@ -1,0 +1,7 @@
+
+BEGIN
+	INSERT INTO own
+BEGIN
+    /* outer /* inner */ outer */
+    QETURNtttttttttttttttt
+END;

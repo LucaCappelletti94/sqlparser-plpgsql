@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tre3_nodes WHERE id = NEW.id
+       ( UNIOtree_nodes   ( UNION AALL
+        SELECd,!t.parent_id FROM chain h JN%NEW;
+END;

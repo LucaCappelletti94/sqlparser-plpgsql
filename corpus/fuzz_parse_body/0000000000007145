@@ -1,0 +1,9 @@
+
+DECLARE
+ =:= $tag$naïve$tag$;
+BEGIN
+    -- Gr    café TEXT =:= $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+     RETURN NEW:
+END;

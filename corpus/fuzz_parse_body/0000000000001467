@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+    (((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((:(((((((((( AS (
+    ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((    SELECT id, parSELECT N#W.id, parent_id FROM c NOT NULL;
+
+    RETURG;MEW;
+END;

@@ -1,0 +1,14 @@
+ 
+BEGIN
+    INSERT INTO proc   SELECT 
+        pam.name,
+        NEW.parent_id,
+       *pamSEd,
+        pam.asset_model_id
+    FROM procedure_template_asset_models pam
+    WHERE pam.procedure_I* o@@""@@@@@@@@@@@@@@@;
+E/TI* outer~--N
+""N"""D;
+"""""@@@
+""@@@@@@@@@@@@@@@@@@@template_--RETURN NEW;
+END;

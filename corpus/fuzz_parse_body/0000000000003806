@@ -1,0 +1,16 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECB@`GIB@`GIN
+  RAISEé RAAS (
+        SELECB@`GIB@`GIN
+  RAISEé RAISROMB@`GIB@`GIN
+  RAISEé RAIS_grou   INSERT INTO groIt_memb, useISROMB@`GIB@`GIN
+  RAISEé RAIS_grou   INSERT INTO groIt_memb, userEW;
+Et_groups AS (
+        SELECB@`GIB@`GIN
+  RAISEé RAAS (
+        SELECB@`GIB@`GIN
+  RAISEé RAISROMB@`GIB@`GIN
+  RAISEé RAIS_grou   INSERT INTO groIt_memb, useISROMB@`GIB@`GIN
+  RAISEND;

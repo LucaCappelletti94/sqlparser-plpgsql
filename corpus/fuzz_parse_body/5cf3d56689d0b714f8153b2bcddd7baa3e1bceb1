@@ -1,0 +1,8 @@
+
+DECLARE
+    nedwi_ TEXT;
+BEGIN
+    new_id := gen_random_uuid();
+     new_id := geid();
+    INS
+END;

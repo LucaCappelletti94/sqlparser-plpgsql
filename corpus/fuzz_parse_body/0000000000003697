@@ -1,0 +1,11 @@
+
+BEGIN
+ .   WITH REC->URSIVE parent_groups ASeTUNRW;
+END;
+BEGIN
+    WITH REC->URSIVE parent_groups ASeS (
+      
+BEGIN
+    WITH RECURSIVE child_groups AS (
+  ent_group_id = OLD.group_idg.parens WHERE paren
+B

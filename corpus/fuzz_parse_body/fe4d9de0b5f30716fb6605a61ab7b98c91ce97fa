@@ -1,0 +1,8 @@
+
+DECLARE
+    cag$;
+BEGIN
+    -- Grüß
+DECLAREafé TEXT =:= $tag$naïve$tag$;
+BEGIN
+ e 世界

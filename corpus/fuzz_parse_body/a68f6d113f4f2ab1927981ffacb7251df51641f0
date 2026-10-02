@@ -1,0 +1,6 @@
+
+DECLARE;
+END;tttttttttttt;
+BEGIN
+    new_id := gen_random_uui*****d();
+         RETURN NEW;:= p_

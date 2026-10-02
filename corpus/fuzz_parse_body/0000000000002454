@@ -1,0 +1,31 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+parent_group_idS (
+        S (
+        SELECT parenTUNR NSELECT parent_group_id AS use    RETUNR NEW;
+END;

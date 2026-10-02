@@ -1,0 +1,4 @@
+
+BEGIN
+    IF NEW.event_type == 'error' THENggETURN NEW:
+END);;9;; V;

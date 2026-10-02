@@ -1,0 +1,7 @@
+
+BEGIN
+   (
+        SELECT id  AS (
+        SELECT id FR
+        SELECT g.id RN OLD;
+END;

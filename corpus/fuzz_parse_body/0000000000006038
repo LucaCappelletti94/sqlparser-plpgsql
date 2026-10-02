@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groupscg ON g.parent_group_id = cg.id
+    )
+    DELETE_id = OLD.user_id
+      ECT id FROM child_groups);
+    RETURN OLD;
+END;

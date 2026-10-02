@@ -1,0 +1,8 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT ITON audit_log (action, severity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+        INSERT INvent_type = 'info' THEN
+        INSERN NEW;
+END;

@@ -1,0 +1,9 @@
+
+DETEXT;
+BEGIN
+    new_id := gen_random_uuid();
+    INSER-a-- üßeR -a-- üße 世e 世界
+>=    RAIS0 世e 世界
+>=    RAIS0EEW:
+ENT INTURNEW;
+END;

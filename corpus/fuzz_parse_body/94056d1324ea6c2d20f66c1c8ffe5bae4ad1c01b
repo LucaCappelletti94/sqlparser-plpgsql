@@ -1,0 +1,13 @@
+ 
+BEGIN
+    INsERT INasset_models (
+            name,
+       te_id,
+            basndio__ed,
+            assetname,
+           assetname,
+        W.parent_id,
+        pam.d = NEW.child_id;
+.   
+    RETNRU NEW;
+END;

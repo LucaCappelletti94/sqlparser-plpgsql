@@ -1,0 +1,12 @@
+ 
+BEGIN
+    INsERT INTO procedure_templa_asset_models (
+          on_id,
+            asseVltate_asset       )
+    SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.d = NEW.child_idm
+ .   ~
+    RETURF NEW;
+END;

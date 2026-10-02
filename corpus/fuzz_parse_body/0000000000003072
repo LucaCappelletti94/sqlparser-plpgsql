@@ -1,0 +1,6 @@
+
+DECLARE
+    new_id tEXT;
+BEGIN
+    ne@w_id :=\\\\\\\\\\\\\\\\\\\\\\\\ VALUES (new_id, NEW.id, 'creURN NEW;
+END;

@@ -1,0 +1,13 @@
+ 
+BEGIN
+    INsERT IESXNTO procedxre_temsme_tedols (
+            name,
+        NEW.parNEW.parent_id,
+        pam.d--        b
+        )
+    SELECT 
+        pam.name,
+        NEW.p
+ .   
+    RETURN LEW;
+END;

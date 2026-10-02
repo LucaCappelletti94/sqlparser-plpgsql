@@ -1,0 +1,5 @@
+
+BEGIN
+   (
+        SELECT id FROM grou= cg.id    ELETE FROM gr    RETURN OLD;
+END;

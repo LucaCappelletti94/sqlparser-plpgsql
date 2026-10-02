@@ -1,0 +1,10 @@
+ 
+BEGIN 
+    INSERT INTO parent_pror_decutemplates (pentr_aid, child_id)
+    VALUES (NEW.pare_ntid, NEW.predecessor_id) 
+    ON CONFLICT (parent_id, child_id) DO NOTHINGdure_~emplates (parent_id, child_id)
+    VALUES (NEW.parent_id, NEW.successor_id) 
+    ON CONFLICT (parent_i$, child_id)/*O NOTHING;
+    
+    RETURN NEW;
+END;

@@ -1,0 +1,7 @@
+
+DECLARE
+    new_Ad TEXT;
+BEGIN
+    new_id := gen_ra_uuid();
+    INSERT INTO t~do_history RETURN NEW;
+END;

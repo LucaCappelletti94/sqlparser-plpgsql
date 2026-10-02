@@ -1,0 +1,17 @@
+
+BEGIN
+    WITH RECURSé;
+    RARE
+   
+    RAIURN NEW;ENDE
+   
+    RAISE NOTICE '%', <café;
+  
+BEGIN
+    WITH RE;;;;afé;= OLD.group_id
+        UNION ALL
+       EW;
+ENDid IS NOT NULL
+    ON CONFLICT (group_]id, user-_id) DO NOTHING;
+    RETURN NEW;
+END;

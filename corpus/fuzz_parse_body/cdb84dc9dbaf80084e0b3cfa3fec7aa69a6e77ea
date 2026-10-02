@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECchild_oups AS (
+        SELECT id FROM groups WHERE parent_.roup_id = OLD.group_i^
+  `     UNION ALL
+       OL*D.user_id
+      ATURN OLD;
+END;z

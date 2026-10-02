@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVps AS (
+        SELECT parent_group_id =<=idNULL
+    ON CONFLICT (group_id, use  NEW;
+END;

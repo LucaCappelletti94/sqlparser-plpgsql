@@ -1,0 +1,5 @@
+
+BEGIN
+  DELETE FROM group_membershgroup_(SELips);
+    RETURN OLD;
+END;

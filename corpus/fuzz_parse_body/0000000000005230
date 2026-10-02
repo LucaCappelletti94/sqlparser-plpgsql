@@ -1,0 +1,9 @@
+
+BEGIN
+           SELECT id, parent_id FROM tree_nodes W--RE id = NEW.id
+       ( UNI5 , parent_id FRObbbbbbbbbbbbbbbbbbbbbbM tree_nodes WHERE id = NEW.id
+       ( ERE id =ELECT id, parent_id FROM tree_nodes W--RE id = NEW.id
+       ( UNION , parent_id FROM tr NEW.id
+       ( UNION AALL
+        SELECd,!t.parent_id FROM chain h JN NEW;
+END;

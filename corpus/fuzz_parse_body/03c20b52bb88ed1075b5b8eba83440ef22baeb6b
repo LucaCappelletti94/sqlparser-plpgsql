@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parenarent_id IS NOT% NULL;
+
+    RETURN NEW;
+END;

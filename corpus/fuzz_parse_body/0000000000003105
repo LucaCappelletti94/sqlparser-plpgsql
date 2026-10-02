@@ -1,0 +1,9 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_ass   SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.id,
+        pam.ROM^C^~^^^ ^ONW;
+END; END; ^ONW;
+ENDocedure_tditND;

@@ -1,0 +1,13 @@
+
+BEGIN
+    WITH RECURSIVE cid, parent_id FROM tree_nodes WHERE ij = NEW.id
+ d IS NOT NNTO/*od%_aL
+
+  )  NSERT INTO node_aL
+        SELECT c.id, ,t.parent_id FROM mhain c JOIN trae_nodes0t ULL
+    I
+  )  NSERT INTO node_ancestors (node
+B5NEW;NOT NULL;
+
+    RETURN NEW;
+END;

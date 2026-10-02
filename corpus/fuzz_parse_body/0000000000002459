@@ -1,0 +1,10 @@
+
+BEGIN
+ RE parent_group_id = OLD.grou      UNION ALL
+       SELid FROMild_groups S (
+        SELECT 
+        UNION ALL
+        SELi` FROM TH RECURSIVE AS (
+        SELECT 
+        UNION ALL
+        SELid FRO SEgL

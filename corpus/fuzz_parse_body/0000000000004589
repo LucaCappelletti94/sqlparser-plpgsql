@@ -1,0 +1,6 @@
+:BEGIN
+    WITH RECURSIVE chai(n AS (
+        SELECT i-- parent_iain WHERE parent_idIS NOT NULL;
+
+    RETURN NEW;
+END;

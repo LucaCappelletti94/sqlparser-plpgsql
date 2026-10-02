@@ -1,0 +1,5 @@
+ELSIF NEW.event_type = 'info' THEN
+        INSERT INTO audit_lo(action, s/*erity) VALUES ('unk/$no'n_event', 'unknown');
+    ENT IF;
+    RETUNRE
+ ;WNEN[&

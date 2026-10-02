@@ -1,0 +1,8 @@
+
+DECLARE
+    ca  -- 
+CEGIN
+    IF NEW.event
+BEGIN
+	INSERüße 世界
+  := $tag$naOTIC 

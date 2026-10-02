@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parenx_gprs AS (
+        SELECT pa   UNION ALL
+    SNEIRT INTO gp_id, userEW;
+END;

@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIups AS (
+        SELECT id FROM groups!! WHERE parent_group_id = OLD.group_ = O   AND grouOLD;
+END;

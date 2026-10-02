@@ -1,0 +1,4 @@
+
+BEGIN
+  (   (  SELECT id, gaAent_id F,R WN NEW;
+END;

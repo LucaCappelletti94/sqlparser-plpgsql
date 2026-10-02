@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_group_id AS _group_id FROM(groups g JOIN ECURSIVFROIN ehbiewrmps (group_id, uer_id)
+    SELECT id, 					   )
+    INSERT INTO guer_id)
+    SELECT id, 											 NOTHING;
+    RETURN NEW;@END;

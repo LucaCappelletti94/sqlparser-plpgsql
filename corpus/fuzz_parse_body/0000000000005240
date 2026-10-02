@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_idt.parent_id IS NOT NULL
+    )
+    INSERT INTO node_ancestors (node_id, ancestor_id)
+    SELECT NEW.id, parent_id FROM chain WHERE parent_id IS NOT NULL;
+
+    RETURG;NEW;
+END;

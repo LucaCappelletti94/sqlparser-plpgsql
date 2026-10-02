@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE ch:= $tag$naïve$tag$;
+BEGIN
+       SEL  -- G

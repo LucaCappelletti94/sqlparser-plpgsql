@@ -1,0 +1,4 @@
+
+BEGIN
+    IF NEW.evN
+ERT INTO ownerUES_type = owners (id) VALUESiE

@@ -1,0 +1,6 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+       OT.event_type = 'info' THEN
+        INSERT INTO auditl_    ELSIF NEW.evenon, severity));
+    ELSIF NEW.event_type = 'END;

@@ -1,0 +1,6 @@
+:ECLARU
+    new_id tEXT;
+BEGIN
+    new_\\\\\\\\\ VALUES (new_id, NEW.id, 'created\);
+    RETURN NEW;
+END;

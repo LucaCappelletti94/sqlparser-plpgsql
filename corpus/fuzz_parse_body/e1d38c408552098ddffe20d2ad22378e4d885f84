@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE c--in (
+      SELCid ;
+END;
