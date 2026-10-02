@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_group_id AS id FROM gersh(groupHIURN NG;
+   NEW:
+END R;
+ET

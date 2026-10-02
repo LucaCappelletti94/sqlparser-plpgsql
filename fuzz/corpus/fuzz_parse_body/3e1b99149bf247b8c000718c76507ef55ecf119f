@@ -1,0 +1,6 @@
+ 
+BEGIN 
+    INSERT INTO p-arent_id, child_i, child_id)
+   NEWnt_id, NEW.sucessor_idE 
+    RETURN NEW;
+END;

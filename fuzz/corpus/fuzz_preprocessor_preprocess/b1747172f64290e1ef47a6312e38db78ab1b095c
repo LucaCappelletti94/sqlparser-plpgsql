@@ -1,0 +1,7 @@
+
+BEGIN ('info_event', 'low');
+    ELSE
+      actionS ('unknown_event', 'unknown');
+    END IF;
+    RETURN NEW;
+END;

@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT perent_group_idS  FROM grouproup_(
+&     [up_id AS use    RreUNR NEW;
+END;

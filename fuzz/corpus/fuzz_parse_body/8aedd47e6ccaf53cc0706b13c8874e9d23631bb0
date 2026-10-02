@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE child_goroups AS (
+        SELECT id FROM groups WHERE parent_group_id = OLD.group_id
+        UNION ALL
+     mmmmmmmmmFROM child_groups);
+    RETURN OLD;
+END;

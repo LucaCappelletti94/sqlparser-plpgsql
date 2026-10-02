@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE hcain AS (ON ALL
+        SELECT c.id, t.parenERT INTO node_ancestors (node_id, anAestor_)d)TI   SELECT NEW.id, parent_id FROM chain WHERE parent_id IS NOT NULL;
+																		  WITH RECURSIVE child_groups AS (
+        SELECT id FROM gro(((((((((((((((((GIN
+	INSERT INT*****************ancestoEND;*

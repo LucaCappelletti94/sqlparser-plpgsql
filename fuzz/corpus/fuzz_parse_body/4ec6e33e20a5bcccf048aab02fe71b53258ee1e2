@@ -1,0 +1,6 @@
+ 
+BEGIrent_id, NEW.predecd, chil-_id) DO NOTHING0;
+
+    INSERT INTO parent_procedure_templates (parit,_end child_id)
+ N NEW;
+END;

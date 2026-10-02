@@ -1,0 +1,8 @@
+
+BGI
+DECLARE
+2   new_gDECLRE
+1 n  & d TEXT;
+BEG
+BEGIN
+N

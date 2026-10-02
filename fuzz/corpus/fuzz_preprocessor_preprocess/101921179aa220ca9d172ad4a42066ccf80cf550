@@ -1,0 +1,8 @@
+
+BEOWN
+    /* outer /* inner */ outer */
+    RETURN NEWm,--Erocedure_t-mplates (parant_id, ceild_id)
+    VALUES (NEW.parent_id, NEW.predecessor_id) 
+ DO NOTHING;
+
+   ;

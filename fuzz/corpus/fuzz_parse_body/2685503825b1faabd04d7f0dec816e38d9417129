@@ -1,0 +1,18 @@
+
+@EGIN
+	;;;?;;;;;
+DECLARE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+    RAIS0E NOTICE '%', café;
+    RETURN NEW:
+END;;9;;;;;;;;;afé;
+    RARE
+
+   
+    RAIURN NEW;
+ENDE
+   
+    RAISE NOTICE '%', caféon)
+   AR?;;;;

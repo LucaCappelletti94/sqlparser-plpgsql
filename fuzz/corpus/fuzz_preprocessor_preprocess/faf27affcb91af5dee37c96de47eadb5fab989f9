@@ -1,0 +1,5 @@
+
+DSERT INTO tocdo_history (id, todo_id, action)
+    VALU$ES (new_id, NEW.id, 'created');
+    RETURN NEW;
+END;

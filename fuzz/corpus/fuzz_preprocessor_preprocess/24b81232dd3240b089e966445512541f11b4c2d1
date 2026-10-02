@@ -1,0 +1,15 @@
+
+BEGIN
+    IF NEW.event_type = 'erro
+BEGIN
+	IN`SERTRETURN NEW;aʯve$'warning_event', 'med
+E,ND;
+DECLA
+RE
+    café TEXT := $$tagé TEXT := $$tag$;
+BEGIN
+    -- Grüße 世界
+é TEXT := $tagGIN
+    -- Grüße 世界
+    RAISTE NCE'I O%', café;ta_$naʯve$'warning_event', 'med);iu--m');
+   $ta_$naʯve$

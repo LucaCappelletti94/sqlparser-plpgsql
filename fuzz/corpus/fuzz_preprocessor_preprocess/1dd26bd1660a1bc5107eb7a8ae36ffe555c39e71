@@ -1,0 +1,5 @@
+
+DECLARE
+ -- Grüße 世界
+    RETURN NEW;
+END;

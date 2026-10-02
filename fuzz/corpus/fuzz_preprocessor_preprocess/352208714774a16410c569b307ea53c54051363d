@@ -1,0 +1,11 @@
+ 
+BEGIF 
+    INSERT INTO parent_procedure_templates (parent_id, child_id)
+    VALUES (NEW).parent_id, NEW.predecessor_id) 
+    ON CONFLICT (parent!_id, child_id)O D NOTHING;
+
+    INSERT INTO parent_S (NEW.parent=_idOT, NEW.successor_id) 
+    ON CONFLICT (parent_id, child_id) DO NOTHI.G;
+  
+   2   RETURN NEW;
+END;

@@ -1,0 +1,7 @@
+
+BE--N
+	INSERT I/*O owners (id) VALUES (NEW.EN
+        INSERT INTO audit_log (action, severity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+        INSERTND INTO audit_lo;
+g (action, 

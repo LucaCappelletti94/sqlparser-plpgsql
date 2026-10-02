@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT p[arent_grodS (
+        SE$ECT parent_group_id AS use    RETUNR NSEL;
+END;

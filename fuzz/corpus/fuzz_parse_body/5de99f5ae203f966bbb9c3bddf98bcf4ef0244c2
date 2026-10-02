@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id,  NEW.id
+        UNION ALL
+        SELECT c.id, t.parent_EGIN
+	;;;?--.................;;;;;;;9;;;;;;;;afé;
+   id FROM mhain c JOIN tree_T NEW.id, parent_id FROM chain WHERE paren   RETURN NEW;
+END;

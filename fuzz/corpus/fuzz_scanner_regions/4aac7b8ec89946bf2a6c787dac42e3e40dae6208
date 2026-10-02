@@ -1,0 +1,5 @@
+
+BEGIN
+	rs (i.) VALUES$(NEW.id);
+	RETURN NEW;
+END;

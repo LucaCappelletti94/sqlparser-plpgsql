@@ -1,0 +1,7 @@
+
+BEGIN
+	 INTO owners (id) VALUES (NEW.id)
+R;	ETURN NEW;
+NSERT INTO owners (id) VALUES (NEW.id);
+	RETURN NEW;
+END;

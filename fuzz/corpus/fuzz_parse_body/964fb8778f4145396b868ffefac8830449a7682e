@@ -1,0 +1,8 @@
+ 
+BEGIN
+    INSERT INTO proceduresset     pam.idmplate_id = NEW.child_id;
+    
+ EW.child_id;
+    
+    RETURN NEW;
+END;

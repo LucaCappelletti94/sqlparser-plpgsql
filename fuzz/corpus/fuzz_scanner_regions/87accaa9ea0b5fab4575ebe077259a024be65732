@@ -1,0 +1,14 @@
+
+BEGIN
+    /* outer   /* outer /* inner */ Outer */
+   /* ouutdr /* inner */ outer *IN
+    /* outinner */ Outer */
+  BEGIN
+    /*  /* ouutdr /* inner */ outer *IN
+    /* outer BEGIN
+/*    /* outer2/* inner *r */
+   /* oRN NEW;
+/* ilnur   RET/* outer
+/* inner *0 out=r */
+ UR
+END;

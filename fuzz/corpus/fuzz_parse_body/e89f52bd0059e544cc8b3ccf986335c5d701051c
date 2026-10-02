@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE
+BEGIN
+	INSERT INTO child_groups AS (
+ d FROM grouowners (id)ps 

@@ -1,0 +1,7 @@
+
+B NEW.e@ent_type = 'error' THEN
+        INS (  ELSIF NE&W.event_type = 'info' THEN
+        INSERT INT= aun_event', 'unknown');
+    END IF;
+TURN NEW;RETURN NEW;
+END;

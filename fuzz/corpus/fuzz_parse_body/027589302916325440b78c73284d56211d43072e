@@ -1,0 +1,9 @@
+
+DECLARE
+    café TEXT =:= $tag$naïve$tag$;
+BEGIDECLARE
+    café TEXT =:= $tafé TEXT =:= $tag$naïve$tag$;
+BEGIN
+ e 世界
+    RAISE NOTIC:
+END;

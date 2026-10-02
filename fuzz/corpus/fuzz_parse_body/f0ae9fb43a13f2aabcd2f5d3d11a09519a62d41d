@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tbbbbbbbbbbbbb  WITH RECURSIVE char NULL
+  ERE parent_id IS NOT NULL;
+
+    RETVRN NEW;
+END;

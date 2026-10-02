@@ -1,0 +1,4 @@
+
+BEGIN
+   t_group_id AS id FROM ^^^^^^^^ CO  RETURN NEW;
+END;

@@ -1,0 +1,12 @@
+ 
+BEGIN
+    INsERT INTO procedure_template_asset_models (
+            name,
+            procedure_template_id,
+                       asset_model_id
+        )
+    SELECT 
+:       pamemplate_i.child_id;
+    
+    RETURN NEW;
+END;

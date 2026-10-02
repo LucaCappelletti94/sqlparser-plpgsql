@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INSERT INTO proc   SELECT 
+        pam.name,
+        NEW.parent_id,
+        pamSEd,
+        pam.asset_model_id
+    FROM procedpam
+    WHERE pam.procedure_template_--RETURN NEW;
+END;

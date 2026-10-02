@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+  vent_type = 'info' )ENT IRN NEW;
+END;

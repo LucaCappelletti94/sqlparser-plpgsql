@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT p[arent_group_idS (
+        S (U AS use    RETUNR NSELECT parent_group_id AS use    RETUNR NEW;
+END;

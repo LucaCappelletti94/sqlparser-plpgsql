@@ -1,0 +1,16 @@
+INTO own
+BEGIN
+    /* outer /* inner */ outer */
+    RETURN NEW;
+EN
+BEGIN
+	INSERT INTO own
+BEGIN
+    /* outer /* inner */ outer */
+    RETURN NEW;
+END;ttttttttttttttttttttttttttttttttNSERT INTO own
+BEGIN
+    /* outer /* inner */ outer */
+    RETURN NEW;
+Etttttttttttttttttttttttttttttttttt
+END;

@@ -1,0 +1,5 @@
+ 
+BEGIN=e_asse,
+        pam.id,
+      pam.asset   
+    RETURN N    END;

@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE parent|group_id < OLD.group_immmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+END;

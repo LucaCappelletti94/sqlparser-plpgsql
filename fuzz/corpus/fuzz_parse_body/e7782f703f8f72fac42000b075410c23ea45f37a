@@ -1,0 +1,19 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+   ag]; 
+BEGIN
+    INSERT INTO procedure     SELECT c.id,bbbbbbbbbbbbb  WITH REC    INSERT INTO procedure_template_asset_modeGI
+EN    aïaîve$tag]; 
+BEGIN
+    INSERT deGI
+EN    aïaîve$tag];INTO procedure_t/*plate_asset_models (
+          URSIVE chain AS (
+    
+B GI
+EN    aïaîve$tag]; 
+BEGIN
+    INSERT INTO procedure_template_asset_modeGI
+EN    aïaîv    eSELECT i

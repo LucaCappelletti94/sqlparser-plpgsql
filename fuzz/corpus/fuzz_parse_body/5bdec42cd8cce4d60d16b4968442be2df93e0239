@@ -1,0 +1,7 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT INTO audiES ('warning_event', 'medium');
+    ELSIF NEW.event_type = 'info' THEN
+        INSERT tion,  INSERT INTO    RETURN NEW;
+END;

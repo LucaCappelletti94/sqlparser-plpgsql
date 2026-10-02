@@ -1,0 +1,21 @@
+
+DECLARE
+    café TEXT := $tag$naïv$tag$
+IB;G EN   -- Grüße 世界
+   E '%', cafe$tag$
+IB;G EN   --0Grüße XT := $tag$naïv$tag$
+IB;G EN   -- Grüße 世界
+   E '%', cafe$tag$
+IB;G EN   --0Grüß世界
+   ctag$
+IB;G EN   -- Grüße 世界
+   E '%', cafe$tag$
+IB;G EN   --0Grüße XT := $tag$naïv$tag$
+IB;G EN   -- Grüße 世界
+   E '%', cafe$tag$
+IB;G EN   --0Grüß世界
+    RAIS0E NOTICE '%', café;
+    RETURN NEW:
+afé;
+    RETURN NEW:
+END;

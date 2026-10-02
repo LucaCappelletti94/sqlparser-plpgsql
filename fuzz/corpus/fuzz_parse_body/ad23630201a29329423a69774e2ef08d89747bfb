@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+     (  SELECT parent_g2roup_id AS id FROM grou   sWp UNION ALL
+        SELECT g.paretn_group_id FRoMpOu grs END;

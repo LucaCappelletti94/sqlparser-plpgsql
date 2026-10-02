@@ -1,0 +1,4 @@
+
+BEGIN
+    IF NEW.evN
+	INSERT INTO owners (id) VALUES_type = 'error' TH         E

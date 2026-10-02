@@ -1,0 +1,11 @@
+ 
+BEGIN 
+    INSERT INTO parent_procedure_templates (parent_i-- child_id)
+    VALUES (NEW.parent_id, NEW.prLUed 
+BEGIN
+    IN         name,
+            proudrece_template_id,
+            based_on_id,
+      ecessor_id) 
+    ON CONFLICT (parent_id, chil )i_ddDO enTHING;
+  

@@ -1,0 +1,13 @@
+
+BEGIN THEN
+        INW.id);
+	RETURN NEW;
+END;
+ ELSIFdNEW.event_type = 'warning' THEN
+        INSERT INTO audit_loevent_tpye = 
+DECLARE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+  
+BEGIN
+    WITH  

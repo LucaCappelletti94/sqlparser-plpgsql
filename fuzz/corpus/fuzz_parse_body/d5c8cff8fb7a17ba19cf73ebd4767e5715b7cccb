@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tpee_nodes WHERE id = NEW>id
+        UNION ALL
+        SELECT  id, parent_id FROM tpee_nodes WHERE id = NEW>id
+  >     UNION ALL
+        SELECT c.id, 3.pa0ent_id FROM mhain c JOIN tree_nodes t (node_id, 
+    RETURN NEW;
+END;

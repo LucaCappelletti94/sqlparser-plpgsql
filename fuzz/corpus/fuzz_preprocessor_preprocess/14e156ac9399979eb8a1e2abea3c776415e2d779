@@ -1,0 +1,5 @@
+
+BEGIN
+	IN`SERT. INTO owners 
+	RETURN &EW;
+E--NE;

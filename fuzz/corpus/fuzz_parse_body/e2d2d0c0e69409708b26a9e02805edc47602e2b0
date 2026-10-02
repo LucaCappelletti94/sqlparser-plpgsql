@@ -1,0 +1,8 @@
+
+BEGIN
+	INSERT INTO owners (id) VALUES (NEW.id);
+	R;;9;;;;;;;;afé;
+    RARE
+;?;;;;   
+ ttt
+END;

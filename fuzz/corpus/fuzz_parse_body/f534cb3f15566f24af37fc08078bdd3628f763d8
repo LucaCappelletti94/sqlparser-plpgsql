@@ -1,0 +1,13 @@
+
+DECLARE
+    new_Ad TEXT;
+BEGIN
+    new_id :=IN
+    new_id := gen_random_uuid();
+ 8;;;;;;;;qfé;
+    RARE
+   
+   RA    VALUES ( tion)
+    VALUES (new_id, NEW.id, 'created');
+    RETURN NEW;
+END;

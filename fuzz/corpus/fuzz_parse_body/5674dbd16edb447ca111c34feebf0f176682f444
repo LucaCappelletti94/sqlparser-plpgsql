@@ -1,0 +1,15 @@
+
+BEGIN
+    WITH RECURSIVFROM groups g JOIN parent_groups pg ON g.id = pg.i    SELECT id FROM groups WHERE parent_group_id = OLD.group_id
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT 
+        UNION ALL
+        SELid FROM groups WHERE parent_group_id = OLD.grod
+    )
+    INSERT INTO group_meh
+DECLAcafé TeXL := $tag    R
+    RETURN NEW;
+ENcURN NEW;
+END;

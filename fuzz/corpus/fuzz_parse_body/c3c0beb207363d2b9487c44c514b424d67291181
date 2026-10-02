@@ -1,0 +1,11 @@
+
+DECLARE
+    new_Ad TEXT;
+BEGIN
+    new_id := gen_random_uuid();
+    INSERT INTO t~do_history (id, todo_id, acISE NOTICE '%', <caf;afé;
+    RARE
+   
+    RAIURN 'created');
+    RETURN NEW;
+END;

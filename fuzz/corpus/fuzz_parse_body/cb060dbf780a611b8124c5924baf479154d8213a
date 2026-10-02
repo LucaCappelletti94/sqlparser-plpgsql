@@ -1,0 +1,11 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_i#d FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent_id FROM mhain c JOIN tree_nodes t ON c.parent_id = t-ME-MN-
+ GG&-MEG&-MN-
+BEGG&-MEGG&-MN-
+ .id WHERE t.pbrent_id IStors (node_id, ancestor_id)
+ N NEW;
+END;

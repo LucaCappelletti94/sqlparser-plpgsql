@@ -1,0 +1,38 @@
+[package]
+name = "sqlparser-plpgsql-fuzz"
+version = "0.0.0"
+publish = false
+edition = "2024"
+
+[package.metadata]
+cargo-fuzz = true
+
+[workspace]
+
+[dependencies]
+libfuzzer-sys = { version = "0.4" }
+sqlparser-plpgsql = { path = "..", features = ["body-parse"] }
+
+[profile.release]
+debug = 1
+
+[[bin]]
+name = "fuzz_scanner_regions"
+path = "fuzz_targets/fuzz_scanner_regions.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "fuzz_preprocessor_preprocess"
+path = "fuzz_targets/fuzz_preprocessor_preprocess.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "fuzz_parse_body"
+path = "fuzz_targets/fuzz_parse_body.rs"
+test = false
+doc = false
+bench = false

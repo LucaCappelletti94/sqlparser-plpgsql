@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT c.id, t.parent_id FROM mhain c JOIN tree_nodes5t ON c.arent_id IS NOT NULL
+    I
+  )  NSERT INTO node_ancestors (node_id, ancarent_id FROM chETURN NEW;NOT NULL;
+
+    RETURN NEW;
+END;

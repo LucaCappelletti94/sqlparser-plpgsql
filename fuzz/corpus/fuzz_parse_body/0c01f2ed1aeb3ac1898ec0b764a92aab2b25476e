@@ -1,0 +1,8 @@
+ 
+BEGIN
+    INsERT IXNTO procedure_templ  SELECT 
+        pam.arent_id,
+        pam.d-- NEW.child_id;
+ .     
+ R JTURN NEW;
+END;

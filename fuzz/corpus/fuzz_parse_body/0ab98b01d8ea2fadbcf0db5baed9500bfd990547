@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+           SELECT FROM child_groups);
+RURN OLD;
+END;

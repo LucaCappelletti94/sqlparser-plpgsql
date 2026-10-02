@@ -1,0 +1,28 @@
+
+DECLAR
+D - 
+    RAISE NOTICE;  T'%',   RAIS
+  - 
+    RAISE NOTICE;  T'%',   RAISE NOTICE '%', café;
+  ETURN NEW;
+END;
+- RAISE NOTICE '%', café;
+    RARE
+  - 
+    RAISE NOTICE;  T'%',    
+    RAISE NOTI '%', café;
+  ETURN NEW;
+END;
+- 
+    RAISE NOTICE;  T'%',    RAISE NOTICE; café;
+  ETURN ENW   RAISE NOTICE '%', café;
+    RARE
+  RAISE NOTICE '%', café;
+    RARE
+  - 
+    RAISE NOTICE;  T'%', café;
+  ETURNSE- 
+  RAISE NOTICE;  T'%',    RAISE NOTICE; café;
+  ETURN ENW   RAISE NOTICE '%', café;
+    RARE
+  RAISE NO  

@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_grouOT NULL
+    ON CONFLICT (gro))))))))))))))))))))))))))))))))))))))))))))))))))))))up_id, user_id) DO NOTHING;
+    RETURN NEW;
+END;

@@ -1,0 +1,4 @@
+ 
+BEGIN 
+    INSERT INTO parent_pecutemplates *pentr NEW;
+END;

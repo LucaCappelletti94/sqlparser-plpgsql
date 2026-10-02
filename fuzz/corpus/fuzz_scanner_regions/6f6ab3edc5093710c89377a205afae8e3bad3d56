@@ -1,0 +1,5 @@
+
+BEGIN
+	INSERT IN VALUES (TO owners (id) VALUES (NEW.id);/*
+	RE	RETURTURN NEW;
+END;

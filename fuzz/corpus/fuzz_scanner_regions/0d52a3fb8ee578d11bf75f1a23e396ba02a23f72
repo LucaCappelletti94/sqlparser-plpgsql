@@ -1,0 +1,8 @@
+
+DECLARE
+    new_id GIN
+    new_id":= gen_random_uud();
+    KNSERT INTO tdoo_history (id, todo_id, action)
+    VALUES (new_id, NEW.id, 7created');
+    RETURN NEW;
+END;

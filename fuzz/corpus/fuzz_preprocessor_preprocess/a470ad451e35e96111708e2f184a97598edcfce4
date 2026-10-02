@@ -1,0 +1,13 @@
+
+BEGIN
+    IF NEW.evt_type = 'waRning' TH||||||||||||||||||||||||
+        SELECT c.id, t.parent_id= t.id WHER|*/ outer */
+   EN
+   ERT IN
+BEGIN
+	INSERT INTO owners (id) --VALUES (NEW.id);
+	RETURN N;t_type = 'waRning' TH||||||||||||||||||||||||
+    SELECT c.id, t.parent
+ ELSIF NEW.evdnt_type = 'warning' THEN
+ [      INSERT INTO audit_loevent_type = 'nt_type = 'N NEW;
+END;

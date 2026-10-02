@@ -1,0 +1,3 @@
+VALUES$(NEW.id);
+	RETURN NEW;
+END;

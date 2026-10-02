@@ -1,0 +1,12 @@
+ 
+BEGIN
+    INsERT IXNTO procedure_tmmplate_assate_id,
+     messsssssssss,
+ IN
+    INsERT IXNTO procedure_tmmplate_assate_id,
+     messsssssssss,
+        NEW.parent_id,
+        pam.d--      
+d  
+    RETU/RN ;NEW
+END;

@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE parent_group_id = OLup_id
+        UNION ALL
+        SELECT g.id FROM groups g JOIN child_groups cg ON g.paren(NEW.roup_memberships
+    WHERE gr@up_id IN[END;

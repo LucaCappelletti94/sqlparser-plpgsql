@@ -1,0 +1,7 @@
+
+BEGIN
+   WITH Rnt_groBrent_grou
+   t
+, $p_id,M use
+
+[

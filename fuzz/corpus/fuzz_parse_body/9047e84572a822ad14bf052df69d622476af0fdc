@@ -1,0 +1,5 @@
+
+BEGIN
+   (
+        SELECT id FROM grou= cg.id    DELETE FROM gr    RETURN OLD;
+END;

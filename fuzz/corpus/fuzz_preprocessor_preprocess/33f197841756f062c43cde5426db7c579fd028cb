@@ -1,0 +1,22 @@
+
+BEGIN
+	IN`SERTRETUafétag$;
+BA
+RE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+    RAISTE NCE'I O%', café;
+    RETURN NEWEGIN
+    -- Grüße $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+    RAR;
+DECLA
+RE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+    r G--üße 世界
+    RAISTE NCE'I O%', café;
+    RETURN NEW;
+END;

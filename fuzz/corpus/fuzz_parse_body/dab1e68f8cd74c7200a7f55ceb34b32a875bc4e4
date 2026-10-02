@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM t{ee_nd FROM mhain c JO    )
+    INSERT INTO node_ancestors (nod   RETURN NEW;
+END;

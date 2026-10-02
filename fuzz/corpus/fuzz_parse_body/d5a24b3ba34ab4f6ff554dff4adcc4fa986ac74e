@@ -1,0 +1,3 @@
+
+BEGIN
+	INSERT INTs (id+) VALUE          END;

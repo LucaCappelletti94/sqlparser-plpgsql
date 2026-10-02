@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVE child_groups A parent_group_id = OLD.group_id
+        UNION ALL
+        SE   RARE
+   }}}}}}}}}}}}}9;;;;;;;IURN NEW9ENDE
+    .
+suDer_id
+      AND group_iOLD;
+END;

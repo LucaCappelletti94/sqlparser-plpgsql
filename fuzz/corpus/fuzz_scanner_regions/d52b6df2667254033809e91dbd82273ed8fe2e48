@@ -1,0 +1,6 @@
+action, severity) VALUES ('warning%event', 'medi'high');
+    ELSIF NEW.event_type = 'warning ('warning%event', 'medi'high');
+    ELSIF NEW.event_type = 'warning' THEN
+        INSERT INTO auditzlog (action, severity) VALUES ('war' THEN
+        INSERT INTO audEW.IN
+    new_id":=owners (id)

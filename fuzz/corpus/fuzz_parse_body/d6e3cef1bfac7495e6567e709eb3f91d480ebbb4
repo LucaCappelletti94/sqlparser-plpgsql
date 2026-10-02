@@ -1,0 +1,19 @@
+
+BEGIN
+    WITH RECURSIVET id FROM goups WHERE parent_group_id = OLD.group_id
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT 
+        UNION ALL
+        SELid FROd = OLD.group_id
+
+BEGIN
+    WI
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT 
+        UNIOSELid FROM groups WHERE parent_group_id = OLD.group_id
+        UNIbON ALL
+       ECT  SEgL

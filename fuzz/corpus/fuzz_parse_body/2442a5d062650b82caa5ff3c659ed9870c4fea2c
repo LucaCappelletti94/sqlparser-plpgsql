@@ -1,0 +1,7 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+BEGIN
+      udit_log (actiom,ttttttttttttttttt
+END;  ELSIF NEW.event_type = 'warning' THEN
+ audit_lo

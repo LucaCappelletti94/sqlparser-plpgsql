@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id F,ROM tree_nodes WHERde_ancestors (node_id, anceE id = NEW.id
+   ALL
+        SELECT c RETURN NEW;
+END;

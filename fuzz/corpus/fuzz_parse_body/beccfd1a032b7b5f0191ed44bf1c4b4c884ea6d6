@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE childg_roups AS (
+        SELECAND group_ie IN (SELECT id FROM child_groups);
+    RETD;
+END;

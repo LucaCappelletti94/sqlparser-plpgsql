@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECent_groups AS (
+        SELECT parent_group_(id AS id FROM groups WHERE iW;
+END;

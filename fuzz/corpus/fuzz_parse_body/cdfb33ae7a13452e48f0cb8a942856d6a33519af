@@ -1,0 +1,10 @@
+
+DEC Grüße 世界
+   E '%', cafe$tag$
+IB;G EN   --0Grüße #XT := $tag$naïv$tag$
+IB;G EN   -- Grüße 世e 世界
+   E '%', cafe$tag$
+IB;G EN   --0Grüße #XT :Grüß世界
+    RAIS0E NOTICE '%', café;
+    RETURN NEW:
+END;

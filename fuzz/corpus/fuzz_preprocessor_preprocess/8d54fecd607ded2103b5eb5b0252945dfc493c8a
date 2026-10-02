@@ -1,0 +1,10 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT INTO audit_log (aTO audit_log (actng_event', 'mediu--m');
+    ELSIF NEW.event_tyevent_type = 'eRror' THEN
+       INuad OTit_log (aCtion, severity)pe = 'info' THEN
+        INSERT INTO audit_log (wn_event', 'unknown');
+    END IF;
+    RETURN NEW;
+END;

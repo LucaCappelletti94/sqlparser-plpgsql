@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+    ((((((((((((((((((((((((((((((((((((((1h((((((((((((((((((((((((((((((((((((((((((((((((((((((((    SELECT id, parSELECT NEW.id, parent_id FROM chain WH NOT NULL;
+
+    RETURG;MEW;
+END;

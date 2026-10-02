@@ -1,0 +1,3 @@
+}}$$$$          asset      pam.id,
+ }       pam.asset_model_id
+    FROM procedure_te

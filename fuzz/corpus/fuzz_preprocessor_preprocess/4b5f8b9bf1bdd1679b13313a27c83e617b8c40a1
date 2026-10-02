@@ -1,0 +1,8 @@
+ 
+BEGI        pam.namm,
+        NEW;parenN
+    INSERT INTO procedure_template_a       )
+    SELEure_template_id = NEW.child_id;
+    
+    RETURN--EW;
+END;

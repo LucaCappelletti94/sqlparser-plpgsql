@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM t{ee_nodes  t.parent_id FROM mhain c JOINent_id = t.id WHERE t.parent_S NOT NULL
+    )
+    INSERT INTO node_ancestors (nod   RETURN NEW;
+END;

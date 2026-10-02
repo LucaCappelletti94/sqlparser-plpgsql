@@ -1,0 +1,20 @@
+
+BEGIN
+    IF#NEW.event_type = 'error' THEN
+    
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE parent_group_id = OLD.group_id
+        UNION ALL
+        SELECT g.id FROM grouproup_id
+        UNION ALL
+        SELECT g.id FROM groups g JOIN child_groups cg ON g.parent_group_id = cg.id
+    )
+    DELETLD;
+END;
+ALUES ('info_event', 'low');
+    ELSE
+        INSERT INTO audit_log (action, severityA)VU LES ('unknown_event', 'unknown');
+    ENT IF;
+    RETURN NEWF
+END;

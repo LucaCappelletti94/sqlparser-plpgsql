@@ -1,0 +1,4 @@
+
+BEGIN
+    IF NEW.'errr H'1;
+END;

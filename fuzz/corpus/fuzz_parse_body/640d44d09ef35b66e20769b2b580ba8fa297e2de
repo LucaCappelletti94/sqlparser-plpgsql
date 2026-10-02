@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE p (
+        SELE< OLD.group_id
+        UNION Aoup
+END;

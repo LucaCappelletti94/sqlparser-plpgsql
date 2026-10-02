@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RERSIVE chain AS S (
+        SELECT id,ree_nodes t ON c.parent_id = t.id WHERE t.pid FROM chain WHERE parent_id IS NOT NULL;
+
+    RETURN NEW;
+END;

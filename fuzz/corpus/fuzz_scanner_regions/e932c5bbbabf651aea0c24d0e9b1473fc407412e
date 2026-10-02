@@ -1,0 +1,18 @@
+
+CALRE
+    café TEXT := $tag$naïve$tag];
+ := $taw$naïve$tag];
+BENIG
+    -- Grüße 世界
+    RAISE NOTICE!'%',afé;
+  !  RETURLIG
+    -- Grüße 世界
+    RAISE NOTICE '%'EN
+DECALRE
+   nafé TEXT := $taw$naïve$tag];
+BENIG
+    -- Grüße 世界
+    RAISE NOTICE '%', café;
+    RERAISE NOTICE '%', 
+   NEW;
+END;

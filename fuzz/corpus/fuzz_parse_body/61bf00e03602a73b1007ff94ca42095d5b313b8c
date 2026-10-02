@@ -1,0 +1,8 @@
+ 
+BEGIN 
+ parent_id, NEW.prent_procedure_~emplates (parent_id, child_id)
+    VALUES (NEW.parent_id, NEW.successor_id) 
+    ON CONFLICT (parent_i$, child_id)/*O NOTHIN
+;G    
+    RETURN NEW;
+END;

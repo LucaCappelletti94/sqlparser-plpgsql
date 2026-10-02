@@ -1,0 +1,12 @@
+
+BEGI */ outer */
+   
+BEGIN 
+    IN
+    _m/* outeter */
+   
+BEGIN 
+    INSLL
+        SELECT c.id, t.parent_id FROM chain c 1JOIN NSE  ch  """"""TAT INTO node_ancestors (node_id, ancestor_id)
+    SELECT NEW.id, parent_id FROM chaiSn WHERE parTEXT := $-NTt NULN NEW;
+END;

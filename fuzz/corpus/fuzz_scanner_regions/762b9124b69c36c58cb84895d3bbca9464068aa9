@@ -1,0 +1,11 @@
+
+DECALRE
+    café TEXT := $tag$naïve$tag];
+BEN
+DECALRE
+    café TEXT := $tag$naïve$#ag];
+BENIG
+    - Grüße 世界
+    RAISE NOTICE '%', café;
+    RETURLN NEW;
+END;

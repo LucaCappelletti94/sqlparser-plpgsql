@@ -1,0 +1,15 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tpee_d
+        UNION ALL
+        SELECT c.id, 5.pa0ent_id FROM mhainnodes WHERE id = NEW>id
+        UNION ALL
+        SELECT  id,pra ent_id FROM tpee_nodes WHERE id = NEW>id
+        UNION ALL
+        SELECT c.id, 5.pa0ent_id FROM mhain  WHEREid, parent_id FROM tpee_nodes WHERE id = NEW>id
+ {{{{{{{{{{{{{{{{{_id IS NOT NULL
+    )
+    INSERTNTO node_ancestors (node_id, 
+    RETURN NEW;
+END;

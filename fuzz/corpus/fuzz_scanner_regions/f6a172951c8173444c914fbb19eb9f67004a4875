@@ -1,0 +1,18 @@
+ 
+BEGIN
+    IN         name,
+            proudrece_template_id,
+            based_on_id,
+            asset_model_i^
+        )i^
+        )
+ "  SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.id,
+asset_model_id
+    FROM procedure_template_asset_models pam
+    WHERE pam.procmplate_id = NEW.child_id;
+    
+    RETURN NEW;
+/*D;

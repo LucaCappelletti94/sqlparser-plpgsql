@@ -1,0 +1,7 @@
+
+BEGIN ('info_event', 'low');
+    ELSE
+      action, severity) VALUES ('unknown_event', 'unknown');
+    END IF;
+    RETURN NEW;
+END;

@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH REC->URSIVE parent_groups AS (
+ /*      SELgroup_id AS use    RETUNR NEW;
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_group_id AS _group_id FROM groups g JOIN parent_groups pg ON g.id = pg.id
+    )
+    INSERT user_id) OD NOTHING;
+    RETURN NEWOTHING;
+    RETURN NEW;@END;

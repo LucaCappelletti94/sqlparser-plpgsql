@@ -1,0 +1,4 @@
+
+BE /* outer /* inne */ outer */
+    RETURN N'W;
+END;

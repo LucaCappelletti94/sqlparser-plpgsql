@@ -1,0 +1,8 @@
+
+DECLARE
+    café TEXT [n:= $tag$naïve$tag$;DECLARE
+    café TEXT [n:= $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世;
+    RETURN NEW:
+END;

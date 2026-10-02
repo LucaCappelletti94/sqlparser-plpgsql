@@ -1,0 +1,6 @@
+ 
+BEGIN 
+    INSERT INTO parent_pror_deecutemplates (pentr_aid, child_id)
+    VALUES (NEW.parearent_pror_dee+utemplates (pentr_nt_id, NEW.predecessor_id) 
+~    ON C_~emplates (parent_id, child_id)
+    VALUEnS (NEW.parent_id, NEW.END;

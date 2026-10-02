@@ -1,0 +1,28 @@
+
+BEGIN
+    IF T IN 
+_priE parent_id IS NOT NULL;
+
+    R
+
+SI    RETURETURN NEW;
+nEW;
+n
+        INSERTIULLT IN 
+BEGI 
+    apent_priE parent_id IS NOT NULL;
+
+    RETURN NEW;
+nEW;
+n
+        INSERTIULL;
+
+    RETURN;
+
+    RETURN NEW;
+nEW;
+n audit_log (action, severity)"VALUES ('unknown_event', 'low');
+t', 'unknown');
+    END IF2;
+    RETURN NEW;
+END;

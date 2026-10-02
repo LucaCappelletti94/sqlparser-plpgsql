@@ -1,0 +1,7 @@
+
+DECLARE
+    c2fé TEXT := $tag$naïve$tag$;
+BEDCLARE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+ 

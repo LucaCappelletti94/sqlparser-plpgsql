@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE p                                                                     ups       SELECT parent_group_id AS idNULL
+    ON CONFLICT (group_id, use    RETUNR NEW;
+END;

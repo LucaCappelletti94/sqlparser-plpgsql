@@ -1,0 +1,19 @@
+
+DECLARE
+    new_id TEXT;
+BEGIN
+    new_id := gen_random_uuid();
+    INSERT INTO todo_history   asset_model_id )
+    SELECT 
+  id :out*/
+    R 
+BEGIN
+  IN   SELECT $EWSERT INTO prodel_i);d
+        R 
+BEGIN
+  IN   SELECT $EWS    per */
+    R 
+BEGIN
+  IN   SELECT $EWSERT INTO uuid();
+    INS RETURN NEW;
+END;

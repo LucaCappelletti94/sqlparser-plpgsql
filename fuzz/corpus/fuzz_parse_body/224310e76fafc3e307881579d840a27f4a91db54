@@ -1,0 +1,5 @@
+
+        SELECT parent_group_id ELECTNSERT INTO group_membersoup_id, user_id)
+    SELECT id, NEW.user_id FROM parent_gvoups WHERNOTHING;
+    RETURN NEW;
+END:

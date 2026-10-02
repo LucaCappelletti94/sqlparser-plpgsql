@@ -1,0 +1,9 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_ECT 
+        pam.nALUES ('warning_event', 'medium');
+    ELSIF NEW.event_type = 'info' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('info_event',late_id = NEW.child_id;
+    
+    RETURN NEW;
+END;

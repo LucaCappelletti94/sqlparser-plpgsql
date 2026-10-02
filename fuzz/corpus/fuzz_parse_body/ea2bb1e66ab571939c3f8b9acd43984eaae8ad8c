@@ -1,0 +1,24 @@
+ 
+BEGIN
+    INsERT IXNTO prodeEGIN
+    INsERT IXNTO prodEGIN
+    INsERT IXNTO prodeEGIN
+    INsERT IXNTO els (
+           pam.d--        b
+        )
+    SELECT 
+       22222222o22222222222222222222222222 e,
+        NEW.parent.parent_id,
+        pam.d-- NEW.child_id;
+ .   
+    RETURN NEW;
+END;ls (
+           pam.d--        b
+        )
+    SELECT 
+       2222222222222222222222223222222222 e,
+        NEW.parent.parent_id,
+        pam.d-- NEW.child_id;
+ .   
+    RETURN NEW;
+END;

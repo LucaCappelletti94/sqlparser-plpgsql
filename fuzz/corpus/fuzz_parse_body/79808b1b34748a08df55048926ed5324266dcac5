@@ -1,0 +1,13 @@
+
+BEGIN
+	INSERT INTO owners (id) VALUES        
+DECLARE
+    café TEXT := $ta_$                                                                                                                 (NEW.id);
+	RETURN NEW;tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttnaïve$tag$;
+BEGIN
+    -- Grüße 世界
+    RAISE NOTICE tttttt'%', café;
+  ttttttttttttttttt 
+END; RETURN NEW;
+EN
+D;

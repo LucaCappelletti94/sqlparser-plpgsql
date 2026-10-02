@@ -1,0 +1,12 @@
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""BEGIN
+    WITH RECURSIVE child_groupsSA""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""BEGIN
+    WITH RECURSIVE child_groupsSA ( 
+   
+DECLARE
+    café TEXT ( 
+   
+DECLARE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+       SEL  -- G]a

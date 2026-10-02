@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT c.id, t.parent_id FROM mhain c JOIN tree_nodes5t ON c.arent_idEW;NOT NULL;
+
+    RETURN NEW;
+END;

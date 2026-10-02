@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nes WHERE id = NEW.id
+       ( UNION ALL
+            WITH RECURSIVE child_grouBESA"""""""" EW;
+END;

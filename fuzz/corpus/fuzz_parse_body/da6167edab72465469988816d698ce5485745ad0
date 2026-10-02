@@ -1,0 +1,16 @@
+
+DECLB;G EN   -- Grüße 世界
+   E '%', cafe$tag$DECLB;G EN   -- Grüße 世界
+   E '%', cafe$tag$
+IB;G EN   --0Grüß:= $tag$naïv$tag$
+IB;G EN   -- Grüße 世界
+   E '%', cafe$tag$
+IB;G AIS0E NOTICE '%', café;
+    RETURN NEW:
+END;
+IB;G EN   --0Grüß:= $tag$naïv$tag$
+IB;G EN   -- Grüße 世界
+   E '%', cafe$tag$
+IB;G AIS0E NOTICE '%', café;
+    RETURN NEW:
+END;

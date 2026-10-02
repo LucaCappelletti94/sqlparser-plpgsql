@@ -1,0 +1,14 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+      bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb/bb t.parent_id FHERE t.parent_id IS NOT NULL
+    )
+    INSERT INTO node_ancestors (node_id, ancestor_id)
+  t_id IS NOT NULL
+    )
+   t_id IS NOT NULL;
+
+    RETURN NEW;
+END;

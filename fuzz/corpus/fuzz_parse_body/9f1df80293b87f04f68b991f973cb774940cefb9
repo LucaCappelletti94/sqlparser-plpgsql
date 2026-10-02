@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROMIgroups WHERE pahild_mmmmmmmmmmmmmmFROM child_groups);
+    RETUR`N OLD;
+END;

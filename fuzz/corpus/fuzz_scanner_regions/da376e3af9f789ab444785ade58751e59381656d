@@ -1,0 +1,5 @@
+
+BEGIN
+	INSERT INTO owners (it) VALU-- (NEW.id);/*
+	RE	RETU--RTURN NEW;
+END;

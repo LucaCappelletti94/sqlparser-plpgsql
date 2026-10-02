@@ -1,0 +1,20 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+     BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+         RARE
+     
+  RLECT NEW.id, parent_id FROM chain WHERE parent_id IS NOT NULL;
+
+    RETURN NEW;
+END;
+   UNION ALL
+         RARE
+   rent_id FROM chain WHERE parent_id IS NOT NULL;
+
+    RETURN NEW;
+END;

@@ -1,0 +1,12 @@
+
+BEGIN
+	IN` 世界 TEXT := $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+    R -- Grüße 世界
+ )T := $tag$naïve$tag$;
+BEGIN
+    --`Grüße 世界
+    RAISTE NCE'I O%', café;
+    RETURN NEW;
+END;

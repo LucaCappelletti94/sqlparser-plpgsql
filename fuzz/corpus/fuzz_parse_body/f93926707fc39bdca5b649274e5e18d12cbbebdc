@@ -1,0 +1,4 @@
+ rüße 世界
+    RAISE NOTICE '%', cané;
+    RETURN NEW:
+END;

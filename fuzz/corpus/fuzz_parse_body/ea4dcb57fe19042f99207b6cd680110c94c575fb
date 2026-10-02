@@ -1,0 +1,6 @@
+
+DE
+    new_Ad TEXT;
+BEGIN
+    new_id := gen_random_uuid(  VALUES (new_id, N
+END;
