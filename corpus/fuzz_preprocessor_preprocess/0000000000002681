@@ -1,0 +1,12 @@
+
+DSERT INTO todo_historid, todo_id 'acW.id, 'created');
+    RE?BE
+BEGIN
+    IF NEW.event_rror' THEN
+    GI
+DECLARE
+    new_id TEXT;
+BTURN .ARE
+    new_id TEXT;
+    INSERT INTO audit_log (action, seve2ityERT INTO audit_log (action,B severity) TURN NEW;
+VE

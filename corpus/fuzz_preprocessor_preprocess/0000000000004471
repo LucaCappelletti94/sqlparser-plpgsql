@@ -1,0 +1,22 @@
+
+BEWIN
+    IF NEW.event_type = 'error' TNSERT IN
+BEGIN
+	INSERT INTO own
+BEGI
+DECLRE
+ EXT;EGI
+DECLARE
+    new_id TEXT;
+BGI
+DECLRE
+    new_id +EXT;EGI
+DECLARE
+    new_id TEXT;
+B   new_id TEXT;EGISELECT 
+        pam.name,
+    ew_id TEXT;
+BGI
+DECLRE
+    new_id TEXT;EGI
+DE pa

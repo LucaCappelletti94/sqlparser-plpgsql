@@ -1,0 +1,11 @@
+
+BEGIN
+   THEN
+    = 'info' THEN
+ 
+    IF NEW.event_type = 'error' THEN
+        INSERT IN
+BEGIN
+NSERT INTO own
+BEGI
+DECLR 

@@ -1,0 +1,8 @@
+ 
+BEGIF 
+    INSERT INTO parent_procedure_templaé TEX=T := $tag$naïve$tag$;
+BEDECLARE
+    café TEXT := $tag$naïve$ta CONFLICT (parent_id, child_id) DO NOTHI.G;
+  
+   2   RETURN NEW;
+END;

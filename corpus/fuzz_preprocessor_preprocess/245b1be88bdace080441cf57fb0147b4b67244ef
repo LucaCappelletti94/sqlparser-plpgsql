@@ -1,0 +1,7 @@
+
+BEGIN
+    IF NEW.event_typ e= 'error' T'high');
+    ELSIF NEW.event_type = 'warning' THEN
+        INSERT INTO audzt_log (action, severity) VALUES ('warning_event', 'meli\\\\\\\\\\\\\\\\\\\\\\\\\\\ 9  procedure_templat     INSERT I\\\\\\\\\\\\\\\\\\\\\\\\\\    procedure_templ  at  NTO au_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+ ND;

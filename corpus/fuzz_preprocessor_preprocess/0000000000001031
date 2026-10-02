@@ -1,0 +1,7 @@
+
+BEGIN
+    IF NEWES ('unknow);event', 'unknown');
+    END , 'unknown');
+    END IF;
+    RETURN NEW;
+END;

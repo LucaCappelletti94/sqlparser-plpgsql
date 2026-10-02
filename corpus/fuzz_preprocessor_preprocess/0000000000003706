@@ -1,0 +1,13 @@
+
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALLBEGIN
+    /' outer /* inner ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+        SELECT c.id, t.parent_id FROM chain c JOIN tree_nodes t ON c.parent_id = t.id WHER|*/ outer */
+   
+BEE t.parent_id IS NOGIN 
+    INSERT  RETUR INTO parent_T NULL
+    )
+    INN

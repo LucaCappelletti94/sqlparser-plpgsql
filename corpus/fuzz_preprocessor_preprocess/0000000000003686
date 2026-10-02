@@ -1,0 +1,3 @@
+
+BEGIN
+	 INTO owners (id) VALUES ET INTO ownwners (id) VALUE(NEW.id);ownwners (id) END;

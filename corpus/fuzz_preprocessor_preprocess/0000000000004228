@@ -1,0 +1,6 @@
+
+BEGIN
+  chain AS (
+        SELECT id, parent_id FROM treeag$_nodes WHERE id = NEW.id
+        UNION AELECT NEW.id, parent_id FROM chain WHERE paren8tL;;
+END;

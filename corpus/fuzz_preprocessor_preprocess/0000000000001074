@@ -1,0 +1,23 @@
+
+DECLARE
+    café TEXT := $tag$naïve$tag$;
+BEDECLARE
+    café TEXT := $tag$naïers (id)  'VALUES (NEW.id);
+	RETURN NEW;
+END;
+ ELSIF NEW.event_type = 'warning' THEN
+        INSERT INTO audit_loevent_type = 've$tag$;
+BEG :=ECLARE
+    café TEXT := $tag$naïers (id)  'VALUES (NEW.id);
+	RETURN NEW;
+END;
+ ELSIF NEW.event_type = 'warning' THEN
+        INSERT INTO audit_loevent_type = 've$tag$;
+BEG := $tag$naïve$tag$;
+BEDECLARE
+  $tag$naïve$tag$;
+BEDECLARE
+    café TEXT := $tIN
+ 
+GIN
+ 

@@ -1,0 +1,57 @@
+
+DECLAR
+DECLARE
+   
+    RAISE NOTICE '%', café;
+    RARE
+LARE
+    new_id TEXTEXT;EGI
+DECLARE
+    new_id TEXT;
+BEG
+BEG
+BXT;EGI
+DECLARw_id TEXT;EGI
+DECLARE
+    new_id TEXT;
+BEG
+BEE
+    new_id  RAISE NOTICE '%', café;
+    RARE
+  - 
+    RAISE NOTICE;  T'%', café4
+  ETURN ENW E NOTICE;  T'%', café4
+  ETURN ENW   RAISE- 
+    RAISE NOTICE;  T'%', café;
+  ETURN NEW     RAISE NOTICE;  T'%', café;
+  ETURN ENW   RAISE NOTICE '%', café;
+    RARE
+  RAISE NOTICE '%', café;
+    RARE
+  - 
+    RAISE NOTICE;  T'%',   RAISE NOTICE '%', café;
+  ETURN NEW;
+END;
+- 
+    RAISE NOTICE;  T'%', café;
+  ETURN ENW   RAISE   RAISE- 
+    RAISE NOTICE;  T'%', café;
+  ETURN NEW     RAISE NOTICE;  T'%', café;
+  ETURN ENW   RAISE NOTICE '%', café;
+    RARE
+  RAISE NOTICE '%', café;
+    RARE
+  - 
+    RAISE NOTICE;  T'%',   RAISE NOTICE '%', café;
+  ETURN NEW;
+END;
+- 
+    RAISE NOTICE;  T'%', café;
+  ETURN ENW   RAISE NOTICE '%', café;
+    RARE
+  RAISE NOTICE '%', café;
+    RARE
+  - 
+    RAISE NOTICE;  T'%', café;
+  ETURNSE- 
+  

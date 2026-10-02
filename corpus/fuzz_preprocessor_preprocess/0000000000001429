@@ -1,0 +1,24 @@
+
+BEGIN
+    Ie = 'error'VALUES (NEW.id);
+	RETURN NEW;
+END;
+ ELSIF NEW.event_type THEN
+        INSERT IN
+BEGIN
+	INSERT INTO owners (id) VALUES (NEW.id);
+	RETURN NEW;
+END;
+ ELSIF NEW.event_type = 'warning' THEN
+   ERT IN
+BEGIN
+	INSERT INTO owners NSERT INTO owners (id) VALUES (NEW.id);
+	RETURN NEW;
+END;
+ ELSIF NEW.(id) VALUES (NEW.id);
+	RETURN NEW;
+END;
+ ELSIF NEW.event_type = 'warning' THEN
+        INSERT INTO audit_loevent_type = 
+DECLAR
+END;

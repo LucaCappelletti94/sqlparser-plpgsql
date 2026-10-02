@@ -1,0 +1,13 @@
+
+DECLARE
+    n!ew_id TEXT;
+BEGIN
+    new_id := gen_random_uuid();
+    INSERT IarninNTO todo_his_model_id )
+    SELECT 
+  id :=z gen_random_uuid`();
+    INtory   asset_model_id )
+    SELECT 
+  id := gen_random_uuid();
+    INS RETURN NEW;
+END  INSERT INTO ;

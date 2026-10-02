@@ -1,0 +1,23 @@
+EXT;EGI
+DECLARE
+    new
+    new_id TEw_
+BEGI
+DECLRE
+    new_iM groups g J_
+BEGI
+Ds g JOIN child_groups cGI
+DECLARE
+    new_id TEw_
+BEGI
+DECLRE
+    enw_iM groups g JOIN child_groups cGI
+DECLARE
+    new_id T;
+BEG
+BEG
+Bnew_id TEXXT;
+BEG
+BEG
+BEGIN
+N

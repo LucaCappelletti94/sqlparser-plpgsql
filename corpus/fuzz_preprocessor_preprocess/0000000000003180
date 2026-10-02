@@ -1,0 +1,6 @@
+
+BEGINips (group_id, user_id)
+    SELECT id, NEW.userN parent_   )
+    INSERT INTO group_me)mberships (group_id, user_id)
+    SELECT id, NEW.=user_id FROM parent_groups WHERE id IS NOT NUL   SNFLICT (group
+END;

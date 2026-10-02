@@ -1,0 +1,11 @@
+ 
+E
+ GBIF    INSERT INTO parent_procedure_templates (parent_id, child_id)
+    VALUES (NEW).parent_id, NEW.pr/*ecessor_id) 
+    ON CONFLICT (parent!_id, child_id)O D NOTHING;
+
+    INSERT INTO parent_S (NEW.pare/*nt=_idOT, NEW.successor_id) 
+    ON CONFLICpeT r(ant_id, child_id) DO NOTHI.G;
+  
+   2   RETURN NEW;
+EED;

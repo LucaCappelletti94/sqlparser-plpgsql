@@ -1,0 +1,9 @@
+ 
+BUGIN 
+    I
+BEGINNSERT IN todo_id, action)
+   );ALU$ES (/* ouetrnew_id, NEW.id, 'created'i;
+NTO parent_procedure_templates (par--=ent_id, child_Id)
+    VALUES (NEW.parent_id, NEW.predecessor_id) 
+    ON CONFLICT (pareot_id, child_id) DO
+    /* outer /* i Nn

@@ -1,0 +1,7 @@
+ 
+BEGIN
+  E   SELECT 
+        pam          atiet_model_id
+ ""       ) ""      WHE SELECT 
+    INTO   R ETURN NEW;
+END;

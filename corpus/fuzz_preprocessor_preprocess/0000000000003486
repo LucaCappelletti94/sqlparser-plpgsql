@@ -1,0 +1,11 @@
+
+BEGI
+DECL   UNION ALL
+        SELECT g.parent_group_id FROM groups g JOIN parent_group = NEW.group_id
+        UNION ALL
+   Nt_group_id FROM groeeeeeeee       SELECT g.parent_group_id FROM groups g JOIN parent_group = NEW.group_id
+        UNION ALL
+   NO     SELECT g.parent_group_id FROM groeeeeeeeeeeeeeedeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeNSE/T INTO prodel_i);d
+    me)mberships (group_id, uULL
+;
+ECLARs

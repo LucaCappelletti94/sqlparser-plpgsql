@@ -1,0 +1,8 @@
+
+BEGIN
+    /* outer /* inne oute
+    IN
+    /* outer /* inn
+BEGIN
+    /* outer /* inner */ IN
+    /* outer /* inner* outer /*r */ outer UR INTO parent_N

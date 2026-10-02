@@ -1,0 +1,5 @@
+
+BEGIN
+	INSERT INES (NEW.id);
+	RETURW;
+END;

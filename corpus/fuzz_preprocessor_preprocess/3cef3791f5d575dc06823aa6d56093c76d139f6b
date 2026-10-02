@@ -1,0 +1,8 @@
+
+DECLARE
+    .XT := $tagEGIN
+  ~  ag$;
+B:= $tagEGIN
+    ag$;
+BEGIN
+ $;

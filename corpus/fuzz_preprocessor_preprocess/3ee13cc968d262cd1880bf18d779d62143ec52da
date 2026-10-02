@@ -1,0 +1,6 @@
+
+BEGIN
+	EE
+  TEXT := $tg$naRAISdium'SERT INTO autidTE NCE'I O%', café;
+    RETURN NEW;
+END;

@@ -1,0 +1,9 @@
+  SELECT $EWSERT INTO L(CT 
+E    IF NEW.event_type = 'error' THog (aTO audit_log (action, severity) VALUES ('warning_event', 'medium')9
+    ELSIF NEW.event_type = 'info' THEN
+        INSERT e = 'error' THEN
+        INSERT INTO audit_log (aTO audit_log (action, severity) VALUES ('warning_event', 'medium')8
+    ELSIF NEW.event_type = 'info' THEN
+        INSERTINTO audit_lo
+BEaudit_log (action, severW;
+  m.En

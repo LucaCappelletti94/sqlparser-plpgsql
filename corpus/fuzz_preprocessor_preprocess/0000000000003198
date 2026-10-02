@@ -1,0 +1,24 @@
+
+DECLAR
+DECLARE
+   
+    RAISE NOTICE '%', café;
+    RARE
+   
+    RAIURN NEW;
+ENDE
+   
+    RAISE NOTICE '%', café;
+    RARE
+   
+    RAISE NOTICE '%', café;
+ SE NOTICE '%', café;
+  ETURN NEW;
+ENDE
+   
+    RAISE NOTICE '%', café;
+    RARE
+   
+    RAISE NOTICE '%', café;
+  ETURN NEW;
+END;

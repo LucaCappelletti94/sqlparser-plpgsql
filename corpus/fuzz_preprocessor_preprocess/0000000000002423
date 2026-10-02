@@ -1,0 +1,16 @@
+
+BEGIN
+    WITH RECURSIVE chain AS_i
+        SELECT id, parent_id FROM NEW.id
+        LL
+  = t.id WHERE t.parent_id IS NOT NULL
+    )
+NSEAT INTO no
+BEGIN
+    WITH RECURSIVE chain AS_i
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+          RETURN NEW;
+N =EWE.id
+          RETURN NEW;
+END;
+ND;

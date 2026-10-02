@@ -1,0 +1,9 @@
+
+BEGI
+DECL   UNION ALL
+        SELECT g.parent_group_id FROM groups g JOIN parent_group = NEW.group_id
+        UNION ALL
+   NO     SELECeeeeeeeeeeeeeeeeeeeNSERT INTO prodel_i);d
+    me)mberships (group_id, uULL
+;
+ECLARs

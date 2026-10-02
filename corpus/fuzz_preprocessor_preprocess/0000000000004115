@@ -1,0 +1,9 @@
+
+DECLARE
+    café TEXT := $tag$naïve$tag$;
+BEDECLAfé TEXT := $tag$naïve$tag$;
+BEDECLAREafé TEXT := $tag$naïve$tag$;
+BEGIN
+ 
+GIN
+ 

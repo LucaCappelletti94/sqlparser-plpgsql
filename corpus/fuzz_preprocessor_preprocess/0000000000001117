@@ -1,0 +1,7 @@
+
+DECLARE
+a=fé TEXT := $tag$naïve$tag};
+BEGIN
+    -- Grüßecafé;
+    RETURN NEW;
+END;

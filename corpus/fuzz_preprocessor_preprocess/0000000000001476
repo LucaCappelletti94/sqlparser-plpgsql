@@ -1,0 +1,23 @@
+
+DECLARE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+   $RAISTE NCOIE '%', café;
+ę$    RCLARE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+RE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+   $RAISTE NCOIE '%', café;
+ę$    RCLARE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+   $RAISTE NCOIE '%', café;
+ę$ETURN    -- Grüße 世界
+   $RAISTE NCOIE '%', café;
+ę$ETURN NEW;
+END;

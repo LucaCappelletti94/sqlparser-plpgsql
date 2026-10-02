@@ -1,0 +1,10 @@
+    RAISE NOTICE '%', café;
+    RARE
+   
+ RAISE NOTICE '%', café;
+RAISE NOTICE '%'$ café;
+    RARE
+   
+    RAISE NOTICE '%', café;
+  EEW;
+END;

@@ -1,0 +1,19 @@
+
+BEWIN
+    IF NEW.event_type = TEXT;
+B   new_id TEXT;EGI
+DECLARE
+   LECT 
+  `SERTRETURN NEW;
+E,N;;
+DECLA
+RE
+    café TEXT1 := $tag$naïve$tag$;
+BA
+RE
+    café TEXT := $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世界
+    RAISTE NCE'I O%', café;
+    RETURN NEWEGIN
+    -- Gr
