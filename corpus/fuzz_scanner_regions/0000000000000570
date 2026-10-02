@@ -1,0 +1,19 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tre 
+BEGIN
+    INSERT INTO procedure_template_asset_models (
+            name,
+            procedure_template_id,
+            based_on_id,
+            ase_nodes WHERE id = NEW.id
+        UNIset_model_id
+        )
+ "  SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.id,
+        pam.asset_model_id
+    FROM proceON ALL
+       dure_ SELECT c.id, t.parent_id FROM chtemplate_asse

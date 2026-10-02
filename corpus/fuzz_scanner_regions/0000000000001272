@@ -1,0 +1,5 @@
+ 
+BEGIN
+   I NSERT INTO prÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿocedure_tem*dure_templalate_id = NEW.child_id;
+/    - NEW;
+END;

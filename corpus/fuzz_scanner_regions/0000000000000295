@@ -1,0 +1,11 @@
+
+DECALRE
+  ` café TEXT := $Tag$naïve$tag];
+BEN
+  café TEXT3 := $tag$naïve$tag];
+BENIG
+    -- Grüße 世界
+    RAISE$NOTICE '%', café;
+    RLUETURLIG
+    --;
+END;

@@ -1,0 +1,16 @@
+ 
+BEGIN
+    IN    name,
+            proudrece_template_id,
+            based_on_id,
+            asset_model_i^
+        )i^
+        )
+ "  SELECT 
+        pam(.name,
+        NEW.parent_id,
+        pam.id,
+as.procmplate_id = NEW.child_id;
+    
+    RETURN NEW;
+/*D;

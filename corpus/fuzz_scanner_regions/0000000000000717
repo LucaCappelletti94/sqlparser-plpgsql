@@ -1,0 +1,24 @@
+
+DcGIN
+    /* outer 
+BEGIN
+  ;
+EN  outer  outer 
+BEGIN
+  ;
+EN  outer *NS  d,outer D/* inner */ outer */
+    RETURN NEW;
+/* inner ;*/
+BEGIN
+	I outer  inner ;*/*NS  d,outer D/:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::* inner */ outer */
+    RETURN NEW;
+/*  /* outer 
+BEGIN
+  ;
+EN  outer *NS  d,outer D/* inner */ outer */
+    RETURN NEW;
+/* inner ;*/
+BEGIN
+	I outer  inner ;*/
+BEGIN
+	I outer *NSERT IN

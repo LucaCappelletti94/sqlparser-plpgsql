@@ -1,0 +1,8 @@
+
+BE    /* oE
+    /* outer /* inner */ outer */
+    RETURN NEW;
+/* inner   RETURN NEW;
+/* inner */ ou */
+    RETURN NEW;.
+END;

@@ -1,0 +1,5 @@
+
+-BEGIN
+T Iw/*ners (id) VALCT id, parent_id FROM tree_nodes WHERE id = NHW.id
+        UNION ALL
+        SELECT cUTL

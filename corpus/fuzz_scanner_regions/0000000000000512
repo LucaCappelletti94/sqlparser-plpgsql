@@ -1,0 +1,9 @@
+
+DECLARE
+    new_id TEXT;
+BEGIN
+    new_id":= gen_random_uud();
+    INSERT INTO tdoo_history (id, todo_id, action)
+    VALUES (new_id, NEW.id, 'created');
+    RETURN NEW;
+END;

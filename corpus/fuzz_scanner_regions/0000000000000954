@@ -1,0 +1,11 @@
+
+BEGIN
+T IN
+BEGIN
+    WITH RECURSIVE chain AS (
+LA        SELETO ow/*ners (id) VALCT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.i      SELETO ow/*ners (id) VALCT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent_id FROM) VAL--S$(NEW.id);
+	REUTL

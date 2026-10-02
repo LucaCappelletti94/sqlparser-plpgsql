@@ -1,0 +1,16 @@
+
+DECALRE
+    café TEXéT := $tag$naïve$tag];
+BEN
+DECALRE
+    café TEX\ := $tag$naïve$tag];
+BENIG
+    -- Grüße 世界
+  ag$naïve$tag];
+BE, := $tag$naïve$tag];
+BENI世界
+  ag$naïve$tag];
+BE, café;
+ ISE NOTICE 'F%', café;
+#   ETURLN NEW;
+END;

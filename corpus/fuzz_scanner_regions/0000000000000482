@@ -1,0 +1,18 @@
+
+BEGIN
+T INTO ow/*ners*NS  d,outer D/* inner */ outer */
+    RETURN NEW;
+/*  /* outer 
+BEGIN
+  ;
+EN  outer *NS  d,outer D/* inner */ outer */
+    RETURN NEW;
+/* inner ;*/
+    /* outer 
+BEGIN
+  ;
+EN  outer *NS  d,outer D/* inner */ outer */
+     (id) VALUES$(NEW.kd);
+	RETURN NE	INSERT INTO owners (id) VALUES$(NEW.id);
+	RETURN NEW;
+END;
