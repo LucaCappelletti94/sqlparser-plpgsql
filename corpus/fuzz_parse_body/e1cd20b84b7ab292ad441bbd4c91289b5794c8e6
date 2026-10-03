@@ -1,0 +1,6 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+           INSERT  END I_loJ (action, severity) VALUES (' gfo_');
+    END IF;;
+END;

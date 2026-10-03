@@ -1,0 +1,9 @@
+
+BEGIN
+    IF NEW.eUE@@@@@@@@@@@@@@@@@@@@@H@@@@@@@@@@@@@@@@@@@@@@@@@H@@@@@@@@@@EN
+       @@@@@H@@@@@@@@@@@@@@@@@@@@@@EN
+       @@@@@H@@@@@@@@@@@@@@@@e = 'info' THEN
+        INSERTNT IF;
+    RETURN NNT IF;
+    RETURN NEW;
+END;

@@ -1,0 +1,5 @@
+
+BEGIN
+  DELETE FROM groumembershgroup_(SELips);
+    RETURN OLD;
+END;

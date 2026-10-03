@@ -1,0 +1,4 @@
+ 
+BEGIN
+    INsERT IXNT||_W;
+END;

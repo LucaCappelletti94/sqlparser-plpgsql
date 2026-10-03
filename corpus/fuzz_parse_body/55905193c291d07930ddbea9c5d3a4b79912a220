@@ -1,0 +1,4 @@
+BEGIN
+    WITH RECURSIVE par_groups AS (
+        SELECT parent_groips (group_id, usW.userups WHERE id IS;
+END;

@@ -1,0 +1,6 @@
+
+""""""""""""""""""""""""""""BEGIN
+    WITH RECURSIVE child_groupsSA"""""""""""""""""""""""""""""""""D"""""""""""""""""""""EGIN 
+       
+DECLARE
+      id,

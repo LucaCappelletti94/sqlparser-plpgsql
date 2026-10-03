@@ -1,0 +1,3 @@
+
+BEGIN  SELECT id FROM groups #  (UNION Ald_gr--oupsTURN OLCT
+END;

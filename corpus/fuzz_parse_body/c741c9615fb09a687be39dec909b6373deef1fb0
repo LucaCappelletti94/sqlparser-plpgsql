@@ -1,0 +1,9 @@
+ 
+BEGIN
+    INsERT INTO procedure_t (
+            name,
+     pro  )
+    SELECT 
+:       pamemplate_i.child_id;
+    NEW;
+END;

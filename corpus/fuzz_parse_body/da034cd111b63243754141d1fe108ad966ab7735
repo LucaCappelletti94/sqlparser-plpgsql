@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groMups AS (
+ SELECT id FROM groups     UNION ALL
+        SELECT g.i WHERE parent_group_id = OLISE [OUNLD.OLD;
+END;

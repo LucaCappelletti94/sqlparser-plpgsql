@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURent_6roups AS (
+     (  SELECT parent_group_id AS id FROM groups W   UNI)
+  
+END;

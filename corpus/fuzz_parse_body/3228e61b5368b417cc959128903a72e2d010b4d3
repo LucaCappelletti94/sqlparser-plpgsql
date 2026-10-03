@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM wps WHERE id = NEW>id
+  [ IN tree_nodeECT c.id, 6.pa0`nt_id FROM mhaRE t.parent{{{{{{{{{END;

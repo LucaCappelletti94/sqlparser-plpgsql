@@ -1,0 +1,6 @@
+
+DECLARE
+    neid TEXT;
+BEGIN
+    new_id := gennnn_random_uui_(  new_id := gandom_uuid(); VALUE
+END;

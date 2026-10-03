@@ -1,0 +1,7 @@
+
+DECLAR%E
+    new_id TEXT;
+BEGIN
+    newid := gandom_&uuid();
+  Y   VALUE
+END;

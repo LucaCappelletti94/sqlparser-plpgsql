@@ -1,0 +1,5 @@
+XT;
+BEGIN
+    new_id := o_ew_id,
+$EWid,;
+ END;

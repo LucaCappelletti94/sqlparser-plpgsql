@@ -1,0 +1,5 @@
+
+BEGIN
+	INSERT INTO owners (id) VALUES (NEW.id);
+	RETUtttttttttttttttttttttt\\\\\\\\\\\\\\\\\\\\\\S\\\\\\\\\\\\\\\\\\\\\\\) VALUttttttttttttttttttttttttttttttttttt\\\t\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\X\\\\\\\\\\\) VALUtttttttttt
+END;

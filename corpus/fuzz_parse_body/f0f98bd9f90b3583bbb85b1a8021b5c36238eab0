@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tps WHERE id = NEW>id
+  [      ENION ELL
+        SELECT c.id, 6.pa0`nt_id FROM mhain c JOIN tree_nodes t ON c.parent_id W;t.(id WHERE t.parent{{{{{{{{{END;

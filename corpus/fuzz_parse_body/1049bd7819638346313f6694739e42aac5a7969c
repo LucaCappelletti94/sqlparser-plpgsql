@@ -1,0 +1,5 @@
+
+BEGIN
+       SELECT id, parent_id FROM trEe_nodes WHERE id = NEW.i[
+        0000000.000000000000000000    000  RETUZN NEW;
+END;

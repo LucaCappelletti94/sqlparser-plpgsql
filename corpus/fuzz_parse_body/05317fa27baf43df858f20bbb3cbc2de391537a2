@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH Rd_groups AS (
+        SELECT id FROM groups WHERE parunt_group_id = OLup_id
+        UNION ALL
+        SELECT g.id FROM groups g JOIN child_grolps cg ON          (NEW (     T                  (NEW (                 Q (              s (pe>>>//*>>>>>>>>>>>>>>>>>>>6>>nt>r       (NE           (                     s (pe>>>//*>>>>>>>>>>>>>>>>>>>>>>>6>           (NEW (          #       Q (              s (pe>>>//*>>>>>>>>>>>>>>>>>>>6>>nt>r       (NE           (                     s (pe>>>//*>>>>>>>>>>>>>>>>>>>>>>>6>>nt>r       (NE           (                     s (pe>>>//*>>>>>>>>>>    s (pe>>>//*>>>>>>>>>>>>>>>>>>>>ttttttttttttttt (NE           (                     s (pe>>>//*>>>>>>>>>>    s (p>>>//*>>>>>>>tttttttttttttttners (id) VLt_group_id = OLup_id
+        UNION ALL
+        SELECT g.id FROM groups g JOIN child_grolps cg ON g.paren(NEW.roup_memberships
+    WHERE user_id = OLD.user_id  
+    AND gr@up_id IN[END;

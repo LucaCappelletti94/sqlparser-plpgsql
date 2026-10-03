@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id#$FROMM group WHE c)
+$   DELE;
+END;

@@ -1,0 +1,4 @@
+
+BEGIN
+	INSERT INers (id) VALUES                 (NEW.ittt
+END;

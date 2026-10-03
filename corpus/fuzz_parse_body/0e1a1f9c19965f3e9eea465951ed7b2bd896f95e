@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_model    SELECT 
+        pam.name,
+      $ NEW.pam.name,
+  
+END;

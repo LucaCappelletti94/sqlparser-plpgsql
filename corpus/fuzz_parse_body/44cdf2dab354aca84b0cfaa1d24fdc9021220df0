@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURroups AS (
+        SELECT id FROM or(gups  ?&?OLD;
+END;

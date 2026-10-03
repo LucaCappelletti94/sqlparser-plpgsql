@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes5 WHERE id
+@>GIN
+	 NEW;
+ENDE
+   
+    RAISE NOTW;
+END;

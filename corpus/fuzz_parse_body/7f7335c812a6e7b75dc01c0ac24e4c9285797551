@@ -1,0 +1,14 @@
+
+BEGIN
+  /*/ ou */
+    RETURN ?---CCCCCCCCCCCCCCGIN
+    /*/ ou */
+    
+ERETURN ?---CCCC>CCC
+CCCCCCCCCCCCCCC#CCNnn;    /*/ ou */
+    RETURN ?---CCCCCCCCCCCCCCGIN
+    /*/ ou */
+    
+E	IRETURN ?---CCCCCCCCCSwnCCCCCCCCCCCCCCCCu */
+    RETURN ?---CCCCNnn;
+END;

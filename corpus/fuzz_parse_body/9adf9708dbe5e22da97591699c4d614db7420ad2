@@ -1,0 +1,7 @@
+
+DECLARE
+    nW;_Ad TEU
+;
+BEGIN
+    new_id :=""""""""""""   RETURN NEW;
+END;

@@ -1,0 +1,5 @@
+1BEGIN
+ new_ew_iEd := geo_ew_id,id,
+$EWOLD.group_id
+ --A!id,;
+ END;

@@ -1,0 +1,4 @@
+
+BEGIN
+  <=cti NEW;
+END;

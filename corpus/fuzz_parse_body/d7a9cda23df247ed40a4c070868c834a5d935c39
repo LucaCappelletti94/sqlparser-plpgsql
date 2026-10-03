@@ -1,0 +1,10 @@
+
+BEGIN
+    /* outer /* intag$ */ outer */
+    RETURN  NEW?
+END;  
+RETURN NEW?
+END;   
+RETURN NEW?
+END;   
+RETURN NEW?END;

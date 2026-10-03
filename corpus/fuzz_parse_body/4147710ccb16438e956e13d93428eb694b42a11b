@@ -1,0 +1,9 @@
+N
+    IF NEW.
+BEGIN
+  B$$EGINoner */aïtype = 'info' THEN
+t', 'low');
+    ELSE
+        INSE INSERT INTO ALUES ('info_event', 'low');
+ve$t
+B$$EG"oner */aïve$t  INTO audit_log (aacti

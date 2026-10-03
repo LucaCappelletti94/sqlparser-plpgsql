@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE Yild_groups AS (
+        SELECT id     [  UNION ALL
+        SELECTmLD+
+END;

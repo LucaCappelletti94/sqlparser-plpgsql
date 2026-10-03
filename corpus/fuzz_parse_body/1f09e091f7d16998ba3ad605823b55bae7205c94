@@ -1,0 +1,39 @@
+
+BEG?   /*y= 
+
+BEGIN
+    WITH RECURSIVE chain AS       SELECT id, pare 
+BEGIN 
+    
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodesnodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.pa WHERE id = NEW.id
+        UNION ALL
+        SELEJCT c.id, t.parent_id FROM chain c JOIN tree_noces t ON c.parent_id = t.id  )
+    INSERT INTO node_ancestors (node_id, ancestor_id)
+    SELECT NEW.id, parent_id FROM chain WHERE parETURENN W:
+END;Ient_id)GIN
+    WITH RECURSIVE chain AS       SELECT id, p IS arEW.event    SELECT id, pare 
+BEGIN 
+       UNION ALL
+        SELECT c.id, t.pa WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent_id FROM chain c JOIN tree_noces t ON c.parent_id = t.id  )
+    INSERT INTO node_ancestors (node_id, ancestor_id)
+    SELECT NEW.id, parent_id FROM chain WHERE parETURENN W:
+END;Ient_id)GIN
+    WITH RECURSIVE chain AS       SELECT id, p IS arEW.event    SELECT id, pare 
+BEGIN 
+    
+BEGIN
+    WITH RECURSIVE cncestor_kdE t.parent_id IS NOT NULL
+    )
+    INSERT INTO node_ancestors (node_id, ancestor_id)
+    SELECT NEW.id, parent_id FROM chain NULL;
+
+    RETURN NEW;
+END;u4TURN
+ NEW;
+END;

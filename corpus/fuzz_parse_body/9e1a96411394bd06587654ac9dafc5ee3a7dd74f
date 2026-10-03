@@ -1,0 +1,11 @@
+ 
+BEGIN
+
+    SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.id,
+   pam 
+d   FROM procm.proc  FROM procm.procedure  
+    RETURN NEW;
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_group_id!AS id FROM gerships (group_id, user_idTURN_id, user_CURSIVE parent_groups AS (
+RN NG;
+   NEW:
+END R;
+ET

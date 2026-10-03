@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INsERT INTO procedure_t (
+            SELECT 
+:   ELS meiF._evted;
+    NEW;
+END;

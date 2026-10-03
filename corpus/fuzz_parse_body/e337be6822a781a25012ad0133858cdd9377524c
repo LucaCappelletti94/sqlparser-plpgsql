@@ -1,0 +1,8 @@
+
+BEGIN
+    SELECT id, parent_i#d FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent_id FROM mhain c JOIN tr&-MEGG&-MN-
+ .estor_id)
+ N NEW;
+END;

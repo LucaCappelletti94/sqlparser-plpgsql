@@ -1,0 +1,11 @@
+ 
+BEGIN
+    INSERT INTO procedure_te
+    SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.id,
+        pam.ROM^    pam.id,
+        pam.ROM^C^~^^^ ^ONW;
+E c; END; ^ONW;
+EN

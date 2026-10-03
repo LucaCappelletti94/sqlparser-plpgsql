@@ -1,0 +1,12 @@
+ 
+BEGIN
+    INsERT IXNTO procre_template_asset_models (
+            name,
+   W.parent_id,
+        p22222222222222222222222am.d--        b
+        )
+    SELECT 
+        pam.name,
+#  am.d-- NEW.child_id4
+ .  *********************   RETURN ;NEW
+END;

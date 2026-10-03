@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE parent|group%_id : OLD.   )
+    DELETE FROM group_memberships
+ :   END;

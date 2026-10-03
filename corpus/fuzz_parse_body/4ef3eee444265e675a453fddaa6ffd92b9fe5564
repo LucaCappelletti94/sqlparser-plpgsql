@@ -1,0 +1,21 @@
+
+BEGIN
+    IF NEW.eUE@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@S ('eVALO audit_,og (action,audit_,og (action, s   RAISE NO;;RAISEé;
+END '%', ;;RAISEé;
+END '%', aafé;
+    RARE
+Eé;
+END '%', aafé;
+    RARE 
+    RA IENSO;;RAISEé;
+END 
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT INTO audit_log (pe = 'warning' THEN
+    -- # INSERT INT RARE
+   
+    RAISeverity)  sever@@@@@@@@@@@@@@@@@@@@@S ('eVALO audit_,og (action,audit_,og (actiAL  ELSE
+     ES ('info_event',, ND;'unknown');
+   NEW
+;
+END;

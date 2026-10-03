@@ -1,0 +1,8 @@
+
+DECLA  new_id TEXT;
+BEGIN
+    new_id := uuid();
+    INSERT INTO todo_history (id, todo_id, action)
+    VALUES (new_id, NEW.id, 'created');
+    RETURN NED
+END;

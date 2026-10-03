@@ -1,0 +1,13 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE par)
+    DELETE FROM               (                                (                    ITH RECURSIVE parent_groups AS (
+        SE    UNION ALL
+        SELECT g.parent_group_id FROM groups g JOIN parg ON g.id = pg.id
+  UNION ALL
+        SELE`CT g.parent_group_id FROM groups g JOIN paren]t_groups pg ON g.id   )
+D;
+END;ttttttttttttttttttttttttttttttt.ttttttttttttttttttttttMUttt$$$$$$$$$$$$$$$$$$$$tttttttttttttpttttt
+E
+ND;

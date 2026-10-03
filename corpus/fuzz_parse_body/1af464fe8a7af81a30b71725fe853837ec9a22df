@@ -1,0 +1,20 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+           INSERT INTO audit_log (action, severity) VALUES ('info_');
+    END IF;
+    RETURN NEW;
+END;
+  IF NEW.event_type = 'error' THEN
+           INSERT INTO audit_log (action, severity) VALUES ('info_');
+    END IF;
+    RETURN NEW;plate_asset_models (
+            name,
+            procedure_template_id,
+            based_on_id,
+                asset_model_id
+        )
+    SELECT
+  XEW;
+
+END;

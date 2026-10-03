@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE paoups AS (
+        SELECT p[arent_group_idS (
+   @    S (@     SELEp_id AS use    RETUNR N]ELECEW;
+END;

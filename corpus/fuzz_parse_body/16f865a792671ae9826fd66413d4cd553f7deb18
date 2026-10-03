@@ -1,0 +1,8 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_models (
+            na
+        )
+    SELECT
+  XEW;
+END;

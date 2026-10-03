@@ -1,0 +1,6 @@
+
+BEGIN
+    IF NEW.eUE@@@@@@@@@@@@@ V@@@@@@@@@@@@vvvv++++++++++++++++++++++++vvvvvvvvvvvvvvvvvvvvvvvv
+    ENT IF;
+    RETURN NEW;
+END;

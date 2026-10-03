@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INsERT INTO procedure_t (
+            name,
+     pro  )
+    SELECT 
+:    ELECT 
+:       pameid;
+    NEW;
+END;

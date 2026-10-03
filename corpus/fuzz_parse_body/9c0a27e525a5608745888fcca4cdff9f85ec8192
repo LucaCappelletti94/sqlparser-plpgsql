@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT IN^O audit_log (
+END);?9;; V;

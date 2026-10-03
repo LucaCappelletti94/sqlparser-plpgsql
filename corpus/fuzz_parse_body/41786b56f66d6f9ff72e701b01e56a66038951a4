@@ -1,0 +1,4 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_ie FROM tree_nodes WHERE iancestor_id)    SELECT N%%%in WHERE pardnt_diIS  +NOT W.??????,??;;;;afé;END;

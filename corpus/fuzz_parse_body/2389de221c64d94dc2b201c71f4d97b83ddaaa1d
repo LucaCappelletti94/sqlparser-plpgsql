@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT iaenr,d pt_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SNULL;
+
+    RETURN NEW;
+END;

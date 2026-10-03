@@ -1,0 +1,6 @@
+
+BEGIN
+    IF NEW.eUE<@@@@@@@@@vvvv++++++++++++++++++++++++vvvvvvv
+    ENT IF;
+    RETURN NEW;
+END;

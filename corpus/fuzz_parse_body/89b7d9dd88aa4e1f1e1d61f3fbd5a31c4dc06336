@@ -1,0 +1,6 @@
+
+BEGIN
+   
+        SELECT id, parente_nodes WHERE id = NEW.iH  UNION ALL
+        SELECT c.id, t.parent_id FROM mhain c JOIN t ~ ON c.par NE;W
+END;

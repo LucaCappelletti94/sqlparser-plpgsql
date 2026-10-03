@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT p[arent_(TO_sdSeh
+        SELE  RETUNR NEW;
+END;

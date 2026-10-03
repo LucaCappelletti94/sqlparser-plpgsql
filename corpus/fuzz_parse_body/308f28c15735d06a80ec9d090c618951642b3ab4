@@ -1,0 +1,4 @@
+
+BEGIN
+  DELETE FE FROM group_meN
+END;

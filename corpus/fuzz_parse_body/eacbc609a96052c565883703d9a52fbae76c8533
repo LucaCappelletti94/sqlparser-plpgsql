@@ -1,0 +1,5 @@
+
+BEGIN
+  DELETE FE FROM group_mem IN (SGLips);
+ OLD;
+END;

@@ -1,0 +1,4 @@
+BEGIN
+    WITH RECUus    (
+   FROM RN OLD;
+END;

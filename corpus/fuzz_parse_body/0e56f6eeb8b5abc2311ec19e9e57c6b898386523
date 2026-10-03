@@ -1,0 +1,6 @@
+ 
+BEGIN
+    INSERT IN procre_temmodels (
+        amset_model_id
+        )
+    SELECT       END{

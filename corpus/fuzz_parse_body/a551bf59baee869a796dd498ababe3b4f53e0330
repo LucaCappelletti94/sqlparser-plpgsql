@@ -1,0 +1,4 @@
+
+BEGIN
+    IF NEW.event_ty                (NEW (                  (                 
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE0re_tngroups AS (
+      ( SELECT (
+  nt_group_i.group_id
+   @@ (_i.group_id
+    (   U.groAS (
+:up_i.group_id(END;
