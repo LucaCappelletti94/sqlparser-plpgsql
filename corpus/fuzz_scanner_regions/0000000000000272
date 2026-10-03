@@ -1,7 +1,0 @@
-
-BEGIN
-'error' THEN
-        INSER
-DSIF NEW.event_type = 'warning'.event_type = 'wO audit_logog (naïve$tag];
-BENIG
-   /    RAISE NOTICE 'ty, c)

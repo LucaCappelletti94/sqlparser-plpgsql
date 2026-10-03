@@ -1,5 +1,0 @@
- 
-BEGIN
-   I NSERT INTO prÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿocodure_tem*dure_templalate_id = NEW.child_id;
-/    - NEW;
-END;

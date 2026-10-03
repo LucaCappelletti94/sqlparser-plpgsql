@@ -1,4 +1,0 @@
-
-DECLARE
-    café TEXT := $tag$naïve$tag$%', café;TURN NEW;
-END;

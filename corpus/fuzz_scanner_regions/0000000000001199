@@ -1,5 +1,0 @@
-
-BEGIN
-	INSERT IN VAERT INTrs (id) V'\UES (NEW.id);/*
-	RE	RETURTURN NEW;
-END;

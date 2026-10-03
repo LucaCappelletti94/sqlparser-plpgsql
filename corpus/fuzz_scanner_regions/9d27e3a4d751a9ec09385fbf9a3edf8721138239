@@ -1,9 +1,0 @@
-
-DECLAREw_id    new_id TGIN
-    new_id := geuid();
-_random_uuid();
-TURN N--
-BTEX;EGIN
-    new_id := geuid();
-_random_uuid();
-TURN N--EWND;

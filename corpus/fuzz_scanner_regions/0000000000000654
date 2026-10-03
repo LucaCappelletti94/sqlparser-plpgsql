@@ -1,5 +1,0 @@
-=
-BEGIN
-    /*er */"out inner */"outer */
-    RETURN NEW;
-EN--

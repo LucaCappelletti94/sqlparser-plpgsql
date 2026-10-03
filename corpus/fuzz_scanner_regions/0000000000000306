@@ -1,5 +1,0 @@
-=
-BEGIN
-    /* outer /* inner */"outer */
-   --ETURN NEW;
-EN--
