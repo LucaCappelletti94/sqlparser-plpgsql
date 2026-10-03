@@ -1,0 +1,18 @@
+
+   /* outer 
+BEGIN
+    /* outer /* inner */  */
+   /* outer 
+BEGIN
+    /* outer /* inner */outer */
+   ouer /* inner */ oute */
+   /* outer 
+BEGIN
+    /* outer /* infer */ outer */
+    RETURN N  R
+/* in
+/* inne */ out=r */
+    RE /* outer /* inner */ outer */
+   outer /* inner */ outer */
+   /*uter /* inner */ outer */
+D;
