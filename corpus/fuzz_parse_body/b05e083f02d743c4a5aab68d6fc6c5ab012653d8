@@ -1,5 +1,0 @@
-
-BEGIN
-  DELETE FROM group_       --D group_id IN (SELips);
-    RETURN OLD;
-END;

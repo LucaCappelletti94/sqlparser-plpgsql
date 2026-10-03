@@ -1,4 +1,0 @@
-
-BEGIN
-    IF NEW.eUE@@@@@@@@ v@@@@@@@@@@@@@@@@@@@@@@@@@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@S ('eVALO audit_,oCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCevent', e = 'info' THEN    RETURN NEW;
-END;

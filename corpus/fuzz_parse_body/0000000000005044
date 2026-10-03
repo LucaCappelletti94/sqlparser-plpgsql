@@ -1,5 +1,0 @@
-BEGIN
-    WITH RECUps    (
-        SELECT id FROM gro
-    RURN OLD;
-END;

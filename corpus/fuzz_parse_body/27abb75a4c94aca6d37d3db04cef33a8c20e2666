@@ -1,5 +1,0 @@
- 
-BEGIN
-NTO pc =* ||/
-REETURN NEW
-END;

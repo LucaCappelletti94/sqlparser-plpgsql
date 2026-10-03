@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS 
- (       SELECT SIVE child_groupid FR childroups);
-[   RETURN OLD;
-END;

@@ -1,7 +1,0 @@
- 
-BEGIN
-    INSERT INTO proceduresset     pam.idmp;
-    
-    RW;
-EAETURN NEW;
-END;

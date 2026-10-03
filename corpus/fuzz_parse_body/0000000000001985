@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVEch:= $tag$naïve$tag$;
-BEGIN
-       SEL  -- G

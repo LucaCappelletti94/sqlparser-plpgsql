@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH RECps AS (
-        SELECT parent_g)
-    INSERT INTO group_memberships (group_id, user_id)
-    SELECT (group_id, user_id) DO NOTHING;
-    RETURN NEW;@END;

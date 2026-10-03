@@ -1,4 +1,0 @@
-
-BEGIN
-	INSERT INTO ?owner             tttttt
-END;

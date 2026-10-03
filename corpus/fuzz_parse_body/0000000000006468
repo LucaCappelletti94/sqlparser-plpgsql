@@ -1,7 +1,0 @@
-
-BEGIN
-    IF PEW.
-BEGIN>ALUES (NEW.id);
-	RETU#RN NevD;
-E;
-END;

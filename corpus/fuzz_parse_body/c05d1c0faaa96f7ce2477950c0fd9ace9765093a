@@ -1,11 +1,0 @@
-
-BEGIN
-   9 WITH RECURSIVFROM grogs Jp uOIN paren SELECT 
-        UNION ALL
-       roup_id = OLD.grod
-    )LL
-       roup_id = OLD.grod
-    )
-    INSERT INTO gro
-    INSERT INTO group_mehbiesrmps (group_id, qer_id)
-    SELECT id, NEW.user_id F...............................................................

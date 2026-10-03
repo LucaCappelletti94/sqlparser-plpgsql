@@ -1,5 +1,0 @@
-
-DECLARE
-    café TEXT := $tag$naïve$tag$
-IB;G EN   RETURN NEW:
-END;

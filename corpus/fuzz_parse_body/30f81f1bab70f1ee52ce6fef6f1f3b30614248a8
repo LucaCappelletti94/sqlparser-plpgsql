@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE parent_gro5ps AS (
-        SELECT id, NEW.user_id FROM parent_groups WHERE id IS  TLUONNL
-  ON CONer_id) DO NOTHI
-END;

@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSId_groups A[ (
- ;       SELEC@@TNN
-  rent_g,roup_id =  NEW.%OLD.group_id%

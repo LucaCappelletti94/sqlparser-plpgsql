@@ -1,6 +1,0 @@
-
-BEGIN
-	INSERT INTO owners (id) VALUES (NEW.NEW.$id);
-	RETURE{NN $id);
-	RETUE{NN W;
-END;

@@ -1,9 +1,0 @@
-
-DECLARE
-    café TEXT [n:= $tafé TEXT [n:= $tag$naïve$tag$;
-BEGIN
-    -- Grüße 世TEXT [n:= $tag$naïve$tag$;
-BEGIN
-    -- Grüße TEXT [n:= $tag$naïve$tag$;
-BE    RETURN NEW:
-END;

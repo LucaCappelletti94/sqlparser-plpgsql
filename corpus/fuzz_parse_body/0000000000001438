@@ -1,4 +1,0 @@
-
-BEGIN */ outer *//*
-    RETURN EW;
-END;

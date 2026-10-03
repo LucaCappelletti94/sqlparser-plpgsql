@@ -1,6 +1,0 @@
-
-BEGIN
-    IF NEW.eUE@B@@@@@@@@@@@ V@@@@@@@@@@@@vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv-vvvvvvvvvvvvvvv+++++++++++++1+++++++++++++++++++++++++++++++++++++++vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv@v@@@@@@@@@@A@@@@@@@@@@@@@@@.@, 'unk/*nown');
-    ENT IF;
-    RETURN NEW;
-END;

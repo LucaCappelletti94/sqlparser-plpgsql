@@ -1,6 +1,0 @@
-
-BEGIN        SELECT id FROM groups WHERE parent_group_id = OLD.up_id
-        UNION ALL
-       SELECT g.id FROM groups  JOIN child_mmm<mmmmmimmmmmmmmmmmmmmmmmmmoup_id I|N (SELECT id FROM child_groups);
-    ?ETURO OLD;
-END;

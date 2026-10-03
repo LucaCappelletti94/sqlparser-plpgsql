@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (
-        SELECT id FROM groups WHERE parent_group_id = OBBB<<<<<<<<<<<<<<<<<<<<<<<<<9<<<<BqqqqTURN OLD;
-END;

@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE parent_groups AS (
-        SELECT perent_group_idS  FROM grouprop_(
-&     [u;
-END;

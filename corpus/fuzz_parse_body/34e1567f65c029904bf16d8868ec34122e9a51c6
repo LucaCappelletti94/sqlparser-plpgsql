@@ -1,8 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain S A(
-        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
-        UNION AL  SELECT c.id, t.parent_id FROM mhain c JOIN tree_nodes t OL S NO#T NULL;
-
-    RETURN NEW;
-END;

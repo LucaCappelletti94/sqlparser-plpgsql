@@ -1,6 +1,0 @@
-
-BEGIN
-    IF NEW
-DECLARE
-   c aféIN
-;;;?;

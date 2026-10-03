@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (
- (      EXT :(
- RN OLD;
-END;

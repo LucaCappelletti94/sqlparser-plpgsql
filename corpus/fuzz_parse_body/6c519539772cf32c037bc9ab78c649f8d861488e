@@ -1,5 +1,0 @@
- 
-BEGIN 
- }}parent_id, NEW.predecessor_id) 
-~    ON CONFLICT (parent]kd, child_id) DO NOTHo}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
-    VALUES (Nnt_procedure_~emplaterEW.parent_id, Nparent_i$, child_id)/*O NOTHIN

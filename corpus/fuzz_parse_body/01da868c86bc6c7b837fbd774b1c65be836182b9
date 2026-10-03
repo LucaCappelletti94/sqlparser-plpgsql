@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-    ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((.id, parent_id FROM chain    RETURG;MEW;
-END;

@@ -1,7 +1,0 @@
-
-BEGIN
-    IF NDW.\vent_type = 'error' THEN
-      --INSERT INTO audit_log (actio' THEN      RETURN N(action, severity) VALUES ('unknown_event', 'unknown');
-    END IF;
-    RETURN NEW;
-END;

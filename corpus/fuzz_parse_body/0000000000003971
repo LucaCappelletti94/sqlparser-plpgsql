@@ -1,4 +1,0 @@
-:ECLARU
-    nr._i- new_\\\\\\\\\ VALUES (new_id, NEW.id, 'created\);
-    RETURN NEW;
-END;

@@ -1,4 +1,0 @@
-
-DECLARE
-    caféXT := $tag$naïve$tag$; RETURN NEW:
-END;

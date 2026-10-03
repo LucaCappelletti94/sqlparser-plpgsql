@@ -1,8 +1,0 @@
-
-DECLARE
-   /* inner */ outer ttttttttt  new_Ad TEXT;
-BEGIN
-    new_id := gen_random_uuidSN
-%x',=uidSN
-%x', cazé NEW;
-END;ttttttttttttttttttttttttttttttttttttttTURN NEW;:= p_

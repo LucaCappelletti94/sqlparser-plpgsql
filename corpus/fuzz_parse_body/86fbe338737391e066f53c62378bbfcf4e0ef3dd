@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groyups AS (
-        SELECT id FROM groups WHERE parent_group^~=di OLup_
-d i   WHERFROM child_groups);
-    RURN OLD;
-END;

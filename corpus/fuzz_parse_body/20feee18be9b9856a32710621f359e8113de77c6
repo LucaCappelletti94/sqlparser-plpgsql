@@ -1,5 +1,0 @@
-
-BEGIN
-   M^^^^^^^id) DO NOTHING;
-    RETURN NEW;
-END;

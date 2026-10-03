@@ -1,5 +1,0 @@
-
-BEGIN
- r */ outer */
-    RETURN N;
-END;

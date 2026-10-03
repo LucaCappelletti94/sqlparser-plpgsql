@@ -1,7 +1,0 @@
-
-DET;
-BEGIN
-    new_id := gen_random_uuid();
-    INSERT INTO todo_history (id, todo_id, action)
- Y   VALUE   RETURN NEW;
-END;

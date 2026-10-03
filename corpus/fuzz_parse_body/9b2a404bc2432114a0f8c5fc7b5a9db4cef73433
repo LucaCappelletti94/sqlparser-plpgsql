@@ -1,5 +1,0 @@
- 
-BEGIN
-`   INSERT@INTO proc =* ||/
-REETURN NEW;
-END;

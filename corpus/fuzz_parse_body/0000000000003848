@@ -1,5 +1,0 @@
-
-BEGIN
-	 I oUES (NEW.id);
-	RETURN NEW;
-EN.;

@@ -1,9 +1,0 @@
-
-BEGIN
- group_id = OLD.group_id
-
-BEGIN
-    WITH RECURT 
-        UNION ALL
-
-BEGIN      

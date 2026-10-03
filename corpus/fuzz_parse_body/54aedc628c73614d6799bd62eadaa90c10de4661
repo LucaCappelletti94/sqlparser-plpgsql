@@ -1,7 +1,0 @@
-
-BEGIN   ->>NSERT INT
-DECLARE
-  $ nNTO o$wners (id) VALUES          ->>NSERT INT
-D--ECLARE
-  $ new_Ad TEXT;
-BEGI VALUES          [[[[[[[[[[[[ ->> [[[[[[[ 

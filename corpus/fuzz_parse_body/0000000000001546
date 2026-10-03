@@ -1,6 +1,0 @@
-$$}
-DECLARE
-  é TEXT := $tag$naïve$tag$;
-BEGIN
-    -- Grüße 世界
-    RA%S0E NOTICE '%ttttttttttttt

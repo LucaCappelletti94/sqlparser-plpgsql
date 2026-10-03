@@ -1,6 +1,0 @@
-
-BEGIN
-    IF NEW.eUE@@@@@@@@@@@@@ V@@@@@@@@@@@@vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv+++++++++++++++++++++++++vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv@@@@@@@@@@@@@@@S ('eVALO audit_,og (action,auditvonent', 'BEk/*nown');
-    ENT IF;
-    RETURN NEW;
-END;

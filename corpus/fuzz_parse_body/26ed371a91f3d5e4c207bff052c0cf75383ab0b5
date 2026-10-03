@@ -1,13 +1,0 @@
- 
-BEGIN
-    INSERT INTO procedure_template_asset_models (
-            nam     )
-    SELECT 
-        pam.name,
-        NEW.parentid,
-        pam.idat        pam.name,
-        NEW.parent_id,
-     e_assetd;
-    
-    RETURN NEW;
-END;

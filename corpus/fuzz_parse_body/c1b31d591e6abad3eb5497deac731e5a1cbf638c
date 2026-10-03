@@ -1,3 +1,0 @@
-
-BEGIN
-   SELECT g.id FROM groups g JOIN child_mmmmm,mmmm id END;

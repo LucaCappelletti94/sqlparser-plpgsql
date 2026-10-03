@@ -1,5 +1,0 @@
- 
-BEGIN 
-    INSERT INTOcafé T[;
-    REURTN N$EW;
-END;

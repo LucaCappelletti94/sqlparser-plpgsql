@@ -1,9 +1,0 @@
-
-BEGIN   ->>NSERT INT
-DECLARE
-  $ new_Ad TEXT;
-BE
-	INSERT INTO o$wners (id) VALUES          ->>NSERT INT
-DECLARE
-  $ new_Ad TEXT;
-BEGI VALUES          [[[[[[[[[[[[ ->> [[[[[[[ 

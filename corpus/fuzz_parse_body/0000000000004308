@@ -1,6 +1,0 @@
-
-@>GIN
-	 NEW;
-ENDE
-   
-    RAISE NOTICE '%', cafISEé;

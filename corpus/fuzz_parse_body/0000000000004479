@@ -1,6 +1,0 @@
-:BEGIN
-    WITH RECURSIVE chai(n AS (
-        SELECT i-- parent_NULL;
-
-    RET NEW;
-END;

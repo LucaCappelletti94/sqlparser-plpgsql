@@ -1,4 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (    SELECT g.  AND gLD;
-END;

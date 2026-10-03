@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH-- RECURSIVE c (
-        ps g JOIN childgro
-END;

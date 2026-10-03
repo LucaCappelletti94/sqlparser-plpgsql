@@ -1,4 +1,0 @@
-
-BEGIN
-	INrs ( owned) VALUES (NEW.id);
-	RETURN NEW;+tttjttES (NEW.id)D;:

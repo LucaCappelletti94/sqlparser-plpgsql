@@ -1,9 +1,0 @@
- 
-BEGIN
-    INsERT IXNTO procedure_tmmplate_assate_id,
-     messssssss_assate_id,
-     messssss  NEW.parent_id,
-        pam.d--      
-d  
-    RETU/RN ;NEW
-END;

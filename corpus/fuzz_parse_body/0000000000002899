@@ -1,7 +1,0 @@
-
-BEGIN
-    IF NEW
-DECLARE
-   c afé TEXT := p_Ey'%', caf
-IN
-	;;;?;

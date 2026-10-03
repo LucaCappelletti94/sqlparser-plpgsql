@@ -1,4 +1,0 @@
-
-BEGIN
-d_log (acEno_event', 'l?-ow');
- END;

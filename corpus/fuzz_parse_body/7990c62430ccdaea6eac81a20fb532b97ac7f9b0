@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (
-        SELECT 0id FROM groupsWER+   RETURN: OLD;
-END;

@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT id, gaAent_id F,ROM tr\e_nodes WN NEW;
-END;

@@ -1,5 +1,0 @@
- 
-BEGIN
-    I pam.UUUer */$nGUUUUUUUUUUUUUUUUUUUUUUUUUURRRRRRRRRRRRRRRRRRRRRRRR pam.id,
-        pam.asset_model_id
-    FROM procedure_template_as

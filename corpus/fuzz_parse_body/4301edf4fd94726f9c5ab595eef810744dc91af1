@@ -1,8 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE child_groups AS (
-  (     SELECT ip_id = cg.idB 
-AGII	N
-NSERBRAISE NOTIC:END;
-T INTO owners (id) VALUtS
-DECLARE

@@ -1,5 +1,0 @@
-
-BEGIN
-	 I EW.id);
-	RETURN NEW;
-EN.;

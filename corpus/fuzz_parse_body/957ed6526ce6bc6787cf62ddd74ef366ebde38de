@@ -1,6 +1,0 @@
-
-BEGIN
-    IF NEW.^vent_type  ('info_even, t','unknown');
-    END IF;
-  RN NEW;
-END;

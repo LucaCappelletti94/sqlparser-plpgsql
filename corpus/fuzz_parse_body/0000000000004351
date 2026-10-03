@@ -1,9 +1,0 @@
-
-BEW.event
-BEGIN
-	INSERT INTO owners (id) VALUtS
-DECL
-DECBEGIN
-  RAIT(parent_id, child?_iEXG := $tag   d) DO NOTHING;
-
-   R A

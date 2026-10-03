@@ -1,4 +1,0 @@
- 
-BEGIN
-    INSERT Iprocedure_template_asset_mod#EW;
-END;

@@ -1,3 +1,0 @@
-:ECnew_\\\\\\\\\ VALUES (new_id, NEW.id, 'created\);
-    RETURN ONEW;
-END;

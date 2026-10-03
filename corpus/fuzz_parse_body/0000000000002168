@@ -1,5 +1,0 @@
-
-BEGIN
-    /* outer /* inner */ outer /* inéner */ outer */
-    RETURN NEW;
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvEND;

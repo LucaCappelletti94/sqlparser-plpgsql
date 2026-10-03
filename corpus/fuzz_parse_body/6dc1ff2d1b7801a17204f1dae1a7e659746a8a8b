@@ -1,6 +1,0 @@
-
-BEGIN
-    IF NEW.eventAN
-        ity) VALUIF;
-    RETUW;
-END;

@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECU_groups AS (
-        SELECT perent_group_idS  FROM grouprop_(
-&     [u;
-END;

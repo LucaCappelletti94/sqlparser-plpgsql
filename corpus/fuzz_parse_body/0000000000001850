@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH REnd_groups AS (
-        SELECT id FROM grlups WHERE parent_grouper[id = OLD.userLD;
-END;

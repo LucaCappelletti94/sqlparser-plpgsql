@@ -1,7 +1,0 @@
-
-DECLARE
-    new_id TEXT;
-BEGIN
-    new_id := ge, to`o_id, action)
-  NEW;
-END;

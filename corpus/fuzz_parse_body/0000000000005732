@@ -1,8 +1,0 @@
-
-BEGIN
-    IF NEW.event_type = 'error=' THEN
-  
-    ELSE
-       IF;
-    RETURN NEW;
-END;

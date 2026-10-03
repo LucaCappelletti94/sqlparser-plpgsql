@@ -1,4 +1,0 @@
-
-BEGINRT INTO owners (id) VALUES (NEW.id);
-	RETURN NEW;tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
-END;
