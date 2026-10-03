@@ -1,7 +1,0 @@
-DECLARE
- new_id TEXT;EGI
-DECLARE
-    ngw_id TEXT;
-BEG
-BEGIN
-N

@@ -1,5 +1,0 @@
-
-B
-BEGIN
-BEGIN
-    IFvent_type = 'error' THEN(aTO audit_log "a(

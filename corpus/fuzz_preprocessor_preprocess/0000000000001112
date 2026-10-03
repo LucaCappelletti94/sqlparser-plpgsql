@@ -1,4 +1,0 @@
-
-DSERT INTO todo_history (id, todo_id, acW.id, 'created');
-    RE?TURN NEW;
-END;

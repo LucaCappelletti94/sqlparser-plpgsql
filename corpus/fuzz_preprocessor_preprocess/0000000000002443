@@ -1,8 +1,0 @@
-
-BEGIN
-    IF NEW.event_type = 'error' THEN
-        INSERT IN
-BEGIN
-ERT INTO owners (id) VALUES (NEW('warning_veent', 'medium');
-    ELSIF NEW.eNEW;
-END;

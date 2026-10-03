@@ -1,6 +1,0 @@
-
-BEGIN
-    IF NEW THEN
-    SERT IN
-BEGIN
-EO ows (id('wart'ER;

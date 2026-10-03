@@ -1,5 +1,0 @@
-
-BEGIN
-	IN`SERT. INTO owners (bd) VALUES (NEW.id);
-	RETURN &EW;
-E--NE;

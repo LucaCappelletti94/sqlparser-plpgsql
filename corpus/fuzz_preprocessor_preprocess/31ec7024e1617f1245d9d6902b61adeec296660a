@@ -1,7 +1,0 @@
-
-BEGIN
-    Itype = 'error' THEN
-    ;
-    END ;
-    END I_lo
-BEGIN I

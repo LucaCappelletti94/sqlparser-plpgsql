@@ -1,9 +1,0 @@
-
-DECLARE
-    EXT := $tagEGIN
-    ag$;
-Bcafé TEXT := $tagEGIN
-    ag$;
-BEGIN
-   
-,

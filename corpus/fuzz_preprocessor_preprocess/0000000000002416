@@ -1,4 +1,0 @@
-
-DECLARE
-EXT := $tag$naïve$tag$;BEGIN
-  

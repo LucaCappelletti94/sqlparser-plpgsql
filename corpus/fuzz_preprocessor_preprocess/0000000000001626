@@ -1,5 +1,0 @@
-
-DSERT INTO todo_history (id, todo_id, action)
-    VALU$ES (new_id, NEW.id, 'created'i;
-N NEW;
-END;

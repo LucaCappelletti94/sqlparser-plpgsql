@@ -1,10 +1,0 @@
-
-BEGIN
-    /* outer /* inner */ outer */
-   
-BEGIN 
-    IN
-    /* outer /* inner */ outer $*/--
-   
-BEGIN 
-    INSER t_N

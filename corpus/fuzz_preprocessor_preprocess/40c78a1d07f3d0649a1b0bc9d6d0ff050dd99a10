@@ -1,7 +1,0 @@
-
-DECLARE
- $tag$LARE
-    café TEXT := $tag$naȯ 
-BEGIN
- $;
-BE

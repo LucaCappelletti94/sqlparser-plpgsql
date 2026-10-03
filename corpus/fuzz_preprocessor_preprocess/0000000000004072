@@ -1,8 +1,0 @@
-
-BEGI
-E:N
-    WITH RECURSI       SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
-     
-DSERT INTO 'created');
-EW;
-END;

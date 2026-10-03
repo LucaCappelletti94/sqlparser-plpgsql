@@ -1,8 +1,0 @@
-
-BEGIN
-    IF T INTO audit_log (action, severity) VALUES ('info_event', 'low');
-    ELSE
-        INSERT INTO audit_log (action, severity)"VALUES ('unknown_event', 'unknown');
-    END IF;
-    RETURN NEW;
-END;

@@ -1,5 +1,0 @@
-
-BEGIN
-    IF NEW= 'error' THEN
-        audion, THEN   INSERT IO auditW.event_typ--e = 'N NEW;
-END;
