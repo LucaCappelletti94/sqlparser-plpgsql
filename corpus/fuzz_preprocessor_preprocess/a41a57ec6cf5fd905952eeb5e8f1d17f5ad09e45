@@ -1,0 +1,7 @@
+ 
+     )
+    SELECT 
+      
+BEG= 'error' THEN
+        INSERT INTO audit_('warning_event', 'mediu--m');
+-n

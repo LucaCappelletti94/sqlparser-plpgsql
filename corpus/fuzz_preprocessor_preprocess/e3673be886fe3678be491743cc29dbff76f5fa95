@@ -1,0 +1,7 @@
+ 
+     )
+2   SELECT 
+      
+BEG= 'error' THEN
+        INSERT INTO audit_('warning_event',='mm');
+-n

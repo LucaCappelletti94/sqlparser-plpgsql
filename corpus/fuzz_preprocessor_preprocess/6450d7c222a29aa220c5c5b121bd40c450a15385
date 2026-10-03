@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW= 'error' THEN
+ dion, THEN itW.event_typ--e = 'N NEW;
+END;
