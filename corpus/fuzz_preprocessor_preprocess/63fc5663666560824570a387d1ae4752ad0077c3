@@ -1,5 +1,0 @@
-
-BEGIN
-	INSER.id);
-	RETURW;
-END;

@@ -1,6 +1,0 @@
-     )
-    SELECT 
-              NEW.parenN
-  RT INTO procedurecede_tempd;
-    
-   

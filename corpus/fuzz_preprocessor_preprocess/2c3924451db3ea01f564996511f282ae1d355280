@@ -1,8 +1,0 @@
-
-BGI
-DECLARE
-2   new_gDLRE
-1 n  & d TEXT;
-BEG
-BEGIN
-N
