@@ -1,9 +1,0 @@
-BBBBBBBB<|<BBB<|<[BBBBB<|<BB 
-BEGIN
-    INSERT INTO procedure_template_asset_models (
-            nam     )
-    SELECT 
-        pam.name,
-       NEW.parent_id,
-        pam.idB<|<zate_ RETURN NEW[B<|;<<
-END;

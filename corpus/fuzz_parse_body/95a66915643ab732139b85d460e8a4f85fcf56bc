@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT iOM tree_nodes WHERE id        UNION(ALL
-        SELECT i NMW;
-END;

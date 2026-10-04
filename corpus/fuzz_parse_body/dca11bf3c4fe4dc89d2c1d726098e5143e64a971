@@ -1,6 +1,0 @@
-
-BEGIN
-    IF NEW.eUE@@@@@@@@@@@@@@@@@@@@@@@@@@e!= 'info' THEN
-   @   `@@@@@;@@@@@@@@e     INSERTNT IF;
-    RETURN NEW;
-END;

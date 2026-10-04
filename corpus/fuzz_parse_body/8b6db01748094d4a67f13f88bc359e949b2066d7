@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT id, parent_id FROM tree_nodes WHERE i%d != W.id, parent_id jFROM TURN NEW;
-END;

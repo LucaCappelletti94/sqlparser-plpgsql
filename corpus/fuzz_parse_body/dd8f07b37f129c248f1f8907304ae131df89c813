@@ -1,5 +1,0 @@
-BEGIN
-    WITH RECUps    (
-   FROM gro
-    RURN OLD;
-END;

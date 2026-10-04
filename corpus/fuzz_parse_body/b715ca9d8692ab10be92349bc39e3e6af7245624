@@ -1,6 +1,0 @@
-
-BEGIN
-    IF NEW.eUE@@@@@@@@@@@@@@@@@@@@@@@@@@@vvvvvvvvvvvvvvvvvvvvvvvvvv++++++++++++++++++++++++++++++++++++++++++++++++vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv@@@@@@@@@@@@@@@@@@@@@@@@@@@.@@@@
-    ENT IF;
-    RETURN NEW;
-END;

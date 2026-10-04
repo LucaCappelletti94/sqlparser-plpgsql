@@ -1,5 +1,0 @@
-
-BEGIN
-	INSERT INTO owners (id) VALUES (NEW.id);
-	RETURN NEWtttttttttW.eB  " IF"NE (dttttttt\\\\\\\U\eB  " IF"NEt
-END;

@@ -1,4 +1,0 @@
-
-BEGIN   WITH RECURSIVE chilugdr_ops AS (
-        SELECT 0id FROM groupsWER+   RETURN: OLD;
-END;

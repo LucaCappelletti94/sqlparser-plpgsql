@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH Wys AS (
-        SELECT id FROM groups WHERE parent_group^id~= OLup_
-d oup
-    RURN OLD;
-END;

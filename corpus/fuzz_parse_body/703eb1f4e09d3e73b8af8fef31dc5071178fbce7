@@ -1,7 +1,0 @@
-
-BEGERT INTO own
-BEGIN
-
-    RETURN NEW;
-END;tttttttttttttttttt
-END;

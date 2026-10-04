@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVEin AS (
-        SELECT id, parent_idt.pa id, arenidt.parent_id IS NOT zW;
-END;

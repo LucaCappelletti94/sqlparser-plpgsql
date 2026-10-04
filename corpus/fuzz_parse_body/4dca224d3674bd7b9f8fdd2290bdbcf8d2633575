@@ -1,4 +1,0 @@
-
-BEGIN
-   
-        SELECT id, parantree_nodes WHER~=55555END;

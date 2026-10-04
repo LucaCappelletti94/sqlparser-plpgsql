@@ -1,4 +1,0 @@
- 
-BEGIN
-    INsERT IXNT||_  NEW;
-END;

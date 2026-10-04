@@ -1,3 +1,0 @@
-
-BEGIN
-    NEW.event_type == 'error' T{

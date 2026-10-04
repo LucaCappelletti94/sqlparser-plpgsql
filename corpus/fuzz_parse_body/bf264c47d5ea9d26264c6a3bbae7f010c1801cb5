@@ -1,6 +1,0 @@
-
-BEGIN
-    IF NEW.eUE@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@e = 'info' THEN
-       @IF;
-    R_pURN N@W;
-END;

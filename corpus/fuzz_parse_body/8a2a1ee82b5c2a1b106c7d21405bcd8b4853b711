@@ -1,8 +1,0 @@
-
-DECLARE
-    new_id tEXT;
-BEGIN
-    new_id :=\\\\\\\\\\\\\\\\\\, NEW.id, 'created\);
-   ne\\\\\\\\\\\\\\\\\\\\\\\\\\\\ VALUES (new_id, NEW.id, 'created\);
-    RETURN N RETURN NEW;
-END;

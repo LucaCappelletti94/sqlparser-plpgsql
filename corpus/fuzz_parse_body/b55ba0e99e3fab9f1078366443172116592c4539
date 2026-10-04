@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVEjchain AS (
-        SELECT id, parenarent_id IS NOT% NULLRETURN NEW;
-END;

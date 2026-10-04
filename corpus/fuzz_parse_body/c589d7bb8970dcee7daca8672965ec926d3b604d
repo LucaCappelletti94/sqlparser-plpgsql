@@ -1,7 +1,0 @@
-
-BEGIN
-    IF NEW.event_type = 'error' THEN
-        INSERT IN^O audit_log (acEXT+ := $tag$naïve$tag$;
-BICE;
-DECLAcafETURN NEW:
-END);;9;; V;

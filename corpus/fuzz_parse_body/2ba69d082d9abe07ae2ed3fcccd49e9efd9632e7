@@ -1,7 +1,0 @@
-
-DECLARE
-  g$;
-BEGIN
-    -- Grüße 世界
-   RAISE NOTIC:
-END;

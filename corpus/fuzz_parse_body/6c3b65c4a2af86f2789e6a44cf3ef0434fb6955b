@@ -1,5 +1,0 @@
-XT;
-BEGIN
-    new_id := geo_ew_id,
-$EWid,;
- END;

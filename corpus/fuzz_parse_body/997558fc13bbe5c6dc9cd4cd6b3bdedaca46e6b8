@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE parent_groups AS (
-        SELECT pare (
-        S RETUNR NSELECT parent use    ETUNR(NEW;
-END;

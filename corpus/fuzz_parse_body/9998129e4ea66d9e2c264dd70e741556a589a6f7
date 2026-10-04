@@ -1,4 +1,0 @@
-
-BEGIN
-    WITH REC->URSIVE parent_groups ASeTUNRW;
-END;

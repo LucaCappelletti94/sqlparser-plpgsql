@@ -1,5 +1,0 @@
- 
-BEGIN
-    INSERT INTO procedure_template_ass	e'	e'G
-I	N^enet_models     NEW.parent_id;
-END;

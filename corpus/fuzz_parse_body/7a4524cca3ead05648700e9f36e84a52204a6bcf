@@ -1,6 +1,0 @@
- 
-BEGIN
-    INSERT IN procedure_temmodels (
-        amset_model_id
-        )
-    SELECT       END{

@@ -1,5 +1,0 @@
-
-BEGIN
-    /* uter /1 innr */
-    RETURN W?
-END;

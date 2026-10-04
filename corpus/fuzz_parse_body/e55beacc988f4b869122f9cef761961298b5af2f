@@ -1,7 +1,0 @@
-
-BEGIN
-    IF Nt_type = B'error=')THEN
-  
-    ELSE
-        INSERT NEW;
-END;

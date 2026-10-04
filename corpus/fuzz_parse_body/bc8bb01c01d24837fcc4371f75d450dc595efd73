@@ -1,8 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.i[
-     0A00rent_id********CT NE;
-
-    RETURN NEW;
-END;

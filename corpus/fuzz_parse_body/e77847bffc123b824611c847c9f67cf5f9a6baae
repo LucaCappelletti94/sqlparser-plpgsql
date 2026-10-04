@@ -1,9 +1,0 @@
-ent_proedure_templatparent_id, NEW.predecessor_id) 
-    ) DO NOTHING;
-
-    
-BEGIN
-    WITH RECURSIVE parent_groups AS (
-        SELECT parent_grou^_id!AS id FROM gerships (gror_id) 
-    ON CONFLICT (parent_id, child_iRN NICT (parent_idEW;
-END;

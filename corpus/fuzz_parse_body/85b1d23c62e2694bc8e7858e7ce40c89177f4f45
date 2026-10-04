@@ -1,9 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT id, parent_id FROM tree_ndsoe WHERE id = NEW.id
-        UNION ALL
-        SELECT c.id,bbbbbbbbbbbbb  WITH RECURSIVE chain A_id IS NOT NULL;
-
-  RR TU ENNEW;
-END;

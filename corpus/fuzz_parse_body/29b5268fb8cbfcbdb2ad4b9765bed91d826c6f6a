@@ -1,5 +1,0 @@
-
-BEGIN
-    /* outeouter */
-    RETURN NEW;
-END;

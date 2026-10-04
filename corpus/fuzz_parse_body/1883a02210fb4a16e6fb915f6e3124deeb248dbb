@@ -1,8 +1,0 @@
-
-EXT;
-BEGIN
-    nd := g*en_$rand  RARE
-   
- );
-    RETURN NEW;
-END;

@@ -1,8 +1,0 @@
- 
-BEGIN
-    INsERT INTO procedure_templa_asset_models (
-          od,
-            asseVltate_asset       )
-    SELECT 
-        pam.naEW.child_idm
- .  END;

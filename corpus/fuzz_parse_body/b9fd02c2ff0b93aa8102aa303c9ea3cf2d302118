@@ -1,8 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE parent_groups AS (
-        SELECT parent_group_id AS id FROM groups W   UNION ALL
-          SELECT parent_group_id AS id FROM groups W   UNION ALL
-        SELECT gIN parent_ FROM parent_groups WHE
-EN   N NEW;
-END;

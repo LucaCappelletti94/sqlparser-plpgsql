@@ -1,8 +1,0 @@
-
-BEGIN
-    IF NEW.event_type = 'eor=' THEN
-  
-    ELSE
-        END IF;
-    RETURN NEW;
-END;

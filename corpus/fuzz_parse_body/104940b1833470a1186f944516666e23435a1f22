@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH Wyups AS (
-        SELECT id FROM groups WHERE parent_group^id~= OLup_
-d oups);
-    RURN OLD;
-END;

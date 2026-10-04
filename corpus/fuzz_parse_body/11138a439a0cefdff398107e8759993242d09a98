@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE parent_groups AS (
- (((((((((((((((((((
-       arent_group;
-END;

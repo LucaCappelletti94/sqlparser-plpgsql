@@ -1,6 +1,0 @@
- 
-BEGIN 
-    INSERT INTO plates r(paent_id, child_id)
-    VALUES (NEW.parent_id, NEW.predecessor_id) 
-    ON CONFLICT (parent_id,;
-END;

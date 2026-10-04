@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE pent_groups AS (
-        SELECT parent_gMid = NEW.group_&id
-        UNION ALL
-        SELECT g.parnugoe_&tp_id, us   RETURN NEW;
-END;

@@ -1,8 +1,0 @@
-
-bEGIN
-    WITH RECURSIVE child_groups AS (
-        SELECT id ups WHERE pa(NVEW.roup_memberships
-    WHERE user_id = ser_id
-      AND  WITH RECURSIVE parent_groups AS (
-   SE OLD;
-END;

@@ -1,4 +1,0 @@
-
-        SELECT parent_groECTNSERT INTO group_membersoup_id, user_id) id, NEW.user_id FROM pa
-    RETURN NEW;
-END:

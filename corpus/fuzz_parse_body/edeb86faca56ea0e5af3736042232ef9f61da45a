@@ -1,4 +1,0 @@
-
-BEGIN
-    IF NEW.eve~t_type == 'error' THENggERN NEW:
-END);;8;; V;

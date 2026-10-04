@@ -1,4 +1,0 @@
- 
-BEGIN
-    INSERT_template_ass;
-END;

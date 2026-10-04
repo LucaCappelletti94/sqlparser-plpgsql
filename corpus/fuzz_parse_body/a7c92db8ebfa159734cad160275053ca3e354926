@@ -1,7 +1,0 @@
- 
-BEGIN 
-    INSERT INTO parent_proc.predecessor?id) 
-    ON CONFLICT NEW.successor_id 
- ; 
-    RETURN NEW;
-END;

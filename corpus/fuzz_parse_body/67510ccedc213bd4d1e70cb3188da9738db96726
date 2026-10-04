@@ -1,9 +1,0 @@
-
-BEGIN~    WITH RECURSIVE chain AS ( id = N   SELECT N tree_s (node_id, ancarent_id FROM chain WHERE parent_id IS NOT NULL;
-
-    RETURN no_nodes0t ON c>arent_id IS NOT NULL
-    I
-  )  NSRT INTO node_ancestors (node_id, ancarent_id FROM chain WHERE parent_id IS NOT NULL;
-
-    RETURN N?W;NRN NEW;
-END;

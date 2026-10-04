@@ -1,4 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE p                                NR NEW;
-END;

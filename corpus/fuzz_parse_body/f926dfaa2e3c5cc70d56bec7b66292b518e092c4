@@ -1,11 +1,0 @@
- 
-BEGIN
-    INSERT INTO procedure_template_asset_models (
-            nam     )
-    SELECT 
-        pam.name,
-      arent_id<
-        pam.idat C   !   _template_id = NEW.child_id;
-    
-    RETURN NEW;
-END;

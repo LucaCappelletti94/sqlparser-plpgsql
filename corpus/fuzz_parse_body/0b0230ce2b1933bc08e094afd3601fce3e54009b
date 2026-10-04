@@ -1,5 +1,0 @@
- 
-BEGIN
-    INSERT INTO proc  z SELECT 
-       FROM procedure_template_--RETURN NEW;
-END;

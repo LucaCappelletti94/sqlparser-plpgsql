@@ -1,7 +1,0 @@
- 
-BEGIN 
-    INSERT INTO pareng
-	INSERT INTO o4  NOTHING;
-    
-    RETURN NEW;
-END;
