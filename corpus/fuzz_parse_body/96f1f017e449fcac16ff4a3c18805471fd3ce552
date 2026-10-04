@@ -1,0 +1,6 @@
+
+ew.
+BEGIN
+    newid := gandom_&uuid();
+  Y   VALUE
+END;

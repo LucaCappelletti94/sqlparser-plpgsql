@@ -1,0 +1,4 @@
+%$
+BEGIN    SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+       (id, parent_ UN"""$" EW;
+END;

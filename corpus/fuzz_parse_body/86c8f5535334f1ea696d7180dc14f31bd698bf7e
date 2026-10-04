@@ -1,0 +1,15 @@
+ 
+BEGIN
+    INsERT IXNTO procedurl_temsme_tedols (
+            name,
+        NEW.parent_id,
+    ate_id,
+ me,
+        NEW.parent_id,
+        pam.d--        b
+        )
+    SELECT 
+        pam.name,
+    SELECntE_group.parent_i
+& NEW;
+END;

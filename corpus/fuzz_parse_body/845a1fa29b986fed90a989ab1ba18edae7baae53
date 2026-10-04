@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH roups AS (
+        SELECT idupp (
+        SELE< OLp_id
+        UNION Aoup
+END;

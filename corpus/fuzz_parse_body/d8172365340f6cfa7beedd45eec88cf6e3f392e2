@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, Gparent_E iancesAor_id)
+    SELECT N%%%%%%%%%%%%%%%%%%ent/$_diIS  +NOT
+    WITH RECURSIVE chain AS  RETURN NEW;
+END;

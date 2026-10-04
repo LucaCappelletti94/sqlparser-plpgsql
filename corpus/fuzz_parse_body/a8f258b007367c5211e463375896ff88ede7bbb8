@@ -1,0 +1,6 @@
+
+BEGIN
+   (   SELECT p[]--GIN
+    WITH RECt_groups AS (
+   EW;
+END;

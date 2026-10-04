@@ -1,0 +1,6 @@
+%$
+BEGIN
+    WITH in AS (
+        SELECT id, pareteMnodes WHERE id = NEW.id
+       ( UN"""$" EW;
+END;

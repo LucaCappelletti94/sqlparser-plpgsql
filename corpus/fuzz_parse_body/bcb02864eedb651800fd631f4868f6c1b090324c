@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INSERT INT SELECT 
+        pam.na.e,
+        NEWam.asset_mo%/0%l_id
+    FROM ETU]EW;
+END;

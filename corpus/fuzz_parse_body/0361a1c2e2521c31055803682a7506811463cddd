@@ -1,0 +1,4 @@
+
+BEGIN
+        SELECT id, pare.t_i0 FROMSERT INTO _anc;
+END;

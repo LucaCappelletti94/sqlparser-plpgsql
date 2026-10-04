@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE chain AS NOT NULL
+   [)
+   Ee_ancesrors    SETURN NEW;
+END;

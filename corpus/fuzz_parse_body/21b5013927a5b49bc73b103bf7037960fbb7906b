@@ -1,0 +1,11 @@
+ 
+BEGIN
+    INSERT INTO proc$  SELECT 
+        pam.nameO,
+        NEW.prent_id,
+       *pamSEd,
+NEW.paren#_id,
+       *pamSEd,
+ odeRE pam.proc_I* o@@""@@@ odels pam
+    WHER@@@@tempW;
+END;

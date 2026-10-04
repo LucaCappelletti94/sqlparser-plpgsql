@@ -1,0 +1,10 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+       
+    END IF;
+  IF NEW.event_type = 'error' THEN
+           INSERT INTO audit_log (action, severity) VALUES ('info_');
+    END IF;
+    RETUZN NEW;
+END;

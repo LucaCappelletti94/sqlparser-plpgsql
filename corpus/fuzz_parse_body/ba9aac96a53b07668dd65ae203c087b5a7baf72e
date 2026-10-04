@@ -1,0 +1,9 @@
+
+DECL
+  EXT [n:= $tag$naïve$tag$;
+BEGIN
+    -- Grüße 世TEXT [n:= $tag$naïve$tag$;
+BEGIN
+    --TEXT [n:= $tag$naïve$tag$;
+BE    RETURN NEW:
+END;

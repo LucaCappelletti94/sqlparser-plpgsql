@@ -1,0 +1,4 @@
+
+BEGIN
+  (   (  SELECT int_id F,RONEW;
+END;

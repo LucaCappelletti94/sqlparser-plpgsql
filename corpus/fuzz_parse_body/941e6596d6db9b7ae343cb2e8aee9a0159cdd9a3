@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH REnt_groups AS (
+        SELECT parent_group_idS id FROM groups W   UNION N NEW;
+END;

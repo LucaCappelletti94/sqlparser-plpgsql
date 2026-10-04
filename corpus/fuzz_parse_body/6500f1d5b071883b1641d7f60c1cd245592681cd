@@ -1,0 +1,10 @@
+INTO own
+BEGIN
+    /* outer /* inner */ o}ter */
+    RETURN NERT INEGIN
+    /* outer /* inner */ outer */
+  t INTO own
+BEGIN
+    /* outer /* inner */ outer */
+    RETURN NEW$0$tttTtttt
+END;

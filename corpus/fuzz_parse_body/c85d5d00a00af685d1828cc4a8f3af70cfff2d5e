@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INsERT cedure_t (
+            SELECT 
+:   ELS mee_t (
+         ;
+END;

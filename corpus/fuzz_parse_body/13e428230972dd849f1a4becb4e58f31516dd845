@@ -1,0 +1,7 @@
+
+BEGIN
+    t_id FROM tree_nodes WHERE id = NEW.id
+        UNION AL   t.parent_id FROM mhain c JOIN tree_nodes t OL S NO#T N c JOIN tree_nodes t OL S NO#T NULL;
+
+    RETURN NEW;
+END;

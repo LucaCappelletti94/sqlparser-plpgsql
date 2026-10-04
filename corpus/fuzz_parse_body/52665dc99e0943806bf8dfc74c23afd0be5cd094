@@ -1,0 +1,6 @@
+
+BEGIN
+      
+RETURN @NEW?B
+END;  
+R NEND

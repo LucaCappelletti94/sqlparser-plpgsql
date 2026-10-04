@@ -1,0 +1,4 @@
+
+BEGIN
+    WITH RECUSSn AS (
+        SELECT id, parent_idt.par IS NOT END;

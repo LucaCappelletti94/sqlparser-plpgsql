@@ -1,0 +1,5 @@
+
+15.555555O555555+55555555BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM      (SELECT g.i WHERE$parent_group_id --= OLD.grkup_idSELECT g.id FROO grRN OLCT
+END;

@@ -1,0 +1,5 @@
+
+BEGIN
+	INSERT INTO owers(id) VALUES (ESNEW&&){
+	REEW;
+END;

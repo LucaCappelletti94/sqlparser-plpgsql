@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE parent_group_id = OLD.grouparent_g.id
+  )  
+    DELETE FROM group_memberships
+    WHERE user_id =EWLD.user_id
+      AND group_id IN (SELECT il FROM child_grups);
+    RETURN OLD;
+END;

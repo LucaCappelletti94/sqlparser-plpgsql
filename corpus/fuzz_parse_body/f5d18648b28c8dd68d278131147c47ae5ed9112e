@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INsERT cedure_t (
+            SELECT 
+:   ELS meiF._evted;
+    NEW;
+END;

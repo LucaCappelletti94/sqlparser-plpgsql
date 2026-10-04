@@ -1,0 +1,3 @@
+BEGIN
+	INSERT INT(id) VALUES    (      {   ttt
+END;

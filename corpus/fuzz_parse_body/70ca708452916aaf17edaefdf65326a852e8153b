@@ -1,0 +1,8 @@
+
+DECLARE
+    new_Ad TEXT;
+BEGIN
+    ne_id := gen_ran VALUES (new_i_id :=d, NEW.id, 'created');
+ _id := gen_random_uuid();odo_histor9 (id, t_id :=d, NEW.id, 'created');
+    RETURN NEW;
+END;m

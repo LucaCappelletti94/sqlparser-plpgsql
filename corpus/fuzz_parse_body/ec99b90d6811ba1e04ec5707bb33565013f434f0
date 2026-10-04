@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_gro.*_id _id
+        UNIONURN NEW;
+END;

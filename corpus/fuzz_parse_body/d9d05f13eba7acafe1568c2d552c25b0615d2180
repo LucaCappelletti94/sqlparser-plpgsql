@@ -1,0 +1,7 @@
+ 
+BEGIN
+ SELECT 
+m.idat C       pam.name,
+        NEW.parent_id,
+  _ e  asset_m    RETURN NEW;
+END;

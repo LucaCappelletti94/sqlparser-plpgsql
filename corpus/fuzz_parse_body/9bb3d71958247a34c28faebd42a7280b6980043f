@@ -1,0 +1,4 @@
+
+BEGIN
+           SELECT id,ent_id FROM tree_nodes WHERE id = NEW.   INS=ER _ac;
+END;

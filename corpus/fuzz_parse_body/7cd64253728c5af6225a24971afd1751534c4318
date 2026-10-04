@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_grou*_id AS idou    UNION ALL
+        SELECT g.parent_group_id FROM groups g JOIN pareid)
+    SELECT id, NEW.user_id FROM parentd, user_id) DO NOTHING;
+    RETURN NEW;
+END;

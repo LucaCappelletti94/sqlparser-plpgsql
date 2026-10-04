@@ -1,0 +1,8 @@
+,<<<<<<*/ ou\\\\\\   $N EW;
+<<
+BEGIN
+    WITH RECURSIVE$chain AS (
+        SELECT id, par s WHERE id = ALL
+        SE paT NULL;
+ION ARN NEW;
+END;

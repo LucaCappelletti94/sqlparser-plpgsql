@@ -1,0 +1,4 @@
+
+BEGIN
+  (   (  SELECT int_i *o REW;
+END;

@@ -1,0 +1,6 @@
+
+BEGIN
+  * WITH URSIVFROM groups t_grou = pg.i    SELECT&id FROM groups WHERE parent_eroup_id!= OLD.group_!= OLD.group_id
+SERT INTO group_meh
+DE/*CLAcafé TeXL C%'E ',]= pg.i    SELECTeEW;
+END;

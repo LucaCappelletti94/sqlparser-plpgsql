@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.i[
+        9999999999999999999999999999999999999999999999999ent_id FROM;
+
+    RETURN NEW;
+END;

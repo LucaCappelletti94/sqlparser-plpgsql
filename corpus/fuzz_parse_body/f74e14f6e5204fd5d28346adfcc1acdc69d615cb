@@ -1,0 +1,5 @@
+
+BEGIN
+  --  IF t_type ='error' THEN
+        INSERT INTK audit_log (everity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'waraning' THEon, severity) VALUES ('info_ev*ent', 'lND;

@@ -1,0 +1,5 @@
+
+DECLAR @@ew_Ad TEXT;
+BEGIN
+  INSERT INTO t~do_hisEW;
+END;

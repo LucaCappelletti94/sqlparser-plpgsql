@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.i[
+        000000000000000000000000000000000000     @  cha N NEW;
+END;

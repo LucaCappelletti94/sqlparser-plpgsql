@@ -1,0 +1,5 @@
+
+DECLARE
+    gafé TEXT : $tag$naïve$tag$;
+BEGIN
+   '%', c,;

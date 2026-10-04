@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.event_t = 'error' THEN
+  ven[tT IRN NEW;
+END;

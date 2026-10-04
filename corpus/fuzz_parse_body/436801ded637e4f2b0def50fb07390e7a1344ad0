@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_models (
+            name,
+            procedure_template_id,
+            based_on_id,el_id
+        )
+    SELECT
+  XEW;
+END;

@@ -1,0 +1,3 @@
+
+BEGIN
+    INSERT INTO group_membersh  SELECT (group_id,EW;@END;

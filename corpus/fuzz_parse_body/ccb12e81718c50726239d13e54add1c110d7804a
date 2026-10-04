@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE t_groups AS (
+       SELECT paren(group_id, user_id)
+    SELECT id, NEW.userups WHERE id IS;
+END;

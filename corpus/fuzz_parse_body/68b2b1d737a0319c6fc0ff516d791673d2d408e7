@@ -1,0 +1,6 @@
+
+DECLARE
+     TTIGXT := $t
+BEGIN
+   /*E
+$;

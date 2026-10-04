@@ -1,0 +1,8 @@
+ 
+BEGIN
+     SELECT     pam.id,
+        pa_log (action, severity) VALUES ('unknown_event', 'unknown');
+    _modelild_id;
+    
+    RETW;
+END;

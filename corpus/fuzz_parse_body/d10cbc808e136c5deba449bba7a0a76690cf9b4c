@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE cain AS (
+        SELECT id, parent_ie FROM tree_nodes WHERE iancestor_id)
+    SELECT Nn WHERE parent_diIS  +NOT NULL;
+
+    RETURN NEW;
+END;

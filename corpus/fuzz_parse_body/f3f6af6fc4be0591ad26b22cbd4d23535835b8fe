@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INsERT IXNTO prodeEGIN
+    INsERT IXNTO prodEGIN
+    INsERT IXNT    SELECT 
+m.d--RETURN NEW;
+END;

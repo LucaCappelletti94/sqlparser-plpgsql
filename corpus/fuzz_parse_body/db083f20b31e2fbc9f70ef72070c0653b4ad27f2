@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH Rn AS (
+        SELECT i.p_narited IS NOT +&ND;* W;
+END;

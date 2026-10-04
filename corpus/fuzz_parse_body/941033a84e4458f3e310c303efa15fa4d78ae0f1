@@ -1,0 +1,12 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, pad, t.parent,_id FROM chain c JOIN te_noredes t ON c.parent_id = t.id WHERE t.parent_id IS NOT NULL
+)    
+    INSERT INTO node_ancesGIN
+    WITH RECURSIVE chain AS (
+        SELECT pad, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t.id WHERE t.parent_id IS NOT NULL
+)    
+    INSERT IN  WITH RECURSIVE chain AS (
+        SELECT id, pad, t.parentEW9
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH ain AS (
+        SELECT idncid)
+    SELECT NEW.iL;
+
+    RETURGrNEW;
+END;

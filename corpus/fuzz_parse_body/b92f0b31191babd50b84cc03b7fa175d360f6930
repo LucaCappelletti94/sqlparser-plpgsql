@@ -1,0 +1,4 @@
+
+BEGIN
+   (   SELECT p[]--GIN
+    END;

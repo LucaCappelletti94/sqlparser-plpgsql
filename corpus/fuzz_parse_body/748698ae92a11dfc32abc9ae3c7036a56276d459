@@ -1,0 +1,11 @@
+BEGIN
+ REGIN
+  /**/
+    RETURN EE
+ /**/
+    RETURN EE
+;
+ /* inner */
+
+CEG = 'SEé;
+END

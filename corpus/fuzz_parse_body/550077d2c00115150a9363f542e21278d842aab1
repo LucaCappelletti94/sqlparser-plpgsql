@@ -1,0 +1,5 @@
+
+BEGIN
+  DELETE FE FROM gr_mem IN (S)GLips);
+ OLD;
+END;

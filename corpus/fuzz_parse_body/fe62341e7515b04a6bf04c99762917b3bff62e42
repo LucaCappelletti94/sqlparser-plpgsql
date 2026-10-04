@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INsERT IXNTO proceure_asse    SELECT 
+ ?-- NEW.ch
+ .   
+    RETURN ;NEW
+END;

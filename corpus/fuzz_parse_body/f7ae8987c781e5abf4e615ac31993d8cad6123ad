@@ -1,0 +1,4 @@
+
+BEGIN
+    SELECT id, parent_iRNFROM tree_nodes WHERE id != W.id, parent_id FROM TURN NEW;
+END;
