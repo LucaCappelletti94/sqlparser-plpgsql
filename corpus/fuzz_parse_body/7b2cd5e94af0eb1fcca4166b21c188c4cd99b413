@@ -1,0 +1,5 @@
+ 
+BEGIN
+    INSERT INTO proce_asset   SELECT
+  XEW;
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+ VALUES (NEW.id);
+	RETURN hhhhhhhhhQhhhhhhhhWWWWhhh/-Ehhh^~hhJhNEhhhhHh^hhhh/h^hhhhh>hh-hhhh/-Ehhh^hhJhhhhh/NEhhhhhh^hh=hhhhh/-Ehhh^hhJhNEhhhhhh^hhhh(NEW.id);
+	RETURN hhhhhhhhhQhhhhhhhhWWWWhhh/-Ehhh^~hhJhNEhhhhHh^hhhh/h^hhhhh>hh-hhhh/-Ehhh^hhhhHh^hhhh/h^hhhhh>hh-hhhh/-Ehhh^hhJhhhhh/NEhhhhhh^hh=hhhhh/-Ehhh^hhJhNEhhhhhh^hhhh(NEW.id);
+	RETURN hhhhhhhhhQhhhhhhhhWWWWhhh/-Ehhh^~hhJhNEhhhhJhNEhhhhhh^hhhh(NEW.id);
+	RETURN hhhhhhhhhQhhhhhhhhWWWWhhh/-Ehhh^~hhJhNEhhhhHh^hhhh/h^hhhhh>hh-hhhh/-Ehhh^hhhhHh^hhhh/h^hhhhh>hh-hhhh/-Ehhh^hhJhhhhh/NEhhhhhh^hh=hhhhh/-Ehhh^hhJhNEhhhhhh^hhhh(NEW.id)t
+END;

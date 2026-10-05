@@ -1,0 +1,5 @@
+
+BEGIN
+  DELETE FROM group_membep_id IN (SELips);
+    RETURN OD;
+END;

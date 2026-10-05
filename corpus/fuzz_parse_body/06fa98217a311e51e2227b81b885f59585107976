@@ -1,0 +1,4 @@
+
+BEGIN
+    WITH REups AS (
+      SELECT id FROM groups JOIN child_groups cg ON gIN[END;

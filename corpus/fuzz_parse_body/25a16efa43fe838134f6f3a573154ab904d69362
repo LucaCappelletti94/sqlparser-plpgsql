@@ -1,0 +1,4 @@
+ 
+BEGIN
+   INSERT_t;
+END;

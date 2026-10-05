@@ -1,0 +1,4 @@
+
+BEGIN
+    SELECT e_nodes WHERE id !=rent_M TURN NEW;
+END;

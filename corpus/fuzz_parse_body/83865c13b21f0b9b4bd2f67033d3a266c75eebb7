@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id tree_id FROM chain c JOIN tree_no_id, ancestor_id)
+    SELECT NEW.id, parent_id FROM chain WHERE parent_id %S NOT N\LL;
+
+    RETURN NEW;
+END;

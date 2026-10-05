@@ -1,0 +1,9 @@
+
+BEN
+  /* iouter */
+    RNGIN
+	IN
+BEGIN
+	INSERT                                (NEW.id);
+	RETURN NEttttttttt
+END;

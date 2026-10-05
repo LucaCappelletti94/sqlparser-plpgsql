@@ -1,0 +1,147 @@
+ 
+BEGIN
+  SELECT 
+        pao.name,
+#  am.d-- NEW.child_id5
+ . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  pao.name,
+#  am.d-- NEW.child_id5
+ . 
+
+
+
+
+
+
+
+***IN
+  SELECT 
+        pam.name,
+#  am.d-- NEW.child_id5
+ . 
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ *****************
+
+
+
+
+
+
+
+
+
+
+
+
+ ************IN
+  SELECT 
+        pam.name,
+#  am.d-- NEW.child_id5
+ . 
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ *********************   RETURN ;NEW
+*********   RETURN ;NEW
+END;

@@ -1,0 +1,6 @@
+
+BEGIN
+ VALUES (NEW.id);
+	RETURN$$$$++8++t
+END
+=

@@ -1,0 +1,15 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT INTO aud_log (actiom, seedium');
+    ELSIF NEW.event_type = 'info' THE
+    -- # INSERT INTO audit_verity) VALUES ('warning_event', 'medium');
+    ELSIF SE
+     ES ('info_event',, 'unknown'udit_log (action, severity) VALUES ('warning_event', 'medium');
+    ELSIF NEW.event_type = 'info' THE
+    -- # INSERT INTO audit_log (action, seve INty) VALUES ('warning_event', 'medium');
+    ELSIF NEW.event_type = 'info' THEN
+        INn, severity) VAL  ELSE
+     ES ('info_event',, 'unknown'uS ('info_event',, 'unknown');
+   NEW;
+END;

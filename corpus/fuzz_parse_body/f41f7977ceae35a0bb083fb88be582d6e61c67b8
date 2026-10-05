@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM
+    ((((
+        SELECT id, parent_id FROM tree_node|     SELECT c.id, t.parent,_id FROM chain c JORETURGeMEWO
+END;

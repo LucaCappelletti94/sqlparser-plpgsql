@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVEgroups AS (
+        SELECT pare (
+        S RETUNR NSELECT parent use    EEW;
+END;

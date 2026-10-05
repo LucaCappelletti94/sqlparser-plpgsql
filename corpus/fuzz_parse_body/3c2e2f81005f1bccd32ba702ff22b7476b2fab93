@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id,  id = NEW.i[ 00=00000000 -S C;
+END;

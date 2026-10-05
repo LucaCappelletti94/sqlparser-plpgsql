@@ -1,0 +1,4 @@
+
+BEGIN
+          SELECT id FROM groups WHERE parent_D;
+END;

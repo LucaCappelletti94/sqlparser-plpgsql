@@ -1,0 +1,7 @@
+ 
+BEGIN 
+    INSERT INTO par
+.ent_procedur  VALUES (NEW.parent_id, NEW.predecessor_id) 
+    ON CONFLICT (parent_id, chil-_id) DO NOTINSERT INtemplateshild_i d
+)N NEW;
+END;

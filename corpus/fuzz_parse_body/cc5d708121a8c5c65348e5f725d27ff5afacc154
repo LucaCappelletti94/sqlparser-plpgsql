@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FRs WHERE id = NEW.i--d
+       ( UNION#ALL
+  ND; JN);|t SELECtttCN
+    WITH  EW"" EW;
+END;

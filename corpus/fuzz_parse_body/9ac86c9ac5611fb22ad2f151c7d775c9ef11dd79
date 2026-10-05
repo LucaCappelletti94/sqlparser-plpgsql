@@ -1,0 +1,6 @@
+
+BEGIN
+   WITH SELECT id, parent_id FROM treeinnt_iIS NOT NULL;
+																																																																																																													(																			  
+  RETURN NEW;
+END;

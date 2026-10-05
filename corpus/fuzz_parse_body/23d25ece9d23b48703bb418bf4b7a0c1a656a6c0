@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id = Nzn c   )
+    INSERT INTO node_ancestors (node_id, anc
+    )
+    INSERT INTO node_ancestors (node_id,W;
+END;

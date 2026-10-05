@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups     UNION ALL
+       (SELECT g      UNION ALLJ        SELECT g.id FROO grRN OLCT
+END;

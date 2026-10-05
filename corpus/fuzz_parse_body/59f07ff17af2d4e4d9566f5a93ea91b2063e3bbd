@@ -1,0 +1,12 @@
+ 
+BEGIN
+    INsERT IXNprocedure_template_asset_models (
+           pam.d--        b
+        )
+    SELECT 
+        e,
+        NEW.parent.parent_id,
+        pam.d-- NEW.c;
+ .   
+    RETURN NEW;
+END;

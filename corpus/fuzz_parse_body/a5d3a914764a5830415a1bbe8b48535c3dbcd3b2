@@ -1,0 +1,9 @@
+
+BEGIN
+    IF NEW.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@S ('eVALO audit_,og (action,audit_,og (actioiom, severity) VALUES ('error_event', 'high');
+    ELSIF-NEW.event_type = 'warning' THEN
+        INSERT IN = 'info' THEN
+         INSERT INTO audit_log erity) VALUES ('warnin;g_event', e = ');
+    ENT IF;
+    RETURN NEW;
+END;

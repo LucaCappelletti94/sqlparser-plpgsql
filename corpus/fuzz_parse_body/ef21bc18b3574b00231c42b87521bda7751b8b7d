@@ -1,0 +1,5 @@
+ 
+BEGIN 
+    INSERT IN    VALUES (NEW.parent_id, NEW.predecessor_id) 
+    ON CONFLICT (pare,;
+END;

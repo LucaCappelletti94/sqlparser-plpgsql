@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIn AS (
+        SELECT id, pareidnt_id FROM tree_nodes WHERE id = NEW.id  
+    W;
+END;

@@ -1,0 +1,4 @@
+
+BEGIN
+	INSERT YNers (id) VALUE  tt
+END;

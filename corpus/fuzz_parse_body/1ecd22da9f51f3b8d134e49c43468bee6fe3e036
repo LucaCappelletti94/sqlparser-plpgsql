@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE parent_group_id        UNION ALL
+        SELECT g.id FROM groups g JOIN child_g+roup_iEd = cd
+ URN OLD;
+END;

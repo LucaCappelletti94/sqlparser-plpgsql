@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INsERT INTO procedurpla1ue_asset_models (
+            namem.name,
+    edt_id,
+        pm.id,
+TO procedure
+tB_EIG -- 
+BEGIW;
+END;

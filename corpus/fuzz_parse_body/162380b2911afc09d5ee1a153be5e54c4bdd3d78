@@ -1,0 +1,14 @@
+
+BEGIN
+    IF NEW.event
+BEGIN
+	I&@ERT I
+BEGIN
+	INSESRT INttttNTO owners (id) VALUtS
+DEevevenT INTid) VALUtS
+DEeveventBEGIN
+	I@   M groups g RN ENEW:
+EeventBEGIN
+	  M tttt&
+B    RAISE INCE,gNENDD;;
+

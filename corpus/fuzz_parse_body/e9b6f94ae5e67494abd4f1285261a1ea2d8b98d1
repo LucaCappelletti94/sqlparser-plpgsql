@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH REd_groups AS (
+     SELECT id FROM orgups  ?&???u --TIETURN OLD;
+END;

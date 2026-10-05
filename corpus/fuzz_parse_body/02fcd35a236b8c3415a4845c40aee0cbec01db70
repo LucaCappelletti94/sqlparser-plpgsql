@@ -1,0 +1,5 @@
+
+BEGIN
+   SELECT id, pard FROM trn AS (
+   SELE
+END;

@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+          SELECT g.pareid FROM groups g JOIN parg ON g.id = pg.id
+  UNION ALL
+        SELECT g.paroup_id FROM groups g JOIN parg ON g.id = pg.id
+  UNLL
+  N NEW;
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+    /*/ ou */
+    RETURN :ECCC@CCCN
+   ::ECCCCN
+   ::ECCC@CCCN
+   ::ECCCCCC;
+END;

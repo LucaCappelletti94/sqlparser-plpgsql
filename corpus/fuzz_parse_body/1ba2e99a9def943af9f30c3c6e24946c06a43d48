@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT i--d FROM group_id
+        UNION ALL
+        SELECT g.id FROM groups g JOIN child_group& cgdi FOM c
+    RETURN OLD;
+END;

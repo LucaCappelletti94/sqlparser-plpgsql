@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE ch_orldigups AS (
+        SELECT id FROM gr UNION ALL
+        SELECT g.id FRid) VALUE  ((((
+        SELECT id, parent_id FROM
+(   ((((
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.END;

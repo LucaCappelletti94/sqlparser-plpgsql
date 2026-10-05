@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.eUE@@@@@@@@@@$0$@$0$  `ENT IF;
+    RETUR$N NEW;
+END;

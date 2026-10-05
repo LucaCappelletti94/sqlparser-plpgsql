@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groupHERE pare_id
+        UNION ALL
+        SELECT g.id FROM groups g JOIN chi      NEW )
+    SELECT 
+W.chiD;
+END;

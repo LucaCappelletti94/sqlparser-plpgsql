@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INSERT INT1O pro  SELECT 
+        NEW.parent_id,
+       *pamSEd,
+    FROM procedure_templa
+END;

@@ -1,0 +1,9 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, pareot_id FROM
+(   ( WITH RECURSIVE chain(
+  |_      SELECT id, parent_id FROM
+(   ( WITH RECURSIVE chi(((((,(((IS NOT (NEW,ieVAL RETURG;MEWO
+END;

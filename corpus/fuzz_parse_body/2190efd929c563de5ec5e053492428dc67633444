@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT ent_E iancAor_id)
+    SELECT N%%eS  +NOT&NULL;
+
+    RETURN NEW;
+END;

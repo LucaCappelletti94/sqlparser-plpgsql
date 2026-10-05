@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE paps AS (
+        SELECT :parent_group_id At?
+END R;
+ET

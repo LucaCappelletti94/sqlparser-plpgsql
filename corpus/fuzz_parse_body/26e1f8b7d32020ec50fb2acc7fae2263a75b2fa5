@@ -1,0 +1,6 @@
+
+BEGIN
+    IF vent_type = 'error' THEN
+      INSERT  END I_loJ (action, severyit) VALUES (' gfo_');
+    END IF;;
+END;

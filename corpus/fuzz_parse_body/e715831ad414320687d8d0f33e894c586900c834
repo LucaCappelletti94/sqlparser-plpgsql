@@ -1,0 +1,4 @@
+
+BEGIN
+    IF NEW.eUE@@@@@@@@@@@@@@@@@@@@@e!= 'info' TETURN NEW;
+END;

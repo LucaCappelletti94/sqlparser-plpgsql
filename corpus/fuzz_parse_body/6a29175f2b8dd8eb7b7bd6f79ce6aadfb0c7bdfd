@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE cioups AS (
+        SELECT iroupsps
+  WHERE user_id =OLD.user_#id
+      AND gr@up_id IN[END;

@@ -1,0 +1,18 @@
+
+BEGIN
+ MN
+! RAISEé;
+ENDé
+ s (id) VALUtent
+BEGRT INTOgwner{ (id) VETO owners (id) VALUtent
+MN
+  RAISEé;
+ENDé
+ MN
+  RAISEé;
+ENDé;AISEBEGMN
+  RAISEé	NSERT INTO owO ownEé;
+ENDé
+ MN
+  RAISEé;
+ENDé;

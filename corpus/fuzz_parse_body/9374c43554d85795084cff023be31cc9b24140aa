@@ -1,0 +1,6 @@
+C
+XT;
+BEGIN
+    new_id :=INi(n5~d, NEW,id, 'creted=5');
+  RETURN NE+4
+END;55556IN  RAS

@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH Rchain AS (
+        SELECT id, parent_idt(parent_id IS NOT NULL
+    )
+    INSERT INTO node_ance (node_id, ancestor_id)
+    SELEyCT NEW.id, pRE ;
+END;

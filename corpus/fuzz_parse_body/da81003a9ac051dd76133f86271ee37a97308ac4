@@ -1,0 +1,6 @@
+
+BEGIN
+   (
+        SELECT id FROM groups WHERE parent_group_id = OL      UNION ALL
+        SELECT g.id FROM groups g JOIN child_mmmmmmmmmURN OLD;
+END;

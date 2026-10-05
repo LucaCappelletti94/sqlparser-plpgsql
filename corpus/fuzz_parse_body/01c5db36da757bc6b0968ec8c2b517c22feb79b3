@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECUild_groups AS (
+        SELECT id FROM groups WHroups WHERE parent_group_id = OLD.group_idg.parent_group_id = cg.id
+ )
+    DELETE FROM group_membersThips
+    WHERE .parent_= OLD.user_id
+    roups);
+    RETURN OLD;
+END;

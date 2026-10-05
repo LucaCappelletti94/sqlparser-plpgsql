@@ -1,0 +1,11 @@
+
+BEGIN
+	INSERT IFTO owners (id) VALUE  ((((
+        SELECT id, parent_id FROM
+(   ((((
+        SELECT id, parent_id FROM t id) VALUE  ((((
+        SELECT id, parent_id FROM
+(   ((((
+        SELECT id, pa   [EW.idSE
+ tttttt
+END;

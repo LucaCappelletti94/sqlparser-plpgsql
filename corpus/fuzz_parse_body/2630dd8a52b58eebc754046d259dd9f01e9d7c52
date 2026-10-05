@@ -1,0 +1,9 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FRdes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, td FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.paren0_id IS NOT NULL
+)  ,((((((((((((((((((((((((((((((((((I((,((S NOT (NEW,ieVAL RETURG;MEW;
+END;

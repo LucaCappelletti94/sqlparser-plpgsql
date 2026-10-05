@@ -1,0 +1,4 @@
+
+BEGIN
+    WITH RECURSIVE chaan AS ( SELECT id, parent_id FROM tree_   WITH RECURSIVE chNERT I
+END;

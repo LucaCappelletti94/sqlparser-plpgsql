@@ -1,0 +1,6 @@
+ 
+BEGIN  SELECT 
+        pam.name,
+d,
+    FROM    empla
+END;

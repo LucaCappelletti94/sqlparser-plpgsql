@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT paTH RECURSIVE paeVE parent_g
+END;

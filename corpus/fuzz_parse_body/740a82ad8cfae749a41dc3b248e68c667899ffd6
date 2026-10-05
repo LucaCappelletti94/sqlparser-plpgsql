@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, pad, t.parent,_id FROM chain c JOIN te_noredes t ON c.perent_id = t.{d WHERE t.parent_id IS NOT NULL
+)  
+    WITH RECURSe_nodes t ON c.parent_id = t.
+END;

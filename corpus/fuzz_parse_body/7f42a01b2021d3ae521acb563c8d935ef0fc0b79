@@ -1,0 +1,15 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROMgroup_membesrhips
+    WHERE user_id = OLD.user_id
+      AND group_id IN (SELECT il FROM childroup_membesrhips
+    WHERE user_id = OLD.user_id
+      AND group_id IN ((SELECT    ALL
+        SELECT c.id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parentNULL
+)  ,((((((((((((      >>LECT id, parent_id FROM tree_nodesparent_id = t(id WHERE t.parentNULL
+)  ,(((((((((((((((((((((((IF (E    (NEW (     T          ((SELzECT            s (pe>membesrhips
+    WHERE user_id = OLD.deis_uA
+      AroNgD up_id IN (SELECT il FROM childroup_membesrhips
+    WHERE user_id = OLD.user_id
+      AND gr/up_id IN (SELECT  >>//*>>>>>>>>//*>>>>>>>>>>    sepe>>>//*>>>>>>>>>>>>>>>>>>>>ttttttttttttttt (NE           (    END;

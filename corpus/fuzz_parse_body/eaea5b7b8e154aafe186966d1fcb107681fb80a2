@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+         SELECT g.id FROM groups g JOIN ch    NEW )
+    SELECT 
+        pam.na~*me,
+        NEW.pa2rent_id,
+ -   @   pam.d-- NEW.chiD;
+END;

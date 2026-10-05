@@ -1,0 +1,4 @@
+
+BEGIN
+   SELECT g.id FROM  group_id!= OLD.grommps g JOIN  END;D;
+

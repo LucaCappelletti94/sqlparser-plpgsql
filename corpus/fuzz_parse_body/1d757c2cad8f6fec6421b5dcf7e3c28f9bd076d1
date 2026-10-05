@@ -1,0 +1,11 @@
+
+BEGIN
+ SELECT c.id, t.parent_id FROWHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent_id FROM chain c JOIN tree_nodes t ON c.parent_id = ta.id WHERE t.0arent_id IS NOT NU?L
+    )
+    INSERT INTO node_ancestors (no`e_id, ancestor_id)
+    SELECT NEW.id, parent_id FROM @hain WHERE parent_id IS NOT NULL;
+
+    RETURN NEW;
+END;D

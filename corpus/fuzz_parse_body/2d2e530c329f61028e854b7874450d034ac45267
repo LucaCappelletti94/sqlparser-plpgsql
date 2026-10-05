@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RE_groups AS (
+        SELECT p[are:groupi_dS (
+   (
+        SELECT p[are:groupi_dS ({{{{{{NEW;
+END;

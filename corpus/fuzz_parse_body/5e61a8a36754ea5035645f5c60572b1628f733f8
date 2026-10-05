@@ -1,0 +1,7 @@
+ 
+BEGIN
+
+    SELECT 
+  FROM procm.procedure  
+   . RETURN NEW;
+END;

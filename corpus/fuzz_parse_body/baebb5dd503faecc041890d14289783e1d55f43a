@@ -1,0 +1,6 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+ INSERT INTK audit_log (action, severity) VALUES ('error_event',
+    VALU1E+S (NEW.parent_id, NEW  ON  'unknown');
+    END IF;

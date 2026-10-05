@@ -1,0 +1,5 @@
+ 
+BEGIN
+    SELECT 
+     pam.nam.idat       parent_id;
+END;

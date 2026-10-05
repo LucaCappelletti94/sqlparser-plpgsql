@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, Gpar%%%%%%%% +NOT
+    $ITH RECURSIVE chain AS (
+        SELECT id, Gparent_E ianNULL;
+
+    RETURN NEW;
+END;

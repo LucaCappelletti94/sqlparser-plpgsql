@@ -1,0 +1,6 @@
+
+BEGIN
+     SELECT id, pare.t_i0 FROMSERT INTO node_anc;
+        SELECT id, par.t_i0 FROMSERT INTO node_ancV;
+END;
+END;

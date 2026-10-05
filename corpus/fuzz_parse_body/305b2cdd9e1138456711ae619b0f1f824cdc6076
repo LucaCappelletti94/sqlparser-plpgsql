@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT idroup_membesrhips
+    WHERE user_id = OLD.user_id
+      AND group_id IN (SELECT il  WHERE user_id = OLD.user_id
+      AND group_id IN ((SELECT   IF (E    (NEW (     T               (   NEW (                 Q (              s (pe>membesrhips
+    WHERE user_id = OLD.useA_id
+      AND group_WLD;
+END;

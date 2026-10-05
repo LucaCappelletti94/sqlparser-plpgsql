@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIroups AS (
+        SELECT id FROM groups WHERE parent_group_id = OLD.group_id
+        UNION ALL
+        SELECT g.id FROM groups g JOIN child_mmmmmN
+	^INSEeuditNT_Ommmmmmmoup_id I|N (SRETURN OLD;
+END;

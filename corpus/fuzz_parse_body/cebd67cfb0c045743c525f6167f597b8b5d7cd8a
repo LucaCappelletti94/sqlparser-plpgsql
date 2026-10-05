@@ -1,0 +1,4 @@
+
+BEGIN
+           SELECT id,yparent_i0 FROM trelog (action, severity) VALUES ('warngng_event',INSERV IN noc;
+END;

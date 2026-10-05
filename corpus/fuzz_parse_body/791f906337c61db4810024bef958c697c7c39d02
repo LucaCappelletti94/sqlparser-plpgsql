@@ -1,0 +1,5 @@
+ 
+BEGIN
+    INSERT INTO procede_temEplAe_asset_mode   SELECT
+  XEW;
+END;

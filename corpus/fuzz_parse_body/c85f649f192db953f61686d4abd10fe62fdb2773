@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RE_groups AS (
+        SELECT p[are:^Eoup_idS (
+        TUNR NEW;
+END

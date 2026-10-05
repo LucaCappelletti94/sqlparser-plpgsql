@@ -1,0 +1,5 @@
+
+BEGIN
+   SELECT id, pard FROM tree_nn AS (
+   SELE
+END;

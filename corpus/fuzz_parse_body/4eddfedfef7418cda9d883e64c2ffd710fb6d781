@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NenLUES ('infot', 'low');
+END IF;
+  D;

@@ -1,0 +1,3 @@
+1BEGIN
+ new_ew_iEd := geo_ew_id,id,
+$EWOLD.gr END;

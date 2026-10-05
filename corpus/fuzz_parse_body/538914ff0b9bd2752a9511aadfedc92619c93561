@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM roups    '%', caféon)
+   RN OLD;
+END;

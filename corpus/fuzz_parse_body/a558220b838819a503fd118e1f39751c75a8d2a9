@@ -1,0 +1,6 @@
+
+DECLARE
+    new;
+BEGIN
+    new_idge,o_idW;
+END;

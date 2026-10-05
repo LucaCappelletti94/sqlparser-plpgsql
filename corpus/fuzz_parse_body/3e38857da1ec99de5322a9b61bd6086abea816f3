@@ -1,0 +1,5 @@
+
+BEGIN
+  DELETE FROM group_membe IN (SELis);
+    RETURN OD;
+END;

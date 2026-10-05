@@ -1,0 +1,11 @@
+
+@EGIN
+	;;;?;;;;;;;9;;;;;;;;afé;
+    RARE
+   
+    RAISE NOTICE 'a', café; café;
+ENDE
+   
+    RAISE NOTICE '%', <café;
+  
+    RAISE NOTICE '% RAISEé;

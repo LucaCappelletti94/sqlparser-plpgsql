@@ -1,0 +1,5 @@
+
+BEGIN
+   (
+      SELECT FROM grou= cg.id    ELETEgr    RETURN OLD;
+END;

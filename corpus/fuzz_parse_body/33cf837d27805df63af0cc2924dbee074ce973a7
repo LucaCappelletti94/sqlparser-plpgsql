@@ -1,0 +1,8 @@
+
+DECLARE
+    ntEXT;
+BEGIN
+    new_id :=\\\\\\\\\\\\\\\\\\, NEW.id, 'cxeated\);
+  LUES (\ VALUES (new_id, NEW.id, 'created\);
+    RETURN N RETURN NEW;
+END;

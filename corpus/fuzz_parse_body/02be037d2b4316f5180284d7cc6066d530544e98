@@ -1,0 +1,6 @@
+
+BEGIN
+    IF NEW.event_tye = 'error' THEN  INSERT ITON audit_log (action, seCy) VALUES ('error_event', 'high');
+    ELSIF event_type = 'warning' THEN
+        INSERT INvent_tyNE;
+END;

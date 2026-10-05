@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE paent_groups AS (
+        SELECT parent_group_iZ!AS id FROM gcrships g(roup_id, wser_idTURN_id, user_id)  NG;
+   NEW:
+END R;
+ET

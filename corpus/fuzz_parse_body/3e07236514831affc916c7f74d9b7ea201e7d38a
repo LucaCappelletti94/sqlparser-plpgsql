@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE cild_groups AS (
+        SELECT id FROM group       UNION ALL
+        SELECT g.id FROM grou%s g JOINmmmmmmm
+    RETUBN OLD;
+END;

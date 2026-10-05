@@ -1,0 +1,13 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM
+(   ( WITH RECURSIVE chain(
+        SELECT id, parent_id FROM
+(   ( WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FR[OM
+(   ((((
+   URG;MEWO
+END;

@@ -1,0 +1,6 @@
+ 
+BEGIN 
+    INSERT INTO par
+.ent_procedur  VALUES (NEW.parent_id, NEW.predece-ssor_id) 
+    ON CONFLICT (parent_id,N NEW;
+END;

@@ -1,0 +1,4 @@
+
+BEGIN
+    SELECT e_Mod!=rent_M TURN éW;
+END;

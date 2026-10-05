@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_gups AS (
+        SELECT irent_group_id = OLD.group_id
+        [= $tad_grouTURN OLD;
+END;

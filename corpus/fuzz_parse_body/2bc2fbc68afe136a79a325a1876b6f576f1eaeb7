@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT pare(group_sd,t_groups AS (
+END;

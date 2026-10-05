@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE aERnt_groups AS (
+        SELECT pare=d<=iNULL
+    OCT UNNNER W;
+END;

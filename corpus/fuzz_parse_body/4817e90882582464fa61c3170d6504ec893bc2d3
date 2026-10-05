@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE parent_ps AS (
+        SELECT id, NEW.user_id FROM parent_groups WHERE id IS  TLUONCr_id) DOOTHI
+END;

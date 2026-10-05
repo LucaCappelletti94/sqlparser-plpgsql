@@ -1,0 +1,15 @@
+ 
+BEGIN
+    INSERT Iast_models (
+            name,
+            ppocedu    )
+    SELECT EGIN
+    INSERT INTO 
+        pam.name,
+    
+        pam.name,
+        NEW.parent_id,
+        pam.id_id;
+    
+  D;
+END;

@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, paancestor_id)
+    SELECT N%%BBB<|<<[B|| !R/
+
+<BBBBBB!BBB<|<BB   D;NBB<BBULL;
+
+    RETURN NEW;
+END;

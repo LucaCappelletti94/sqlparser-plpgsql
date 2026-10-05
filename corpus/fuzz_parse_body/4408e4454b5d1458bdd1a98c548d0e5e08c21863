@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_idnodes WHERE id = NEW.i[
+     1A00rent_id NEW;
+END;

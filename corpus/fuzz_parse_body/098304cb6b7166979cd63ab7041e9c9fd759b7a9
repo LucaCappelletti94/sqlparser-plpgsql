@@ -1,0 +1,8 @@
+
+DECLARE
+    nedwi_ TEXT;
+BEGIN
+    new_id := gen_radom_uuid();
+    ew_id := geid();
+    INS
+END;

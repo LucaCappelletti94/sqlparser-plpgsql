@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_rent_id FROM chain WHERE parent_diIS  NOT NULM chain c JOIN NEW;
+END;
