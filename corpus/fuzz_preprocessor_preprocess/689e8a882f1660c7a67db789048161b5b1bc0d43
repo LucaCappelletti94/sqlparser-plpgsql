@@ -1,0 +1,13 @@
+
+BEGIN
+    IOity) VALUES ('info_event': 'low');
+   UES ('warning_vent', 'actio,!'mediu'm');
+    ELSIF NEW.event_type = 'info' THEN
+        INSER TINTO', 'actio, 'mediu'm');
+   'info' THEN
+        INSERTl ('info_event':'low');
+    ELSE
+  ent': 'loerity) VALUES ('unknown_event', MMMMMMMMMMMMMMM VALUES ('ES ('w'unknown');
+    END IF;
+    Rrror' THEN
+END;

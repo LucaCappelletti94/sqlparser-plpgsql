@@ -1,0 +1,6 @@
+ 
+BE   SELECT
+    le,   pam.namm,
+       NER INTO procede_id,   based_ond,
+ 
+E0D;

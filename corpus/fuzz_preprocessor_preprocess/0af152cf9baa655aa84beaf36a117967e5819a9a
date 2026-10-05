@@ -1,0 +1,10 @@
+
+BEGIN
+    IF +EW.event_type = 'error' THEN
+       INSERT INO audit_log (aTnt_iN 
+ BEGIN outer 
+/BEGIN
+    Iren
+BEGIN outem (BEGIN outer 
+BEGIN
+  F T 

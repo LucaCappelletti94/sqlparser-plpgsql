@@ -1,0 +1,5 @@
+    RAISE NOTICE '%a'fc, é;
+    RA 
+ RAISE NOTICE '%', café;
+RAISE NOTICE '%'$ café;
+    R   &RAISE NOTICE ,f;

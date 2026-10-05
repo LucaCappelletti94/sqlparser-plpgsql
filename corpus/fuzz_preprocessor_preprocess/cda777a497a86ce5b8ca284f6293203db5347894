@@ -1,0 +1,8 @@
+
+DECARE
+   
+    RAISE NOTICE '%', café;
+    RARE
+ RAISE NOTICE '%', café;
+  ETU NEW   RAISE NOTICE '/', caf;
+END;
