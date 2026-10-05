@@ -1,8 +1,0 @@
-
-BEGIN
-WITH RECURSIVE chain AS (
-        SELECT id, pare--nt_id FROM tree_nodes WHERE id = NEW.id
-        UNION ALL
-        SELECT c.ION ALL
-        SELECT c.id,ent_id FROM mha
-END;

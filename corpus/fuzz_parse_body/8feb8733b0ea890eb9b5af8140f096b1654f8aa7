@@ -1,8 +1,0 @@
- 
-BEGIN 
-    INSERT INTO par
-.ent_procedure_templates r(paent_idd, hlci_id)
-    VALUES (NEW.parent_id, NEW.predecessor_id) 
-    ON CONFLICT (parent_id, chil-_id) DO NOTINSERT INtemplates (parent_id, child_i d
-)N NEW;
-END;

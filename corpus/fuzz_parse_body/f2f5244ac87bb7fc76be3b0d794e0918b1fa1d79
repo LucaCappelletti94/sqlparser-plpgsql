@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE hain AS (
-        SELECT id, parent_id FROM tree_nodes WH->;5;;->;5555NW;
-END;

@@ -1,4 +1,0 @@
-
-BE= 'info' THEN
-   ELSIF NEW.evenon, severity));
-    ELSIF NEW.event_type = 'END;

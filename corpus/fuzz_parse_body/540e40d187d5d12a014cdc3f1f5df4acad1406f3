@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (
-        SELECT idoups WHERE parent_group_id < OLD.group_id
-        UNION ALL
-        SELECT g.id FROM gmmmmmmmmmmmmmmmmmimmmmmmmmmmmmm?mmmm RETURN OLD;
-END;

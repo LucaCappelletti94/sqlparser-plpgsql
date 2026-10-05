@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE parent_gopsur AS (
-        SELECT p[]--GIN
-    WITH RECt_groups AS (
-   EW;
-END;

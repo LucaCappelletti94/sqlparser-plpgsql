@@ -1,7 +1,0 @@
-
-BEGIN
-    /*~ oute*/
-    RETURN  NEW?END;   
-RETURN <@NEW?B
-END;   
-RETURN NEW?END;

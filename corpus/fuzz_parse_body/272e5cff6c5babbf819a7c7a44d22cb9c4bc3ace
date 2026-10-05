@@ -1,6 +1,0 @@
- 
-BEGIN
-    INsERT INTO procedure_tempdels (
-    SELECT 
-        pam.naEW.child_idm
- .  END;

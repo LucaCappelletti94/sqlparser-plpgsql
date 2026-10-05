@@ -1,6 +1,0 @@
-
-BEGIN
-	INSERT INTO owners (id) VALUES    (                  
-    id := gen_random_uuid();
-    dNSERT INtt
-END;

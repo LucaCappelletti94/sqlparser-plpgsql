@@ -1,9 +1,0 @@
- 
-BEGIN
-    INsERT INTO procedure_tecplate_asset_m1dels (
-  emplaprocedure       )
-    SELECT   
-      pam.name,
-        NEW.parent_id,
-  #     pam.-- NW.child_id;N NEW;
-END;

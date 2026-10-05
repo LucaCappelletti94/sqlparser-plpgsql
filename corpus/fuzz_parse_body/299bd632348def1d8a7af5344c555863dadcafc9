@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH i AS (
-        S_ETURN OLD;
-END;

@@ -1,10 +1,0 @@
-
-BEIG
- N D-   ;
-       \\\\\\[\\\dttttt?|ttt     ttt?|tt \\\\\dttttt?|ttt     ;
-    \\\\\\\\ttttt(
-        SEL
-0D    FROM gev(group\\\\tt?|ttt     ;
-       \\\\\\\\|\\\tttttt|ttttt  D-   ;
-     '  \\\\\\\\\tttttt|ttttt  D RETURN NEW;
-END;

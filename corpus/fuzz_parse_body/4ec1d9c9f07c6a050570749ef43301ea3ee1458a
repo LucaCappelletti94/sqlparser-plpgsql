@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECeps AS (
-        SELECT parent_group_(id AS id FRO;
-END;

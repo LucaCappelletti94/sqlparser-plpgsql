@@ -1,7 +1,0 @@
- 
-BEGIN<^   INsER      )
-    SELECT 
-      pam.d--  @      m. NEW.child_id;
- .   
- RN NEW;
-END;

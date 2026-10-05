@@ -1,8 +1,0 @@
-
-BEGIN
-    IF NEW.even4ype = 'error=' THEN
-  
-    ELSE
-       IF;
-    RETURN NEW;
-END;

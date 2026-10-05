@@ -1,6 +1,0 @@
-
-BEGIN
-    IF NEW.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@NEW.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@S ('eVALO audit_,o)  VALUES ('warnin;g_event', e = ');
-    ENT IF;
-    RETURN NEW;
-END;

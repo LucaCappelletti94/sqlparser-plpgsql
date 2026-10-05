@@ -1,7 +1,0 @@
-
-DECLARE%
-    new_id Tid TEXT;@
-BEGIN
-    new_id :=U&$$;&;;:=U&$$;&;;;;;;;9;;;
-   !INSERT INTO todoE
-END;

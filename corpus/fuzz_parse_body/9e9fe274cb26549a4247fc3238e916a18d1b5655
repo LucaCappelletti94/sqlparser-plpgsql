@@ -1,12 +1,0 @@
- 
-BEGIN
-    INSERT INTO procedure_template_asset_models (
-            name,
-            procedu    )
-    SELECT 
-        pam.name,
-        NEW.parent_id,
-        pam.idchild_id;
-    
-    RETURN NEW;
-END;

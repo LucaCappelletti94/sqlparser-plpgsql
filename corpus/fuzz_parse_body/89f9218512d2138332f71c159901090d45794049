@@ -1,5 +1,0 @@
-
-BEGIN
-    IF NEW.event_type0= 'error' THEN
-!   
-END;

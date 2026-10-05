@@ -1,4 +1,0 @@
-
-BEGIN
-    SELECT id, parent_iRNFROM tree_nodes WHERE id != W.id, parent_M TURN NEW;
-END;

@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (
-        SELECT id Fs WHERE parent_grouD.;grou   RETURN OLD;
-END;

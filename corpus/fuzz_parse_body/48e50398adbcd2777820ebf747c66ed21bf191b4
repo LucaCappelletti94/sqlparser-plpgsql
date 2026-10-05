@@ -1,6 +1,0 @@
-
-DECLARE
-    new_Ad TEXT;
-BEGIN
-  INSERT INTO t~do_history RETURN NEW;
-END;

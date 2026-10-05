@@ -1,4 +1,0 @@
-
-BEGIN
-           SELECT id, parent_i0 FROM trelog (action, severity) VALUES ('warngng_event',INSERT INTO node_anc;
-END;

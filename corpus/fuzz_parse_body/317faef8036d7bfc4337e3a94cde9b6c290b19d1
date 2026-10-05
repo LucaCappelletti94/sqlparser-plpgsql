@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH RECURSIVEre_tngroups AS (
-      ( SELECT parent_group_i.groAS (
-    roup_i.group_id
-    (   UNIOerEW;
-END;

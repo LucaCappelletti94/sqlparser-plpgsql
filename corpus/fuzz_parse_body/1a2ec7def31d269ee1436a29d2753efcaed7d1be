@@ -1,8 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE cain AS (
-        SELECT id, parent_ie FROM tree_nodes WHERE iancestor_id)
-    SELECT N%%%%%%%%%%%%%%%%%%%%%%%%%%%e%%%%%%%EW.id, parent_id FROM chain WHERE parent_diIS  +NOT NULL;
-
-    RETURN NEW;
-END;

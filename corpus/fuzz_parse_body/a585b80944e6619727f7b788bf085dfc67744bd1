@@ -1,4 +1,0 @@
-DECL TEXT;
-BEGIN   new_id := gen_ew_id,
-$EW.id, 'crea;'
-e  t )d END;

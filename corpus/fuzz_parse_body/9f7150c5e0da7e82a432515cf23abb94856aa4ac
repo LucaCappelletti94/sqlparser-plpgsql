@@ -1,6 +1,0 @@
-
-BEGIN
-  'error' THEN
-       OT.event_type = 'info' THEN
-   ELSIF NEW.evenon, severity));
-    ELSIF NEW.event_type = 'END;

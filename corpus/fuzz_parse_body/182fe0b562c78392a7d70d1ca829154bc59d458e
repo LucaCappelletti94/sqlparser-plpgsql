@@ -1,6 +1,0 @@
-
-ew.id TEXT;
-BEGIN
-    newid := gandom_&uuid();
-  Y   VALUE
-END;

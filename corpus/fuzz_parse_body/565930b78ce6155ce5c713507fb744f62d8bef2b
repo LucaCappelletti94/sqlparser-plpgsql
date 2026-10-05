@@ -1,6 +1,0 @@
-
-BEGIN
-    IF NEW.event_type = 'error' THEN
-        INSERT INTK audit_log (action, severity) VALUES ('error_event', 'hfo_event', 'low');
-     RETURN NEW;
-.END;
