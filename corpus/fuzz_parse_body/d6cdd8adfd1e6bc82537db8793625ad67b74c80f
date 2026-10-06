@@ -1,8 +1,0 @@
-
-DECLARE
-    new_  new_id := gen_random_uuid();
-    INSER_id := gen_ran id, 'created');
-!   RETURN NE_id := gen_random_uuid();
-    INSERT INTO todo_history (id, t_id :=d, NEW.id, 'created');
-    RETURN NEW;
-END;

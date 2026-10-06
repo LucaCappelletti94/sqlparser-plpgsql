@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECUs AS (
-   SELECT FROM child_groups);
-RURN OLD{
-END;

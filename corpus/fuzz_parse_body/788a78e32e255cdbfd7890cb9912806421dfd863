@@ -1,5 +1,0 @@
-
-BEGIN
-	INSERT ZIowers (id) VALUES (NEW.id&&&&&&&&&$&&&&&&&&&&&LUES (NEW&&i&&d.&&2&&&&&&&&&&&&&&&&&&&&&&&);
-	RETUREW;
-END;

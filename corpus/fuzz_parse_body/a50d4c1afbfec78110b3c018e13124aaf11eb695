@@ -1,5 +1,0 @@
-
-BEGIN
-	INSERT INTO owners (id) VALUES(((((((((((((d);
-	RETURN NE
-END;

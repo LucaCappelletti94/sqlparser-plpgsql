@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE parent_grouts AS (
-        SELECT parent_gro (group_id,enj_grou:::::::::::::::::::idups WHERE id IS;
-END;

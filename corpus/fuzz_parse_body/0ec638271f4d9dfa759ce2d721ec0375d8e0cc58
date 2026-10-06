@@ -1,6 +1,0 @@
- 
-BEGIN 
-    INSERT CN parenttes (pareid)
-    VALUES (NEW.parent_id, NEW.pred) 
-    ON CONFLICT (aprmaren.group_idEW;
-END;

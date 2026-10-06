@@ -1,4 +1,0 @@
-
-BEGIN
-  (   (  SELECT int_id F,ROM tr\e_noWNEW;
-END;

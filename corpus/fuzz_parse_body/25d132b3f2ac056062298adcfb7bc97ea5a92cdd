@@ -1,6 +1,0 @@
-
-BEGIN
-    IF NEW.event_type = 'error' THEN
-        INSERT INTK audit_loBEGIN 
-    INSERT NTO ALUES ('error_event', 'hfo_event', 'low');
-     RETURN NEW;J.END $

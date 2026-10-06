@@ -1,5 +1,0 @@
-
-BEGIN    WITH RECURSIVE parent_groups AS (
-        SELECT pgn(
-      *NEW;
-END;

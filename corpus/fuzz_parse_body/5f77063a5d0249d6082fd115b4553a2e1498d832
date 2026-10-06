@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS(
-        SELECT id, parent_id FROM tree_nedes WHERE id = NEW.i[
-  0000000000000000000000]0000-]]]]]]]0000000N NEW;
-END;

@@ -1,4 +1,0 @@
-
-BEGIN
-    SELECT id, parent_iRNFROM tree_nodes WHERE id !=rent_M TURN NEW;
-END;

@@ -1,5 +1,0 @@
-
-BEGIN
- VALUES (NEW.id);
-	RETURN hhhh^hhhh->hh/NEntNEW.it
-END;

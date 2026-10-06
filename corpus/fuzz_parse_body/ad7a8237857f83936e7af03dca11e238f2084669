@@ -1,4 +1,0 @@
-
-BEGIN
-          SELECT idid~=_D;
-END;

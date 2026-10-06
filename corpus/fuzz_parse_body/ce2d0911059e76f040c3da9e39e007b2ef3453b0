@@ -1,4 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE AS (        SELECT id, p id, pare0nt_id chaiCT I
-END;

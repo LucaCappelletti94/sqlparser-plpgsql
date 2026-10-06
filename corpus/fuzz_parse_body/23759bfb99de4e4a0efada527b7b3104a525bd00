@@ -1,5 +1,0 @@
- 
-BEGIN
-    INSERT INTO procedure_templEAe_asset_mode   SELECT
-  XEW;
-END;

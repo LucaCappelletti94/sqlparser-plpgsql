@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE ahain AS (
-        SELECT id, pad IS NOT  W;
-END;

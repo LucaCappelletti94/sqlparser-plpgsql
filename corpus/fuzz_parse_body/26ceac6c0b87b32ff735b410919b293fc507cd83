@@ -1,8 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (
-        SELECT id FROMgroup_memberships
-    WHERE user_id = OLD.user_id
-      AND g_id = OLD.user_id
-      AND group_i      AND gr   IF (EWLD;
-END;

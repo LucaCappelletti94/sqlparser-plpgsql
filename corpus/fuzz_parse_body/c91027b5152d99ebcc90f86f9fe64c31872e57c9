@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH ps AS (
-        SELECT pp_id AS _group_id FROM groupsg  JOIN pat_grOTHING;
-    RETURN NEW;@END;

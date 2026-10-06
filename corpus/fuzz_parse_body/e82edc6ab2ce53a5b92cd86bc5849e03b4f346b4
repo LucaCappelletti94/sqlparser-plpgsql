@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT id, parent_idt.parent_id IS NOT  W;
-END;

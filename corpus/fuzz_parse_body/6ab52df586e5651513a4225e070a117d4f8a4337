@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT id, parent_id FROM tree_nodes WHE  UNION ALL
-        SELECT c.id, t.parent_id FROM chain # JOIN tree_nodeeRETURN NEW;END;

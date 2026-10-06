@@ -1,5 +1,0 @@
-
-BEGIN
-    /*/ ou */
-    RETURN ?--$C;
-END;

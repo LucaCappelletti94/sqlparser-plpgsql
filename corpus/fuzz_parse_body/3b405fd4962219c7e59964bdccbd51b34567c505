@@ -1,7 +1,0 @@
-
-BEGIN
-    IF NEW.@@@@@@@@@@@@@@@@@@@EN>^W @@@@@@@@@@@@@@@@@@@@@@@@@@@@S ('eVALO audit_ion, severity)  sev    'error_event', 'high');
-    ELSIF-NEW.event_('warnin;g_eve;
-    ENT IF;
-    RETURN NEW;
-END;

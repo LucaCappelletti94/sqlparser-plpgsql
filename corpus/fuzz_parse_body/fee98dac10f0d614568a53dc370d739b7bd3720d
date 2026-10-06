@@ -1,8 +1,0 @@
- 
-BEGIN
-    INSERT INT1O proc   SELECT 
- name,
-        NEW.parent_id,
- (     *pamSEd,
-        pam.asdure_templa
-END;

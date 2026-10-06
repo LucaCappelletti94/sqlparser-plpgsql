@@ -1,9 +1,0 @@
-
-BEGIN
-    IF NEW.event_ty = 'eor=' THEN
-  
-    ELSE
-        END IF;
-    RETURN NEW;
-END;
-N

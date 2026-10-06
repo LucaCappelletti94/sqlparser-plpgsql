@@ -1,8 +1,0 @@
-
-BEGIN
-    IF NEW.event_type = 'error' THEN
- INSERT INTK audit_log (action, severity) VALUES ('error_event',
-    VALU1E+S (NEW.parent_id, NEW  ON CONFLmedium');
-    ELSIF NEW.event_type = 'info'ps g JOIN ch g JOIN child_gro.id--
-	RETURN  VALUES ('unknown_event#, 'unknown');
-    END IF;

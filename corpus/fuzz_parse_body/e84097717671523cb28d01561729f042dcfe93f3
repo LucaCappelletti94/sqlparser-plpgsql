@@ -1,6 +1,0 @@
-
-ew.
-BEGIN
-    ewid := gandom_&uuid();
-  YLUE
-END;

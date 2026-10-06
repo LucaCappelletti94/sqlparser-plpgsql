@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT id, parent_iodes WHERE id = NEW.$idLECT id, parent_iodes WHERE id = NEW.$iNEW 
-END;

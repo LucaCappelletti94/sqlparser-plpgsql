@@ -1,9 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, parent_id FROM
-(   ((((
-        SELECT id, parent_id F     UNION AqL
-        SE[LECT Crent,_id FROM chain c JOIN tree_nodes t ON c.paredn_itc.i(((((,(((IS NOT (NEW,ieVAL RETURG;MEWO
-END;

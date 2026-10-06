@@ -1,6 +1,0 @@
-
-BEGIN
-  WITH RECURSIps AS (
-        SELECT pcrent_gro.*_id _id
-       (UNIONURN NEW;
-END;

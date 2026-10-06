@@ -1,8 +1,0 @@
- 
-BEGIN
-    INsERT IXNTO prse    SELECT 
- ?-- NEW.ch
- .  
- ?-- NEW.ch
- NEW
-END;

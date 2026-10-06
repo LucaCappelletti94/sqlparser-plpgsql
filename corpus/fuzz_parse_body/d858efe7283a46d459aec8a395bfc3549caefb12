@@ -1,3 +1,0 @@
-
-BEGIN      SELECT id, parent_i = NEc.arent_id IS SSSSSSSSSSSS NEW;
-END;

@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH in AS (
-        SELECT id, paee_nodes WHERE id = NEW.id
-       ( UN"""" EW;
-END;

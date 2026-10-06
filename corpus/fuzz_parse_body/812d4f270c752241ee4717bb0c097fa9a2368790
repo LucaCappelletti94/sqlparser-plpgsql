@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE p AS (
-        SELECT parent_group_id AS id FROM gerships (grid)
-    SELECT i_id FROM parentRE id IS NO NEW;
-END;

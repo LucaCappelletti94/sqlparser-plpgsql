@@ -1,7 +1,0 @@
-
-DECLARE
-  g$;
-BEGIN
-    -- Grüß界
-   RAISE NOTIC:
-END;

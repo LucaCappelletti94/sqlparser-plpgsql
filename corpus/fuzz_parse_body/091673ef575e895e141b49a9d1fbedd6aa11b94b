@@ -1,7 +1,0 @@
-
-;
-BEGIN
-   -- Grüße 世界
-    RAISE NOT
-    RETURN NEW;
-END;

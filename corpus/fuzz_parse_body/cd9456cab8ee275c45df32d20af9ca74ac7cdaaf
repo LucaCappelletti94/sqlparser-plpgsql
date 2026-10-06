@@ -1,8 +1,0 @@
-
-BEGIN
-    IF NEW.evepe = 'error='THEN
-  
-    ELSE
-       IF;
-NEW;
-EnD;

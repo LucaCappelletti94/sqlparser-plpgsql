@@ -1,4 +1,0 @@
-
-BEGIN
-    WITH RECURSn AS (
-        SELECT id,t.parent_id IS NOT $END;

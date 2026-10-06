@@ -1,5 +1,0 @@
-
-BEGIN
- SELECT id, parent_id FROM tree_nodes WHERE EW.i[
-     0000000000 -SELEC;
-END;

@@ -1,4 +1,0 @@
-
-BEGIN
-    IF NE@@@e!= 'info THEN`@@@@'HRW;
-END;

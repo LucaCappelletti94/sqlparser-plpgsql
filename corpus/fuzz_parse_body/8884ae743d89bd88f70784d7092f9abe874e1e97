@@ -1,6 +1,0 @@
-
-DECLARE
-    neid TEXT;
-BEGIN
-    new_id := geandom_uui_(  new_id := gandom_uuid(); VALUE
-END;

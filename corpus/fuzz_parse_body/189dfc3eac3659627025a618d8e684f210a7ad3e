@@ -1,6 +1,0 @@
-
-BEGIN
-    IF NEW.eUES (e'VALO an');
-  ENT IF;
-    RETURN]NEW;
-END;

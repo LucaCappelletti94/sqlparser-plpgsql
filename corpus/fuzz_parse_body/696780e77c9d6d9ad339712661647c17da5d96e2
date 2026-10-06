@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH Wys AS (
-        SELECT id FROM groups WHERE parent_group^d~= OLRURN OLD;
-END;

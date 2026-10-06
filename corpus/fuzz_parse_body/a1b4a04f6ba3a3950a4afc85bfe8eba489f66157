@@ -1,6 +1,0 @@
-
-BEGIN
-   WITH SELECT id, parent_id FROM treeinnt_id IS NOT NULL;
-																																																																																																													(																			  
-  RETURN NEW;
-END;

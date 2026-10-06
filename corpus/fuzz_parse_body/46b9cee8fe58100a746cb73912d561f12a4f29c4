@@ -1,6 +1,0 @@
-
-DE
-  e;
-BEGIN
-    new_id := gen_random_uuid(  VALUw_id, N
-END;

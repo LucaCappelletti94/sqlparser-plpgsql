@@ -1,4 +1,0 @@
-
-BEGIN
-    IF NEW.evedit_log (act $ R
-END;

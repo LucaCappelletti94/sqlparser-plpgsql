@@ -1,15 +1,0 @@
- 
-BEGIN
-    INSERT Iasset_models (
-            name,
-            procedu    )
-    SELECT EGIN
-    INSERT INTO 
-        pam.name,
-    
-        pam.name,
-        NEW.parent_id,
-        pam.id_id;
-    
-    RETURN NEW;
-END;

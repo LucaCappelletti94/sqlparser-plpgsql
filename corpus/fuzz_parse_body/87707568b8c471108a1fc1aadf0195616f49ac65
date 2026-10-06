@@ -1,7 +1,0 @@
- 
-BEGIN 
-    INSERT INTO parent_r(id, child_id)
-    VALUES (NEW.pa-rent_i!,_id, chil-_id) DO NOTHING;
-
-   NEW;
-END;

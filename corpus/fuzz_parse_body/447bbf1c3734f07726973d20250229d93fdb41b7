@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH REChain AS (
-        SELECT id, parenarent_id IS NOT% NULLRETURN EW;
-END;

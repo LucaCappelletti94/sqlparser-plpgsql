@@ -1,5 +1,0 @@
-
-BEGIN    WITH RECURS_groups AS (
-        SELECT pgn(
-      *NEW;
-END;

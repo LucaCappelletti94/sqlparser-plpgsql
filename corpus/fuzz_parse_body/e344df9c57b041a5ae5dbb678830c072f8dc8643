@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH in AS (
-        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
-       ( UN"""" EW;
-END;

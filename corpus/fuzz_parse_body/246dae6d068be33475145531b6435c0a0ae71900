@@ -1,6 +1,0 @@
-
-DECLARE%
-   _id Tid TEXT;@
-BEGIN
-    new_id :=U&$$;&;;:=U&$$;ERT IN;;9;;;RT INTO todoE
-END;

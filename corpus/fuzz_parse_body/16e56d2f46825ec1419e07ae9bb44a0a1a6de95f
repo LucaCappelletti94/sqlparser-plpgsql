@@ -1,5 +1,0 @@
-
-BEGIN
-  DELETE FROM group_membe IN (SELips);
-    RETURN OD;
-END;

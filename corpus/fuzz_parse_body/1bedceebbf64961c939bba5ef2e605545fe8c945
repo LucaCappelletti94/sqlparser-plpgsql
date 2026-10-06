@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT id = NEW.idhain ~*c   )
-    INSparent_diIS  NOT:=RETURN NEW;
-END;

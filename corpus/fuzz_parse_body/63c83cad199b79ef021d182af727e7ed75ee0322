@@ -1,4 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE parent_groups AS (
-        SELECT paren2_up_id FROM(groups g JOIN parEW;@END;

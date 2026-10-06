@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE proups AS (       SELECT p[arent_group_idS (
- ent_group_idS !
-    .oup_id  ASuse    RETUNR NEW;
-END;

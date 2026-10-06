@@ -1,4 +1,0 @@
-
-BEGIN
-	INSERT wners (id) VALUES                        (               (          (
-END;

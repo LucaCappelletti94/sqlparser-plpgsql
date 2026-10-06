@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECeps AS (
-        SELECT pagroup_(id AS id FRO;
-END;

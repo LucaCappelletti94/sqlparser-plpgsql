@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
-        UNION ALL
-         SELECT NEW.id, parent_id FROM chain WHERE parent_diIS  NOT NULM chain c JOIN NEW;
-END;

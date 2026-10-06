@@ -1,6 +1,0 @@
- 
-BEGIN
-    INSERT IN procre_temmodels (
- el_id
-        )
-    SELECT       END{

@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RE_groups AS (
-        SELECT p[are:group_idS (
-        TUNR NEW;
-END;

@@ -1,4 +1,0 @@
-BEGIN
-   w_id := o_ew_id,
-$,;
- END;

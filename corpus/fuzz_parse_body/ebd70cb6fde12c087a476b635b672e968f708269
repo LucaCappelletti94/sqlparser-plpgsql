@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE parent_groups AS (
-        SELECT pare(group_sd,ent_groups AS (
-      SE usIS;
-END;

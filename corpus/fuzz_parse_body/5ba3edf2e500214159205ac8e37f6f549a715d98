@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE ent_groups AS (
- (((((((((((((((((((
-       arent_group;
-END;

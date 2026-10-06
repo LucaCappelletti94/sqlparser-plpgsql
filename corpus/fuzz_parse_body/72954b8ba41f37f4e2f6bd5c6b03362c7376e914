@@ -1,4 +1,0 @@
- 
-BEGIN 
-    INSERT INTO parent_procedure_tem    VALUES (NEW.parent_id, N NEW;(parent_id,
-END;

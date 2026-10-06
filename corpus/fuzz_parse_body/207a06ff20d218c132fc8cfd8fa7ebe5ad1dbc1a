@@ -1,8 +1,0 @@
-
-BEGIN
- VALUES (ntNEW.id);
-	RETURN hh(ntNEW.id);
-	RETURN(ntNEW.id);
-	RETURN hhhh$5555555555$hhhhES (ntNEW.id);
-	RETURN hh-h>hhhhhh/NEttt
-END;

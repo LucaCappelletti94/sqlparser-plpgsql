@@ -1,6 +1,0 @@
-
-BEGIN
-	INSERT INTO owners (id) VALUES    (                  
-    id :=om_uuid();
-    dNSE INtt
-END;

@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (
-        SELECT id FROM groups WHERE p       UNION ALL
-        SELECT g.id FROM groups g JOIN child_mmmmmmmmmadu IN oups);
-    RETURN OLD;
-END;

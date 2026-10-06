@@ -1,9 +1,0 @@
- 
-BEGIN
-     SELECT 
-        pam.name,
-        NEW.parent_id,
-*pamSEd,
-    FROM      
-  edure_templa
-END;
