@@ -1,3 +1,0 @@
-
-I:WITH R       SELECT id,?  
-DERT INTO 'created');
