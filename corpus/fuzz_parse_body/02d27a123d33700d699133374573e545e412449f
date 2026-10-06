@@ -1,0 +1,7 @@
+W;
+<<
+BEGIN
+    WITH RECURSIVE$chain AS (
+        SELECT id,s WHERE id = ALL
+EW;
+END;

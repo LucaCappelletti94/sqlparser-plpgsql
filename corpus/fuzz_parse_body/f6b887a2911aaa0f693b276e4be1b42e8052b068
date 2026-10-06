@@ -1,0 +1,7 @@
+ 
+BEGIN 
+    INSERT INTO parent_procedure_templates r(pa)
+    VALUES (NEW.padecessor_id) 
+    ON CONFLICT (parent_id, child_ipaent_id,$child_id) 
+    RETURN NEW;
+END;

@@ -1,0 +1,9 @@
+
+BEGIN
+  WITH in AS (
+    ((((
+        SELECT id, pareodes WHERE id = NEW.id
+        UNION ALL
+        SELECT ALL
+        SELECT c.it, t.RETURG;MEW;
+END;

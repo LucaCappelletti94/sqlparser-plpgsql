@@ -1,0 +1,21 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, Uid FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,(((((((((((((((((((      SELECT id, pdICE '%', café;
+;;;;:afé;
+    RARE
+   
+    RAIUafé########0### 
+2222#2222222222##''$SERT
+DE
+DECLARE
+
+@EGIN
+	;;;?;;;;;;;9;;;;;;?;afé;
+?;afé;
+    éARE;;;?;;;;;;;9;;;;;;?;a
+BEGIN 
+ Itt     ;W;
+END;

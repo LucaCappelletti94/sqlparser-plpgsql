@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INsERT IXNTO SELECT 
+ ?-- NEW.ch .  
+ ?-- NEW.ch
+ NEW
+END;

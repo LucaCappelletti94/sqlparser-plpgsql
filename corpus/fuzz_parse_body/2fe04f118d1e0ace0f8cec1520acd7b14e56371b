@@ -1,0 +1,4 @@
+ 
+BEGIN
+    INSERT Ie_bss   SELECT        map.RONW;
+END; END; ^ONW;tdi

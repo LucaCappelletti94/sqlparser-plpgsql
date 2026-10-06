@@ -1,0 +1,5 @@
+
+BEGIN
+  DELETE FROM growp_   --Dgrou);
+    RETURN OLD;
+END;

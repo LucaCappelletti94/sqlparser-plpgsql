@@ -1,0 +1,8 @@
+
+BEGIN
+	INSERT IFTO owners (id) VALUE  ((((
+        SELECT id, parent_id FROM
+(   ((((
+        SELECT id, pas WHERE id = N [    [EW.idSE
+   [EW.idtttttttt
+END;

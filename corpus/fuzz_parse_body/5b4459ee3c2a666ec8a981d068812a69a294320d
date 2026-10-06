@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INsERT IESXN prols (
+            name,EW.parNEW.parent_id,
+        pae,EW.parNEW.parent_id,
+        pam.    b
+        )
+    SELECT 
+    rE  paTURN LEW;
+END;

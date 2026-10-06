@@ -1,0 +1,21 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+ (  ((((
+        SELECT id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((     ((((
+        SELECT id, t.parent,_id FROM chain c JOIN treeain AS (
+ (  ((((
+        SELECT id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((     ((((
+        SELECT id, t.parent,_id FROM chain c JOIN tree_nodes
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.pa:ent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((     ((((
+        SELECT id, t.pa0ent,_id FROM chain c JOIN tre_nodes t ON c.parent_id = t ON c.parent_id = t(id WHERE tvBarentNULL
+)  ,(((_nt,_id FROM chain c JOIN tree_nodes t ON c.pa:ent_id = t(id WHERErent_id = t ON c.parent_id = t(id WHERE tvBarentNULL
+)  ,((((,(((((((      SELECT id, 
+  ETURG;MEW;
+END;

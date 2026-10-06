@@ -1,0 +1,9 @@
+ 
+BEGIN
+    INsERT IXNTO procedureate_azset_models (
+            name,
+   W.parent_id,
+        pam.d  )
+    SELECT 
+    RETURN ;NEW
+END;

@@ -1,0 +1,10 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent,_id FROM chain c JOIN trET_nodes s ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((      SELECT id, parent_:= g*en_en_$qqqqqqqqqqqqqqqqqqqqqqkqqq<4<W<<aaaaaaaaaaaaeaa$rand <qq&qqqqqqqqqqqqqqqkqqq<4<W<<aaaaaaaaaaaakqqq<aaaaaaaaaaaaaaaaaaaaaaaaaaaaaeaa<T:= g*e<n_<<
+ENDid FROM t  SELECT c.i((IS NOT (NEW,ieVAL RETURG;MEW;
+END;

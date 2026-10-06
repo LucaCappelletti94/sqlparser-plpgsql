@@ -1,0 +1,4 @@
+
+BEGIN
+    WITH RECURSn AS (
+        SELECT i IS NOT $END;

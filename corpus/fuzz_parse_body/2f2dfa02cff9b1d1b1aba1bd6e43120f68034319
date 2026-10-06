@@ -1,0 +1,10 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id,&< parid
+        UNION ALL
+        Sdes t ON c.parent_id = t(id WHERE t.parentNUL((((((((((rent,_id FROM chain c JOIN tree_nodes t ON c.paren2_id = t(id WHERE
+)  ,((-
+((((RN((((4((((((((IS NOT (((((((((((((((Lx((((((,(((IS NOT (NEW,ieVAL RETURG;MEW;
+END;

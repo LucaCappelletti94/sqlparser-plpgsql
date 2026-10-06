@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT i, parent_ WHERE id = NEW.i[
+        000!0000000000000000000000000ha  NEW;
+END;

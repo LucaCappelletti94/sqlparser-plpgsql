@@ -1,0 +1,4 @@
+
+BEGIN
+    WITH Rhaan AS ( SELECT id, pa.rent_if FROM tree_   WITH RECURI
+END;

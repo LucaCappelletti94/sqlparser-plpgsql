@@ -1,0 +1,6 @@
+ 
+BEGIN 
+    INSERT INTO parenced(paent_id,id)
+    VALUES (Nce) 
+    ON DO NOTHING;
+END;

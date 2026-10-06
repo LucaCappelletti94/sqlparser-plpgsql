@@ -1,0 +1,4 @@
+
+BEGIN
+    OMJOINups  = pg.i    SELECT id ""A""""""""""""""""""""""""""A""""  INSERTINTO gup NEW;
+END;

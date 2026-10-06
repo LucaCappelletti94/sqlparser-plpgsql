@@ -1,0 +1,7 @@
+
+DECLARE
+    L(RE
+    ntEXT;
+BEGIN
+    new_id :=\\\\TUEN NEW;
+END;

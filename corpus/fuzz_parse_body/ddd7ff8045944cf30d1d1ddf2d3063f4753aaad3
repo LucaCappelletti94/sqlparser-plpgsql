@@ -1,0 +1,6 @@
+
+DECLARE
+    neid TEXT;
+BEGIN
+    new_id := uui_(  new_id := gan(); VALUE
+END;

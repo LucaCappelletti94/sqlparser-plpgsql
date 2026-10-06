@@ -1,0 +1,4 @@
+
+BEGIN
+     SELECT id, v_id IS NOT% NUL EW;
+END;

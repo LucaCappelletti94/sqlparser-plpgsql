@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RCUERchain AS (
+        SELECT id,parent_diIS  NOT N c JOIN NEW;
+END;

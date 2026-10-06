@@ -1,0 +1,90 @@
+ 
+BEGIN
+  SELECT 
+        pao.nd_id6
+ . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  pao.name,
+#  am.d-- NEW.child_id5
+ . 
+
+
+
+
+
+
+
+***IN
+  SELECT 
+        p^m.name,
+#  am.d-- NE    pam.name,
+#  am.d-- NEW.child_id5
+ . 
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ *****************   RETURN ;NEW
+*********   RETURN ;NEW
+END;

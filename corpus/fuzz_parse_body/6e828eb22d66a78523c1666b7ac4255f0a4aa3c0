@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE paps AS (
+        SELECT :parent_gid At?
+END R;
+ET

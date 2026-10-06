@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FRs WHERE id =ALL
+  ND; JN"" EW;
+END;

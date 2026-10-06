@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT EW.id
+        UNION ALL
+        SELECT c.kd, t.pid IS NOT NULL<d
+        UNION ALL
+        SELECT c.kd, t.parent_id FROM chain c JOIN tree ON c.parent_id = END;

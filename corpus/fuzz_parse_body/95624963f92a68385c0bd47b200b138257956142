@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURarent_groups AS (
+        SELECT perent_group_idS (
+&   T pa
+END;

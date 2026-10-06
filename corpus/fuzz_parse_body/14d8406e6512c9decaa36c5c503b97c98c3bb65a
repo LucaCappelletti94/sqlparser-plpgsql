@@ -1,0 +1,10 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id,nt,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((      SELECT id, parIN
+  RAI
+>=    ;
+EN WHERE id = N       SELECT c.id, t.parent,_id FROM chaiT ((((((((,(((IS NOT (NEW,ieVAL RETURG;MEW;
+END;

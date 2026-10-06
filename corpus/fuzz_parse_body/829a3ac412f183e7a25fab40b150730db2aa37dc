@@ -1,0 +1,11 @@
+ 
+BEGIN
+    INSERT INTO procee_template_asset_models (
+            nam     )
+    SELECT 
+   m.name,
+      arent_id<
+        p&m.id^Eat N NEtt
+W;
+END;
+END;

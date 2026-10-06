@@ -1,0 +1,5 @@
+
+BEGIN
+	INSERT Iners (id) VALUES (EW.id);
+	RETU#tttt
+END;

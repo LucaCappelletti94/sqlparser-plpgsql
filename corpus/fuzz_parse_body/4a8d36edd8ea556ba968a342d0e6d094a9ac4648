@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT p[areent_(VO_sdSeh
+        SNR NEW;
+END;

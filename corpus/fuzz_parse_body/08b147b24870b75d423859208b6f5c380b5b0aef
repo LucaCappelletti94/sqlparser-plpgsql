@@ -1,0 +1,8 @@
+
+BEGIN
+    IF Ne = 'erryr' THEN
+ IF NeW.event_type = 'erryr' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('ety)n');
+    ENT IF;
+    N NEW;
+END;

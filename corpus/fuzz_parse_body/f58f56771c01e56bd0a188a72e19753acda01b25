@@ -1,0 +1,5 @@
+
+BEGIN
+        SELECT nt_group_idS !
+    .oup_id RETUNR NEW;
+END;

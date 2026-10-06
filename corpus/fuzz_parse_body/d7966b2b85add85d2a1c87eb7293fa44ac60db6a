@@ -1,0 +1,9 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM
+    ((((
+        SELECT id, parent_       UNION ALL
+        SELECT c.id, t.parent,_1id FROM c   d FROM chaO
+END;

@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.((((((((((((((((((((((((((((((((((((((((((((((((((event_tyep = 'error' THE~N
+  N NEW;
+END;

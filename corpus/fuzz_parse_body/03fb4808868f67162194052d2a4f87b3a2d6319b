@@ -1,0 +1,4 @@
+
+BEGIN
+SELECT id, +NOT  (
+     ,??;;;;afé;END;

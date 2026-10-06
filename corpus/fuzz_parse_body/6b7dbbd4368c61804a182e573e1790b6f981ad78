@@ -1,0 +1,6 @@
+ 
+BEGIN
+    INSERT INT SELECT 
+  m.na.e,
+        NEWam.asset_M ETU]EW;
+END;
