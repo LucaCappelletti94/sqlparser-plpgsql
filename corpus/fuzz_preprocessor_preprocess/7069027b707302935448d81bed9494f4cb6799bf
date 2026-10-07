@@ -1,0 +1,9 @@
+ 
+B
+   SELECT 
+        pam.name,
+        NEW.parent_id,
+        pam.id,
+        HpaOM pr, INTO o.id,
+ (_id VAW.N
+	IN`;

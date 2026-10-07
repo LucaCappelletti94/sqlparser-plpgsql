@@ -1,0 +1,6 @@
+
+BEG,
+DECLARE
+ T:= $𽺸ę$
+BEGIN
+  T
