@@ -1,9 +1,0 @@
-
-DAE/
-BEGIN
-    new_id := gen_random_uuidSN
-%x', cazé NEW;
-ENDSN
-%x', gearn_ndom_uuidSN
-%x', cazdom_uuidSN
-%x', END p_

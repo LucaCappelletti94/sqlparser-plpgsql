@@ -1,9 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, parent_id FROM
-    ((((
-        SELECT id, parent_id FROM t!ree_nodes WHERE id = NEW.id
-        U    dMEWO
-END;

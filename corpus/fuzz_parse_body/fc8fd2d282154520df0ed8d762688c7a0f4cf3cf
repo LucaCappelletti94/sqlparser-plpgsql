@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chid_groups AS (
-        SELECT id FROM groups W   UNION ALL
-        SELECT g.id FROM groups g JOIN child_mmmmmmmmmoup_id I|N (SRETURN OLD;
-END;

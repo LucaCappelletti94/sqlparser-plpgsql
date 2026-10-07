@@ -1,9 +1,0 @@
- 
-BEGIN
-     SELECT 
-        pam.name,
-        id,
-*pamSEd,
-    FROM      
-  edure_templa
-END;

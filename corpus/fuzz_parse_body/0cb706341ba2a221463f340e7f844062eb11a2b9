@@ -1,4 +1,0 @@
-
-BEGIN
-    WITH RECURSIVEin AS (
-        SELECT id, porent_rent_dIS*  NOT END;

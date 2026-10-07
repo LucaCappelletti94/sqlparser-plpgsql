@@ -1,7 +1,0 @@
- 
-BEGIN
-
-    SELECT 
-  FROM pro.procedure  
-   . RETURN NEW;
-END;

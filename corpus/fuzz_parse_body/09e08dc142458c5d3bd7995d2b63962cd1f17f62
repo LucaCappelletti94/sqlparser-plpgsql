@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE parenx_gprs AS (
-        SELECT pa   UNION ALL
-    SNEIRgp_id, userEW;
-END;

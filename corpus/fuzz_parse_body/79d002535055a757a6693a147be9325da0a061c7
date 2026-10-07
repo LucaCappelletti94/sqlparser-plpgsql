@@ -1,7 +1,0 @@
-
-D;
-BEGIN
-    new_id := gid();
-    INSERT INTO todo_history (id, todo_id, action)
- NEW;
-END;

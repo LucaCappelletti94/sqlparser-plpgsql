@@ -1,9 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id,&< parid
-        UNION ALL
-        Sdes t ON c(-
-((((RN((((4(((eVAL RETURG;MEW;
-END;

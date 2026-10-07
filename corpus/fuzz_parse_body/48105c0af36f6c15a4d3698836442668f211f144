@@ -1,4 +1,0 @@
-
-BEGIN
-    WITH RECURSn AS (
-        SELECT idd IS NOT $END;

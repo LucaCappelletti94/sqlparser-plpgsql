@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RE AS (
-        SELECT id, parent_idt(parentncestors (node_id, ->s.id, ELECT id, parent_idt(parentncfN [NEW;
-END;

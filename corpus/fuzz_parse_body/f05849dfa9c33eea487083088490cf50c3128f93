@@ -1,9 +1,0 @@
-
-BEGIN
-  WITH in AS (
-    ((((
-        SELECT id, parent_id FRd
-        UNION ALL
-        SELECT ALL
-  v       SELECT c.it, t.RETURG;MEW;
-END;

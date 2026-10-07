@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (
-        SELECT id u OLD;
-END;

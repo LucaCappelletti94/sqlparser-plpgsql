@@ -1,5 +1,0 @@
-
-BEGIN
-IF NEt~type0= '' THEN
-! 
-END;

@@ -1,5 +1,0 @@
-
-BEGIN
-   WITH SELECT id																																																																																																																																														(																			  
-  RETURN NEW;
-END;

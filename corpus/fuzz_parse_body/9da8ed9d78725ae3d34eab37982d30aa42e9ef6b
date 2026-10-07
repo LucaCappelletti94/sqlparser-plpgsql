@@ -1,6 +1,0 @@
-
-DECLARE
-    new_Ad TEXT	
-BEGIN
-    new_id := gen_random_uuid();use aÿve$tr_ag]a_ag]pgroup_membNEW;
-END;

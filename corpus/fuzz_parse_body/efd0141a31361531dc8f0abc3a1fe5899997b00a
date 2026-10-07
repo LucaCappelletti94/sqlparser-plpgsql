@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE paent_groups AS (
-        SELECT pgroup_id!AS id FROM gcrships (group_id, wser_idTURN_id, user_id)  NG;
-   NEW:
-END R;
-ET

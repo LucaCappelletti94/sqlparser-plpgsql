@@ -1,6 +1,0 @@
- 
-BEGIN 
-    INSERT INTO parenced(paent_id,id)
-    VALUES (NEW.paretn_id, NEW.predece) 
-    ON DO NOTHING;
-END;

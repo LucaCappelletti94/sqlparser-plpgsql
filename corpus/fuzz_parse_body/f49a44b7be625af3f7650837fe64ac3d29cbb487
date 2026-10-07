@@ -1,5 +1,0 @@
-
-BEGIN
-IF Ne0= '' THEN
-! 
-END;

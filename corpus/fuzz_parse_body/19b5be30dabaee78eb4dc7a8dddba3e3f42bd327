@@ -1,9 +1,0 @@
- 
-BEGIN
-    INsERT IXNTO procedure_templ
-    SELECT 
-        pam.name,
-        NEW.parent_id,
-      a-N- dm.EW.   
-    RETURN ;NEW
-END;

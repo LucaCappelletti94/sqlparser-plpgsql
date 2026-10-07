@@ -1,5 +1,0 @@
-BEGIN 
-    INSERT INTO parent_procedure_templates r(paent_id, child_id)
-    VALUES (NEW.p) 
-    ON CONFLICT (parent_id, ahild_id) DO N, cN NEW;
-END;

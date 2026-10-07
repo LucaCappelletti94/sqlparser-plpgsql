@@ -1,6 +1,0 @@
-
-BE
-BEGIN
-    WITH RECURSIVE parent_ps AS (
-        SELECT id, NEW.user_idGIN@-@END FROM parent_groups WHERE id I@S  TLUOOTHI
-END;!

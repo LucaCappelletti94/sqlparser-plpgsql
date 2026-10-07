@@ -1,4 +1,0 @@
-
-BEGIN
-   SELECT g.id FROM grr /*pinner */ outer W;
-END;U

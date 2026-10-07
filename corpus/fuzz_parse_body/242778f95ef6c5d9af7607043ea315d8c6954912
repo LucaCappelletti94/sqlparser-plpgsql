@@ -1,4 +1,0 @@
-BEGIN
-    WITH RE (
-   FROM RN OLD;
-END;

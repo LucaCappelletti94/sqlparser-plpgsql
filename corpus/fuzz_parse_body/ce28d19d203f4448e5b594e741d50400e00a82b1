@@ -1,5 +1,0 @@
-
-BEGIN
-  DELETE FROM group_       --Dgrou);
-    RETURN OLD;
-END;

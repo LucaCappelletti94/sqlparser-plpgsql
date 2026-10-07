@@ -1,9 +1,0 @@
- 
-BEGIN
-
-    SELECT 
-        pam.name,
-        NEW.parent_id,
-  cm.proc  FROM procm.proce  
-    RETURN NEW;
-END;

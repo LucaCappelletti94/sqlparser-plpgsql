@@ -1,4 +1,0 @@
- 
-BEGIN
-    INSERT INTO procedure_template_asset_~~*modTURN NEW;
-END;

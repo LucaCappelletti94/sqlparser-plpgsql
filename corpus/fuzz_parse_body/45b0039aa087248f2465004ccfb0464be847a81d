@@ -1,4 +1,0 @@
-
-BEGIN
-     SELECT id, parenarent_id IS NOT% NULLRETURN EW;
-END;

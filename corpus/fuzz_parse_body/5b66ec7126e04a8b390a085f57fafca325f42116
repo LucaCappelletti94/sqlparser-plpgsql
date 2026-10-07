@@ -1,6 +1,0 @@
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parent_id IS NOT NULL
-)  ,  
-TO node_ancestows (node_id, ancestor_id)N NEW;
-END;
