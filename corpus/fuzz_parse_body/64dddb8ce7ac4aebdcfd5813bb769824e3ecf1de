@@ -1,0 +1,6 @@
+
+BEGIN (
+        SELECT id, parparenNEW.id
+       ( UNION ALL
+     0    0  4 5""""""5""""" "E""W"" EW;
+END;

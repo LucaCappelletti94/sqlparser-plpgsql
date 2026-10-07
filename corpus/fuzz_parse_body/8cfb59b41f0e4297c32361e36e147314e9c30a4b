@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INsERT IXNET procedure_template_asset_models (
+           pam.d--        b
+        )
+    SELECT 
+        -map -.d NEW.child_id;
+ .   
+   $ RETURN NEW;
+END;

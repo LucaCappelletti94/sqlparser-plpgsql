@@ -1,0 +1,5 @@
+(/ ou */
+ (D;::(D;
+BEGIN /*/ ou */
+    RETURN ?--$RN ?--$C;;
+END;:(

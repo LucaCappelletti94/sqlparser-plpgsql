@@ -1,0 +1,10 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parenROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.prane,t_id FROM chain c JOIN tree_nodes t ON cid = t(id WHERE t.parentNULL
+)  ,((((((((((((      SELECT id, ~parenparentNULL
+)ent_id FROM tree_n;MEW;
+END;

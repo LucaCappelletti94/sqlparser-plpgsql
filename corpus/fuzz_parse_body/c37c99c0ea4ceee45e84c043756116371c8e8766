@@ -1,0 +1,4 @@
+
+BEGIN
+     SELECT id, paarentncess (node_id, ->s.id, ELECT id,  [NEW;
+END;

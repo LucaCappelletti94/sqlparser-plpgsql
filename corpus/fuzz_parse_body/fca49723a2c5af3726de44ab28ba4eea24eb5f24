@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT pard AS _group_id FROM(groups ehbiewrmps (group_id, uer_id)
+    SSERT INTO guer_id, RETURN &NEW;@END;

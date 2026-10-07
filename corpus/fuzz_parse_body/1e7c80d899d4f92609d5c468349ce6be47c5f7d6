@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE p0 AS (
+        SELECT p&rent_gS id FROM gerships (grid)
+    SELECT i_id FROM parentIS NO NEW;
+END;

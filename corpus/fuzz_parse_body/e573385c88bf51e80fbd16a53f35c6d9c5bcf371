@@ -1,0 +1,3 @@
+
+BEGIN        SELECT d~=_D;   SELECT d~=_D;  SELECT d~=_D;
+END;

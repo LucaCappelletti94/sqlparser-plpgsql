@@ -1,0 +1,6 @@
+%$
+BEGIN
+    WITH in AS (
+        SELECT id, pareteM= NEW.id
+       ( UN"""$" EW;
+END;

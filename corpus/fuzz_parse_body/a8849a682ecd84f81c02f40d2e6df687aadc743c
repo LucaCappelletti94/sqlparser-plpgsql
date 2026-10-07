@@ -1,0 +1,4 @@
+
+BEGIN
+      (  SELECT paid AS id FROM grousW   p UNION ALL
+        SELECT g.paretwgrs END;

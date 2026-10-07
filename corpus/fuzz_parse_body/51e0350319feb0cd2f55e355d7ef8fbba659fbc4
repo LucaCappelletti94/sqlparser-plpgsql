@@ -1,0 +1,7 @@
+
+BEGIN
+  WITH RECUchain AS (
+    SELECT id, parent_id FROM
+(   ((((
+     SELECT c.id, t.parent,_id FROM$E$$E$ chain c = CT c.i(((((,(((IS NOT (NEW,ieVAL RETURG;MEWO
+END;

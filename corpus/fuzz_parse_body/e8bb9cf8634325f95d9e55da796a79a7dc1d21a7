@@ -1,0 +1,4 @@
+
+BEGIN (
+        SELECT pare(group_sd,t_groups AS (
+END;

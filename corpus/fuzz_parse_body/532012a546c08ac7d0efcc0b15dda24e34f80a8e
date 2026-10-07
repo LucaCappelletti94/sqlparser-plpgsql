@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+    SELECT id, parparenNEW--.id
+       ( UNION ALL
+  J  0    0  0(0 5""""""5"""""""" EW"" EW;
+END;

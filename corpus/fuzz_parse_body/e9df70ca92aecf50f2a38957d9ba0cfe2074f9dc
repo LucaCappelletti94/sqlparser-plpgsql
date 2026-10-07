@@ -1,0 +1,6 @@
+ 
+BEGIN
+
+    SELECT 
+  FROM pro.pre     . RETURN NEW;
+END;

@@ -1,0 +1,6 @@
+
+BEGIN
+     SELECT id, pa FROM
+(   ((((
+        SELECT id, parent_:= FROM tree_nodes E_O
+END;

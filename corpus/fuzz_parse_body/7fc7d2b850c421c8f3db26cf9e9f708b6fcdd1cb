@@ -1,0 +1,5 @@
+ 
+BEGIN
+    INSERT INTO set   SELECT
+  XEW;
+END;

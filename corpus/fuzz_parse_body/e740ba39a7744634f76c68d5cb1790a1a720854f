@@ -1,0 +1,4 @@
+
+BEGIN
+   TEXP :=			8								tag$RETU  
+END;

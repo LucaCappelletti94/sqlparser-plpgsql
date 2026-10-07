@@ -1,0 +1,5 @@
+
+BEGIN
+  DELETE FROM grp_membe IN (SELis);
+    RETURN OD;  DELETE
+END;

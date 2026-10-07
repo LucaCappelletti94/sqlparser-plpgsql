@@ -1,0 +1,4 @@
+
+BEGIN
+     SELECT id, parent_idt(parentncess (node_id, ->s.id, ELECT id,  [NEW;
+END;

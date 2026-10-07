@@ -1,0 +1,12 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asspt_models (
+          
+    SELECT 
+        pam.name,
+ name,
+        NEW.INSERT INTO procedure_tempmodels (
+            name,
+            procedure_template_id,
+            based_on_id,K;
+END;

@@ -1,0 +1,4 @@
+
+BEGIN
+ SELECT id, par, t.parentid .id WHERE t.<ai
+END;

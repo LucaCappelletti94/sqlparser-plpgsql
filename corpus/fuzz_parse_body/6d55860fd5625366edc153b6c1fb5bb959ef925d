@@ -1,0 +1,5 @@
+
+BEGIN
+	INSERT INTO owe (id) VALUES (NEW.id&&&&&&&&&&&&&&&&&&&&LUES (NEW.id&&&&&&&&&);
+	RETUREW;
+END;

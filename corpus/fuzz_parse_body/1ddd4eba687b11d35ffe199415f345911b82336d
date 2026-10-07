@@ -1,0 +1,4 @@
+
+BEGIN
+	INSERT INPO o VALUES (NEW.$id);
+	RETURN |/END

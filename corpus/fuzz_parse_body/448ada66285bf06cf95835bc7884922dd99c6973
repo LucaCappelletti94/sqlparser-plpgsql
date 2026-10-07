@@ -1,0 +1,14 @@
+ 
+BEGIN
+    INsERT IXNTO proceduls (
+             b
+        )
+    SELECT 
+        pam.namW.parent_id,
+        pam._-- NEW.child_id;
+ .-- e,
+        NEW.parent_id,
+        pam.d-- NEW.child_id;
+ .--     
+ R RNURN
+END;

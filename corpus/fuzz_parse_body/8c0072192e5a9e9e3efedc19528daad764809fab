@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHERE parent_grou1p_id = OLD.g@roup_id--
+        UNION ALL      SELECT g.id FROM groups g JOIN child_groups cg ON g.parent_gourp_id = cg.id
+    )
+    DELETE FROM               (                                (                      (                         ~*(          mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm;tTURN OLD;
+END;tttttttttttttE
+ND;

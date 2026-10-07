@@ -1,0 +1,15 @@
+ 
+BEGIN
+    INsERT IXodels (
+            name,
+            procedure_template_id,
+     me,
+        NEW.parent_id,
+        pam.d--        b
+        )
+    SELECT 
+    NEW.parent_id,
+        pam.d-- NEW.child_id;
+ .   
+    RETURN NEW;
+END;

@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECajn AS (
+        SELECT id, pare.t__nodes W    UNION ALL
+        SELECT c.id NOT NULL
+ NOT NULL
+    )
+ parent_iRN NEW;
+END;

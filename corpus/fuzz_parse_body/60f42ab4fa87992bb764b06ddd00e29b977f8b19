@@ -1,0 +1,7 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id F    UNION ALL
+        SELECT c.yd, t.parent,_id FROM chain c,((((((((((((      SeLECT E.B=S NOT c RETURG;MEW;
+END;

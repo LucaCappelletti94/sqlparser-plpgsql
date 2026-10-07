@@ -1,0 +1,35 @@
+INTO own
+BEGIN
+    /* outer /* i rnne*/ outer */
+    RETURN NEW;
+EN
+BEGIN
+	INSERT INTO own
+BEGIN
+D    /* outer /* inner */ outer */
+ ~~~~~~~   RETURtttttttttNSERT INTO own
+BEGIN
+    /* outer /* inner */ outer */
+    N ttttttttttttttttttttttttN NEW;
+END;ttttttttttttttttttttttttttttttttNSERT INTO own
+BEGIN
+    /* outer /* inner */ outer */
+    RETURN NEW;
+END;tttttttttttttttttttttt;	ttttttttttttttttttttt /* outer /* inner */ outer */
+    RETURN NEW;
+EN
+BEGIN
+	INSERT INTO own
+BEGIN
+    /* outer /* inner */ outer */
+ ~~~~~~~   RETURtttttttttNSERT INTO own
+BEGIN
+    /* outer /* inner */ outer */
+    RETURN NEW;
+END;ttttttttttttttttttttttttttttttttttttttttttttN NEW;
+END;ttttttttttttttttttttttttttttttttNSERT INTO own
+BEGIN
+    /* outer /* inner */ outer */
+    RETURN NEW;
+END;tttttttttttttttttttttt;	tttttttttttttttttttttttttttttttttttttttttttttttttttttt
+END;

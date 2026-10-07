@@ -1,0 +1,10 @@
+
+BEGIN
+  WITH RECURSIVE chain	 AS (
+    ((((
+        SELECT id, parent_id t,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id  (
+    ((((
+        SELECT id, par&?t_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent,_id FROM cha SELECT  id, par%%t_id FM tpee_nodesieVAL RETURG;MEW;
+END;

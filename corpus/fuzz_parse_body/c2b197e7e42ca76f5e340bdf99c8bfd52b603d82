@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVEre_tngroups AS     ( SELECT group_i.groAS (
+      ( SELECT pa(   U.groAS (
+END;

@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.eUEC (e'VALO an');
+  E/NT?NE;
+END;

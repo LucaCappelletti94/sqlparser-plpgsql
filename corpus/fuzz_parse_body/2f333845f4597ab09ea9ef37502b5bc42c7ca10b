@@ -1,0 +1,5 @@
+
+BEGIN  WITH RECUoups AS (
+        SELECT pgn(
+      *NEW;
+END;

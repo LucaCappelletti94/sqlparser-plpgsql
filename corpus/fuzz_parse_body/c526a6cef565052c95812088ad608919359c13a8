@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH REin AS (
+      SELECT id, p NOT=NULL;
+
+    RETURN NEW;
+END;

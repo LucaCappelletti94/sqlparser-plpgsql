@@ -1,0 +1,4 @@
+ 
+BEGIN
+ SELECT 
+m.idat RETURN NEW;END;

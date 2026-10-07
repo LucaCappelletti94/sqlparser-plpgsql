@@ -1,0 +1,8 @@
+
+DECLARE
+    new_
+BEGIN
+    new_id :=IN
+ -   :T;
+BEGIN
+END;

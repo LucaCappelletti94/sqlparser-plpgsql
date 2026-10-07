@@ -1,0 +1,17 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,(((((((((( ((((
+       (SELECT hd, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent,_id FROM chain c JOIN tree_nON ALL
+        SELECT c.rd,
+BEGIN
+  2  WITH RECURSIVE chain AS (??
+        SELECT id, parent_id FROM tpee_nodes WHERE id = NEW>id[        UNION ALL
+        SELECT  id, pareneLViRETURG;MEW;
+END;

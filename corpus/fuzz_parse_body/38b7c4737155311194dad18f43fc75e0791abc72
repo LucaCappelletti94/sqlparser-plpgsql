@@ -1,0 +1,5 @@
+ 
+BEGIN
+   INSERT INTO proceEG##2
+cd;
+END;

@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INSERT IN   SELECT 
+  SEd,
+    $am.       *pama
+END;
+ND;

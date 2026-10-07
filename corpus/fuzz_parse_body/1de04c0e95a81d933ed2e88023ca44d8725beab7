@@ -1,0 +1,14 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('erEWror_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+    --  UES ('error_evgnt', 'high');
+    
+BEGIN
+  ELSIF NEW.event_type   WITH RECTEWHt_group_id = cg.id
+!!!    )
+    DELETE ups);
+    RETURNND OLD;
+END;;
+

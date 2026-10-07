@@ -1,0 +1,5 @@
+
+BEGIN
+  SELECT d = NEW.idhain ~*c   )#
+ W;
+END;

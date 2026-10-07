@@ -1,0 +1,93 @@
+ 
+BEGIN
+  SELECT 
+        pam.name,
+#  am.d-- NEW.child_id5
+ . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ************IN
+  SELECT 
+        pam.name,
+#  am.d-- NEW.child_id5
+ . 
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ***************NEW
+*********   RETURN ;NEW
+END;

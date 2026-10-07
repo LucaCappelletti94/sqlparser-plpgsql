@@ -1,0 +1,4 @@
+
+BEGIN
+    IF NEW.dit_log (at $ R
+END;

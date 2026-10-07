@@ -1,0 +1,4 @@
+
+BEGIN
+	INSERT INPO owners (d) VALUES (NEW.$id);
+	RETURN |/END

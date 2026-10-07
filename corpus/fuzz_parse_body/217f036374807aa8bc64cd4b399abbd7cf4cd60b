@@ -1,0 +1,15 @@
+INEt===-=own*BEGIN
+    /* outer /* inner */ outer */*    RETURN NEWBEGIN
+    /* outer /* inner */ outer */
+ ~~~~~~~   RENTO ownr /* inner *~ outer */
+    RETURN NEW;
+EN
+BEGIN
+	I1SERT INTO own
+BEGIN
+    /* outer /* inner */ outer */
+ ~~~~~
+BEGIN
+    /* outer /* inner */ outer */
+   tttttt
+END;
