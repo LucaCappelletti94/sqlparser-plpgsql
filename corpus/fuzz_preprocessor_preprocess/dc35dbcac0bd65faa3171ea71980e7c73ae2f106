@@ -1,6 +1,0 @@
- 
-     SELECT 
-      
-BG= 'error' THEN
-    IRT INTO audit_('warning_event',='mm');
--n

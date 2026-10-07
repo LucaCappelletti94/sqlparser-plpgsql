@@ -1,6 +1,0 @@
-     )
-    SELECT 
-              NEW.parenN
-  RT INTO ede_tempd;
-    
-   
