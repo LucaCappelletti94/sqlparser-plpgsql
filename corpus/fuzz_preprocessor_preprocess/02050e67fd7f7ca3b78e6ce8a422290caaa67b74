@@ -1,8 +1,0 @@
-
---E
-DECLARE
- T;
-<GIN
-	IN`EI
-BEGIN
-   WIg.ro=EIN

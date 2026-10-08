@@ -1,8 +1,0 @@
- 
-B
-    SELECT 
-        pam.name,
-        NEW.parent_id,
-        pam.id,
-        HpaOM pr, INTO owners (_id VAW.N
-	IN`;
