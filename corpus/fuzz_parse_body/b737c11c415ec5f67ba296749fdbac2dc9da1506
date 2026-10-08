@@ -1,4 +1,0 @@
-
-BEGIN
-      (  SELECT parnt_g2rou*p_id AS id FROM grousW   p UNION ALL
-        SELECT g.paretwgrs END;

@@ -1,5 +1,0 @@
-
-BEGIN
- VALUES (NEW.id);
-	RETURN hhhhhhhhhQ <<1<<<<ttt
-END;

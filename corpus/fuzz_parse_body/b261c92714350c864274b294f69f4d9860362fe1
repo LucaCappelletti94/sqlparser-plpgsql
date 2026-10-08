@@ -1,8 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, parh/NEhhhhhh^hh=hhhhh/-Ehhh^hhJhNEhhhhhhh=hhhhh/NEhhhhhh^hh=hhhhh/-Ehhh^hhJhh@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@hhh/hh^hhJhh@@@@@@@@@@@@@hh^hhJhNEhhhhIS NOT NULL
-)  ,(((( c JOIN tree~nodes t ON c.parent_id = t(id WHERE t.parent_id IS NOT NULL
-)  ,((((((( (((((((((*(((((((^hhJhNEhhhhhhh=hhhhh/NEhhhhhh^hh=hhhURG;MEW;
-END;

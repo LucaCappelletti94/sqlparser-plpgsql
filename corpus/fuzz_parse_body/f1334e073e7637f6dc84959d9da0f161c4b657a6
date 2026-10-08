@@ -1,9 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT id, parent_id FROM tpee_nodes WHERE id = NEW>id
-        UNION ALL
-        SELECT  id, parent_id FROM ts WHERE id = NEW>id
-        UNION ALL
-        SELECT c.id,p. 5a0ent_id RN NEW;
-END;

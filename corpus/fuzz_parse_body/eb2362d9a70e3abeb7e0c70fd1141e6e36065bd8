@@ -1,6 +1,0 @@
-
-BEGIN
-    SELECT iid
-      AND g_id = OLD.user_id
-      AND group_i      AND gr   IF (EWLD;
-END;

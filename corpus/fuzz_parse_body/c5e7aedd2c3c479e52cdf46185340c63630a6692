@@ -1,4 +1,0 @@
-
-BEGIN
-    IF NEW.dit_log (act $ R
-END;

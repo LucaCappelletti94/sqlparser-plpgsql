@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVEre_tngroups AS     ( SELECT group_i.groAS (
-      ( SELECT parent_group_i.group_id
-    (   U.groAS (
-END;

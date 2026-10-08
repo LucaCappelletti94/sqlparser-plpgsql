@@ -1,10 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id,nt,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
-)  ,((((((((((((      SELECT id, parIN
-  RAI
->=    ;
-EN WHERE i;MEW;
-END;

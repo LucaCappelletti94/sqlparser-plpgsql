@@ -1,4 +1,0 @@
-BEGIN
-   (
-   SELECT ++
-IF996~=555;END;

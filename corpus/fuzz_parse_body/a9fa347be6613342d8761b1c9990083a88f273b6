@@ -1,7 +1,0 @@
--O
-BEGIN
-    WITH RECURSIVE child_groups AS (
- 
-        SELECT g.id (FROM groups g JOIN child_mmmmmmmmmmmmmmmmmmmmmmmmmmmm UNION ALL
-        ~~ ~OLD;
-END;

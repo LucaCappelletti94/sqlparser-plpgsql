@@ -1,6 +1,0 @@
-
-DECLARE  E
-    cavé TEXT =:= $tafé T$;
-BEGIN
- e 世界
-   RAIND;

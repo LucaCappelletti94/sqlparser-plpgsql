@@ -1,5 +1,0 @@
-
-BEGIN
-   IF NEW.event_ype = 'err' THEN
- ;
-END;

@@ -1,9 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, parent_id FROM
-(   ((((
-   WITH RECURSIVE cha  ()((
-   WITH RECURSIin ASi(((((,(((IS NOT (NEW,|ieVAL RETURG;MEWO
-END;

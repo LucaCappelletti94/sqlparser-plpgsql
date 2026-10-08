@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIhamn AS (
-SELECT id, pad IS NOT  W;
-END;

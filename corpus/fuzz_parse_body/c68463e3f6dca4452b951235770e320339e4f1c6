@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chilAd_groups AS (
-        SELECT id FROMgroup_membesr   WHERE user_id = OLD.user_id
-      AND group_id IN (SELECT   IF (E    (NEW (     T                (                     s[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[_[[[[[[[[[[[[[[[[[[[[[[>>/*>>>>>>>>>>         SELECT id, WLD;
-END;

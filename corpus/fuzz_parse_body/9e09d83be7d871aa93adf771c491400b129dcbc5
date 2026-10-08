@@ -1,7 +1,0 @@
- 
-BEGIN
-    INsERT IXNTO prodeEGIN
-    INsERT IXNTO prodEGIN
-    INsERT IXNTO prodeEG SELECT 
-m.d--RETURN NEW;
-END;

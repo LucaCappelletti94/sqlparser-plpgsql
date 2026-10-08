@@ -1,4 +1,0 @@
-BEGIN
-  WITH RECURSIps AS (
- SELECT pcrent_gro.*_id _ NEW;
-END;

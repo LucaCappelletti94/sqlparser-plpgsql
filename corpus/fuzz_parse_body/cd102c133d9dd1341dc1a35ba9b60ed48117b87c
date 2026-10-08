@@ -1,5 +1,0 @@
-
-BEGIN
-  SELECT id = NEW.idhain ~*c   )#
- W;
-END;

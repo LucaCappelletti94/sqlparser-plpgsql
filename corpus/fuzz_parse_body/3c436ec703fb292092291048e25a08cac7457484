@@ -1,4 +1,0 @@
-
-BEGIN
-        SELECT id, parent_iodes WHERE id = NEW.$idLECT id, paren = NEW. 
-END;

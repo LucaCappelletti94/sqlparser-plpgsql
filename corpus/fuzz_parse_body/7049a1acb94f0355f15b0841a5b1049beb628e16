@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE proups AS (
-        SELECT p[]--a--use    UNEW;
-END;
