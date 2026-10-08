@@ -1,0 +1,13 @@
+ 
+BEGIN
+    INsERT IXNls (
+             b
+      )  
+    SELECT 
+        tam.namW.parent_id,
+     pam.d-- NEW.chli_did;
+ .-- e,
+        NEW.parent_id,
+      pam.nad_di
+; .--  N
+END;

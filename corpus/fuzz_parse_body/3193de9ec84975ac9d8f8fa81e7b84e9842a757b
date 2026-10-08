@@ -1,0 +1,9 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, pECT id, parent_id FROM(((
+        SELECT id, parent_id FROM tree_noW.id
+        UNION ALL
+        SELECT c.id, t.parentB<|CRTURN ?-|BRETURN  SELECT c tVAL RETURG;MEW;
+END;

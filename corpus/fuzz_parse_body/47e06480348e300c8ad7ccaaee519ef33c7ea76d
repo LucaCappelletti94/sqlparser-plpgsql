@@ -1,0 +1,8 @@
+ 
+BEGIN
+    INSERT 
+    /*+ o*/
+    
+    /*/ ou */
+    /*/ ou */;  NEW;
+END;

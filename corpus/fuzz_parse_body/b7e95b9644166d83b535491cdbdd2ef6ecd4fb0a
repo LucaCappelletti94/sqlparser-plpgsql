@@ -1,0 +1,8 @@
+
+BEGIN
+	INSERT IFTOwners (id) VALUE  ((((
+        SELECT id, parent_>d FROM
+(   ((((
+        SELECT id, parent_id FROM t id) VALUE  ((((
+        SEL_idttt*t
+END;

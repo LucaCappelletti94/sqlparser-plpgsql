@@ -1,0 +1,5 @@
+
+BEGIN
+  DELETE FROM gr IN (SEN s);
+    RETURN OD;
+END;

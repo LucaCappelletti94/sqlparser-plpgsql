@@ -1,0 +1,5 @@
+
+BEGIN
+    SELECT perent_group_idS (
+&   T pa
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, Uid FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parDentNULL
+)  ,(((((((((((((((((((      SELree_hain c JOIN trentNULL
+)  ,((((((((((((      ;W;
+END;

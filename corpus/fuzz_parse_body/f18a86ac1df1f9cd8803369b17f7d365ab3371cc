@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INsERT IXNET pro    SELECT 
+        -map -(d NEW.child_id;
+ .   
+   $ RETURN NEW;
+END;

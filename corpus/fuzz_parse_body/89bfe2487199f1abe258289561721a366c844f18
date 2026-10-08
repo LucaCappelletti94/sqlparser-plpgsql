@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, d FROM
+(   ((((
+        SELECT id, par%nt_id FROM tr  BEGIN
+  WITH RECURSIVchain AS ((,ain AS (END;

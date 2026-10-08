@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH Rs AS (
+      ( SELECT (
+  nt.groAS (
+:up_i.group_id(END;

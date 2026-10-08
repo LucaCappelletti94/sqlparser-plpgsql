@@ -1,0 +1,5 @@
+
+BEGIN
+ VALUES (NEW.id);
+	RETURN hhhh@@@@""""""""""""""""""""""""+""" """""@@hhhhh@>hh/NEhhhhh@>hhhhEh/tt
+END;

@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INsERT IXNTO procedre_templ  SELECT 
+        pampam.d-- NEW.child_id;
+ .    
+ R JTURW;
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+ (
+    ((((
+        SELECT id, parent_id FROM
+(   ((((
+        SELECT id, parent_id FROM tree_nodes   *pamSEdERE t.pa--tNULL)  ,(((((((G;MEWO
+END;

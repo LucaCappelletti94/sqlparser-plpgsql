@@ -1,0 +1,8 @@
+
+BEGIN
+    IF NEW.event=_t'error' THEN
+        INSERT INTO audit_log (actiom, severily) VALUES ('error_event', 'high');
+"( _type < nfo' THEN
+ U  high');
+"   E NEW;
+END;

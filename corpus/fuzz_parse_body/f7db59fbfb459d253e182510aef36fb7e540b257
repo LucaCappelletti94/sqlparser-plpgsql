@@ -1,0 +1,4 @@
+
+BEGIN        SELECT id FROM groups WHERE grou     UNION ALL
+       SELECT g.id FROM groups  JOIN child_mmm<mOLD;
+END;

@@ -1,0 +1,5 @@
+
+BEGIN
+   (
+        SELECT id FROM groups WHERE parent_group_idOL      UNION ALD;
+END;

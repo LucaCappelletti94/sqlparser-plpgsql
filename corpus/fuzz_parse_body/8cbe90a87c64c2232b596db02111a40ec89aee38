@@ -1,0 +1,5 @@
+
+BEGIN
+ VALUES (NW.id);
+	RETURN hhhh^hhhh->hNEW.it
+END;

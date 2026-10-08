@@ -1,0 +1,8 @@
+
+
+BEGIN
+    /* outer /* inner */ outer */
+        SELECT 
+    /* outer /* inner */ outer */
+   (
+  END;

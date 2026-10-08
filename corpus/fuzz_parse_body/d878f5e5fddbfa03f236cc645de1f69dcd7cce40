@@ -1,0 +1,6 @@
+ 
+BEGIN
+    INSERT IN   SELECT d,
+    $am.       *pama
+END;
+ND;

@@ -1,0 +1,6 @@
+
+BEGIN
+ VALUES (NEW.id);
+	RETURN hG22##LUES (NEW.id);
+	RETURN hG22##''##<''##''##<<<<<<<ttt
+END;

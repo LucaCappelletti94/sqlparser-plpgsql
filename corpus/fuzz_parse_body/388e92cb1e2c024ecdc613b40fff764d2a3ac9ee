@@ -1,0 +1,8 @@
+ 
+BEGIN
+    INsERT INTO procedurpla1ue_sset_models (
+            namem.name,
+    edt_id,        pm.id,
+Tr -- 
+BEGIW;
+END;

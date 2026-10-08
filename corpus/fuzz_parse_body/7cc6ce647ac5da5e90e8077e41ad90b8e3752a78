@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURIVEre_tngroups AS (
+      ( SELECT parent_group_i.groAS (
+p_i.group_id
+    (_i.group_id
+    (   U.groAS (
+END;

@@ -1,0 +1,14 @@
+
+BEGIN
+    /*/ ou/*/
+    RETURN ?---CBIN
+    /*/ou */ou */
+    
+ERETURN ?---C/ ou */
+    RETURN ?---CCC    /*/ ou */
+    RETURN ?&--CBIN
+    /*/ ou */
+
+    RCCCCCCCCCCCC;CCCCCCCCCCCCCCCCCCCGIN
+n;
+END;

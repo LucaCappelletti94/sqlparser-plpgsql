@@ -1,0 +1,18 @@
+
+BEGIN
+    WITH RECURSIVFROM groupz g JOIN/*arent_groups pg ON --g.id = pg.i    SELECT id FROM groups WHERE parent_group_id = OLD.group_id
+
+BEGIN
+ 
+BEGIN
+    WITH RECURSIVFROMOM groups WHERE parent_group_id = OLD.group_id
+
+BEGIN
+    WITH RECUR0SIVF= pg.i    SEECT id FROM groups WHERE parent_   WITH RECUR0ECT id FROM groups WHERE parent_groupW
+    )
+    INSERT INTO group_mehbiesTHING;
+    RETURN NEWBEGIN
+    IF NEW.
+@ZZZZZZZZZ
+END;tNT;
+END;

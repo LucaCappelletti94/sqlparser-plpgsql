@@ -1,0 +1,11 @@
+ 
+BEGIN
+    INsERT INTO procedure_teme_asset_models (
+            name,
+            procedure_template_id,
+     d,
+  odel_id
+        )
+    SELECT 
+1  +        NEW.p  RETU=RN NEW;
+END;

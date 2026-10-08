@@ -1,0 +1,4 @@
+
+BEGIN
+    WITH RECAS (     SELECT id, p id, iCT I
+END;

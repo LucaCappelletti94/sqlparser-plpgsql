@@ -1,0 +1,6 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+SELECT c.id, t.parent,_D  FROM chain c,((((((((((((      SeLECT E.B=S NOT (NEW,ieG;MEW;
+END;

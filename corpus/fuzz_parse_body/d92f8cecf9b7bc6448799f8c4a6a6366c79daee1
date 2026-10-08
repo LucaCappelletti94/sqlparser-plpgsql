@@ -1,0 +1,8 @@
+
+BEGIN
+ VALUES (NEW.id);
+	RETURN$$$$+++++++++++++ (
+            name,EW.pa
+        )
+  ++++t
+END;

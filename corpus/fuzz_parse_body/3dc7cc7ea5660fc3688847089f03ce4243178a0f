@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM
+    ((((
+        SELECT id, pid FROM(trAL RETURG;MO
+END;

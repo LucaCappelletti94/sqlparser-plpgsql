@@ -1,0 +1,5 @@
+
+DECLARE  E
+    cavé TEXT =:= $tafé T$;
+BEGIN
+  IND;

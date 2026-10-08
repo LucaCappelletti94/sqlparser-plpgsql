@@ -1,0 +1,6 @@
+
+DECLARE
+    new
+BEGIN_Ad TEA_id :=d, NEW.id, 'creatd');
+ _id := gen_random_uuid()
+w;od_id :=d,ND;m

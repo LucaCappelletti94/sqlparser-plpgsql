@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INsERT IXNTO procedls (
+            b
+        )
+    SELECT 
+        pam.n*W.##:E
+END;
+& NEW;;
+END;

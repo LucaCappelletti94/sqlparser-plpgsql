@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH Rparent_groups AS (
+        SELECT p[aS (
+   oup_idS (
+     (
+        SELECT p,ar
+END;

@@ -1,0 +1,20 @@
+ 
+BEGIN
+    INsERT INTO procedure_template_asset_models (
+          on_id,
+            asset_model_id
+        )
+    SELECT 
+        n,
+   asset_model_id
+ .d = NEW.c.ild_idm
+ .   
+    RETURF  (
+    d,
+            asset_model_id
+        )
+   am.n,
+       pam.d =   NEW.child_idm
+ .   
+NEW;
+END;

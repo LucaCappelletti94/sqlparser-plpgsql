@@ -1,0 +1,11 @@
+ 
+BEGIN
+    INSERT Iast_models (
+            name,
+      edu    )
+    SELECT EGIN
+    INSERT INTO 
+        pam.name,    
+        pam.name,
+      D;
+END;

@@ -1,0 +1,6 @@
+
+BEGIN
+    IF NEW.event_ty                (NEW (     T                  (NEW (                 Q (    EW.event_ty                (NEW (     T                  (NEW (                 Q (              s (pe>>>//*>>>>>>>>>>>>>>>>>>>6>>nt>r       (NE           (                     s (pe>>>//*>>>>>>>>>>>>>>>>>>>>>>>6>>nt>r       (NE           (                     s (pe>>-//*>>>>>>>>>>    s (pe>7>//*>>>>>>>>>>>>>>>>>>>>ttttttttttttttt (NE           (                     s (pe>>>//*>>>>>>>>>>    s (p>>>//*>>>>>>>>>>>>>>>>>>>>tttttttttttttttEW.event_ty                (NEW (     T                  (NEW (                 Q (    EW.event_ty                (NEW (     T                  (NEW (                 Q (              s (pe>>>//*>>>>>>>>>>>>>>>>>SERT >>>>6>>nt>r       (NE      ERT INTO audit_log (action, severity) VALUES ('unknown_event', 'unknown')END IF;
+    RETURN NE     (W;
+END;
+                     s (pe>>>/

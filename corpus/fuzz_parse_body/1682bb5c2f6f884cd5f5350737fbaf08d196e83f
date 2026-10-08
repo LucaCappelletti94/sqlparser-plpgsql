@@ -1,0 +1,19 @@
+
+BI N NEW;
+BI  
+BEG INSERT INT 
+BEGIN
+    INSERT INO1 Tproc   SELECT 
+        pam.  NEW.  *pad,
+    $am.asse       *pamSEd,
+  e,
+  name,
+        NEW.tarent_i d,    pam.
+        NEW.  *pad,
+  
+     ame,
+        NEW.  *pad,
+    $am.asse       *pamSEd,
+  (  $a%m,as.asse       *pad,SEd,
+    $am.a
+END;

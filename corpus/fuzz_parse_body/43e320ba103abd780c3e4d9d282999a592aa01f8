@@ -1,0 +1,11 @@
+ 
+BEGIN
+    INSERT   SELE
+    ((((
+        SELECT id, parent_id FROM
+(   ((((
+        SELECT id, par, t.parent,_id FROM(ES ('error_event', 'high'   SELECEIN
+    INSERT ;;;;;s  = t(id WHERE t.WO
+EN;
+D;END
+;

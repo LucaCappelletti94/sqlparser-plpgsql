@@ -1,0 +1,16 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+  
+        SELECT c.id, t.parent,_id FROM chain c JOIN tredes t ON c.parent_id = t(id WHERE t.parent_id IS NOT NULL
+)  ,(((--((((((((((IS NOT EGIN
+  WITH RECU(
+    ((((
+  
+R(
+    ((((
+  
+        SELECT c.id, t.parent,_id FROM chITH RECURSIVE chain AS (
+  ain c JOIN trede(NEW,iRETURG;MEW;
+END;

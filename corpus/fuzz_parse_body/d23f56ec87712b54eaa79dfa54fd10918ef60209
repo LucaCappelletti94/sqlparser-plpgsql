@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.eUE@@@@@@@@@@@@@@@@@@e!= 'info' @@@@@@@@H@@@@@@@@@@@@@@@@e!= 'info' THEN
+      `@@@@@H@@@ NEW;
+END;

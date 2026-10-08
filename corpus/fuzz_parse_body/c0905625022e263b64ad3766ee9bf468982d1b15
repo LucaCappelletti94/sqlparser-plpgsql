@@ -1,0 +1,10 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((     ((((
+        SELECT id, t.parent,d FROM chain c JOIN tree_nodes t ON c.parent_i = t(id WHERE t-parentNULL
+)  ,((((((((((((     t(id WHERE t.parent(NEW,ie     SELECT id, 
+ (NEW,ieVAL RETURG;MEW;1
+END;

@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURroups AS (
+  SELECT parent_group_ad!AS id FROM gcrship sr(ogup_id, wser_idTURN_id, ep_id, wser_idTURN_id, user_ir_id)  NG;
+   NEW:
+END R;
+ET

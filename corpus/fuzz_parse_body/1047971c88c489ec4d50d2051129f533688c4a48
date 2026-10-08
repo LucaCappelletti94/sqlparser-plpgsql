@@ -1,0 +1,7 @@
+
+BEIVEE user_id = OLD.use界
+      WHERE user_i~d = OLD.user_id
+@ id RE user_id = OLD.use界
+      WREHE use OLD.user_id
+@ CETURN OLD;--
+END;

@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INSERT INTO Procee_template_asset_m   SELECT 
+   m.name,
+      arent_id<
+        p&m.id^Eat   ;
+      tt
+W;
+END;
+END;

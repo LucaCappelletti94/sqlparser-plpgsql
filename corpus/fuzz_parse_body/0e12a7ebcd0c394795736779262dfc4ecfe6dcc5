@@ -1,0 +1,9 @@
+
+&
+BEGIN
+           SELECT id, pare.t_i0 FROMSERT INTO node_anc;
+        SELECT id, CT id, pare.t_i0 FROMSERT INTO node_anc;
+        SELECT id, pare.ʹi0 FMSERT INTO n/anc;
+END;
+END;
+]a;

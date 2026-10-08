@@ -1,0 +1,9 @@
+ 
+BEGIN
+    INsERT IESXNT_temsm_etedols (name,EW.parNEW.parent_id,
+        pam.    b
+        )
+    SELECT 
+       
+    RETURN LEW;
+END;

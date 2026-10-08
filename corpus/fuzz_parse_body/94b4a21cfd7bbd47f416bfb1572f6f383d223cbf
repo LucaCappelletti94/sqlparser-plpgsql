@@ -1,0 +1,5 @@
+
+BEGIN
+	INSERT NTOowners (id) VALUES (NEW.NEW.$id));
+	RETUE{NN W;
+END;

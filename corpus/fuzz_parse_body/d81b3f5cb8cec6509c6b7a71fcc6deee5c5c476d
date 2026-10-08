@@ -1,0 +1,3 @@
+BEGIN
+   (        SELECT Aid  AS (
+0  END;

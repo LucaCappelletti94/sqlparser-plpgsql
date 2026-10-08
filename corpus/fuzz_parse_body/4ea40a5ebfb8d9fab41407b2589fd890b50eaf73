@@ -1,0 +1,6 @@
+
+e
+BEGIN
+    e:= ganm_&uuid();
+YLUE
+END;

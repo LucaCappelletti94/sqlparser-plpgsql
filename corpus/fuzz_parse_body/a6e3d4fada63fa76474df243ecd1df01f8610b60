@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups p    UNION ALL
+        SELECT gp_id = OLD.group_ .id FROM groups g JOIN child_!roup garent_group_D;
+END;

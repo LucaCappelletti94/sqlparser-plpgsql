@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEevent_uype = 'error' THEN  <<<Ettt
+END;
+D;

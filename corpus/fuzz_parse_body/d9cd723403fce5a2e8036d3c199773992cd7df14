@@ -1,0 +1,7 @@
+
+BEGIN
+	INSERT IFTO ownei(rsd)  VALUE  ((((
+        SELECT id, parent_id FROM
+(   (--(((
+        SELECT iid = N [    ][i.WE:]]]]]]]]]]]]]]]]]]]]]]]]]]]]]W.idtttttttt
+END;

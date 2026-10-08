@@ -1,0 +1,7 @@
+
+BEGIN
+    /*/ ou */
+    RETURN ?---C2BIN
+    /*/ ou */
+    
+ERE_TURN !END;

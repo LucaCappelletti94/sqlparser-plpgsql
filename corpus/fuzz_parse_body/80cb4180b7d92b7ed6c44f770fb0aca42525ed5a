@@ -1,0 +1,4 @@
+ 
+BEGIN  SELECT 
+  FROM pro.Are     . RETURN NEW;
+END;

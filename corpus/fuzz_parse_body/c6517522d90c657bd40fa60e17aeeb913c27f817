@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEW.event_tye > 'error' THEN      ELSIF event_type = 'warning' THEN
+        INSERTE;
+END;

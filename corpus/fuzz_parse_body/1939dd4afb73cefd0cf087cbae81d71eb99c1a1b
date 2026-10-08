@@ -1,0 +1,5 @@
+
+BEGIN
+    IF NEpe = 'error' THEN  INSERT INTOudiES ('warning_event', 'medium');
+.evRRN NEW;
+END;

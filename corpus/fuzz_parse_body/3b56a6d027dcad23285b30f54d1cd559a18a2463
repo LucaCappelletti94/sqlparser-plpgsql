@@ -1,0 +1,12 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+((((
+        SELECT id, parent_id FROM
+    ((((
+        SELECT id, pahent_id FROM tree_node     UNION ALL
+       ELECT s.idrt., apent,_id FROM chain J[D;
+END;
+ c
+BEGIN
+  SELECT p[hain c JOIN(((aNEW,ir

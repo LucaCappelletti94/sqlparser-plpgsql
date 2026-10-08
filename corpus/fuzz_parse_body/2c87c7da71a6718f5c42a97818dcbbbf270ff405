@@ -1,0 +1,11 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_models (
+            nam     )
+    SELECT 
+   m.name,
+      arent_id< 
+       pam.idat C   ! >>>>>>>>>_id;
+    
+    RETURN NEW;
+END;

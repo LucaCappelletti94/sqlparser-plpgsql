@@ -1,0 +1,6 @@
+ 
+BEGIN 
+    INSERT r
+.ent_procedur  VALUES (NEW.ece-ssor_id) 
+    ON CONFLICT (pa_id,N NEW;
+END;

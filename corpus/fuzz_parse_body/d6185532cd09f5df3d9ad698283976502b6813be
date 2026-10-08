@@ -1,0 +1,11 @@
+ els (
+ el
+&BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_ld FROM
+(   ((((
+        SELECT id,_id
+        ) par
+    entVAL RETURG;MEWO
+END;

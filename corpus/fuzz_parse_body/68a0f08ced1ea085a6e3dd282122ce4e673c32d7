@@ -1,0 +1,5 @@
+
+BEGIN
+  DELETE FROM membe IN (SELis);
+    RETURN OD;  DELETE
+END;

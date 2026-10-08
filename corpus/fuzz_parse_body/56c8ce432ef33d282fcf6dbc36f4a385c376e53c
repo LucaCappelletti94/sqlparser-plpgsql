@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE chiups AS (
+        SELECT id FROM groupscg ON g.pares);
+    RE OLD;
+END;

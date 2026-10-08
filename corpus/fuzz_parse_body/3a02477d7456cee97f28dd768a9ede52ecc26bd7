@@ -1,0 +1,4 @@
+
+BEGIN
+        SELECT id, parent_iodes WHERE id = NEW.$dLECT ien = NEW. 
+END;

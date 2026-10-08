@@ -1,0 +1,11 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM
+(   ( WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parbnt_id FROM
+(   ((((
+       ECT(c.id, t.paNOT (NEW,ieVRETURG;MEWO
+END;

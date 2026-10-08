@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE chain AS(      SELECT id, pa = W.i[
+        00000000000000000000
+END;

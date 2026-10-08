@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE cxain AS (
+        SELECT i .id, t.parent,_id FROM U)  ,  
+    INncestows (RN NEW;
+END;

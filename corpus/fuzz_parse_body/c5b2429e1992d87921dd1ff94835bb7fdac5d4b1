@@ -1,0 +1,4 @@
+
+        SELECT pERT INTO group_membersoup_id, user, NEW.user_id FROM pa
+ETURN NEW;
+END:

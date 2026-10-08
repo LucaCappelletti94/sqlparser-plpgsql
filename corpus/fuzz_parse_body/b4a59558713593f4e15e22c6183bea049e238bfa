@@ -1,0 +1,9 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, t.parent,_id FROM chain c JOIN tree_nodes t ON c*parent_id = tE(id WHERE T.parentNULL
+)  ,((((((((((((     ((((
+        SELECT id, t.parent,^OF RdiM chain c JOIN tr-ee_nodes t ON c.parent_id = t(id WHERE tvBarentNd, 
+  ETURG;MEW;
+END;

@@ -1,0 +1,7 @@
+
+BEGIN
+   SELECT g.id FROM groups g JOIN cmmmmps g JOIN mmmmmps g JOIN v g
+BEGIN
+ END;
+???????ENd;D=;
+

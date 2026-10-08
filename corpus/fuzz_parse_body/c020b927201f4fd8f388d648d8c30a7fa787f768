@@ -1,0 +1,7 @@
+
+BEGIN
+
+        SELECT id, parent_id FROM
+    ((((
+        SELECT FROM(trc  @in c JOIN(((NEW,ieVAL RETURG;MEWO
+END;

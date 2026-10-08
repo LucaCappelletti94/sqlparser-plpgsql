@@ -1,0 +1,11 @@
+ 
+BEGIN
+    INSERT Kast_models (
+             edu    )
+    SELECT EGIN
+    INSERT INTO 
+ me,
+        NEW.pm.name,
+    me,
+     D;
+END;

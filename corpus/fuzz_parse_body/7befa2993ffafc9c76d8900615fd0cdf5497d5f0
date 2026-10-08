@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RE AS (
+        SELECT id, Gparent_E ianced)
+    SELECT +NOT NULL;
+
+     RETURN NEW;
+END;

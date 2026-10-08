@@ -1,0 +1,11 @@
+ 
+BEGIN
+     SELECT 
+ pareOt_id,
+*pSzd,
+       ECT 
+ pd,
+*pamSzd,
+    FROM _t
+_t
+END;

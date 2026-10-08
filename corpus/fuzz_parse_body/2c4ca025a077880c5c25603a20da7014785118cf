@@ -1,0 +1,3 @@
+
+BEGIN
+    SELECT e_Mod!=rent_ END;

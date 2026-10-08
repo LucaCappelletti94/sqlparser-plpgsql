@@ -1,0 +1,10 @@
+ 
+BEGIN 
+    INSERT INTO pr(paent_id, child_id)
+    VALUES (NEW.parent_id,cessor_id) 
+ON CONFLICT  DO NOTHING;
+
+   __tid, childHING;
+    
+    RETURN NEW;
+END;

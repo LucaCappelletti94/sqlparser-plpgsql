@@ -1,0 +1,6 @@
+ 
+BEGIN
+     SELECT 
+arent_id,
+* AS ( !  
+END;

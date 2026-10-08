@@ -1,0 +1,4 @@
+
+BEGIN
+  SELECT id FROM gro     UNION ALL
+        SELECT g.ie FROM grochi=ld_g''''''END;

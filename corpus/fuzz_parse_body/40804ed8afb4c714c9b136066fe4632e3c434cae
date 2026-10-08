@@ -1,0 +1,7 @@
+
+BEGIN
+WITH RECUR AS (
+        SELECT d        UNION ALL
+        SELECT c.ON ALL
+        SELECT c.id,ent_d F+OM mha
+END;

@@ -1,0 +1,3 @@
+BEGIN
+    SELECT part_groips (grou_id, usW.userups WHERE id IS;
+END;

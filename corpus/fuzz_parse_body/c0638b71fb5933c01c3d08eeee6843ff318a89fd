@@ -1,0 +1,6 @@
+
+BEGIN
+ SELECT id, pa FROM
+(   ((((
+        SELECT id, _:= FROM tree_n_O
+END;

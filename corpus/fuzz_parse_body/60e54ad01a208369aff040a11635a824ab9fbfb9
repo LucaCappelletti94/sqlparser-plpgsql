@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FRid,p. 5a0ent_)d RN NEW;
+END;

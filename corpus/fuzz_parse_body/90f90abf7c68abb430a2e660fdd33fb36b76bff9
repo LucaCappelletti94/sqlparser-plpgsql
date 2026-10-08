@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH REiVn AS (
+      SELECT id, p NOT=NULL;
+
+    U:RN NEW;
+END;

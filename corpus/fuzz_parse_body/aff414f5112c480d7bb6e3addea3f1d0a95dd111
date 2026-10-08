@@ -1,0 +1,7 @@
+
+BEGIN
+	INSERT IFTO owners (id)SELECT id, parent_id FROM
+(   ((((
+     VALUE  /(((
+        SELECT i&, parent_idtttt
+END;

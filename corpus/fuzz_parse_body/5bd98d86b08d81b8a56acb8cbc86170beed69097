@@ -1,0 +1,6 @@
+
+BEGIN
+  SELECT id, parenti_d FROM
+(   ( WITH RERd FROM
+( RG;MEWO
+END;

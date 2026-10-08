@@ -1,0 +1,5 @@
+
+BEGIN
+    SELECT nd, parent_i#d      UNION ALL
+        SELECT c.id, tparent_id FROM mhain c JOIN tr&-MEGG&-Mtor_ NEW;
+END;

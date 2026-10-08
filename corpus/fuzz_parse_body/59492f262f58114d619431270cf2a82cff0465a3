@@ -1,0 +1,6 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM tree_nodes WHERE id =((((((((      SELECT id, parent_id FROM tree_nodes WHENO  ,((((((((((((      SELECT id, parent_id FROM tree_nodes WHENOT (iE--W,ieVAL RETURG;MEW;
+END;

@@ -1,0 +1,6 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (  SELECT id, parent_id FROM
+   ((((
+        SELECT|| id, parent_id FROM 55~=5%515&582253~JSIN(((NET@RG;MEWO
+END;

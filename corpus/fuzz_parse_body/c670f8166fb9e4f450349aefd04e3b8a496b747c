@@ -1,0 +1,12 @@
+
+BEGIN
+	T INTOown
+BGN
+IE 
+DECLAR=:= $tag$naïve$tag$;
+BT]=:= $tag$naïve$tag$;
+BEGIN
+ R=:= $tag$naïve$tag$;
+ TEXT =:=R世界
+    RAISE NOTIC:
+E==========END;

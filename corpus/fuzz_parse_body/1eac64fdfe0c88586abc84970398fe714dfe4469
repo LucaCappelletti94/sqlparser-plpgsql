@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+   SELECT id FROM groups WHE_id
+   UNION ALL
+        SELECT 
+BE||g.id FROM groups g JOIN chilmm/EC= 
+BE||g.id;
+END;

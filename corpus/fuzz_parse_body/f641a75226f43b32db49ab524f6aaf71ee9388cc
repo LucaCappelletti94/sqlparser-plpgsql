@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIh AS (
+SELECT d IS NOT  W;
+END;
