@@ -1,0 +1,7 @@
+ 
+B
+   SELECT 
+        pam.name,
+        NEW.parenti_d,
+        pam.id,
+        HpaOM pr, INTO o.id,`;

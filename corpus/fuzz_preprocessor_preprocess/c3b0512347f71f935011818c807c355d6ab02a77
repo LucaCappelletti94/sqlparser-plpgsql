@@ -1,0 +1,6 @@
+ B
+   SELECT 
+        pam.Name,
+        NEW.d,
+        pam.id,
+       -, INTO o.id,`;
