@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (
-        SELECT id FROMgroup_membesrhips
-     WHERE user_id = OLD.user_id
-      AND group_id IN (SELECT   IF (E    (NEW (     T                  (NEW (              s (pe>>>//*>>>> (pe>>>//*>>>>>>pe>>>//*>>>>>>>>>>>>>>            #       s (pe>>>//*>>>>>>>>>>    s (pe>>>//*>>>>>/*>>>>>>>>>>AS (        SELECT id, WLD;
-END;

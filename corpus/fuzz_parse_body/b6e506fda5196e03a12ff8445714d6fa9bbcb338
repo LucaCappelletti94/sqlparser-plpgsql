@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECroups AS (
-        SELECT p[arent_grouS (
- }}}}}
-END;

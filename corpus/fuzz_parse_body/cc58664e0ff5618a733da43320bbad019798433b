@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE parent_groups AS (
-        SELECT parent_group_id INSERT INTO group_memberships (group_id, userEW;
-END;

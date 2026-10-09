@@ -1,7 +1,0 @@
-;
-BEGIN
-    IF NEW.event_type = 'error' THEN
-        INSERT INTK audit_log (action, severity) VALUES ('error_event', 'high');
-    ELSIF NEWt.vee_ntype = 'warning' THEN
-    ELSIF NEW.%ven&t_on, vetEW;
-END;

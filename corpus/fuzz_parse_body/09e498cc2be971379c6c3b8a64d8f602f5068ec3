@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (       SELECT ic.parent.parent_id IS NOT NULL
-      RETURN NEW;
-END;

@@ -1,9 +1,0 @@
- 
-BEGIN
-    INSERT INTO proc_edure_template_asset_models (
-            nam     )
-    SELECT 
-        paes WHERE id = NEW.i[
-     0000000000000000   !   _template_id = NEW   
-    RETURN NEW;
-END;

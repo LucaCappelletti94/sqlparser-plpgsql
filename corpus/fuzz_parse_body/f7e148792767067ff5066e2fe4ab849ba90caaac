@@ -1,4 +1,0 @@
-
-BEGIN
-    WITH RECUWSn AS (
-        SELECT id, par IS --T END;

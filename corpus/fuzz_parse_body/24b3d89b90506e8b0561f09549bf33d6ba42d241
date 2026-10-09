@@ -1,5 +1,0 @@
-
-BEGIN
-   IF NEW.event_type = 'err' THEN
- ;
-END;

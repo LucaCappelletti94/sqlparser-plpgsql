@@ -1,8 +1,0 @@
-
-BEGIN
-    WITH RECajn AS (
-        SELECT id, pid NOT NULL
- NOT NULL
-    )
- parent_iRN NEW;
-END;

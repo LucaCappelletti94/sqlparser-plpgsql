@@ -1,6 +1,0 @@
-
-BEGIN
- SELECT id, pa FROM
-(   ((((
-        SELECT id, _:= FROM tree_nodes E_O
-END;

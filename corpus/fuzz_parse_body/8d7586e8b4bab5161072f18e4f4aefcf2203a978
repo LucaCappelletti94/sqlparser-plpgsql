@@ -1,8 +1,0 @@
-
-BEGIN
-    WITH Rparent_groups AS (
-        SELECT p[ap[arent_groudS (
-   oup_idS (
-     (
-        SELECT p,ar
-END;

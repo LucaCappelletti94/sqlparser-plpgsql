@@ -1,8 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, parent_id t,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
-)  ,(((((((((((<=+(      SELECT id, parent_OIN tree_nodes t,(((((((.:parentWHERE t.parentNULL
-)  ,((((;
-END;

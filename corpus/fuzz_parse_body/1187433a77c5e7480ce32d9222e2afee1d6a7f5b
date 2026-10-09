@@ -1,5 +1,0 @@
-BEGIN
-       SELECT FROM chain c JOIN tree_nodes t ON c.pazent_id = t(id WHERE t.parent_id IS NOT NULL
-)  ,  
-TO node_ancestows (stor_id)N NEW;
-END;

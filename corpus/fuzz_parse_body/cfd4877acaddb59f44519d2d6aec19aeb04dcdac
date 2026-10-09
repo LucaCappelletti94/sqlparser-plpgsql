@@ -1,7 +1,0 @@
-
-BEGIN
-    SELECT id FROMgroup_memberships
-    WHERE user_i = OLD.user_#id
-      AND g_id = OLD.user_id
-      AND group_i      AND gr   IF (EWLD;
-END;

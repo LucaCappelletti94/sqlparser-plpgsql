@@ -1,3 +1,0 @@
-
-BEGIN (   (  SELECT id, gd F, WN NEW;
-END;

@@ -1,8 +1,0 @@
-
-BEGIN
-    WITH RECURSIhain AS (
-        SELECT id, Gparent_E ianced)
-    SELECT +NOT NULL;
-
-     RETURN NEW;
-END;

@@ -1,3 +1,0 @@
-BEGIN
-	INSERT oers (id) VALUE    (      { t  ttttttttttt
-END;

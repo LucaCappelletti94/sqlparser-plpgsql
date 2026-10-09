@@ -1,4 +1,0 @@
-
-BEGIN
-    WITH RECAS (     SELECT id, p id,  chaiCT I
-END;

@@ -1,4 +1,0 @@
-
-BEGIN
-    IF NEW.'err H'1;
-END

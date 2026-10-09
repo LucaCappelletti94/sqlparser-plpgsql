@@ -1,8 +1,0 @@
-
-BEGIN
-	INSERT IFTO owners (id) VALUE  ((((
-        SELECT dt,i arent_id FROM
-(   ((((
-        SELECT id, parent_id FROM tree  (        [    [EW.idSE
-   [EW.idtttttttt
-END;

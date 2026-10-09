@@ -1,6 +1,0 @@
- 
-BEGIN
-    INSERT IN models (
- el_id
-        )
-    SELECT       END{

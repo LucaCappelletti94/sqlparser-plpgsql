@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT id, Gpar%%%%%%%% +NOT
-    $IT    RETURN NEW;
-END;

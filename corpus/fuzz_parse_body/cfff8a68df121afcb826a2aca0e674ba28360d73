@@ -1,6 +1,0 @@
-
-BEGIN
-    IF NEWe.UE<@vvvv++++++++++++++++++++++++vvvvvvv
-    EIF;
-    RETURN NEW;
-END;

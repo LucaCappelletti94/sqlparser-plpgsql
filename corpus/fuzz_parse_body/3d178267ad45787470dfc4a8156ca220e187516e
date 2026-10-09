@@ -1,8 +1,0 @@
- 
-BEGIN 
-    INSERT INTO paren r(paent_id, child_id)
-    VALUES (NEW.parecessor_id) 
-    ON CONFLICT (parant_id, childt_id, NEWTHING;
-
-    INSEEW;
-END;

@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT id, parent_id FRid, parent_id FRO  UNION ALL
-        SELECT c.id,p. 5a0ent_)d RN NEW;
-END;

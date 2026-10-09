@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE in AS (
-        SELECT id, parenNEW.id
-       ( UNION ALL
-     0    0 5"""""""""""" EW"" EW;
-END;

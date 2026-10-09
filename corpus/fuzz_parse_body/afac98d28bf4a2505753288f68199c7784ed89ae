@@ -1,8 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, pareot_id FROM
-(   ( WITH RECU  ((((
-VAL RETURG;MEWO
-END;

@@ -1,9 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, parent_id FROM
-    ((     SELECT id, parent_idnt_id IS RRRRRRRRRRRRRRRRRRRRRRRRRINTO
- RE
-   
-]    UR(END;

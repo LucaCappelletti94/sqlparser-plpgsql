@@ -1,7 +1,0 @@
-
-BEGIN
-    IF NEW.@@@@S ('eVALO audit_,og (action,audit_,og (acUES ('error_event', 'high');
-    ELSIF-NEW.event_('warnin;
-    ENT IF;
-    RETURN NEW;
-END;

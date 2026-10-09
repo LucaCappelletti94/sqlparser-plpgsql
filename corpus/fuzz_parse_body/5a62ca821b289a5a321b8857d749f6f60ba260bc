@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE _gprs AS (
-        SELECT pa   UNION ALL
-    EW;
-END;

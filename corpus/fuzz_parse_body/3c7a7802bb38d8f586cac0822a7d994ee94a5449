@@ -1,4 +1,0 @@
-
-BEGIN
-  DELETE FE FROM gmeN
-END;

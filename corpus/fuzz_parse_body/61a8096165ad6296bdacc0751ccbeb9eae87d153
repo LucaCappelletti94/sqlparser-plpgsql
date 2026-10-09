@@ -1,9 +1,0 @@
- 
-BEGIN
-    INsERT IESXNT_temsme_tedols (name,EW.parNEW.parent_id,
-        pam.    b
-        )
-    SELECT 
-        
-    RETURN LEW;
-END;

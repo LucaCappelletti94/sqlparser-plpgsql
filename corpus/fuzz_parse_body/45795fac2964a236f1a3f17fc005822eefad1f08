@@ -1,4 +1,0 @@
-
-BEGIN
-  (   (  SELECT _id F,RONEW;
-END;

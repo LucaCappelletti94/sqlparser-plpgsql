@@ -1,5 +1,0 @@
-
-DEXT;
-BEGIN
-    new_id :=\\\\TUEN NEW;
-END;

@@ -1,8 +1,0 @@
-
-BEGIN
-    INSERT INTO node_ancencestors (node_id, anc
-    )
-    INSERT stors (node_id, anc
-    )
-    INSERT INTO node_ancestors (node_id,W;
-END;

@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE Yild_groups AS (
-        SELECT id     [  UNION mLD+
-END;

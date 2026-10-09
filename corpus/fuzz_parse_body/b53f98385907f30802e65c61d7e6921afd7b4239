@@ -1,11 +1,0 @@
- 
-BEGIN
-    INSERT INTO procee_template_asset_models (
-            nam     )
-    SELECT 
-   m.name,
-      arent_id<
-        p&m.id^Eat C   !   _template_id = NEWild_id;
-    
-    RETURN NEW;
-END;

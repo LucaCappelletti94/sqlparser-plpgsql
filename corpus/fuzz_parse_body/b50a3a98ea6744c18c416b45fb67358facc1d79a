@@ -1,11 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, p.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE p.parentNULL
-)  ,((((((((((((     ((((
-        SELECT id, t.parent,d FROM chain c JOIN tree_nodeid, t.parent,_id FROM chain c JOIN tree_nodes ts t ON c.parent_i = t(id WHERE t.parentNULL
-)  ,((((((((((((     t(id WHERE t.parentNULL
-)  ,(((((((((((( FROM chai(
-  WITNEW,ieVAL RETMEURWG;;2
-END;

@@ -1,6 +1,0 @@
- 
-BEGIN 
-    INSERT INTOure_t         r(paent_id, child_id)
-    VALUES (NEW.parent_id, NEW.precedessor_id) 
-    ON CONFLICTparent_id, ch NEW;
-END;

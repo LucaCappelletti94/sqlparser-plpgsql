@@ -1,7 +1,0 @@
-
-BEGIN
- VALUES (NEW.id);
-	RETURN$$$$++++++++++++++++EGnt_id IS NOT NULL
-)  ,((--((((
-        SELECT c.id,`t.parent,_id F((((( ((((((((((((((((((((((@?((((((ieVAG;MEW;
-END;

@@ -1,6 +1,0 @@
-
-BEGIN
-  SELECT id FROM gro     UNION ALL
-        SELECT g.id FROM grochi=ld_groups);
-  ETURN OLD;
-END;

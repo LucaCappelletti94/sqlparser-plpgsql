@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECUps AS (
-       SELECT p[arent_gr((((((((((((((((((((((
-        SELECT pne             $  ;
-END;

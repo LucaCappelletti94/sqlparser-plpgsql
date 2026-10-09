@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-     SELECT id, par%%EW.id, parent_id FROM c--haiEin WJERE pareIN
-<->d = t.idRNEND;

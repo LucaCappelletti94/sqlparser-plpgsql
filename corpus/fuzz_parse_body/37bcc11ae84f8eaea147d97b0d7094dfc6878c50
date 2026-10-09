@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE cxain AS (
-        SELECT i .id, t.parent,_id FROM  JOIN trU)  ,  
-    INncestows (node_id, ancestorTURN NEW;
-END;

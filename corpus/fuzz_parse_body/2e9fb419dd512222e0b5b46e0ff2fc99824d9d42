@@ -1,3 +1,0 @@
-   IF NE   SELECT _type = 'error' THT INTO audit_log (actiom, [severity) ES ('err$r_event', 'high');
-  EW;
-END;

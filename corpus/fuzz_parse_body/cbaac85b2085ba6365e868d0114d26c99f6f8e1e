@@ -1,5 +1,0 @@
--O
-BEGIN
-    WITH RECURSIVE child_groups AS (   SELECT g.id (FROM groups  UALL
-        ~~ ~OLD;
-END;

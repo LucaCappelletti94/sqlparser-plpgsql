@@ -1,8 +1,0 @@
- 
-BEGIN
-    INSERT INT1O proc   SELECT 
-        pam.name,
-        NEW.pare~t_id,
-       *pamSE_d
-    FROM procedure_templa
-END;

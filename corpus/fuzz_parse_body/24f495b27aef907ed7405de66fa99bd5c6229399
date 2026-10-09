@@ -1,9 +1,0 @@
-
-BEGIN
-    /*/ ou */
-    RETURN ?---C2BIN
-    /*/ ou */
-    
-ERE_TURN !?---C/ ou */
-CNnn;
-END;

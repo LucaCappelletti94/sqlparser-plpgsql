@@ -1,3 +1,0 @@
-BEGIN
-	INSERT os (id) VALUES   (      { t  :tttttt
-END;

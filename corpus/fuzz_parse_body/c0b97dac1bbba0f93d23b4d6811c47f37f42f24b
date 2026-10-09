@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (
-        SELECT id FROM groupscg ON g.pares);
-    RE OLD;
-END;

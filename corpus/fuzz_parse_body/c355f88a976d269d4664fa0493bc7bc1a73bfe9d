@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE oups AS (
-        SELECT idoups WHERE parent_g        UNION ALL
-        SELECT g.id FROM gmmmmmmmmmmmimmmmmmmmmmmmm?mmmm RETURN OLD;
-END;

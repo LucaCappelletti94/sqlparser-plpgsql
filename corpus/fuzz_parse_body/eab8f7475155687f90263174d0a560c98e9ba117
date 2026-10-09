@@ -1,4 +1,0 @@
-
-BEGIN
-    IF NEW.@@@@@@@@@@@@@@@EN>^W @@@@@RETURN NEW;
-END;

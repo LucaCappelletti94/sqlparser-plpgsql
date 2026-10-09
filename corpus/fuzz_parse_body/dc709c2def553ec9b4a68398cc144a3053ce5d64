@@ -1,6 +1,0 @@
- 
-BEGIN
-  SELECT 
-        pam.nchil.d4
- .  *****child_id4NEW
-END;

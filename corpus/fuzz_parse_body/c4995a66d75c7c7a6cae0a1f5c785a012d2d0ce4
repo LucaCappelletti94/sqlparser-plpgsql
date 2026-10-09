@@ -1,5 +1,0 @@
-
-BEGIN
-   (
-        SELECT id FROM groups WHERE parent_group_id = OL      UNION ALD;
-END;

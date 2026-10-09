@@ -1,5 +1,0 @@
-
-BEGIN
-   IF ent_ype = 'err' THEN
- ;
-END;

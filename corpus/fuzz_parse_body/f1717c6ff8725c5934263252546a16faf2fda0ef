@@ -1,8 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (
-         SELECT g.id FROM groups g JOIN ch  NEW )
-    SELECT 
-        pam.na~*me,
-      hiD;
-END;

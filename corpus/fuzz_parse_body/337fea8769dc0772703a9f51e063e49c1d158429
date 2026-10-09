@@ -1,4 +1,0 @@
-
-BEGIN
-   SELECT d FROM grr /*pinner */ outer W;
-END;U

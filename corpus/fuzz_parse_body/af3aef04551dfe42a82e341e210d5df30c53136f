@@ -1,7 +1,0 @@
- 
-BEGIN
-    INSERT INT  SELECT 
-    FROM pocedure_templa
-END;
-1O proca
-END;

@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELEcT id, parent_id FROM treL  UNION ALW;
-END;

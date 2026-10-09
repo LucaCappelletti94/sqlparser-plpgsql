@@ -1,5 +1,0 @@
-
-BEGIN
-    IF NEpe = 'error' THEN  INSERT INTO audiES ('warning_event', 'medium');
-.evRRN NEW;
-END;

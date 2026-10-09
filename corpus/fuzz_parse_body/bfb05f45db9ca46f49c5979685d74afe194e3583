@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT id = NEW.idhain ~*c   )
-    INSERT INT      SELECT id = NEW.idhain ~*c   SIVEW.idhain ~*c   INSERT;
-END;

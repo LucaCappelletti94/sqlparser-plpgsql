@@ -1,3 +1,0 @@
-
-BEGIN
-     SELECT id, pareFROM wps WHERE id = NE~~*W{{{END;

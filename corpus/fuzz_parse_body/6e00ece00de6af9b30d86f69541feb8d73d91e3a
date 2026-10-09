@@ -1,6 +1,0 @@
- 
-BEGIN
-    INSERT INls (
- el_id
-        )
-    SELECT       END{

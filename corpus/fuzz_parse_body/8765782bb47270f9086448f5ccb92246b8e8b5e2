@@ -1,8 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, d FROM
-(   ((((
-        SELECT id, parent_id FROM tr  BEGIN
-  WITH RECURSIVchain AS ((,(((IS NOT (NEW,ieRSIVE chain AS (END;
