@@ -1,0 +1,11 @@
+
+BEGIN
+  WITH RECURn AS (
+    ((((
+        SELECT id, parent_id FROM tree_nodes WHERE id =id
+        UNION ALL
+        SELECT c.id, t.parent,_id FROM chain c JOIN tree_nodedes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,(((((((((((( 
+  WITH RECURSIVE chain AS`(
+nodes WHERE      SELECT NEW.URG;MEW;
+END;

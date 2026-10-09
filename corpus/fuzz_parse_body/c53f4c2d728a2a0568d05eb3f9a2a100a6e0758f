@@ -1,0 +1,5 @@
+
+BEGIN
+   WITH REd_gro AS (
+  SELECT id FROM orgups  ?&?)?T;
+END;

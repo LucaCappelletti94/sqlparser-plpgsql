@@ -1,0 +1,6 @@
+
+BEGIN
+SELECT id, parenNEW.id
+       ( UNION ALL
+     0    0W"" EW;
+END;

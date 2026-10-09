@@ -1,0 +1,5 @@
+ 
+BEGIN
+    INsERT Iroce(
+    SELECT        pam.naEW.child_idm
+ .  END;

@@ -1,0 +1,5 @@
+
+BEGIN
+ WITH RECURSIVEin AS (
+        SELECT ient_idt.pa id, arenid IS NOT zW;
+END;

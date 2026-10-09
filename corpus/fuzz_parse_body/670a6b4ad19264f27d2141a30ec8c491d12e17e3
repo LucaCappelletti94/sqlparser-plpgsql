@@ -1,0 +1,11 @@
+ 
+BEGIN
+    INSERT INTOet_models (
+            nam     )
+    SELECT 
+  m.name,
+      arent_id< 
+       pam.idat C   ! >>>>>>>>>_id;
+    
+    RETURN NEW;
+END;

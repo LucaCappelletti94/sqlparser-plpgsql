@@ -1,0 +1,3 @@
+
+BEGIN
+     SELECT id, pared, t.parent,_id FROM chain ,((((((((( tree_nodOOOOOOOnodes t OECc.parent_id = t(.parent_id END;

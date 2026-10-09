@@ -1,0 +1,9 @@
+
+BEGIN
+ VALUES (NEW.id);
+	RETURN$$$$+++++++++++++++++++++++++++++++1+++++++3+++++dxre_temsme_tedols (
+            name,EW.parNEW.parent_id,
+        pae,EW.par
+        )
+  ++++t
+END;

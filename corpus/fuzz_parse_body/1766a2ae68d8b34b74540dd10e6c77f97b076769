@@ -1,0 +1,5 @@
+ 
+BEGIN
+    INSERT INT SELECT 
+ mo/5%l_i RN NEW;
+END;

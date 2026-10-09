@@ -1,0 +1,3 @@
+
+BEGIN
+   SELECT g.id M FOR $ END;

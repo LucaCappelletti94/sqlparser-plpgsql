@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM
+(   ((((
+        SELECT id, parent_id FRO:::::::::::::::::::::::::::::::::::::::::::::::T c.id, t.paent_id FROIS NOT (NEW,ieVAL RETURG;MEWO
+END;

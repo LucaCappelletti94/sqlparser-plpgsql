@@ -1,0 +1,8 @@
+
+BEGIN
+	INSERT IFTO o((
+        SELECT id, parent_id FROM
+(((((
+        SELECT id, pakent_id FROM tree_nodes WHERE id = N [    [EW--tSE
+   [E]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]W.idtttttttt
+END;

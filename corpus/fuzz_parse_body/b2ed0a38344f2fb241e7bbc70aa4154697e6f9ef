@@ -1,0 +1,6 @@
+
+BEGIN
+      SELECT id, parent_id FROM((((
+        SELECT id, parelt_id FROM tree_s& _dno EN%CN
+nn;
+END;

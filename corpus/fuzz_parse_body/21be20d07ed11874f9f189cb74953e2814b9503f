@@ -1,0 +1,28 @@
+
+BEGIN
+  /*/ ou */
+    RETURN ?---CCCCCCCC#CCNnn;    /*/ ou */
+    RETURN ?---CCCCCCCCCCCCCCGIN
+    /*/ ou */
+    
+ERETURN ?---CCCCCCCCCSwnCCGIN
+  /*/ ou */;    /*/ ou */
+    RETURN ?---CCCCCCCCCCCCCCGIN
+    /*/ ou */
+    
+ERETURN ?---CCCCCCCCCSwnCCGIN
+  /*/ ou */
+    RETURN ?---CCCCCCCCCCCCCCGIN
+    /*/ ou */
+    
+ERE
+BTU##########C
+?-   
+ERETURN ?---CCCCCCCCCSCCCCCCCCGIN
+    /*/ ou */
+    
+ERE>CCC
+?-   
+ERETURN ?---CCCCCCCCCCCCCCCCCCCCCD>C
+CCCCCC+CCCCCCCCC#CCNnn;
+END;

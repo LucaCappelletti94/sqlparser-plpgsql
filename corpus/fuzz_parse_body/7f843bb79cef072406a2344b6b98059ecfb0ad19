@@ -1,0 +1,7 @@
+
+DE ne;
+BEGIN
+    new_id := uuid();
+    INew_id := uuid();
+  
+END;

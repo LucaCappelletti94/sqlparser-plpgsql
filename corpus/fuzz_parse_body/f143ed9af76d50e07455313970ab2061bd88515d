@@ -1,0 +1,9 @@
+
+BEGIN
+     SELECT p[are:groupi:dS (
+
+  (      
+    WITH RE_groups AS (
+        SELECT p[are:groupi:d--S (
+
+  (         END;

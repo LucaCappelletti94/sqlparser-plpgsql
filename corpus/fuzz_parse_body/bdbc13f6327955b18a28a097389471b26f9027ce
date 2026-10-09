@@ -1,0 +1,16 @@
+
+BEGIN
+    WITH RECtngroups AS (
+      ( SELECT parent_group_i.groAS (
+  nt__i.group_id
+   @@ (_p.group_id
+    (   U.groAS# (
+up_i.group__d
+    (id
+   @@ (_i.groupi_id
+    (   U.groAS# (
+up_i.group_id
+    (id
+   @@  _i.group_id
+_i.group_i(d
+    (END;

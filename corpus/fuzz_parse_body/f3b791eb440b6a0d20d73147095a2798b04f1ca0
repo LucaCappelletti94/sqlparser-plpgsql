@@ -1,0 +1,7 @@
+
+BEGIN
+ VALUES (NEW.id);
+	RETURN$$$$++++++++++++++++EGnt_id IS NOT NULL
+)  ,((--((((
+       SELEC(((( MEW;
+END;

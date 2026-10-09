@@ -1,0 +1,11 @@
+ 
+BEGIN
+    INSERT Iast_models (
+      G      name,
+      edu    )
+    SELECT EGIN
+    INSERT INTO 
+ me,
+        NEW.pm.name,e,
+     D;
+END;

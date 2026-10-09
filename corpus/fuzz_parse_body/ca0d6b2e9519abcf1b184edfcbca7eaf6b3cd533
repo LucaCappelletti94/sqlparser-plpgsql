@@ -1,0 +1,6 @@
+ 
+BEGIN
+    INSERT I pro  SELECT 
+        pamSEd,
+    FROM pla
+END;

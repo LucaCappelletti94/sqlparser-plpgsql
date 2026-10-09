@@ -1,0 +1,8 @@
+
+BEGIN
+ (
+    ((((
+        SELECT id, parent_id FROM
+(   ((((
+        SELECT id, par$nt_id FROM tree_ *pamSEdER(((((EWO
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM
+(  ((( (
+  SELECT -d, parent_idtree_nod= NEW.= t(i@^@ca RETURG;MEWO
+END;

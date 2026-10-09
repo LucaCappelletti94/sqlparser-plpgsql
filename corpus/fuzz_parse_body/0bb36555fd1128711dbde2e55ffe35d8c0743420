@@ -1,0 +1,6 @@
+
+BEGIN
+    IF NEWt_type = 'error' THEN
+ INSERT Iudit_log (action, severity) VALUES ('error_event',
+    VALU0E+S (NEW.parent_id, NEW  ON  'unknown');
+    END IF;

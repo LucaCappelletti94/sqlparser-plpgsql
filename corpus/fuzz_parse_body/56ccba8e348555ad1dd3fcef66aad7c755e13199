@@ -1,0 +1,9 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT iwwwwwwd FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.peLNntrUaL
+)  ,((((((((((((      SELECT id, parent_id %ROee_nodes WHERE id = NEW.*d
+     chain c JOIN (reN
+ e_nodes t ONURG;MEW;
+END;

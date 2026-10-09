@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE oups AS (
+     SELECT idoups Wnt_g        UNION ALL
+        SELECT g.id FROM gmmmmmmmmmmmimmmmmmmmmmm?mmmm RETURN OLD;
+END;

@@ -1,0 +1,6 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (  SELECT id, parent_id FROM
+    ((((
+        SELECT-- id, paMpare c JOIN+tparent,_idan c JSIN(((NETURG;MEWO
+END;

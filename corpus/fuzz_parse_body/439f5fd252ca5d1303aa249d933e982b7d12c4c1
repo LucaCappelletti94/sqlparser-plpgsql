@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM
+    ((((
+        SELECT id, arent,_id FROM chain c JOIN tree--_no      ROM chain c JORETURG;M0g;O
+END;

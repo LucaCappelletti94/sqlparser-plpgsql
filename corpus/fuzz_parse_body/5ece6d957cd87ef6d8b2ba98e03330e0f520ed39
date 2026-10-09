@@ -1,0 +1,7 @@
+ 
+BEGIN 
+    INSERT INTarent_r(id, child_id)
+    VALUES (NEW.parent_i!,_id,SERt_i!,_id-_id;
+
+   NEW;
+END;

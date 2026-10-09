@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id IN (SELECT il FROM childroup_memberships 
+   WHERE user_ AND group_id IN (SELECT il FROM childroup_memberships 
+   WHERE user_id = OLD.userid = OLG.usup_id IN (SELECT   IF (EWLD;
+END;

@@ -1,0 +1,5 @@
+
+DECLARE
+ 
+BEGIN
+    new_id := ui_(  new_id := END;

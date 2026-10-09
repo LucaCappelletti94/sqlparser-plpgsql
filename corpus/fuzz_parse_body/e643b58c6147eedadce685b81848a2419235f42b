@@ -1,0 +1,3 @@
+BEGIN
+	INSERT TOwers (id) VALUES    (      {        tttt
+END;

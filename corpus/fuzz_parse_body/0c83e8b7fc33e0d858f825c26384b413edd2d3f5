@@ -1,0 +1,7 @@
+
+BEGIN
+	INSERT IFTO owners (id) VALUE  (([[[[[[[[[((
+        SELECT id, parent_id FROM
+(   ((((
+        SELECT id, parent_id FROM tree_nodes WHERE id = NU.-W.iers ( FROM tree_nodes W
+END;

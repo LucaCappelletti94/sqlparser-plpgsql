@@ -1,0 +1,11 @@
+ 
+BEGIN
+    INSERT ls (
+      G      name,
+      edu    )
+    SELECT EGIN
+    INSERT INTO 
+ me,
+        NEW.pm.name,e,
+     D;
+END;

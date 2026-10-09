@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECIVin AS (       SELECT ent.parenid IS NOT NULL
+      RETURN NEW;
+END;

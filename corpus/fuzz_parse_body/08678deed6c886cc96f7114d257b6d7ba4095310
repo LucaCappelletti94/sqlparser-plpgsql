@@ -1,0 +1,9 @@
+
+BEGIN
+   ((((
+        SELECT idd FROM
+    ((((
+        SELECT id, parent_id FROM trin AS (
+    ((((
+     URG;MEWO
+END;

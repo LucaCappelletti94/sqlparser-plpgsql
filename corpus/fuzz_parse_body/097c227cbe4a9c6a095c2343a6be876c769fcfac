@@ -1,0 +1,4 @@
+
+BEGIN
+SELECT id FROMM group WER
+END;

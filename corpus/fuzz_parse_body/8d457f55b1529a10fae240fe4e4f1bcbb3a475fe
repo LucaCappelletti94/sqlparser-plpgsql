@@ -1,0 +1,12 @@
+ 
+BEGIN
+    INsERT It_models (
+          on_id,
+            asset_mo_didle
+        )
+    SELECT 
+        pam.n,      NEt_id,
+        pam.d = NEW.child_idm
+ .   
+    RETURF  (
+           END;

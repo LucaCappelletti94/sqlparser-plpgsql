@@ -1,0 +1,10 @@
+
+BEGIN
+    IF NEW.event_type = 'eor' THEN
+        INSERT INTO audog (actiom, severity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+    -- # INSERT INTO audiog (action, seve medium');
+    ELSIF NEW.event_type = 'info' THEN
+        INn, severit, 'unknown');
+   NEW;
+END;

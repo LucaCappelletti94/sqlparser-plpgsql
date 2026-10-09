@@ -1,0 +1,10 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT idnt_id FROM
+(   ((((
+        SELECT id, parIhain AS (
+    ((((
+  RETURG;MEWO
+END;

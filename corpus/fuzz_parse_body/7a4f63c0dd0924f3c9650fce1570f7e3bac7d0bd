@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM tree_nodes WHERE iNEW.id
+        UNION ALL
+        SELECT c.d, t.parent,_id FROM chain c JOIN tree.eve!~~   *~~ [[[ ->B [[[[[[->>NSERTEW;
+END;

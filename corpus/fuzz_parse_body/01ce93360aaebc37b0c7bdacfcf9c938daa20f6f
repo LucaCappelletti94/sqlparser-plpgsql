@@ -1,0 +1,6 @@
+
+BEGIN
+      SELECT id, parend_id FROM((((
+        SELECT id, parel(id) VALUES (_dno EN%CN
+nn;
+END;

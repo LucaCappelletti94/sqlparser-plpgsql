@@ -1,0 +1,4 @@
+
+BEGIN
+    WITH RECURSIVE proups AS (
+       SELECT p[]--a--END;

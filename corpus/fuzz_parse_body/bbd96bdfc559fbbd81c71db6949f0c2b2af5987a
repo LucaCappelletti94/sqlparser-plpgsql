@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH hain AS (
+        SELECT id, parent_id FROM tree_nodes();
+  ER
+END;

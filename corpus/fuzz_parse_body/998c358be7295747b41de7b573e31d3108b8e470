@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROM groups WHE_id
+   UNION ALL
+        SELECT g.id FROM grRttt|ttt\\\tttttt|ttttt  RN OLD;
+END;

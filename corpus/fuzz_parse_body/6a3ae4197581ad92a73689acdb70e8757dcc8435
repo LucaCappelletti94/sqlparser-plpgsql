@@ -1,0 +1,9 @@
+
+BEGIN
+  /*/ ou */
+    RETURN CC
+    /*/ ou */
+    CC#CCNnn;    /*/ ou */-CC   /*/ ou */
+ 
+CCCCCCC;
+END;

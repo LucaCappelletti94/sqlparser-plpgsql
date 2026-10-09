@@ -1,0 +1,6 @@
+
+BEGIN
+    IF ventype = 'error' THEN
+      INSERT  END I_loJ (action, severyit) VALUES (' g_');
+    END IF;;
+END;

@@ -1,0 +1,4 @@
+
+BEGIN
+         INSERT INs AS M $OM ;
+END;

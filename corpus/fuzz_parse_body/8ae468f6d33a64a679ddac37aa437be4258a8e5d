@@ -1,0 +1,6 @@
+
+BEGIN      SELECT id, pare WHERE id = NEW>id
+        UNION ALL
+        SELECT  iazent_id FROM tp
+====?==!WHERE i??
+&&&&&&{{END;

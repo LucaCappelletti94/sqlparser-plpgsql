@@ -1,0 +1,8 @@
+
+DECLAR  new_id TEXT;
+BEGIN
+    new_id := gen_random_uuid();
+    INSERT INTO todo_histor
+    VALUES (new_id, NEW.id, 'created');
+    RETURN NEW;
+END;

@@ -1,0 +1,11 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+ (      SELECT id, c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((     ((((
+        SELECT id, t.parent,d FROM chain c JOIN tree_nodes t ON c.parent_id = t(id wHERE t.parentNULL
+)  ,((((((
+        SELECT parent_group_id AS idLECW@>@id@@@@   @@W@  @@@@@H@>@I<@ZZZZd@@@@   @@@@@H>@I<@ZZ@ZZZZZZ@>@ZZ@>@@@@H@>@I<@ZZd@@@@   @@@@@H@>@I<@ZZZZd@@@@   @@@@@H>@I<@@H@>@I<@ZZZZd@@@@@H@>@I<@ZZZZd@@@@   @@@@@H>@I<@@H@>@I<@ZZZZd@@@@   @@@@@H>@I<@ZZ@Z@T parentON ALL
+      ;;;ttEowners (;id) VALU;roup_meRETURN NEW;
+END:

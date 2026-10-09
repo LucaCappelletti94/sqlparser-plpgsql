@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH REld_s AS (
+    SELECT id FROM r   UNION ALL
+  SELECT g.id FROM groups g JOIN child_mmmm}mmmmEND;

@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INsERT INasset_models (
+            name,
+       te_id,   basndio__ed,e,
+   d,
+        _id;
+.   
+    RETNRU NEW;
+END;

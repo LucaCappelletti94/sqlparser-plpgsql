@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECUs AS (
+   SELECT FRd_groups);
+RURN OLD{
+END

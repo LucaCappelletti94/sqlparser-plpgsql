@@ -1,0 +1,6 @@
+
+BEGIN
+  WITH REhain AS (  SELECT id, parent_id FROM
+     (((
+        SELECT-- id, pa`rent_i(NEROM  pare c JOIN+tparMEWO
+END;

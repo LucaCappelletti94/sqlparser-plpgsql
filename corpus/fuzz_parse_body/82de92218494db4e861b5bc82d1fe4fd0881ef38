@@ -1,0 +1,9 @@
+ 
+BEGIN
+    INSERT INTO proc   SELECT 
+   m.name,
+      arent_id<
+        p&m.idat!C   !   _template_id = NEWild_id;
+    
+    RETURN NEW;
+END;

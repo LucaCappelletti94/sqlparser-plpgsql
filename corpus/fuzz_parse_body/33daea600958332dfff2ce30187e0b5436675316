@@ -1,0 +1,5 @@
+
+BEGIN
+	INSERT INTO owners (d) VALUES (NEW.$id);
+	RETURN N*EW;
+END;

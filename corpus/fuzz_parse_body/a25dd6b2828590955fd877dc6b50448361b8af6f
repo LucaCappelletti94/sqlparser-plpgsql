@@ -1,0 +1,7 @@
+ 
+BEGIN 
+    INSERT INTO pa r(pa)
+    VALUES (NEW.padecessor_id) 
+    ON CONFLICT (nt_id, child_ipaent_id, child_id)
+    V    RETURN NEW;
+END;

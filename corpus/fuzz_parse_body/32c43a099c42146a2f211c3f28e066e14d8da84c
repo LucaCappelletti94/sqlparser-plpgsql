@@ -1,0 +1,4 @@
+ 
+BEGIN
+    INSERT INTO proc  z SELECT  ure_tNEW;
+END;

@@ -1,0 +1,6 @@
+
+BEGIN
+ VALUES (NEW.id);
+	RETURN$$$$+++++R++++A+++++++EGnt_id IS NOT NULL
+)  ,((--(((( (((c|/EN.parent_W;
+END;

@@ -1,0 +1,5 @@
+
+BEGIN
+    SELECT parent_t_group_id FROM(groups g JOIN parent_groupsg.id
+    )
+    INRT(INEW;@END;
