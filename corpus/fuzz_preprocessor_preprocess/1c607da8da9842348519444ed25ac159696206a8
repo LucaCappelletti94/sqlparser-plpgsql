@@ -1,6 +1,0 @@
- B
-   SELECT 
-        pam.name,
-        NEW.parenti_d,
-        pam.id,
-       -, INTO o.id,`;

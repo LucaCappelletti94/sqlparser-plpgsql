@@ -1,6 +1,0 @@
-&
-     SELECT 
-$      
-BG= 'error' THEN
-    IRT INTO audit_('warning_ev,t',='mm');
-n

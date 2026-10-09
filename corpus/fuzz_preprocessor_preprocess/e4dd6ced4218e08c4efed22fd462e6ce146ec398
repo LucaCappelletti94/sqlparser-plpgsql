@@ -1,9 +1,0 @@
-   IOity) VALUES ('info_event': 'low');
-   U1S ('wanning_vent', 'actio,!'mediu'm') ('info_ent': 'low');
-   U1S ('wanning_vent', 'actio,!'mediu'm');
-    ELSIF NEW.event_type = 'info' THEN
-        INSER TINTO', 'actio, 'mediu'm');
-   'inloerity)  ('w'ulknown');
-    END IF;
-    Rrror' THEN
-END;
