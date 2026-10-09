@@ -1,0 +1,3 @@
+
+BGI
+DECLARE@    new_id -:= BEGIN
