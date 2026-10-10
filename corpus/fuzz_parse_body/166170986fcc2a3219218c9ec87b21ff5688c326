@@ -1,5 +1,0 @@
-
-BEGIN
-    SELECT iid
-      AND g_id = O  AND gr   AND! gr   IF (EWLD;
-END;

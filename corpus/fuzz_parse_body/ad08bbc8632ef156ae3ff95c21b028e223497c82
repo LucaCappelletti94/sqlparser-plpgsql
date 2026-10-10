@@ -1,4 +1,0 @@
- 
-BEGIN  SELECT 
-  FROM pro.Are     .  NEW;
-END;

@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECIVin AS (       SELECT ic.parent.parenid IS NOT NULL
-      RETURN NEW;
-END;

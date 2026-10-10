@@ -1,7 +1,0 @@
-
-DE new_id TEXT;
-BEGIN
-    new_id := uuid();
-    INew_id := uuid();
-  
-END;

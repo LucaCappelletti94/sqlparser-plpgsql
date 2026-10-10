@@ -1,5 +1,0 @@
-/ 
-BEGIN  SELECT c.id, t.parent,_id FROM chain c,((((((((((((      SELECT E.B=parent_id ,FROM tree_nodes WHERE id =  NEW.id
-        UNION ALL
-        SELECT c.id, t.parent],_id FROM (((,(((IS NOT (NEW,ieVAL RETURG;MEW;
-END;

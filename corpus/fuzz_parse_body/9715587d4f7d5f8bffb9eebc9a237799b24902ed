@@ -1,6 +1,0 @@
-
-B;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;t;;;;;;?;;;;;;;;;;B;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;t;;;;;;?;;;;;;;;;;;;;;;;;;;0;;;;;;;;$;;;;;;;;;(;;;;;;;;;;;;;;;;;;;;;;;;;;; tttINTO;;;5;;;;;0;;;;;;;;$;;;;;;;;;(;;;;;;;;;;;;;;;;;;;;;;;;;;; t  INSERT INTO node_ancesGIN
-    WITH RECURSIVE chain AS (
-        SELECT id, pad, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = td, ancestor_id)
-    SELECT NEW.id, parent_id FROM chain WHEER parent_it,_id FROM chain c JOES  /**/
-  ;;;;;;;tttttt;/*

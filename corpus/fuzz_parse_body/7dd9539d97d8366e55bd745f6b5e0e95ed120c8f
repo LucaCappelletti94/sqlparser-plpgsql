@@ -1,11 +1,0 @@
-ER
-  --
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, d FROM
-(   ((((
-        SELECT 
- ---id, parent_id FROMOT (NEW,ieRSIVE chain AS (END;
- LEW;
-END;

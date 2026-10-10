@@ -1,7 +1,0 @@
- 
-BEGIN
-    INSERT INT  SELECT 
-    FROM pre_templa
-END;
-1O proca
-END;

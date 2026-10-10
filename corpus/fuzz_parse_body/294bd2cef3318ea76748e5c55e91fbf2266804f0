@@ -1,5 +1,0 @@
- 
-BEGIN
-    INsERT Irocedure_tempdels (
-    SELECT        pam.naEW.child_idm
- .  END;

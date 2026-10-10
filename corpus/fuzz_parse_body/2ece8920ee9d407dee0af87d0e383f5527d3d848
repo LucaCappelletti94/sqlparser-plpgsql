@@ -1,5 +1,0 @@
- 
-BEGIN 
-    INSERT INTO parenttes r(paent_id, child_id)
-    VALUES (NEW.pard, NEW,preT   NEW;
-END;

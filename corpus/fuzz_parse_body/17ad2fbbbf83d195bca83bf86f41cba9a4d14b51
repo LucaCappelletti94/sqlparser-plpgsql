@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECURSIVEre_tngr(ups) AS (
-      ( SELECT   p_i.group_igroup_i.gro_id
-   (_i.group_id    (END;

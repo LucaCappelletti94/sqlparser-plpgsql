@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECU_groups AS (
-        SELECT parent_group_id FROM(groups g JOIN parent_groupsg.id
-    )
-    INSERT(INEW;@END;

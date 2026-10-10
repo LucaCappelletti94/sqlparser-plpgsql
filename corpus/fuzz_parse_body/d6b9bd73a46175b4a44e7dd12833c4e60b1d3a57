@@ -1,4 +1,0 @@
-
-BEGIN
-        SELECT iHERNEW.$dLECT ien = NEW. 
-END;

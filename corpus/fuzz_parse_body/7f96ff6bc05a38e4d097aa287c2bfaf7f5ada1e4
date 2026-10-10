@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE parent_groups AS (
-  SELECT parent_group_ad!AS id FROM gcrships (group_id, wser_idTURN_id, up_id, wser_idTURN_id, user_ir_id)  NG;
-   NEW:
-END R;
-ET

@@ -1,5 +1,0 @@
- 
-BEGIN
-   INSERT INT##2
-cd;
-END;

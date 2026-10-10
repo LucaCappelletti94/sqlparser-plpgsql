@@ -1,4 +1,0 @@
-
-BEGIN
-      (  SELECT paiid FROM grousW   p UNION ALL
-        SELECT g.paretwgrs END;

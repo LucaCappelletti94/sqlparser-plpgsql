@@ -1,8 +1,0 @@
- 
-BEGIN
-
-    SELECT 
-        pam.name,
-        NEW.pabent_id,
-  cm.proBEprTURN NEW;
-END;

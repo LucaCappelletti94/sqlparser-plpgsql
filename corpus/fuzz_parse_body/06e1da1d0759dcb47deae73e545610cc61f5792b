@@ -1,4 +1,0 @@
-
-BEGIN
-  case, _ae s $
-END;

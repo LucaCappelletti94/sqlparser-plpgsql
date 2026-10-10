@@ -1,9 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (
-        SELECT id FROM groups WHERE pad = cg.id
-    )
-    DELETE FROM group_memberships
-    WHERE user_ps);
-    RETURN OLD;
-END;

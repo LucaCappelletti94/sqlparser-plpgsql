@@ -1,4 +1,0 @@
-
-BEGIN
-	INSERT INTS owners (d) VALUES             (NEW (        ::W.
-END;

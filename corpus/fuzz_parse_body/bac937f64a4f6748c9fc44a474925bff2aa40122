@@ -1,9 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, parent_id FROM
-(   ((((
-        SELECT id, par, t.parent,_id FROM(ES ('error_event', 'high');
-    ELSIF NEW.event_type =rity) VALUES ('error_event'chain c JOIN tree_nodes  = t(id WHERE t.WO
-END;

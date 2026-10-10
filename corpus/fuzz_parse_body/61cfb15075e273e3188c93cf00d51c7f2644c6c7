@@ -1,6 +1,0 @@
- 
-BEGIN
-    INSERT INT1O pro  SELECT 
-        pamSEd,
-    FROM pla
-END;

@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE _gps AS (
-        SELECT pa   UNION ALL
-    EW;
-END;

@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RCEURSIVE --in (
-      d ;
-END

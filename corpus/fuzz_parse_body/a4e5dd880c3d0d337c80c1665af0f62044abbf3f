@@ -1,3 +1,0 @@
-
-BEGIN  SELEcT id, parent_id FROM treL  UNION ALW;
-END;

@@ -1,9 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, parent_id FROM
-(   ((((
-        SELECT id, parent_id FRO:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::M tree_nodes WHERE id = NEW  UNION ALL
-        SELECT c.id, t.paent_id FROIS NOT (NEW,ieVAL RETURG;MEWO
-END;

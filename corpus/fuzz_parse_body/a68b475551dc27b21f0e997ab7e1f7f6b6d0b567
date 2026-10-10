@@ -1,4 +1,0 @@
-BEGIN
- WITH RE (
-   FROM RNOLD;
-END

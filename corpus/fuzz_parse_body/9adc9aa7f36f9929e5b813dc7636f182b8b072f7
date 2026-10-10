@@ -1,109 +1,0 @@
-[{{{
-BEGIN
-  /*/ ou */
-    RETURN ?---CCCCCCCC#CCNnn;    /*/ ou */
-    RETURN ?--
-BEGIN
-  /*/ ou */
-    RETURN ?---CCCCCCCC#CCNnn;    /*/ ou */
-    RETURN ?---CCCCCCCCCCCCCCGIN
-    /*/ ou */
-    
-ERETURN ?---CCCCCCCCCSwnCCGIN
-  /*/ ou */
-    RETURN ?---CCCCCCCCCCCCCCGIN
-   /*/ ou */
-    
-ERURN ?---CCCCCC;    /*/ ou */
-    RETURN ?---CCCCCCCCCCCCCCGIN
-    /*/ ou */
-    
-ERETURN ?---CCCCCCCCCSwnCCGIN
-  /*/ ou */
-    RETURN ?---CCCCCCCCCCCCCCGIN
-    /*/ ou */
-    
-ERE
-BTU#####-CCCCCCCCCCCCCCGIN
- #####C
-?-   
-ERETURN ?---C
-BEGIN
-  /*/ ou */
-    RETURN ?---CCCCCCCC#CCNnn;    /*/ oCCCCCCGIN
-    /*/ ou */
-    
-ERETURN ?---CCCCCCCCCSwnCCGIN
-  /*/ ou */
-    RETURN ?---CCCCCCCCCCCCCCGIN
-   /*/ ou */
-    
-ERURN ?---CCCCCC;    /*/ ou */
-    RETURN ?---CCCCCCCCCCCCCCGIN
-    /*/ ou */
-    
-ERETURN ?---CCCCCCCCCSwnCCGIN
-  /*/ ou */
-    RETURN ?---CCCCCCCCCCCCCCGIN
-    /*/ ou */
-    
-ERE
-BTU#####-CCCCCCCCCCCCCCGIN
- #####C
-?-   
-ERETURN ?---C
-BEGIN
-  /*/ ou */
-    RETURN ?---CCCCCCCC#CCNnn;    /*/ ou */
-    RETURN ?---CCCCCCCCCCCCCCGIN
-    /*/ ou */
-    
-ERETURN ?---CCCCCCCCCSwnCCGIN
-  /*/ ou */
-    RETURN ?---CCCCCCCCCCCCCCGIN
-    /*/ ou */
-    
-ERURN ?---CCCCCC;    /*/ ou */
-    RCCCCCCCCS   /*/ ou */
-    
-ERETUCCCCCCCCGIN
-    /*/ ou */
-    
-ERE   RETURN ?---CCCCCCCCCCCCCCGIN
-    /*/ ou */
-    
-ERETURN ?---CCCCCCCCCSwnCCGIN
-  /*/ ou */
-    RETURN ?---CCCCCCCCCCCCCCGIN
-    /*/ ou */
-    
-ERURN ?---CCCCCC;    /*/ ou */
-    RCCCCCCCCS   /*/ ou */
-    
-ERETUCCCCCCCCGIN
-    /*/ ou */
-    
-ERE>CCC
-?-   
-ERETURN ?---CCCCCCCCCCCCCCCCCCCCCD>C
-CCETURN ?---CCCCCCCCCCCCCCGIN
-    /*/ oCCCC+CCCCCu */
-    
-ERETURN ?---CCCCC#CCNnn;
-RN ?---C{{{ENCCCCCCCCSwnCCGIN
-  /*/ ou */
-    RETURN ?---CCCCCCCCCCCCCCGIN
-    /*D{{CCCC;
-/ ou */
-    
-ERE
-BTU##########C
-?-   
-ERETURN ?---CCCCCCCCCSCCCCCCCCGIN
-    /*/ ou */
-    
-ERE>CCC
-?-   
-ERETURN ?---CCCCCCCCCCCCCCCCCCCCCD>C
-CCCCCC+CCCCCCCCC#CCNnn;
-END;

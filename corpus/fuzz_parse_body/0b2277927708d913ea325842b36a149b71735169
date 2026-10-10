@@ -1,5 +1,0 @@
-
-BEGIN
-    IF NEW.eve THEN      ELSIF event_typ ea 'wr=ning' THEN
-        INSERT;
-END;

@@ -1,6 +1,0 @@
- 
-BEGIN
-    INSERT INTdus   SELECT 
-        pam.namW;
-END; END; ^ONW;
-ENDocedD; END; ^ONWE
