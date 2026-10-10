@@ -1,0 +1,7 @@
+ 
+BEGIN
+  SELECT 
+      pam.name,
+#  am.d-- NEWld_id4
+ .  ************* ;NEW
+END;

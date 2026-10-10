@@ -1,0 +1,8 @@
+ 
+BEGIN
+   SELECT 
+        pam.n  d,
+       *pamSEd,
+    $am.asse d,
+    $am.asset_mo
+END;

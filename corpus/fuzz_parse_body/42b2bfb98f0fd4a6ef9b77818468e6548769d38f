@@ -1,0 +1,11 @@
+
+BEGIN
+  WITH RECURSIVchain AS (
+    ((((
+        SELECT id, parent FROM
+(   ((((
+        SELECT id, parIN
+  WITH RECURSIVE chain AS (
+  ; ((((
+        SELECT E
+END;

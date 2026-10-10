@@ -1,0 +1,6 @@
+
+BEGIN
+	INSERT IFTO own        SELECT id, parent_id FROM
+(   ((((
+        SELECT id, partin_e^ FROM tree_nodes WHERE id = NU.EW.iers (id) VALUttttttt
+END;

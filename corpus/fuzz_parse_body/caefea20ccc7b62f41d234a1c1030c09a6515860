@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH ain AS (
+     SELECT idncid)
+    SELECT NEW.iL;))))))))))))NEW;
+END;

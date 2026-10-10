@@ -1,0 +1,9 @@
+
+BEGIN
+    IF NE THEN
+  
+    ELSE
+        END IF;
+ RETURN NEW;
+END;
+N

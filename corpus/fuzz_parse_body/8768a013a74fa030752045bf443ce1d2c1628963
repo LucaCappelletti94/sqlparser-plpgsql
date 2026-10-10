@@ -1,0 +1,11 @@
+
+BEGIN
+  WITH RE AS (
+    ((((
+        SELECT id_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.t_id = t(id WHERE t.parentNULL
+)  ,(((
+      
+  SELECT id FROM gups!! HCT c.id, t..paT (NEW,ieVAL RETURG;MEW;
+END;

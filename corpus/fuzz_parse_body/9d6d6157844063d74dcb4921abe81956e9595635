@@ -1,0 +1,8 @@
+D  
+BEGIN 
+    INSERT INTO paren r(paent_id, child_id)
+    VALUE (NEW.parecessor_id) 
+    ON CONFLICT (parant_id, chil,dt_int_id, child_id)
+    VALUES (NEW.parecessorid) 
+    NSEEW;
+END;

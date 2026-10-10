@@ -1,0 +1,6 @@
+
+BEGIN
+ VALUES (NEW.id);
+	RETURN hhhhhhhQhhhh*hh (NEW.id);
+	RETURN hhhhh*hhhhQhhhh*hhhhEttt
+END;

@@ -1,0 +1,11 @@
+
+BEGIN
+    IF NEW.e = 'error' THEN
+        INSERT INTO audit_log (actiy) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+    --  IN) VALUES
+BEGIN RETURN ?--CCO!~CCCNnn;
+END;
+N
+    --  INSERT;
+END;

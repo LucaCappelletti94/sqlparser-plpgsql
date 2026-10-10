@@ -1,0 +1,7 @@
+
+DE    new_
+BEGIN
+d :=IN
+-T;
+BEGIN
+END?S

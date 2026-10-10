@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, t.parent,_id FROM chiin c JOIN tree_nodes t ON c.parent_if = t(id WHERE t.parentNULL
+)  ,(((((((((     ((((
+        SELECT id, t.parent,d FROM chain c JOIN tree_n->ON c.parent_id =eVAL HETURG;MEW;
+END;

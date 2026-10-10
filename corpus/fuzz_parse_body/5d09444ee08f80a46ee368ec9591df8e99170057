@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+     SELECT id,soe WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id,bbbb WITH TU ENNEW;
+END;

@@ -1,0 +1,4 @@
+DECLARE
+    afé TEXT :=tag$;BEGIN
+ -- GEW RETURN NEW;
+END;

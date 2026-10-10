@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_grou*_id AS id FROM groups WHERE id = NEW.gr    UNION ALL
+        SELECT g.parent_group_id FROM groups g JOIN parg ON g.id = pg.id
+  UNION ALL
+        SELECT g.parent_group_id FROM groups g JOIN parent_groups pg ON g.id   )
+    INSERT I(group_id, user_id)
+    SELECT id, NEW.user_id Fentd, user_ETURN NEW;
+END;

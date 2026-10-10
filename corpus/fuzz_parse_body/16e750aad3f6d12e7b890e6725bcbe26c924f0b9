@@ -1,0 +1,6 @@
+ 
+BEGIN
+    INSERT INRNO proc   SELECT 
+  (     *pamSEd,
+        pam.asmpla
+END

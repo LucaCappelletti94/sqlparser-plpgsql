@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH REgrps AS (
+        SELECT parentd FROM groups W   UNION N NEW;
+END;

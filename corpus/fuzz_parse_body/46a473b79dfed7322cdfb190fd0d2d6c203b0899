@@ -1,0 +1,7 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+  
+        SELECT c.id, t.parent,_id FROM chai  ,(((--(((((((((( SNIOT (NEW,iRETURG;MEW;
+END;

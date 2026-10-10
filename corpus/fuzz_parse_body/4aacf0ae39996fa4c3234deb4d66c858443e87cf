@@ -1,0 +1,18 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+     (((((((((((     ((((
+        SELECT 
+        pam.name,
+        NEW.pame,
+     d,
+       *pamSEd,
+    $a      *pT id, t.parent,d FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((     ((((
+        SELECT id, t.parent,_i   UNION ALL
+        SELECT c.id, t.parent_id FROM chain c JOIN tr)
+    SELECT N%%%%%%%d FROM chain WHERE parent_diIS  NOT NULL;
+
+    RETURN NEW;
+END;

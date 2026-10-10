@@ -1,0 +1,11 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, paren|_id FROM
+    ((((
+        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent,_1id FROM chain c JOIN treeBEGIN
+  WITH RECURSIVE chainid, parent vvvvvvvvvvvvvv     SELE;MEWO
+END;

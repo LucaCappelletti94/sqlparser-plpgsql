@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVEchain AS (  SELECT ie, parent_id FROM
+    ((((
+ SELECT id, parent_id FROM
+    (((
+        SELEC~=5WH id = NEW.i[
+   END;

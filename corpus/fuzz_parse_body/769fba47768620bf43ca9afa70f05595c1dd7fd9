@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FR     UNION ALL
+        SELECT g.id (FROM groups g JOIN child_mmm2mmmmmmmmmmmmmm   UNION A 
+BEGIN 
+    INS) ERT IN(FRmmmmmmmmmgrouRN NEW;
+END;

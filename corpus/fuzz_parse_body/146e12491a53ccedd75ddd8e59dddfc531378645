@@ -1,0 +1,4 @@
+ 
+BEGIN 
+    INSERT parentr(paenchild_id)
+    VALUES (NEW*parent_id, NW.successor_id) END;

@@ -1,0 +1,9 @@
+ 
+BEGIN
+    INSERT   SELE
+    ((((
+        SELECT id, parent_id FROM
+(   ((((
+        SELECT id, paid FROM(ES ('error_event', 'high'   SELECEIN
+    INSERTD;END
+;

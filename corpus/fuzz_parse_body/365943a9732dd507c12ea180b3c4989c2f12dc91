@@ -1,0 +1,14 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM tred_nod c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,(((
+        SELECT id, parent_id FROM tree_nodes WHERE id = NES.id
+        UNION ALL
+        SELECT c.$d, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.par%ntNU      UNIONLL
+)  ,(EGIN
+  WITH RECURain AS (
+    ((((
+        SELECT id,FROM tree_nodes EW;
+END;

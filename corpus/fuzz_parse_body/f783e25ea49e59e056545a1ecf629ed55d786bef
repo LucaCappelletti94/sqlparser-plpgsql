@@ -1,0 +1,12 @@
+
+BEG
+I I  N F N
+BEGIN
+  WITH RECURSIVE chain AS (    SELECT c.id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,(((
+        SELECT i ,dparent_id FROM(((
+      --------------------------------------------------------------EW.ev-
+eW.eveO!~~*~~~-NRW;----------------------
+--------------- RETURG;MEW;
+END;
+END;

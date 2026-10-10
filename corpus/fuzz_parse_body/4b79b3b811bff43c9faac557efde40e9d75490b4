@@ -1,0 +1,13 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT INTO audit_log (actionity) VALUES ('erEWror_event', 'hi)h');
+    ELSIF NEW.event_type = 'warning' THEN
+    --  UES ('error_evgnt', 'high');
+    
+BEGIN
+  ELSIF NEW.event_type   WITH RECTEWHt_group_id = cg.id
+!!! ps);
+    RETURNND OLD;
+END;;
+

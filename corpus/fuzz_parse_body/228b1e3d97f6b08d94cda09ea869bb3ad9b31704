@@ -1,0 +1,3 @@
+
+BEGIN  SELEcT id, part_id FROML  UNION 
+END;

@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH _tngroups AS (
+     SELECT parentp_i.gr( 
+BEGI(<^ 
+   (END;

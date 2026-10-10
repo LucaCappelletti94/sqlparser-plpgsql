@@ -1,0 +1,8 @@
+
+BEGIN
+    INSERT INTO node_ancencesrs (node_id, anc
+    )
+    INSERT stors (node_id, anc
+    )
+    INSERT INTO node (node_id,W;
+END;

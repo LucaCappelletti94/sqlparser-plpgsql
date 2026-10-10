@@ -1,0 +1,48 @@
+
+BEGIN
+    WITH RECURSIVEre_tngroups AS (
+      ( SELECT   p_i.g    (_i.group_id
+    (   t_group_i.groAS (
+  nt_group_i.group_id
+    (_i.group_id
+    (   U.groAS (
+up_i.group_id
+    (_i.group+ient_group_i.groAS (
+  nt_group_i.group_id
+    (_i.group_id
+    (   U.gro*S (
+up_i.group_id
+    (_i.group_id
+ (
+      ( SELECT   p_i.group_id
+    (_i. parparent_gqoup_i.groAS (
+  nt_group_i.group_id
+    (_i.group_id
+    (   t_group_i.groAS (
+  nt_group_i.group_id
+    (_i.group_id
+    (   U.groAS (
+up_i.group_id
+    (_i.group+ient_group_i.groAS (
+  nt_group_i.group_id
+    (_i.group_id
+    (   U.groAS (
+up_i.group_id
+    (_i.group_id
+    (ENU.up_i.group_id
+    (_i.group_id
+    (   U.groAS (
+up_i.group_id
+    (_i.group_id
+    ( (
+    WITH RECURSIVEre_tngroups AS (
+      ( SELECT   p_i.group_id
+    (_i. parparent_gqoup_i.groAS (
+  nt_group_i.group_id
+    (_i.group_id
+    (   t_groi.group_id
+    (_i.pa rparent_gqoup_i.groAS (
+  nt_groupgroup_id
+    (   U.groAS (
+up_i.group_id
+END;

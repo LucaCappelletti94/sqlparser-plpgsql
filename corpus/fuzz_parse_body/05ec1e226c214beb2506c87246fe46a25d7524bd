@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH in AS (
+        SELECT id, parents WHE  UNION ALL
+        SELECT c.id, t.parent_id FROM chain # JOIN tree_nodEND;

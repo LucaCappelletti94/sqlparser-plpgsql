@@ -1,0 +1,6 @@
+
+e
+BEGIN
+    e:= n_&uuid();
+YLUE
+END;

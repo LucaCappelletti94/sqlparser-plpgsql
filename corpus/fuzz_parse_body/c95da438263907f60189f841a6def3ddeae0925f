@@ -1,0 +1,9 @@
+ 
+BEGIN
+
+    SELECT 
+        pam.name,
+       NEW.parent_id,
+  pam.id,
+      m.asse
+END;

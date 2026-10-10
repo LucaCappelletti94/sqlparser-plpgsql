@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH Eroups AS (
+          DELETE FR;
+END

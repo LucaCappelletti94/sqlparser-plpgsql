@@ -1,0 +1,7 @@
+
+DECLARE
+  g$;
+BEGIN
+  -- 界
+   RAISE NOTIC:
+END;

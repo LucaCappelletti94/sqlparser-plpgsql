@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURs AS (
+        SELECT id FROM group       UNION ALL
+        SELECT g.id FROM grou%D;
+END;

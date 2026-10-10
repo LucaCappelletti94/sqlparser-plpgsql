@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INSERT INTO procedure_template_asset_models (
+      nam     )
+    SELECT 
+   m.namt_id<
+        p&m.idat C   !   _template_id = NEWild_id;
+    
+    RETURN NEW;
+END;

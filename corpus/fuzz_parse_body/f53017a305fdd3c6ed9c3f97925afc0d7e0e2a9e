@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT parent_group_id!AS id FROM gcrships (group_id,$rews_iid,$rews_idURN_id, useoup_id, wsRN_id, u  NG;
+   NEW:
+END R;
+ET

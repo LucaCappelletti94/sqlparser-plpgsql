@@ -1,0 +1,4 @@
+
+BEGIN
+    IF NEW.eventype = 'eror' THEN
+       END;

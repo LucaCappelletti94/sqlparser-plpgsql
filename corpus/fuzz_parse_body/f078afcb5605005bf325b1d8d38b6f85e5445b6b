@@ -1,0 +1,5 @@
+ 
+BEGIN 
+    INSERT IN    VALUES (NEid) 
+    ON CONFLICT (pare,;
+END;

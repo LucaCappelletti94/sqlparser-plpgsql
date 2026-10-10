@@ -1,0 +1,10 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_id FROM tree_nodes WHd
+        UNION ALL
+        SELECT c.id, t.pa||/
+TnameNEEB*YWo ||/
+,_id nt,_id FROM chad
+    d, t.parent,i d_nt,_id FROM chain c JOIN tree_nodeW;
+END;--

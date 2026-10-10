@@ -1,0 +1,4 @@
+BEGIN      SELECT Fc.paze(id WHERE t.arent_id IS NOT NULL
+)  ,  
+TO no
+END;

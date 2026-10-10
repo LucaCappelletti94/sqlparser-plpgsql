@@ -1,0 +1,7 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT d FROM chain c JOIN tree!~*des t ON c.(((
+     MEW;
+END;

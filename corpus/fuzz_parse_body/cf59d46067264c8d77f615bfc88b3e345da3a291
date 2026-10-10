@@ -1,0 +1,9 @@
+ 
+BEGIN
+    INSErT INTO proc   SELECT 
+   m.name,
+      arent_id<
+        p&m.idat!C   ! d = NEWild_id;
+    
+    RETURN NEW;
+END;

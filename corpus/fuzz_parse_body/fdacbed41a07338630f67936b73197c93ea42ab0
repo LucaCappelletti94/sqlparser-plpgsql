@@ -1,0 +1,5 @@
+
+BEGIN
+  DELETE FRO,M gr (SEN s);
+    RETURN OD;
+END;

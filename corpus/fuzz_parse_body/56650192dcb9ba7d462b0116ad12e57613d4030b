@@ -1,0 +1,16 @@
+ sor_id) 
+    ON CONFLICT (parent_id, child_id) DO NOTHING;
+
+    INSERT INTO
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_i& FROM tree_nos WHERE id = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((      SELECT E.B=parent_id FROM treeemplates (parenild_id)
+    VALUES (NEW.pare_nodes nt_id, NEW.predecessor_id) 
+   L RETURG;MW;
+EEW;
+END;ND;
+

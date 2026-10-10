@@ -1,0 +1,5 @@
+-O
+BEGIN
+     (   SELECT gd (FROMLL
+        ~~ ~OLD;
+END;

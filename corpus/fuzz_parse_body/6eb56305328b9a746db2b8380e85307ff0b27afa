@@ -1,0 +1,9 @@
+
+BEGIN
+    IF NEW.ev= 'error' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+    --  INSERT INty) VALUES  'high');
+    ELSIF N'warning' THEN
+    --  INSERTTnfo_event', 'low');RN NEW;
+END;

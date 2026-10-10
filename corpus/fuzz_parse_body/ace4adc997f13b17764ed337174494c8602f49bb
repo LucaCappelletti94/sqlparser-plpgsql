@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+   (((
+        SELECT id, paent_id FROM
+    ( ((
+        SELECT edno= NEW.yd
+  !  =================END;

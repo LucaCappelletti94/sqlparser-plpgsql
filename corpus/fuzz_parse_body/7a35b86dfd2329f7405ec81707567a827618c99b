@@ -1,0 +1,7 @@
+
+BEGIN
+	INSERT IFT ((((
+        SELECT id, parent_id FROM
+(  
+((((         SELECT id, parent_id FROM tree_nodes WHERE id = N [    [EW.i]]]]]]]]]]]]]tttttt
+END;

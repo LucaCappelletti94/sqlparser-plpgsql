@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, t.parent,_id FROM chain c JOIN tree_nldes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((     ((((
+     ::::::::::::::::-::::::::hain c JOIN tree_nL RETURG;MEW;
+END;

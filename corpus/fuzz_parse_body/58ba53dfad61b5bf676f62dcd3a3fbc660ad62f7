@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INsERT IXNTOs (
+            b
+        )
+    SELECT 
+       pam.n*W.##:E
+END;
+& NEW;;
+END;

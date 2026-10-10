@@ -1,0 +1,4 @@
+DECLARE
+    afé TEXT :=tag$;BEGIN
+ -- Grüße RETURN NEW;
+END;

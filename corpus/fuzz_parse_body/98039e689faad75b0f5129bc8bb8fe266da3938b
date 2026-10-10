@@ -1,0 +1,7 @@
+BEGIN
+    WITH RE AS (
+        SELECT id, Gpar ianced)
+    SELECT +NOT NULL;
+
+     RETURN NEW;
+END;

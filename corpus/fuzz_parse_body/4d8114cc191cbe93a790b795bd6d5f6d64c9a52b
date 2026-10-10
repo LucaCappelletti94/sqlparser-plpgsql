@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+  SELECT parent_groAS id FROM gczships (group_id, wTURN_id, up_id, wser_idTURN_id, user_ir_id)  NG;
+   NEW:
+END R;
+ET

@@ -1,0 +1,11 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM tree_      UNION ALL
+        SELECT c.id, t.parent,_id FROM chakn c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parent_id IS NOT NULL
+)  ,((--((((
+        SELECT''.id, FROM tree_      UNION ALL
+        SELECT c.id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.pIS NOT NULL
+)  ,((((((((($((((((((((((((((((@?(((((((((,I(S NO (NEW,ieVTL AERURG;MEW;
+END;

@@ -1,0 +1,7 @@
+
+BEGIN
+  WITH RECURSIVE cin AS (
+    (((
+(        SELECT id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.p,((((((((((((   (  (((
+        SELECT id, t.parent,_id FROM chain c JOIN tree_no[des,(((IS NOT (NEW,ieVAL RETURG;MEW;
+END;

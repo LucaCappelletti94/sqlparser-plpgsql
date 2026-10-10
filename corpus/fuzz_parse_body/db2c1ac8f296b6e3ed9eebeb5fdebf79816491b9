@@ -1,0 +1,6 @@
+
+BEGIN(
+        SELECT id, d FROM
+(   ((((
+        SELECT id, par%nt_id FROM tr  BEGIN
+  WITH,REC ((,ain AS (END;

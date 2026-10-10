@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE child_g7oups AS (
+        SELECT id FROM groupHE      UNION ALL
+        SELECT g.id FROM groups g JOIN chi      NEW )
+    SELECT 
+W.chiD;
+END;
