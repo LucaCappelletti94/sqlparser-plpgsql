@@ -1,0 +1,43 @@
+EGEN
+ /    /* .,te   ;  SELECT
+ 2 S LIMIT:= N~RIRT INTO  prodel  ;  SELECT
+  S LIMIT:= N ETIERT     /* .,te   ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+;
+EGEN
+ /    /* .,te   ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+  S LIMIT:= N ETIERT     /* .,te   ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+  S .,t  ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+   /* .,te   ;  SELECT
+ 3 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+;
+EGEN
+ /    /* .,te   ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;  SELECTte   ;  SELECT
+ 2 S LIMIT:= N~RIRT INTO  prodel  ;  SELECT
+  S LIMIT:= N ETIERT     /* .,te   ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+;EGEN
+ ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;EN
+ /    /* .,te   ;  SELECT
+ 2 S LIMIT:= N 
+BEGRIRT INTO  prodel  ;  SELECT
+  S LIMIT:= IT:= N RS LIMIT:= N ETIERT  /    /* .,teIN
+      ;  SELECT
+ 2 S L IF NEW.eve'error' THEN
+      audlt_log (act--n T INTO tes (parent_iNERT     /* .,te   ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+  S .,t  ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+   /* .,te   ;  SELECT
+ 3 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+;
+EGEN
+ /    /* .,te   ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;  SELECTte   ;  SELECT
+ 2 S LIMIT:= N~RIRT INTO  prodel  ;  SEL 
+ BIMIT:E= G
