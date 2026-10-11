@@ -1,0 +1,4 @@
+
+BEGIN VALUES (EW.ad);
+	RETURN /NEtt
+END

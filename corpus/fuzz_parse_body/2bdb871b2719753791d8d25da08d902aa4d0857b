@@ -1,0 +1,6 @@
+
+BEGIN(
+        SELECT id, parent_id FROM
+(   ((((
+        SELECT id, parent_id FROM tree_nod.iers (id) V DUEtt
+.END;

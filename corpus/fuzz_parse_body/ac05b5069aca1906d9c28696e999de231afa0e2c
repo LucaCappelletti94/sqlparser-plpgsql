@@ -1,0 +1,5 @@
+
+BEGIN  SELECT id, parent_id FROM
+    ((((
+        SELECT id, pad FROM tree_s&<edWHER
+END;z

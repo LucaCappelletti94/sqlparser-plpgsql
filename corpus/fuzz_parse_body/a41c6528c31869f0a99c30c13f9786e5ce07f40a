@@ -1,0 +1,12 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM tree_nodes WHERE id =((((((((      SELECT id, parent_id FROM tree_nodes WHENO  ,((((((((((((      SELECT id, parent_id FROM tree_nodes WHENOT (iERE t.parentNULL
+)  ,((((((((((((     ((((
+        SELECT 
+_id,
+ame,
+     pamSEd,
+    $am.ass--W,ieVAL RETURG;MEW;
+END;

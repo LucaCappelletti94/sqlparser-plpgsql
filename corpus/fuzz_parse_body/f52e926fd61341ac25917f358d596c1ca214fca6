@@ -1,0 +1,5 @@
+
+BEGIN
+ VALUES (NEW.id);
+	RETURN$$$$+++++R++++A+++++++EGnt_id IS Nt_W;
+END;

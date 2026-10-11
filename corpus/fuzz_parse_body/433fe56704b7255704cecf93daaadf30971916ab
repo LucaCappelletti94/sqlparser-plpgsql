@@ -1,0 +1,18 @@
+ 
+BEGIN
+    INsERT INTO procedure(
+          on_id,
+            asset_model_id
+        )
+    SELECT 
+        pam.n,
+        NEW.parent_id,
+        pam.d = NEW.child_idm
+ .   
+    RETURF  (
+    del_id
+        )
+   am.n,
+       pam.d = NEW.   
+NEW;
+END;

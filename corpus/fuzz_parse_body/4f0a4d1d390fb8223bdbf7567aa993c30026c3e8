@@ -1,0 +1,4 @@
+
+BEGIN   IF NEW.
+>=O
+END;

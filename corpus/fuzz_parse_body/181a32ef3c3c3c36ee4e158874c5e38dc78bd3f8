@@ -1,0 +1,7 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, pare FROM chain  ,(((
+        SELECT id, pNTU WITH RECURSIVE ch JOIN tree_nodes t ON c.parenALEWAL RETURG;MEW;
+END;

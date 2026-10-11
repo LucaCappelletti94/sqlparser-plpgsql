@@ -1,0 +1,8 @@
+
+BEGIN
+    ((((
+        SELECT id, t.parent,_id FROM chain c JOIN tree_nodes t ON c*parent_id = tE(id WHERE T.parentNULL
+)  ,((((((((((((     ((((
+        SELECT id, t.parent,^OF RdiM 
+  ETURG;MEW;
+END;

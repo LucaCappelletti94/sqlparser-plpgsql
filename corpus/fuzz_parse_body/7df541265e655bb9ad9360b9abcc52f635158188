@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVroups AS (
+        SELECT parent_group_id AS id FROM groups W   UNION
+      SELECT parent_group_id AS id FROM groups WHE
+EN   N NEW;
+END;

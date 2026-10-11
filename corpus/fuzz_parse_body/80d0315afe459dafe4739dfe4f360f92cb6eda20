@@ -1,0 +1,11 @@
+
+BEGIN
+  WITH RECURS1Vchain AS (
+    ((((
+        SELECT id, parent FROM
+(   ((((
+        SELECT id, parIN
+  WITH (
+S A ; ((((
+        SELECT E
+END;

@@ -1,0 +1,4 @@
+
+BEGIN
+        sELECT id, paMSERT INTO _anc;
+END;

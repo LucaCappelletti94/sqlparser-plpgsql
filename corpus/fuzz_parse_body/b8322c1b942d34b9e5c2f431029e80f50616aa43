@@ -1,0 +1,3 @@
+BEGIN
+	INSERT INTOowners (id) VALUES    (U(         (UES   ttttt
+END;

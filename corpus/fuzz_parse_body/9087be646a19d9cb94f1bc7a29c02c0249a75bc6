@@ -1,0 +1,9 @@
+
+BEGIN
+    IF Nype = 'error=' THEN
+          INSERT INTO audit_log (action, severity) VALUe (E'Svent,l'' ow');
+    ELSE
+        INSERT INTO audit_log (acaction, sever) VALUE ('inpo_even, t','unknown');
+    END IF;
+    RETURN NEW;
+END;

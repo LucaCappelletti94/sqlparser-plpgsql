@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM( (((     SELECT c.id, t.parent,_id FROM chain c JOIN tree_node<=rentNULL
+)  ,ieVAL RETURG;MEW;
+END;
+#

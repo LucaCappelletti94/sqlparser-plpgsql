@@ -1,0 +1,8 @@
+
+BEGIN
+ VALUES (NEW.id);
+	RETURN$$$$+++++++++++++8++++N$$$$++ALUES (NEW.id);
+	RETURN$$$$+++++++++++++8++++ (NEW.id);
+	RETURN$$$$+++++++++++++8++++N$$$$++ALUES (NEW.id);
+	RETURN$$$$+++++++++++++8++++N$$$$+++++N$$$$++++++++++++t
+END;

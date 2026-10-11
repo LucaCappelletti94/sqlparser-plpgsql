@@ -1,0 +1,6 @@
+
+BEGIN
+  SELECT 
+   paoA.nam/En	 = case, case@@@@a
+
+END??;

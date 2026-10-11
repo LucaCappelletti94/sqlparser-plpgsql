@@ -1,0 +1,5 @@
+
+BEGIN
+  DELETE FROM memN (SELis);
+    RETURN OD;  DELETE
+END;

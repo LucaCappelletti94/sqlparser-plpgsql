@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT iEW.i[
+        0000000000000000000Z
+END;
