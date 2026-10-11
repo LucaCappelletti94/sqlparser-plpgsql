@@ -1,4 +1,0 @@
-
-BEGIN
-IF NEW.e_type ==
-END

@@ -1,4 +1,0 @@
-DECLARE
-    café TEXT :=tag$;BEGIN
- -- Grüße RETURN NEW;
-END;

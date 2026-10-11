@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH REChain AS (
-        SELECT iaenr,d ptd
-        UNION ALLURN NEW;
-END;

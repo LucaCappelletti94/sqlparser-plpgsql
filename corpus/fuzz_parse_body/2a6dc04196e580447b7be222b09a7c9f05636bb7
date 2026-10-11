@@ -1,8 +1,0 @@
-
-BEGIN
-    IF vepe = 'error='THEN
-  
-    ELSE
-       IF;
-NEW;
-EnD;
