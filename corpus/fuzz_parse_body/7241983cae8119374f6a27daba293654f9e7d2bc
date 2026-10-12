@@ -1,4 +1,0 @@
-
-BEGIN
-        sELECT id, pare.t_ROMSERT INTO _anc;
-END;

@@ -1,5 +1,0 @@
-
-BEGIN
-    IF NEW.event_t = 'error' THEN
-           INSERT INTO audiFNEe!~~*~~    ETURN
-END;

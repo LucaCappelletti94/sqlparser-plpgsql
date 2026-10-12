@@ -1,5 +1,0 @@
-
-BEGIN
-	INSERT INTO ower VALUES (NEW&&){
-	REEW;
-END;

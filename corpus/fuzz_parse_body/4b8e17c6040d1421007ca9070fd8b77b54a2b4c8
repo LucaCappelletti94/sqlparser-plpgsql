@@ -1,5 +1,0 @@
-
-BeGIN
-    WITH RECUs AS (
-   SELECT FRd_groups); OLD{
-END

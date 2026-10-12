@@ -1,8 +1,0 @@
-W;
-<<
-BEGIN
-    WITH REC$chain AS (
-        SELECT id,s WHERE id = ALL
-EW;
-END;
-2

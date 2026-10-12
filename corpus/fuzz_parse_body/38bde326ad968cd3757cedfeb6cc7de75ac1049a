@@ -1,4 +1,0 @@
-
-BEGIN     SELECT pa   UNION ALL
-    EW;
-END;

@@ -1,8 +1,0 @@
-
-BEGIN
-	INSERT IFTO o((
-        SELECT id, parent_id FROM
-(((((
-        SELECT id,_nodes WHERE id = N [    [EW--tSE
-   [E]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]W.idtttttttt
-END;

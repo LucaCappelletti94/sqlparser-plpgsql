@@ -1,4 +1,0 @@
-
-BEGIN
- RETURN URN ?||B<<B|BRN ?||B<<CN?||
-END;

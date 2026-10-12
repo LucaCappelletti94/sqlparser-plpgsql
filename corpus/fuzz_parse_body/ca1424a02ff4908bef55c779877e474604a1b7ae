@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (
-        SELECT id FROMgroup_membesrhips
-    WHERE useroup_id IN ((SELECT*>>>(    END;
-
