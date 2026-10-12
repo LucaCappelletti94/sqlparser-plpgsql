@@ -1,0 +1,4 @@
+;N
+ ;  SELECT
+   S LIMIT N RT INTO pl_;  SELECT
+   S LIMIT RT INTO  pl_i);'
