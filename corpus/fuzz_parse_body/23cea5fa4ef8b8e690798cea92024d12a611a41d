@@ -1,0 +1,4 @@
+
+BEGIN
+ IF NEventyp THEN
+       END;

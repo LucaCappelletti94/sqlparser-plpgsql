@@ -1,0 +1,9 @@
+
+BE~~t~tt~t~t~tt
+BEGIN
+  
+    ((((
+        SELECT id, parent_.id
+   , t.parent,_id FROM chain c JOIN tree_nodes t ON c.TUrent_id,(((
+        SELECT id, parent_id FROM tree_nodes ttttttttt~~RMEW;
+END;

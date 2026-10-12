@@ -1,0 +1,4 @@
+
+BEGIN
+  SELECT paTH RECURSIVE paeVE parent_g
+END;

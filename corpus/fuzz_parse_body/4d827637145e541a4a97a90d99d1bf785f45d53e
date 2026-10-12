@@ -1,0 +1,5 @@
+
+BEGIN
+  DELETE FROM p_(SELips);
+    RETURN OLD;
+END;

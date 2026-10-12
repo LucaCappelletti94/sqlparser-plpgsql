@@ -1,0 +1,5 @@
+
+BEGIN
+  SELECT id, t.par FROM chamn c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((     ((((
+        SELECT id@@@@@@@@@@@@@@id END;

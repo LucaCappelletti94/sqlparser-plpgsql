@@ -1,0 +1,8 @@
+ 
+BENSERT INT 
+BEGIN
+    INSERT INT1O proc   SELECT 
+        N_i,
+        NEW.  *pad,
+    $am.asse       *pamS.a
+END;

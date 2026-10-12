@@ -1,0 +1,4 @@
+
+BEGIN
+	INSERT IPO o VALUE(NEW.$id);
+	RETURN |/END

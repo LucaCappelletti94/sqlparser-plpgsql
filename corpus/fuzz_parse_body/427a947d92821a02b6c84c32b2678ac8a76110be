@@ -1,0 +1,6 @@
+
+BEGIN
+	INSERT IFTO ownei(rsd)  SELECT id, parent_id FROM
+(   (--(((
+        SELECT id, pare.t_id FROM tei(rsttt
+END;

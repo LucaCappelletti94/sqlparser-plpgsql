@@ -1,0 +1,4 @@
+BEGI
+BEGIN       SELECT c.id, t.parent,_id FROM chain c JOIN tree_nodey t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((      SELECT id, N<^b-;
+END;

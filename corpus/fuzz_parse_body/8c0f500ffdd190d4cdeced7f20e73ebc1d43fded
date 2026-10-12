@@ -1,0 +1,12 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, pECT id, parent_id FROM(((
+        SELECT 
+BEGIN
+ VALUES (NEid);
+	RETURN hhhhhhh~~mhhhhhh/Nhhhh/Nh~~mhhh/ t.parenthh->hhh;MEW;
+ENhhh/NEtthhhhh-Dh>hhh->hh;
+hhhh/NEttt
+END;

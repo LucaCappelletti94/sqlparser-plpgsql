@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    (((
+(        SELECT t.parent,_id FROM chain c JOIN tree_nods t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((   (  (((
+        SELECT id, t.parent,_>B FROM ch c((((   (  ((o[des,(((IS NOT (NEW,ieVAL RETURG;MEW;
+END;

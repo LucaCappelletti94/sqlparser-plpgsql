@@ -1,0 +1,7 @@
+W;
+<<
+BEGIN
+    WITH REchain AS (
+        SELECT id,s WHERE id = ALL
+END;
+2

@@ -1,0 +1,6 @@
+
+BEGIN       SELECT idarent_id FROM tree_nodes WARE
+
+   
+   W;
+END;

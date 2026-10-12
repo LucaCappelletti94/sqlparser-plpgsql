@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH Rrouts AS (
+        SELECT paret_gro (group_id,enj_grou::::::::::::::::idps WHERE id IS;
+END;

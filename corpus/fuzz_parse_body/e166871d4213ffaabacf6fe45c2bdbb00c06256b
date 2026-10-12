@@ -1,0 +1,7 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, p.parent,_id FROM chain c JOIN tree_n ,((((((((((((     ((((
+        SELECT id, t.parent,d FROM chain c JOIN tree_nodeid, t.parent,_id FROM chWin _i = t id WHERE t.pRWG;;2
+END;

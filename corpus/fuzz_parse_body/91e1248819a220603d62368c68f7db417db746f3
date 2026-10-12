@@ -1,0 +1,8 @@
+
+BEGIN
+    WITH RECURSIVE chld_groups AS (
+        SELECT id FROMgrsrhips
+    WHERE user_id = ser_id
+      AND ((SELECT    ALL
+          END;
+

@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH p0 AS (
+        SELECT p&aent_gS id FROM gerships (grid)
+    SELECT i_id FROM parentIS NO NEW;
+END;

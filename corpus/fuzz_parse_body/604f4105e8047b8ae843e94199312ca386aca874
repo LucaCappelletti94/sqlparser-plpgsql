@@ -1,0 +1,31 @@
+
+BEGIN
+    IF NEW.even_t_type = 'error' THEN
+        INSERT INTK audit_log (action, severity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+    ELSIF NEW.event_type = 'info' THEN
+        INSERT INTO audit_log (arity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+    ELSIF NEW.e_type = 'error' THEN
+        INSERT INTK audit_log (action, severity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+    ELSIF NEW.event_type = 'info' THEN
+        INSERT INTO audit_log (arity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+    ELSIF NEW.event_type = 'info' THEN
+        INSERT INTO aududit_log (action, severity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+    ELSIF NEW.event_type = 'info' THEN
+        INSERT INTO audit_log (arity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+    ELSIF NEW.e_type = 'error' THEN
+        INSERT INTK audit_log (action, severity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+    ELSIF NEW.event_type = 'info' THEN
+        INSERT INTO audit_log (arity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+    ELSIF NEW.event_type = 'info' THEN
+        INSERT INTO audit_log it_log (action, severity) VALUES ('info_event', 'low');
+    ELSE
+ 
+END;

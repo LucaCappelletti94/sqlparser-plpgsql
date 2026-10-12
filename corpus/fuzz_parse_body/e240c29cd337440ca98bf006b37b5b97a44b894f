@@ -1,0 +1,3 @@
+
+BEGIN
+      SELECT id FROM groups JOIN child_groups cg ON gIN[END;

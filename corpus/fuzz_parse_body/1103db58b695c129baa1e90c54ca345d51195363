@@ -1,0 +1,5 @@
+
+BEGIN
+	INSERT INTOs (id) VALUES (N$id);
+	RETURN |NEW;
+END;

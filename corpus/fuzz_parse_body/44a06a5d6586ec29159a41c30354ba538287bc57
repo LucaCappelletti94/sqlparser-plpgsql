@@ -1,0 +1,7 @@
+
+BEGIN
+	RETURN hh(NtnEW.id);
+	RETURN(ntNEW.id);
+	RETURN h(ntNEW.id);
+	RETURN hh-h>tt
+END;

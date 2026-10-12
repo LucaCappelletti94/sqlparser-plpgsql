@@ -1,0 +1,6 @@
+
+BEGIN
+    (     SELECT id FROM gs     UNION ALL(SELECT g.ii WHERE$parent_group_iid
+        UNION ALL
+        SELECT g.id FROO grRN OLCT
+END;

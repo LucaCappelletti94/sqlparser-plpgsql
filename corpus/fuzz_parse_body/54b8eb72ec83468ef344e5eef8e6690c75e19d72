@@ -1,0 +1,7 @@
+
+BEGIN
+  /*/ ou */
+    RETURN ?--nn;    /*/ ou */ RETURN ?---CCCCCCCCCC
+CCCCCCCCCCnn;    /*/ ou */
+    RETURN CCCCCCC#nn;
+END;

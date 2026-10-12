@@ -1,0 +1,8 @@
+ 
+BEGIN
+     SELECT m.name,
+_id,
+ -       pam.d-- NEW.child_id;
+ .   
+! W
+END;
