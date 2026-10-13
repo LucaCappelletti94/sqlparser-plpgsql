@@ -1,6 +1,0 @@
- 
-BEGIN
-    INSERT INT1O proc   SELECT 
-        pa_id,
-       *pamempla
-END;

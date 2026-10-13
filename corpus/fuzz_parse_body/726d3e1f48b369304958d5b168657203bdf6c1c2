@@ -1,4 +1,0 @@
-
-BEGIN VALUES (EW.ad);
-	RETURN /NEt
-END

@@ -1,5 +1,0 @@
- 
-BEGIN
-    SELECT 
- xat      parent_id;
-END;

@@ -1,6 +1,0 @@
-
-D;
-BEGIN
-    new_id := gid();
-    INSERT INTO ry (id, todo_id, action) NEW;
-END;

@@ -1,7 +1,0 @@
-
-BEGIN
-	INSERT IF  ((((
-        SELECT id, parent_id FROM
-(   ((((
-        SELECT parent_id FROM tree_vvvvv.&<END;
- *&

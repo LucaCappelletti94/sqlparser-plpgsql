@@ -1,4 +1,0 @@
- 
-BEGIN
-    INsERT IXNET pro    SELECT      -map ;
- .END;

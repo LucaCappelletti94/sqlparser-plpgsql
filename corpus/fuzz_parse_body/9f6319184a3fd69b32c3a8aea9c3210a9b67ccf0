@@ -1,6 +1,0 @@
-
-BEGIN
-  WITH  chain AS (  SELECT id, parent_id FROM
-     (((
-        SELECT-- id, TURG;MEWO
-END;

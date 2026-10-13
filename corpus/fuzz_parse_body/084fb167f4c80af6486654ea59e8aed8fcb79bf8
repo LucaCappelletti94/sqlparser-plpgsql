@@ -1,4 +1,0 @@
-BEGIN
-  WITH RSIps AS (
- SELECT o.*d _ NEW;
-END;

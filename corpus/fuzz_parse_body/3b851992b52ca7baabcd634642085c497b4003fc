@@ -1,4 +1,0 @@
-
-BEGIN
-    SELECT mbersh = OLD.#-u
-END;

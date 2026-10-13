@@ -1,5 +1,0 @@
-
-BEGIN
-        SELECT id FROM groupscg ON g.pares);
-    RE OLD;
-END;

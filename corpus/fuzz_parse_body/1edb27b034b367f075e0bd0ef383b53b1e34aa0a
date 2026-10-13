@@ -1,8 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (
-        SELECT id FROM groups WHERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -- GrTg$;
-BEGIN
-   :-- 
-END;
-

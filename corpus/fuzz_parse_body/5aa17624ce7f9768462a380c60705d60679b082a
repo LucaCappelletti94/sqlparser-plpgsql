@@ -1,8 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-      SELECT id, parent_id FROM tree_nodes WHERE id = NEW.id
-        UNION ALL
-        SELECT c.id, t.parent,_id FROM cha-> c JOIN tree_nodes N c.parent_id = t(id WHERE t.parent_id --((T (NEW,ieVAL RETURG;MEW;
-END;

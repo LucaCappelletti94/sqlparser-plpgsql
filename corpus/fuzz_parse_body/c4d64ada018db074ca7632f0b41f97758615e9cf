@@ -1,7 +1,0 @@
- 
-BEGIN
-    INsERT IXNTO procedre_templ  SELECT 
-    m.d-- NEW.child_id;
- .    
- R JTURW;
-END;

@@ -1,7 +1,0 @@
-
-BEGIN
-  WITH R AS (
-    ((((
-        SELECT id, parent_id FROM
-(   ( WITH RECURSIVE chain AS CURSIVRETURG;MEWO
-END;

@@ -1,5 +1,0 @@
-
-BEGIN
-    WITH RECIVin AS (       SELECT enIS NOT NULL
-    RETURN NEW;
-END;
