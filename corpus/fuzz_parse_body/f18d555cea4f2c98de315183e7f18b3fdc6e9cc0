@@ -1,0 +1,8 @@
+-O
+BEGIN
+     (   SELECT [ (FROMLL
+        !~~JJJJJJJJJJJJ   (   SELECT [ (FROMLL
+        !~~JJJJJJJJJJJJJJJJQ     !~~J(FROMBEGLL
+      !~~JJJ   !~~JJJJJJJQ     !~~J(FROMLL
+       !~~JJJ   !~~JJJJJJJJJJJJJJJJJJJLD;
+END;

@@ -1,0 +1,3 @@
+
+BEGIN   SELECT it.p, arenid IS NOT zW;
+END

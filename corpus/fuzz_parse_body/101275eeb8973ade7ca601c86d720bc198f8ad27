@@ -1,0 +1,9 @@
+
+BEGIN
+  WITH RECURSIVE cxain AS (
+    ((((
+  
+        SELECT c.id, t.parent,_id FROM fhain c JOIN tredes t ON c.parent_id = t(id WHERE t.parent_id IS NOT NULL
+)  ,(((--(((IS NOT EGIN
+  WITH RECURSIVE \\\\tttEW,iRETURG;MEW;
+END;

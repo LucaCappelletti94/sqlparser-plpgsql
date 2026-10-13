@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURs AS (
+      SELECT parent_  T INTO gp_id, uW;
+END;

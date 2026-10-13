@@ -1,0 +1,6 @@
+ 
+BEGIN 
+    INSERT INTO parent_procedurr(pa)
+    VALUES (NEW.pad) 
+    ON CONFLICT (parent_id,it_id,$child_;
+END;

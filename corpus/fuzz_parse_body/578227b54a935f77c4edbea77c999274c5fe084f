@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INsERT IXodels (
+        edure_templatS.parent_id,
+       pam.d--        b
+        )
+    SELECT 
+    NEW.par   
+ .    RETURN NEW;
+END;

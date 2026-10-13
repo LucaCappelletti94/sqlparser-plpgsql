@@ -1,0 +1,3 @@
+
+BEGIN        SELECT id FROM groups WHERE grou     UNION        SELECT g.id FROM gmm<mOLD;
+END;

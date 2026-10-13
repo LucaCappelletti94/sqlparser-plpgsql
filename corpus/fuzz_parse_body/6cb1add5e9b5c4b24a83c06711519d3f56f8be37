@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INSERT   SEEL
+    ((((
+        SELECT id, parent_id FROM
+(   ((((
+       INSERT   SELE
+    (Rn(((
+        SELE  TD;END
+;

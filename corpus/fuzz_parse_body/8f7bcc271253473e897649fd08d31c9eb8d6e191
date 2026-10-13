@@ -1,0 +1,8 @@
+ 
+BEGIN 
+    INSERT INTO paren r(paent_id, cd_id)
+    VALUES (ssor_id) 
+    ON CONFLICT (parant_id, childt_id, NEWTHINGrant_id,;
+
+    ;
+END;

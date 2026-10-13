@@ -1,0 +1,6 @@
+
+BEGIN(((
+        SELECT id, parent_id FROM
+ ((((
+        SELECT idid FROIent_id FROM tree(n-t
+END;

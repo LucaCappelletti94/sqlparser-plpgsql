@@ -1,0 +1,7 @@
+
+BEGIN
+   (
+    ((((
+        SELECT id, parent_id parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.pA)  ,((((((((((((      SELECT idW.id
+        =UNION ALLTURG;MEW;
+END;

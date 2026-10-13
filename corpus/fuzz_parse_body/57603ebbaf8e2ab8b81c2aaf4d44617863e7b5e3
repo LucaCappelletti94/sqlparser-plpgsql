@@ -1,0 +1,6 @@
+ 
+BEGIN
+   SELECT 
+  SEd,$am.asse d,
+    $am.asset_mo
+END;

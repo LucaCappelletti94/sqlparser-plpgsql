@@ -1,0 +1,9 @@
+ 
+BEGIN
+     SELECT 
+        pam.me,
+ id,
+*pamS,
+   FROM      
+  edu    pla
+END;

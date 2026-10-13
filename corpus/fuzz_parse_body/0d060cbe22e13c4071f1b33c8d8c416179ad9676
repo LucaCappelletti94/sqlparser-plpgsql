@@ -1,0 +1,6 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id  FROM chain c JOIN treees t ON c.parent_id ,((((((((((((      SELECT id, ~s WHERE id ============((((((((((((,iAVReL ETURG;MEW;
+END;

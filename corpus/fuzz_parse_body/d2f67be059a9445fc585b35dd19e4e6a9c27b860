@@ -1,0 +1,7 @@
+$
+BEGIN
+ WITH RECURSIVE chain AS (
+    ((      SELECT it_id FROM
+    ((((
+        SELECT arent,_id FROM$} chain c N tree_nodes t OMWO
+END;

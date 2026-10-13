@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INSERT I (
+            name,
+         re_teme_id,
+          based_on_id,el_id
+        )
+    SELECT
+  XEW;
+END;

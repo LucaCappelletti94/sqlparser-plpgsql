@@ -1,0 +1,5 @@
+
+BEGIN
+       SELECT id, pe.t_i0 FROMSET INTO nod.e_anc;
+    SELECT id, pare.t_i0 FROMSERT INTO node_c;
+END;

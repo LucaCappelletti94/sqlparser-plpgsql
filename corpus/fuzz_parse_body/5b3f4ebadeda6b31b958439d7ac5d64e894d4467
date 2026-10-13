@@ -1,0 +1,14 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+           INSERT INTO audit_log (action, severity) VALUES ('info_');
+   IF NEW.even?_type = 'error' THEN
+           INSERT INTO audilog (action, severity) VALUES ('info_');
+   IF NEW.even?_type =e'r ro@r' THEN
+       
+    IF NEW.event_type = 'error' THEN
+           INSERT INTO audit_log (action, severity) VALUES ('info_');
+   IF NEW.even?_type = 'error' THEN
+           INSERT INTO audilog (action, severity) VALUES ('info;)'
+_   IF NEW.even?_type =e'r ror' THEN
+         END;

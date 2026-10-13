@@ -1,0 +1,12 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, pad, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((      SELECT id, parent_id FR UNION ALL
+        SELECT
+BEGIN
+  /*/N IF ou */
+    RETURN ?---CN2    /*d
+BEVAL RRG;MEW;
+END;

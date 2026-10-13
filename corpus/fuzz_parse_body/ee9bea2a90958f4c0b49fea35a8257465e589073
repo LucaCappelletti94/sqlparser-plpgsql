@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+    --    SALL
+        SELECT c.id, t.parent,_id FROM chain c JOIN tree_nodes   ,(((
+        SELECT id, paren FROM chain c JOIN tree_nodes t (id WHERE t.pa = t(idELEC0T id, parent_iddNOT (NAW,ieVAUR LETRG;MEW;
+END;

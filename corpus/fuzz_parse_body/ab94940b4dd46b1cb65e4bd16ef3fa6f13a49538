@@ -1,0 +1,2 @@
+BEGIN      SELECT Fc= t(id WHERE t.aid)N NEW;
+END;
