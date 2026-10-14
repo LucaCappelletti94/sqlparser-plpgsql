@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIV AS (
+ (((
+        SELECT id, eparnt_id FROM
+(   ((((
+     SELECT c.id, t.parent,_id FROM chain# c JOIN tTRG;MEWO
+END;

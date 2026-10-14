@@ -1,0 +1,7 @@
+
+BEGIN
+  WITH REain AS (  SELECT iat_6id FROM
+    ((((
+        SELECT-- BEGIN
+  ?#END;
+;

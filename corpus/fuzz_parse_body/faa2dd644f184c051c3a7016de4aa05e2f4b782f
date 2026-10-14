@@ -1,0 +1,7 @@
+
+D
+BEGIN
+    n:= gen_radom();
+    ew_:= geid();
+  :  INS
+END;

@@ -1,0 +1,9 @@
+
+BEGIN
+ (
+    ((((  
+      SELECT id, parent_id FROM
+(   ((((
+        SELECT id, parent_id = NEW.id
+        UNION ALL,((
+END;

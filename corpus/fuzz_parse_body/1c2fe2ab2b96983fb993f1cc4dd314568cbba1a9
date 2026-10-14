@@ -1,0 +1,7 @@
+
+BEGIN
+  WITH REChain AS  ((((
+        SELECT id, parend_id FROM
+    ((((
+        SELECT t_id FROM trin AS rent_grouparen3_;MEWO
+END;

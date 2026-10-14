@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH Roups AS (
+        SELECT pard AS _group_id FROM(groups eps (group_id, uer_id)
+    SSERT INTO RETURN &NEW;@END;

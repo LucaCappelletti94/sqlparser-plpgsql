@@ -1,0 +1,9 @@
+
+BEGIN
+
+     SELECT idt.parent,_id FROM chain c JOIN tree_ndes t ON c.paren4_id = t(id WHERE t.parentNUHL
+)  ,((((((((     SELECT id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.
+''''''''''''''''''.'''g''''''''''''':
+ED R;
+ WHE((IS NOT (NEW,iL RETURG;MEW;
+END;

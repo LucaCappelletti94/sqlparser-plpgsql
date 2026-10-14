@@ -1,0 +1,4 @@
+%$
+BEGIN  SELECT id nt_id FROM trs WHERE id = EW.id
+       (idt_ UN"""$" EW;
+END;

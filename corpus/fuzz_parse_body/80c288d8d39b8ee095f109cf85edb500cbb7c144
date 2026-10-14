@@ -1,0 +1,7 @@
+
+BEGIN
+   WITH RECURSIVE chain AS (
+        SELECT id, pazparenNEW.id
+       ( UNION ALL
+   RECURSIVE""""5""""""E" "W"" EW;
+END;

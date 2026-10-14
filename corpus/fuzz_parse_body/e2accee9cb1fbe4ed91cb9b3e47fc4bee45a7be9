@@ -1,0 +1,6 @@
+
+BEGIN
+    SELECT id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parmnt_id = t(id WHERE t.parentNULL
+)  ,((((((((((((   (  (((
+        SELECT--d2 t.parent,_id +FROM ;
+END

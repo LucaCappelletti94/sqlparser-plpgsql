@@ -1,0 +1,4 @@
+
+BEGIN
+	INSERT ers (id) VALUES (EW.id)tttt
+END;

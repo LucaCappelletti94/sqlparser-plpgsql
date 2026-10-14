@@ -1,0 +1,12 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    (((
+(        SELECT id, t.parent,_id FROM iachn c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,(((((((((((((   (  (((
+        SELECT--dAS (
+    (((
+(        SELECT id, t.parent,_id FROM iachn c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,(((((((((((((   (  (((
+        SELECT--d, t.pa,rent,, t.pa,rent,_id +FROM ;
+END

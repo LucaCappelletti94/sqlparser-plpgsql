@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INSERT I (
+            name,
+     _iD,
+          based_on_id,el_id
+        )
+    SELECT
+  XEW;
+END;

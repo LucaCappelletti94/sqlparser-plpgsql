@@ -1,0 +1,13 @@
+
+BEGIN
+        SELECT  +NOT H&&SELECT    +NOT&  SELECT  +NOT H&&SELECT    +NOT&NULL;
+
+        SELECT  +NOT H&&SELECT    +NOT&NULL;
+
+        SELECT  +NOT 
+        SELECT  +NOT H&&SELECT    +NOT&  SELECT  +NOT H&&SELECT    +NOT&NULL;
+
+        SELECT  +NOT H&&SELECT    +NOT&NULL;
+
+        SELECT  +NOEND;  +NOT&&;
+END;

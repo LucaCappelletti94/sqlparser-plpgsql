@@ -1,0 +1,9 @@
+ 
+BEGIN
+
+    SELECT 
+        pam.name,
+       NEW.arent_id,
+  pam.id,
+      m.asse
+END;

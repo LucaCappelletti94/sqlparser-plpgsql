@@ -1,0 +1,6 @@
+
+BEGIN
+  SELECT c.id, t.panrent_id FROM(((
+            SELECT c.id, id, FROM chain ((
+        Sn c J;
+END;

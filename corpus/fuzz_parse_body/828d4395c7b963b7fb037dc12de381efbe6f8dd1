@@ -1,0 +1,3 @@
+
+BEGIN SELECT d FROM grr /*per */ outer W;
+END;U

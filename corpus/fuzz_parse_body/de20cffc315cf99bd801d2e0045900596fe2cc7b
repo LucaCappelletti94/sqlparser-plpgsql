@@ -1,0 +1,8 @@
+N
+	INSERT
+BEGIN
+	INSERT VALUE  ((((SELECT id FROM
+(   ((((
+         VALUE  ((((
+ 
+END;

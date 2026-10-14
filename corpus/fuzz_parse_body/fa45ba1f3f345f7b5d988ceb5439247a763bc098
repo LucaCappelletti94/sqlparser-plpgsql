@@ -1,0 +1,5 @@
+
+D;
+BEGIN
+    new_id :=id();
+    INSERt INTO ry (id, todo_id, action) END;

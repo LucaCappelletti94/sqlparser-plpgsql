@@ -1,0 +1,4 @@
+ 
+BEGIN
+ 
+    INSERT Ie_bks   SELECT    map  END; ^G

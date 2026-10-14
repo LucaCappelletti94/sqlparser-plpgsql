@@ -1,0 +1,5 @@
+
+BEGIN      SELECT id, prent_id FROM
+(   ((((
+      SELECT i parent_id FROM tr.iers (id) VAL(((e          SELEC
+END;

@@ -1,0 +1,7 @@
+ 
+BEGIN
+     SELECT Gm
+ -       pam.d-- NEW.child_id;
+ .   
+! W
+END;

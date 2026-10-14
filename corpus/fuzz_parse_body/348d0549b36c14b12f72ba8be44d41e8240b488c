@@ -1,0 +1,4 @@
+
+BEGIN
+  IF NenLU('inf', 'low');
+END IFD;

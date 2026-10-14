@@ -1,0 +1,9 @@
+
+BEGIN
+    ((((
+        SELECT id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((     SELECT id, t.parent,_id FROM chain c JOIN tree_nodest ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((     SELECT id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,(((((((_nod  XELECT id, 
+ (((IS NOT (NEW,ieVAL RETURG;MEW;
+END;

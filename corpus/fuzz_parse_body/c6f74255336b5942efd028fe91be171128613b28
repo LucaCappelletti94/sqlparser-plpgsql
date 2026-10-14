@@ -1,0 +1,18 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT INTK audit_log (action, severity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = EW.event_type = 'info' THEN
+        INSERT INTO audit_lof (action, severity) VALUES ('info_event', 'low');
+    ELSE
+ BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT INTK audit_log (action, severity) VALUES ('error_event', 'low');
+    ELSE
+            IF NEW.eve4t_t]pe = 'error' THEN
+        INSERT INTK audit_logE
+        INSERT INTOlog (action, severity) VALUE;)   ELSE
+        [NSERT INTO audit_log (action, severity) VALUES ('unkwown_event', 'unknown');
+               IF NEW.event_tN NEW;
+END;INSERT INTOity) VALUES ('unknown_event', 'unknown');
+    EN
