@@ -1,4 +1,0 @@
-
-BEGIN (
-      SELECT pare(grd,t_groups AS (
-END;

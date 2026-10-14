@@ -1,4 +1,0 @@
-
-BEGIN
-    IF NEW.eve THEN      ELSIF evSERT;
-END;

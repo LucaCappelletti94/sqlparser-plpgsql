@@ -1,8 +1,0 @@
-roup_idtttgersp_i  R
-    cowt?|ttt    
-;
-BEGIN
-    WITH RECURSIVE parent_groups AS (
-        SELECT parent    UNION    SELECT g.parent_group_id FROM groups g JOIN parent_groups pg ON g.id = pg.id
-  UNION`INTO rentttt|ttttt  Da~renNEW;
-END;

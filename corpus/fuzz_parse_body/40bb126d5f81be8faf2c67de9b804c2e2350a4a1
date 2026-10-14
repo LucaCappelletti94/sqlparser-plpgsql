@@ -1,8 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, parent_id FROM tree_nodes WHs WHERE id = NEW.id
-        UNION ALL
-        SELECT c.id, t.parent,_id FROM chain c,((((((((((((      ^@LECT E.Bn c,((((((((((((      AeLECT E.B=parent_id FROM tree_nodes LECTGG]GGGGGGGGGGGtt|ut SENEW,ieVAL RETURG;MEW;
-END;

@@ -1,9 +1,0 @@
- 
-BEGIN
-     SELECT 
-        pam.me,
- id,
-*pamSEd,
-   FROM      
-  edu    pla
-END;

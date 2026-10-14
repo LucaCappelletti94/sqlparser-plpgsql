@@ -1,5 +1,0 @@
-
-BEGIN
-     SELECT paren(group_id, user_id)
-    SELECT  NEWRE id IS;
-END;

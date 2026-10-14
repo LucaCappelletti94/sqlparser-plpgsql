@@ -1,4 +1,0 @@
-BEGIN      SELECT Fc= t(id WHERE t.arent_id IS NOT NULL
-)  ,  
-TO node_ancestows (stor_id)N NEW;
-END;

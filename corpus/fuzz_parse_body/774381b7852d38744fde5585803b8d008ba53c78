@@ -1,8 +1,0 @@
-
-BEGIN
-  SELECT c.id, t.parenrent_id FROM(((
-        
-        SELECT c.id, t.parent,_id, FROM chain c t.parentNULL
-)  ,(((
-        Sn c J;
-END;

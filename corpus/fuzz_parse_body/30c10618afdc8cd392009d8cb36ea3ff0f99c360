@@ -1,5 +1,0 @@
- 
-BEGIN
-    INSERT I SELECT
-  XEW;
-END;

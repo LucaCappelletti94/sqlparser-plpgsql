@@ -1,3 +1,0 @@
-
-BEGIN
-    SELECT id, par IS --T END;

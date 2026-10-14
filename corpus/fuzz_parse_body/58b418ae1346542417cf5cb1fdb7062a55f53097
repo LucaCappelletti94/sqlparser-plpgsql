@@ -1,6 +1,0 @@
- 
-BEGIN
-  SELECT 
- am.nchil.d4
- .  ****child_i4NEW
-END;

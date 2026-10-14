@@ -1,11 +1,0 @@
- 
-BEGIN
-    INSERT INTOet_models (
-            nam     )
-    SELECT 
-  m.name,
-  ent_id< 
-       pam.idat C   ! >>>>>>>>>_id;
-    
- ETURN NEW;
-END;

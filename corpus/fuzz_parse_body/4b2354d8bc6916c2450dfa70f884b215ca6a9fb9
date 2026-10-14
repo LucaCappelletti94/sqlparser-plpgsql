@@ -1,4 +1,0 @@
-
-BEGIN
-    WITH Rhaan AS ( SELECT id, pant_i FROM tree_ WITH RECURI
-END;

@@ -1,8 +1,0 @@
-
-BEGIN
-	INSERT IFTOwnerLUE  ((((
-        SELECT id, parent_>d FROM
-(   ((((
-        SELECT id_id FROM t id) V ((((
-        SEL_idttt*t
-END;

@@ -1,8 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
- (((
-        SELECT id, eparnt_id FROM
-(   ((((
-     SELECT c.id, t.parent,_id FROM chain c JOIN tree_nodes # ON c.edn_NOTRG;MEWO
-END;

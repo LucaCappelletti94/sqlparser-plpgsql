@@ -1,3 +1,0 @@
-BEGIN
-    SELECT part_groips (grou WHERE id IS;
-END;

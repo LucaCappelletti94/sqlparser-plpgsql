@@ -1,7 +1,0 @@
-
-BEGIN
-  WITH RECURSIVEin AS (
-    SELECT id, parent_id FROM
-(   ((((
-     SELECT c!.id, tETURG;MEWO
-END;
