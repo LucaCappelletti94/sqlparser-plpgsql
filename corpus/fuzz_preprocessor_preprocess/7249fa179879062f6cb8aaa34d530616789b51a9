@@ -1,0 +1,16 @@
+
+BEGIN
+w;
+	RETU 'warning' THEN
+BEGIN
+ERTW;
+DIN
+Otype THEN
+    
+BEGIN
+	I*NSERTTHEH
+   TO ow;
+	RETu 'warning'THEN
+  :=BEGIN
+D ECLAR
+END;$
