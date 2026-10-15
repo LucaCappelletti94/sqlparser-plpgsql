@@ -1,0 +1,4 @@
+
+BEGIN
+     SELECT id, ps (node_id, ->s.idECT i
+END;

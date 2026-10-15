@@ -1,0 +1,7 @@
+
+BEGIN
+	INSERT I   
+        SELECT id, Uid FROM chain c JOIN tree_nodes t ON c.pareno_id = t(id WHERE t.parentNULL
+)  ,(((((((((((((((((((      SELECT id, pd FROM tree_hailate_asset_models (
+                    ->>                                     N
+END;

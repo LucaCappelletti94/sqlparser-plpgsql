@@ -1,0 +1,10 @@
+
+BEGIN
+	INSERT IFTO owners (id) VALUE  ((((
+        SELECT id, parnt_id FROM
+(   ((((
+        SELECT id, parent_i.parent,_id FR<> cc JOIN tree_no_eS  _ (  
+BEGI)
+  WITH RECURSIVE )(((((EWO
+END;
+idttttttd

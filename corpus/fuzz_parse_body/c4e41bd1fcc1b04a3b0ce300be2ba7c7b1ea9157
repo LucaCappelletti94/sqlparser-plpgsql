@@ -1,0 +1,5 @@
+
+BEGIN
+SELECT id, t.p,_id FROM chain c JOIN tree_nodes t ON c.parent_i,((((((((((((     ((((
+        SELECT id, t.par!ent,_id FROL RETURG;MEzW;
+END;

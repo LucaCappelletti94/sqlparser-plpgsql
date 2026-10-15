@@ -1,0 +1,7 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id t,_id FROM chain c   ,(((((((((((<=+((((()((.:parentWHERE t.parentNULL
+)  ,((((;
+END;

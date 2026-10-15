@@ -1,0 +1,9 @@
+
+BEGIN
+  WITH ReCURSIVE chain AS (
+    ((((
+        SELECT id, parent_Id FROM
+(   ((((
+        SELECT^ id, paW.
+BEG#RRREWOEND
+.i    SELECT id#2222#

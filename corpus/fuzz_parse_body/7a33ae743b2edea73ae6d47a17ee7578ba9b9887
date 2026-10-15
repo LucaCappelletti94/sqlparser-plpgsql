@@ -1,0 +1,6 @@
+ 
+BEGIN
+ 
+    INSERT Ie_bks   SELECT        map
+ 
+    IMENSE; END; ^G

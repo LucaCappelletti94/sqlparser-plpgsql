@@ -1,0 +1,10 @@
+ 
+ t_mo   SELECT 
+       pam.name$,am.id,
+          SERT INTO eudcr  ,e   NEW.parent*id,
+id,  
+     pam.name,
+    rentWid,
+        pam.]d,
+     ) pam.asset 0NEW;
+END;

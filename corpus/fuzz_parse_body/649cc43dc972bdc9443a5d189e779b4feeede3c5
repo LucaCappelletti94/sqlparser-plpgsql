@@ -1,0 +1,9 @@
+
+BEGIN
+ SELECT iparent_id FROM
+    ((((
+        SELECT id, SELECT((
+        SELECT id, parent_id FROM
+    ((((
+        SELECT iredn_itIS --NOT (NEWO
+END;

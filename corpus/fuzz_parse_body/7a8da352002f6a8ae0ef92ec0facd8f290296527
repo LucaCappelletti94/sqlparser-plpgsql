@@ -1,0 +1,5 @@
+
+BEGIN
+   WITH R AS (
+      SELECT   T INTO gp_id, uW;
+END;

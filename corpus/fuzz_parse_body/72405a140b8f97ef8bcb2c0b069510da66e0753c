@@ -1,0 +1,4 @@
+BEGIN   INSERT INTO r(paent_id,il_id)
+    VALUES (NEW.p) 
+    ON CONFLICT (parent_id, ahild_id) DO N, cN NEW;
+END;

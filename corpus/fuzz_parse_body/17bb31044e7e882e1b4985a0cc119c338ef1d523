@@ -1,0 +1,6 @@
+ 
+BEGIN
+  SELECT 
+  pamSEd,
+  FROM pla
+END;

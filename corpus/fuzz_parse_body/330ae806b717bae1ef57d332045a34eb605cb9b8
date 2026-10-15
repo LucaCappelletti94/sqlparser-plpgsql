@@ -1,0 +1,9 @@
+ 
+BEGIN
+    INsERT INTO proeerdcu_temp    ((((
+        SELECT id, Uid FROM chain c JOIN tre t ON c.parent_id == t(id WHERE t.parentNULL
+)  ,(((((((((((((((((((      SELECT id, pd FROM tree_hailate_asset_models (
+    ~~NTO proeerdcu_temp_i*        name,
+  te )
+  RN NEW;
+END;

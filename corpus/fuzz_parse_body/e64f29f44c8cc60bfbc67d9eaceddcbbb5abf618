@@ -1,0 +1,6 @@
+
+DECLARE
+  g$;
+BEGIN
+   RAISE NOTIC:
+END

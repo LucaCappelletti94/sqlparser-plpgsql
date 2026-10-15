@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parid FROM
+    ((((
+        SELECT id, parent_   ,_1id FROM chain c JOIN tree_no      SELECT chaO
+END;

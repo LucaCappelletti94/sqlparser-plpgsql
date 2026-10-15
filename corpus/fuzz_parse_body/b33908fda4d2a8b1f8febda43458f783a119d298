@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RxiVn AS (
+      SELECT id, p NOT=NULL;
+
+N
+END;

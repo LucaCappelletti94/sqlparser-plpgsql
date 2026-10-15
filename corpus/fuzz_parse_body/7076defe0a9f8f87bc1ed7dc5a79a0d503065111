@@ -1,0 +1,4 @@
+
+BEGIN
+  SELECT nt,_id FROM chain c JOIN treeWnodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((c JOIN tree_no))) J))R;END;

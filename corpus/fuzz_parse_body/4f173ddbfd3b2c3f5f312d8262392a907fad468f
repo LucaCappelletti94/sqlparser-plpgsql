@@ -1,0 +1,6 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, Uid FROM chain c JOIN tree_nodes  ,(((((((((((((((((((      SELECT id, pd, FROM tre_t Ie t   ;W;
+END;

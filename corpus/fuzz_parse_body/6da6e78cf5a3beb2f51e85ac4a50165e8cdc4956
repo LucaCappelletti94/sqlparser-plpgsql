@@ -1,0 +1,5 @@
+
+BEGIN
+	INSERT NTOowrs (id) VALUES (NEW.NEW.$id));
+	NEWN W;
+END;

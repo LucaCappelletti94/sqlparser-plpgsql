@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chcin AS (
+    ((((
+        SELECT id, parent_id FROM tree_nodes WHERE0id,(((((((((((( 
+  WITH RECURSIVE c((
+        SELCEiT d, parent_id FROM T%RE  SELECT NEW.URG;MEW;
+END;

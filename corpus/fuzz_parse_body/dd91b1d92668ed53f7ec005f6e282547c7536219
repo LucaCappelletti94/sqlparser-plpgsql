@@ -1,0 +1,4 @@
+ 
+BEGIN 
+  INSERT r|;
+END;

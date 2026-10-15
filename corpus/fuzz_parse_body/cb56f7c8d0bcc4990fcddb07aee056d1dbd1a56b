@@ -1,0 +1,13 @@
+
+BI N NEW;
+BI  
+B~EG INSERT INT 
+BEGIN
+    INSERT INO0 Tproc   SELECT 
+        pam.  NEW.  *pad,
+  NEW.  *pad,
+    *pad,    pam  . 
+     NEW.  *pd,
+  ,pad,SEd,
+    $am.a
+END;

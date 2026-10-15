@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT c.id, t.parent,_id FROM chainc JOIN tree_nodes t ON c.parent_it(id WHERE t.parULL
+)  ,((((((((((((      SELECT id, pECT id, p    UNION ALL
+        SELECT $;c.idrenM cha RETURG;MEW;
+END;
