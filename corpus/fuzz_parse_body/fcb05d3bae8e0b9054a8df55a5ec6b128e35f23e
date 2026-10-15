@@ -1,8 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, p  UNION ALL
-        SELECT c.id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.pareLL
-)  ,((((((((((((     (((((((      SELECT id, ~parent_id FROM tree_nodes WHERE id =============       SELECT id,.id, t.parent,_id pOF.MRarent_id = t(iN((((((((IS NOT (NEW,iAVReL ETURG;MEW;
-END;

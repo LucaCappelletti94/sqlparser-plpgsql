@@ -1,6 +1,0 @@
-
-BEGIN
-   SELECT     SELECT id, t.parent,_id FROM chiin c JOIN tree_nodes t ON c.parent_id =(D (((((K(     ((((
-        SELECT id, tt,d FROM chain c JOIN tredes t ON c.parent_id = t(id WHERE t.parentNULL
-)  ,((((((((((((     ((((
-        SELECT id, t.paren+t,_id FROM chain c JOIN tree.d END;

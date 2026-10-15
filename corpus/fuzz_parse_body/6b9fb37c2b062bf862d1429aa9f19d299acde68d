@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE child_groups AS (
-        SELECT user_id = OLD.user_id
-      AND group_id IN (SELECT il FROM c   WHERE user_idroup_id IN (SELECT il FROM child_groups);
-    RETURN OLD;
-END;

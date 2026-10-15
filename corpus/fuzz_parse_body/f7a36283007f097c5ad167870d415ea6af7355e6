@@ -1,6 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, t.parent,_id FROM chain c,((((((((((((      ^@LECT E.Bn c,(_id FROM tree_nodes LECTGG]GGGGGGGGGGtt|ut SENEW,ieVAL RETURG;MEW;
-END;

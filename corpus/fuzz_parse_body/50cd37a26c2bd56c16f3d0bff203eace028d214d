@@ -1,7 +1,0 @@
-
-BEGIN
-  WITH RECURSIVn AS (
-    (((SELECT arent_id FROM
-    ((((
-        SELECT id, parent_id FROM t!ree_nodes W   U    dMEWO
-END;

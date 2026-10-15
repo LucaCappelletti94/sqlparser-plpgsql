@@ -1,7 +1,0 @@
-
-D
-BEGIN
-    n:= gen_radom();
-    ew_id := geid();
-  :  INS
-END;

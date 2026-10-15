@@ -1,7 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE ain AS(((
-        SELECT id, parent_id FROM
-(   ( WITH RECURSIVE chain(
-       LS EEURG;MEWO
-END;

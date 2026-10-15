@@ -1,5 +1,0 @@
- 
-BEGIN  SELECT pme,
-d,
-    FROM    empla
-END;

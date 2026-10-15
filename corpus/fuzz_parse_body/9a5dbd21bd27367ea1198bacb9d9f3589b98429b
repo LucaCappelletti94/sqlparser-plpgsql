@@ -1,4 +1,0 @@
-
-BEGIN
- RETURN ?--CCCCCCC   ::ECC   n;
-END;
