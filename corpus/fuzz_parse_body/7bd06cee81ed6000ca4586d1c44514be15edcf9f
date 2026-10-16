@@ -1,0 +1,11 @@
+
+BEGIN
+ ((
+     SELECT id, parent_id FROM
+    ((((
+        SELECT id, parent_id FROM tree_nodes WHemplate_id,
+            
+        pam.name,
+  ate_id,
+         ((((((((((((((((      SELECT id, pD Fa#>JJ
+END;

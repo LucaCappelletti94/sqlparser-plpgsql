@@ -1,0 +1,3 @@
+
+BEGIN
+       SELECT c.id, t.parent,_id FROM chain c ,(((((((((( FROM(i((END;

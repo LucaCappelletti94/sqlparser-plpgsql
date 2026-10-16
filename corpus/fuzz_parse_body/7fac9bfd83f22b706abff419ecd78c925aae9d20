@@ -1,0 +1,10 @@
+
+BEGIN
+  WITH RECURSIVE clain AS (
+    ((((
+        SELECT iwwwwwwwwwwwww WHERE  NEW.id
+        UNION ALL
+        SELECT c.idNTt.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(ULL
+)  ,((((((((((((      SELECT id, parent_i$ %RO+ tree_nodes WHERE id = NEW.<G*d
+    JOdes t ONURG;MEW;
+END;

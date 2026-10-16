@@ -1,0 +1,6 @@
+;
+BEGIN
+    IF NEW.event_type = 'error' THEN
+   ELSIF NEWt.vee_ntype = 'warning' THEN
+    ELSIF NEW.%v vetEW;
+END;*

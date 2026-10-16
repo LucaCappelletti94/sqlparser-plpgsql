@@ -1,0 +1,5 @@
+
+BEGIN      SELECT i= NEW>id
+        UNION ALL
+        SELECT  iazent_id FROM tp
+====?i??&&&&{{END;

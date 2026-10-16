@@ -1,0 +1,7 @@
+
+BEGIN
+	      SELECT id, parent_id FROM
+(   (    SELECT id,RGIN
+	INSERT INTO owzers (iEent
+BEG
+END 

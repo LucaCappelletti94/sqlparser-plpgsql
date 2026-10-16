@@ -1,0 +1,6 @@
+
+BEGIN
+  SELECT id, paren_id FROM
+   ((((
+        SELECT|| iM MEWO
+END;

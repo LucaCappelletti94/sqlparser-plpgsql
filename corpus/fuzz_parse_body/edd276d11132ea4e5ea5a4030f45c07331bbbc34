@@ -1,0 +1,6 @@
+
+BEGIN
+ (
+    SELECT t,_id FROM chain c  ,((((((((((((     ((((
+        SELECT id, t.
+END;

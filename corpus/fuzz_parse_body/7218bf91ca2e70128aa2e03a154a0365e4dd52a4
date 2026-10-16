@@ -1,0 +1,12 @@
+ 
+BEGIN
+    INsERT IXNTO procedurl_temsme_tedols(  
+     NEW.parent_id,
+te_id,
+ me,
+        NEW.parent_id,
+        pam.d  --      b
+        )
+    SELECT 
+   ntE_groureW;
+END;

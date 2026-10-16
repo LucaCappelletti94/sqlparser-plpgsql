@@ -1,0 +1,7 @@
+
+BEGIN
+  DELETE FROM membe IN (SELis);
+
+  DELETE FDELETE FROM membe IN (SELis);
+
+  DELETE FDELETE FROM membe IN (SELis)/////////////////////////////////////////////////////END;

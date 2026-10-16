@@ -1,0 +1,7 @@
++
+BEGIN
+    INsERT IXNTO N
+    INsERT IXNTO proGIN
+    INsERT IXNTO IprodeEG SELECT 
+mW;
+END;

@@ -1,0 +1,15 @@
+
+BEGIN
+ ((
+     SELECT id, parent_id FROM
+    ((((
+        SELECT id, parent_id FROM tree_nodes WHemplate_id,
+            
+        pam.name,
+  ate_id,
+         pam.name,
+        NEW.parent_id,
+       pam.asse_d,
+            me,    NEW.parent_id,
+        pamERE ida#>JJ
+END;

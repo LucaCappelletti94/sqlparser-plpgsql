@@ -1,0 +1,5 @@
+
+BEGIN
+  SELECT nam/En	 = case, case@@@@a
+
+END??;

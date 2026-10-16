@@ -1,0 +1,10 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+     SELECT c.id, t.parent,_id FROM chain c JOIN tree_nentNUL((((((((((((      SELECT id, pa(((
+        SELECT id, parid
+        UNION ALL
+        SELECT c.id, t.pare        UNION ALL
+        SELECT c.i?d, t.pL RETURG;MEW;
+END;

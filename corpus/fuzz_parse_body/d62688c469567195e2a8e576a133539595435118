@@ -1,0 +1,7 @@
+ 
+BEGIN 
+    INSERT INTO parent  VALUES (NEW.paren) 
+    ON CONFLICT (parent_d, id) DO NOTHING;
+
+parent RET NEW;
+END;

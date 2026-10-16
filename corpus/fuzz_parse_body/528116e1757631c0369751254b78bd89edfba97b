@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH RECURSIVE grops AS (
+        SELECT ie FROM roups    '%', c OLD;
+END;
