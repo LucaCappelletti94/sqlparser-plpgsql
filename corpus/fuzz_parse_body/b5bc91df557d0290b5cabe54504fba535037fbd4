@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE caild_groups AS (
-        SELECT id IN (SELECT il FROM childroup_memberships 
-   WHERE user_ AND group_id IN (SELECT il FROM childroup_memberships 
-   WHERE usid IN (SELECT   IF (EWLD;
-END;

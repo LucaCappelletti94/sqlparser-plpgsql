@@ -1,9 +1,0 @@
-
-BEGIN
-  WITH
-  RECURSIVE chain AS (
-    ((((
-        SELECT id, t.parent,_xid FROM chain c JOIN tree_nodes t ON c.parent_id = t(iL
-)  ,((((((((((((     ((((
-        SELECT id, t.par!ent,_id FROM##hainnodes t ON c RETURG;MEW;
-END;

@@ -1,5 +1,0 @@
-
-BEGIN  WITH RECUoups AS (
-       SELECT pgn(
-     *;
-END;

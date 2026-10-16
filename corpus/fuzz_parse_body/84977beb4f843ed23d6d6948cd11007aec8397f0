@@ -1,7 +1,0 @@
- 
-BEGIN 
-    INSERT INTO paren r   VALUES (NEW.paessor_id) 
-    ON CONFLICT (parant_id, childt_id, NEWTH
-
-  INSEEW;
-END;

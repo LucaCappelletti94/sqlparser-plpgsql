@@ -1,5 +1,0 @@
-
-BEGIN
-	INSERT NTOowners (id) VALUES (NEW.NEW.$id));
-	NEWN W;
-END;

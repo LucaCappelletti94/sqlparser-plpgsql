@@ -1,9 +1,0 @@
-
-BEGIN
-    WITH RECU AS (
-   SELECT id FROM groups WHE_id
-   UNION ALL
-        SELECT 
-BE||g.id FROM goups g JOIN chilmm/EC= 
-BE||g.id;
-END;

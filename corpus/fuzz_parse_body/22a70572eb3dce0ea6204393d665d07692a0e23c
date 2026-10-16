@@ -1,6 +1,0 @@
-
-BEGIN(((
-        SELECT id, pat_id FROM
- ((((
-        SELECT idid FROIent_id FROM tree-nt(
-END;

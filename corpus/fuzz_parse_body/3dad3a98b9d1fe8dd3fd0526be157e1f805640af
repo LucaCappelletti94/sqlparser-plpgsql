@@ -1,6 +1,0 @@
-
-BEGIN
-SELECT id, parenNEW.id
- |||||||||||||||ALL
-     0    0W"" EWW"" EW;
-END;

@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT id, parent_id FROM tree_nodes WHERE id = NEW.i[
-     00000018446744073709551615UNION ALL
-, t.parent_id FROM    RETURN
-END;

@@ -1,4 +1,0 @@
-
-BEGIN
-    INSERT INTO aups AS (  
-END;

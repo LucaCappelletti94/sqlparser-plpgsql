@@ -1,8 +1,0 @@
-
-BEGIN
-	INSERT IFTO owners (id)((((
-        SELECT id, parent_id FROM
-(   ((((
-        SELECT id, pas WHERE id = N [    [EW.idSE
-  [EW.idtttttttt
-END;

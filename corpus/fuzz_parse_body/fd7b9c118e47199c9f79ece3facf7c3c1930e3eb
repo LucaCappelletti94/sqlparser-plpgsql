@@ -1,5 +1,0 @@
-
-BEGIN
-  (
-        SELECT id FROM groups WHp_idOL      UNION ALD;
-END;

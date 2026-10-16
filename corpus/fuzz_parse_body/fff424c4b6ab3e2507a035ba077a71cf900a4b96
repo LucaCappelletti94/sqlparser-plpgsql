@@ -1,5 +1,0 @@
-
-BEGIN
-   WITH RECURs AS (
-      SELECT   T INTO gp_id, uW;
-END;

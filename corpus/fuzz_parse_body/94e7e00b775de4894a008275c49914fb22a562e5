@@ -1,5 +1,0 @@
-=
-BEGIN
-  (
-SELECT i@?@@@_id = W;
-END;

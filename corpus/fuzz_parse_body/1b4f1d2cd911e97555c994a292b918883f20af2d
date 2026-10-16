@@ -1,4 +1,0 @@
-DECLARE
-    afé TEXT :=tag$;BEGIN
- --N NEW;
-END;

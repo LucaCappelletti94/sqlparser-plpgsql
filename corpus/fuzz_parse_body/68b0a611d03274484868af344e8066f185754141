@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT rent_id FROM Jno_i, ancestor_id)
-    SELECT NEW.kd, parent_id FROM chai
-END;

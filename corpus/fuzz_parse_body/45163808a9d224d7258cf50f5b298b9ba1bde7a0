@@ -1,6 +1,0 @@
-*BEGIN
-  WITH RECURSIVE chain AS   ((((
-        SELECT id, pareot_id FROM
-(   ( WITH RECURSIVE chain(
-  |_     id, par((IS NOT (NeW,ieVAL RETURG;
-END;

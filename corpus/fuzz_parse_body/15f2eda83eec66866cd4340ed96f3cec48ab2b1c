@@ -1,8 +1,0 @@
-
-BEGIN
-    (
-     SELECT i
-    WHERE user_idN ((SELECT    ALL
-        SEgroup_id IN ((SELECT    ALL
-          END;
-

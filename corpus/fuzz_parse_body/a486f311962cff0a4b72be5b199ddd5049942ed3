@@ -1,4 +1,0 @@
-
-BEGIN
-	INSERT Ys(id) VALUE  tt
-END;
