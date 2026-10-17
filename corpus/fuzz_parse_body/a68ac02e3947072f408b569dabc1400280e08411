@@ -1,7 +1,0 @@
-
-DE ne;
-BEGIN
-    new_id := uuid();
-    d := uuid();
-  
-END;

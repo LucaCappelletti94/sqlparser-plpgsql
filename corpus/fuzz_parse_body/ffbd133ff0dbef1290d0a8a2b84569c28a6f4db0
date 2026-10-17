@@ -1,7 +1,0 @@
- 
-BEGIN
-    INsERT IXNTO N
-    INsERT IXNTO prodEGIN
-    INsERT IXNTO prodeEG SELECT 
-mW;
-END;

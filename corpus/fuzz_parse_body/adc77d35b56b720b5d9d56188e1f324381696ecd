@@ -1,9 +1,0 @@
-
-@EGIN
-	;
-   
-    RAISE NOTICE 'a', café; café;
-END   
-    RAISE NOTICE afé;
-  
-    RAISE NOTICE '% R

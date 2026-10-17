@@ -1,8 +1,0 @@
-
-BEGIN
-	INSERT IFTO ownei(rsd)  SELECT id_id FROM
-(   (--(((
-       SELECT id, pare.t_id FROM tei(rsd)  VALUE
-4((((
-        SELECT idE id = N {    [EW.dtttttttt
-END;

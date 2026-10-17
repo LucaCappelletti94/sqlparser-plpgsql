@@ -1,7 +1,0 @@
-
->>
-|&>BEGIN
- VALUES (NEW.id);
-	RETURN |&>BEGIN
- VALUES (NE<1<W<<<<<<<<NEttt
-END;

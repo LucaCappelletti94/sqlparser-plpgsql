@@ -1,7 +1,0 @@
-
-BEGIN
-  WITH RECURn AS  ((((
-        SELECT id, t.parent,_id FROM chain c JOIN tree_nldes t ON c.paren|_id = t(id WHERE t.parentNULL
-)  ,((((((((((((     ((((
-     	INSERT I V  (     [EW.idne 2~d, NE (ne S   :::::::::YYYYYYYYYYYYYYYYYYYMEW;
-END;

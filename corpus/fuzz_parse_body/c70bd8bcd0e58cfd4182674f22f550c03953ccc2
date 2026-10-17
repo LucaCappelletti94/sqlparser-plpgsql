@@ -1,4 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE ch AS ( SELECT id, pa FROM tr_   WITH(RT I
-END;

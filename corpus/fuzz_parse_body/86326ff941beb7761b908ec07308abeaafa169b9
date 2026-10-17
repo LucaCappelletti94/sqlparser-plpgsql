@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE ps AS (
-        SELECT rid FROM groups WHER)
-   DELETE FROM LD;
-END;

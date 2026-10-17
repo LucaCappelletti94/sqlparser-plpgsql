@@ -1,8 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (  SELECT id, parent_id FROM
-    ((((
-        SELECT-- id,nreapt_   ((((
-        SELECT-- id,parent_id FR......iCURSIV-@@@
-@-@@-@_prEWO
-END;

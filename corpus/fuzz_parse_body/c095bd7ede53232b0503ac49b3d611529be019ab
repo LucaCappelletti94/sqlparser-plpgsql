@@ -1,7 +1,0 @@
-
-BEGIN
-    /* er+ */
-    RETURN  NEW?
-END;   
-RETURN NEW?B
-END

@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH REgroups AS (
-      SELECT parentd FROM group||/
-T@I;
-END;

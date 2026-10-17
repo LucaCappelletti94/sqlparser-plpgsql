@@ -1,3 +1,0 @@
-
-BEGIN
-	INSERT INTOs (id) VALUES    (        id :=om_uuid(END;

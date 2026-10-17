@@ -1,6 +1,0 @@
-
-BEGIN(((
-        SELECT id, parent_id FROM
- ((((
-        SELECT idOIent_id FROM tree(n-t
-END;
