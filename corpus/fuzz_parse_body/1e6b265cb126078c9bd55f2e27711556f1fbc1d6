@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RRSin AS (
+    ((((
+        SELECT id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE tparentNULL
+)  ,((((((((((((     ((((
+        SELECT id, t.pat(id WHERE t.parent)  ,(((TURG;ME%W;
+0END;

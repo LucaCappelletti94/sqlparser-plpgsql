@@ -1,0 +1,7 @@
+
+BEGIN
+	INSERT I ((((
+        SELECT id, d FROM
+(   ((((
+        SELECT parent_id FROM tree_vvvvv.&<END;
+ *&

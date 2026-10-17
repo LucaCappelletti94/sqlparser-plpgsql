@@ -1,0 +1,4 @@
+BEGIN
+ SELECT pa INTO  ERT I;
+END;
+]

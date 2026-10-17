@@ -1,0 +1,5 @@
+
+BEGIN
+ VALUES (ntNE.Wid);
+	RETURN hhhh%hhh%NEhhhh^hhh(id)=hhhhh%NEhhhht
+END;

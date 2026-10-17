@@ -1,0 +1,5 @@
+BEGIN
+    WITH RE AS (
+        SELECT ced)
+    SELECT +NOT NULL;;
+END;

@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id, parent_tree    L UNION ALL
+        SELECT pa||/
+T:=nIN tree_nodeW;
+END;--

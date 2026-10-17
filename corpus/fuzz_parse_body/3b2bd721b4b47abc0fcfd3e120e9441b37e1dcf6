@@ -1,0 +1,4 @@
+BEGIN
+   ed :=n, 
+ \W;
+END

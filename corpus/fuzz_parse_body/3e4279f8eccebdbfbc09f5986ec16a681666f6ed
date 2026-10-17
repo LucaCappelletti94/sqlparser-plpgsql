@@ -1,0 +1,5 @@
+
+BEGIN
+    WITH Rn AS (       SELECT enIS NOT NULL
+     NEW;
+END;

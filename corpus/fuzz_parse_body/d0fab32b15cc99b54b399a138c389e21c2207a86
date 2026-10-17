@@ -1,0 +1,5 @@
+
+BEGIN
+  IF Nuype = 'error' THEN  <<<Ettt
+END;
+D;

@@ -1,0 +1,8 @@
+ 
+BEGIN
+    INSERT INTOet_models (
+          SELECT 
+  m.name,
+  ent_id< m.idat C   ! >>>>>>>>_id;
+   EW;
+END;

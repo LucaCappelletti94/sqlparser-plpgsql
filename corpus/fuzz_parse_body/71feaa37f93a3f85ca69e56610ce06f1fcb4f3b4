@@ -1,0 +1,6 @@
+
+BEGIN
+	INSERT I    SELECT dt,i arent_id FROM
+(   ((((
+        SELECT id, parent_id FROM tree  (     * ttttttt
+END;

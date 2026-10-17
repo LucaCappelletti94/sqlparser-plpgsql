@@ -1,0 +1,4 @@
+
+BEGIN
+           SELECT id,0 FROM trelog (action, seity)oc;
+END;

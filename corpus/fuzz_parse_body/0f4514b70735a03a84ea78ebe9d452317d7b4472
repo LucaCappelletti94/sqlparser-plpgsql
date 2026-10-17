@@ -1,0 +1,4 @@
+
+BEGIN
+    SELECT parent_oup_id FROM(groups g JOIN parent)
+    INRT(INEW;@END;

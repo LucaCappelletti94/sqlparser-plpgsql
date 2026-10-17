@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH roups AS (
+        SELECT p[ar(
+        [
+END;

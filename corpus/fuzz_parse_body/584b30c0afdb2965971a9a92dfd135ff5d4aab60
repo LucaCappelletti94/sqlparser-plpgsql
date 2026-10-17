@@ -1,0 +1,7 @@
+
+BEGIN
+  (
+    ((((
+        SELECT id, parent_t,_id FROM chain c JOIN tree_es t ON c.parent_id  ,(((
+        SELECT id,   INSERT INTO ] ownNEW,ieVAL RETURG;MEW;
+END;

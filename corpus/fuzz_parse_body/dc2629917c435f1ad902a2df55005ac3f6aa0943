@@ -1,0 +1,6 @@
+
+BEGIN
+       SELECT id, Uid FROM chain c JOIN tdes t ON c.pareno_id = t(id WHERE t.parentNULL
+)  ,(((((((((((((((((((      SELECT id, pd FROM tree_hailate_asset_model--s (
+                    ->>                                     N
+END;

@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((      SELECT id, parent_id %RO+ tree_nodes WHERE idNEW.<>*d
+     chain c JOIN       SELECT pareodes t ONRUG;MEW;
+END;
