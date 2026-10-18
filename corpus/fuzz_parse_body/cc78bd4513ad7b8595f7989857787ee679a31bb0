@@ -1,5 +1,0 @@
-
-BEGIN
-  ( SELECT proup_.d
-    ( ;
-END;

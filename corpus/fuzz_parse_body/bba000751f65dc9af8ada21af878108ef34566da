@@ -1,7 +1,0 @@
-
-BEGIN
-    (
-     SELECT iJ ((SELECT    ALL
-        SEgroup_id IN ((SELECT    ALL
-          END;
-

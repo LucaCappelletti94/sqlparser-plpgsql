@@ -1,8 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE bin AS (
-((
-        SELECT id, parent_id FROM
-    ((((
- #>>CT id, p-;MEWO
-END;

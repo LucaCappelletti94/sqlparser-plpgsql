@@ -1,4 +1,0 @@
-
-BEGIN        SELECT id, t.parent,_id FROM chain c JOIN tree_nodes t,((((((((((((   (  (((
-        ?SELECT id, t.parent,_d;
-END;

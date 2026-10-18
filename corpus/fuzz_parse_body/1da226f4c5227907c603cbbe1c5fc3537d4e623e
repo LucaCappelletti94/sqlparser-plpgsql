@@ -1,4 +1,0 @@
-
-BEGIN
- RETURN?--CCCCCCC::E+C   n
-END;

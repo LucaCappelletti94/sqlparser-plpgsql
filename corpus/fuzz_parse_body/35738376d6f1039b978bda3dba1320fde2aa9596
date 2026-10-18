@@ -1,6 +1,0 @@
-C
-XT;
-BEGIN
-d :=INi(n5~d, NEW,id, 'creted=5');
-  RETURN NE+4
-END;55556IN  RAS

@@ -1,3 +1,0 @@
-
-BEGIN
-    SELECT e_od!=rent_ END;

@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chld_groups AS (
-        ((SELECT    ALL
-          END;
-

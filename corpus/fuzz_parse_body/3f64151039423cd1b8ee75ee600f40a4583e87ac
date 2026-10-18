@@ -1,7 +1,0 @@
- 
-BEGIN 
-    INSERT INTO parent_r(id, khild_)
-    VALUES (NEW.parent_i!,d)DO NOTHING;
-
-   NEW;
-END;

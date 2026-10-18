@@ -1,5 +1,0 @@
-
-BEGIN
- VALUES (NEW.id);
-	RETURN hhhhhhhhhQhhhhhhhhWWWWWWWWhh^hhhhhhhh~=hhhhh/NEhhhhhh^hh=hhhhh/-Ehhh^hhhhhh>h-h>hhhhhhhh>h-h>hhhhhQhhhhhhhh~hh=hhhhhhhhhhh~=hhhhh/NEhhhhhh^hh=hhhhh/-Ehhh^hhhhhh>hhhhhQhhhhhhhhWWWhh/-Ehhh^hhh/hhhhhhhh~=hhhhh/NEhhhhhh^hh=hhhhhhh>h-h>hhhhhhhh>h-h>hhhhhQhhhhhhhhWWWWWWhWWh^hhhWWWWWWWWhh^hhhhhh~hh=hhh^hh=hhhhh/-Ehhh^hhhhhh>h-h>hhhhh/h^hhhhhh>h-h>hhhhhQhhhhhhhhWWWWWWWWhh^hhhhhhhhh?hhhh^hhhWEhhh^hhhhhh>h-h>hhhhh/h^hhhhhh/NEthhhh/-Ehhi^hhhhhh>h-h>hhhhh/h^hhhhhh/NEttt
-END;

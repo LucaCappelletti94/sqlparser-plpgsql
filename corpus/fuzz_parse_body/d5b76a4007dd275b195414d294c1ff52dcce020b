@@ -1,9 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, paren|_id FROM
-   (  
-(((       SELECT id, t.parent,_1id FROM chain c JOIN treeBEGIN
-  WITH RECURSIVE crent vvvvvvvvvvvvvv     SELE;MEWO
-END;

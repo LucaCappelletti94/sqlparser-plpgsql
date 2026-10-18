@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE ps AS (
-        SELECT rid FHER)
-   DELETE FROM LD;
-END;

@@ -1,5 +1,0 @@
- 
-BEGIN
-INSERT T##2
-cd;
-END;

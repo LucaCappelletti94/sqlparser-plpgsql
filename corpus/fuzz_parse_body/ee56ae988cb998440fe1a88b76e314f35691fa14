@@ -1,6 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-SELECT id, pareot_id FROM
-(   ( WITH RU  ((((AL RETURG5MEWO
-END;

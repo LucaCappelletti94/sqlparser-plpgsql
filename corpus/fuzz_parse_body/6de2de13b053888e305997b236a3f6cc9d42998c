@@ -1,4 +1,0 @@
-
-BEGIN
- SELECT id, par, t.parentid .id WHERE t.<a
-END;
