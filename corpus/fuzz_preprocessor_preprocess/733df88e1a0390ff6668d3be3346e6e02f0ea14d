@@ -1,0 +1,42 @@
+EGEN
+ /    /* .,te   ;  SELECT
+ S LIMIT:= N RIRT INTO  prodel  ;  SE* .,te   ;  SELECT
+ S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+   /* .,te   ;  SELECT
+ 3 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+;
+EGEN
+ /    /* .,te   ;  SELECT
+ 1 S LIMIT:= N RIRT INTO  prodel  ;  SELECTte   ;  SELECT
+ 2 S LIMIT:= N~RIRT INTO  prodel  ;  SELECT
+  S LIMIT:= N ETIERT     /* .,te   ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+;EGEN
+ ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;EN
+ / N ETIERT     /* .,te   ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+;
+EGUN
+ /    /* .,te   ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+  S LIMIT:= N ETIERT     /* .,te   ;  SELECT
+ 0 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+  S .,t  ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+   /* .,te   ;  SELECT
+ 3 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+;
+EGEN
+ /    /* .,te   ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;  SELECTte   ;  STIERT     /* .,te   ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;  SELECT
+;EGEN
+ ;  SELECT
+ 2 S LIMIT:= N RIRT INTO  prodel  ;EN
+ /    /* .,te   ;  SELECT
+ 2 S LIMIT:= N 
+BEGRIRT INTO  prodel  ;  SELECT
+  S LIMIT:= IT:= N RS LIMIT: group_membeid, user_id)
+  ;
+  ;
