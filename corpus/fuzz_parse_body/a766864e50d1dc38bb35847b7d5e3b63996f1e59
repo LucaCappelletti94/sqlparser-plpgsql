@@ -1,0 +1,8 @@
+
+BEGIN
+ VALUES (NEW.id);
+	RETURN$$$$++++++++ (
+     ame,pa
+        )
+  ++++t
+END;

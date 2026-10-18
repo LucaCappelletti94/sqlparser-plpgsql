@@ -1,0 +1,5 @@
+
+BEGIN
+  WITH RECURSIVchain AS (   ((((
+        SELECT id FROM
+    (( (   SELECT id, parent_idnt_d IS >>> UR(END;

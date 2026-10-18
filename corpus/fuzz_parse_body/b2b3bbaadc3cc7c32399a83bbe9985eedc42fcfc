@@ -1,0 +1,6 @@
+W<<
+BEGIN
+    WITH REch AS (
+        SELECT id,s WHERE id = ALL
+END;
+1

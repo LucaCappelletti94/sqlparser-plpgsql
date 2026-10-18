@@ -1,0 +1,9 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+   SELECT id,M tree_nodes WHERE id = NEW.od
+        UNION ALL
+        SELECT c.id, t.parent,_id FROM cha((*
+)  ,((((((((((
+        SELECT id;
+END;

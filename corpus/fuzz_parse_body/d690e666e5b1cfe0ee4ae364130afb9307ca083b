@@ -1,0 +1,4 @@
+
+BEGIN
+      SELECT FROM
+    ((     SELECT id, pare  WITH RECUR  UR(END;

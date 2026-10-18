@@ -1,0 +1,2 @@
+BEGIN   IF NE$!~*
+END:=L

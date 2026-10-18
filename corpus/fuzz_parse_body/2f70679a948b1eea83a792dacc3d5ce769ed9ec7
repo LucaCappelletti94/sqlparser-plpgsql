@@ -1,0 +1,5 @@
+
+BEGIN
+     SELECT iaenr,d ptd
+        UNION;
+END;

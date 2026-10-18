@@ -1,0 +1,6 @@
+
+BEGIN(((
+     SELECT id FROM
+ ((((
+        SELECT idOIentid FROM tree(n-t
+END;

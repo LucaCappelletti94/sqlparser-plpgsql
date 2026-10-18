@@ -1,0 +1,12 @@
+
+BEGIN
+   IF NE THEN  ELSE
+        END IF;IF NE THEN  ELSE
+        END IF;
+ RETURN
+END;
+  IF NE THEN  ELSE
+        END IF;IF NE THEN  ELSE
+ $      END IF;
+ RETURN NEW;
+ENDN

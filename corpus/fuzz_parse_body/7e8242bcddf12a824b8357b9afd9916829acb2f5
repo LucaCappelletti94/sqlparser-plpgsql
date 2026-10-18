@@ -1,0 +1,11 @@
+ 
+BEGIN
+    INsERT IESXN procedx (
+      e,EW.parNEW.pare_id,
+  pae,ENWE.parent_id,
+        pam.    b
+        )
+    SELECT 
+      
+    RETURN LEW;
+END;

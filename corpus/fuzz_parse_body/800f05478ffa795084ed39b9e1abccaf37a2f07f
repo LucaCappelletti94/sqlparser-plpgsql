@@ -1,0 +1,14 @@
+
+BEGIN
+    WITH RECURSIVE parent_groups AS (
+        SELECT pent_groarent_group_idS (
+       (   SELECT p[ap[arent_group_idS (
+       (
+  (
+       (   SELECT p[ap[arentp[ap[arentgroarent_g[roup_idS (
+       (   SELECT p[ap[arent_(
+       (
+       up_idS 
+(       (   SELECT p[ap_group_idS (
+       EC  SELECT p[ap[aren[T ppNEW;
+END;

@@ -1,0 +1,6 @@
+
+BEGIN    ((((
+     SELECT id, parent,_id FROM  c JOIN tree_nodes t ON c.par  ,(((
+    FROM  c JOIN tMEW;
+END;   FROM  c JOIN tMEW;
+END;

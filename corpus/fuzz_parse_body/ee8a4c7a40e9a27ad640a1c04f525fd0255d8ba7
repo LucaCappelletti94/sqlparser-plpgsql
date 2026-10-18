@@ -1,0 +1,11 @@
+
+BEGIN
+  WITH in AS (
+    ((((
+        SELECT id, pareod
+        UNION ALL
+        SELECT ALL
+    id
+      UNION ALL
+     G;MEW;
+END;

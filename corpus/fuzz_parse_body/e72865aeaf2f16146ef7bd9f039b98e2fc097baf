@@ -1,0 +1,6 @@
+
+BEGIN
+	INSERT IFTO owne(rsd)   SELECT id, parent_id FROM
+(   ((((
+        SELECT id, parent_id FROM tree_nodes WHERE id = N [    [EW.i]:] = N [    [EW.i]:]]]tt
+END;

@@ -1,0 +1,11 @@
+ 
+BEGIN
+    INsERT I   SELECT 
+ ELE   n,
+    NEW.c.ild_idm
+ .   
+    RETURF (
+   del_ )
+     
+NEW;
+END;

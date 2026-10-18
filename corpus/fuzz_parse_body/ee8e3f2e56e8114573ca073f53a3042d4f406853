@@ -1,0 +1,3 @@
+
+BEGIN  SELECT id, paai 
+            l_id END;

@@ -1,0 +1,10 @@
+?--CCC/CCCCCCCC&CCCCCCC<|BRETUPRCCCCC
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((     ((((
+        SELECT id, t.parent,_id FRCCCCC<|BCCCCC
+BEGIN
+  WITH RECURSIVRET;
+END;

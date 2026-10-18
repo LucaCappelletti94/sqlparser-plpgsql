@@ -1,0 +1,5 @@
+
+BEGIN
+     SELECT d~=_D;  SELECT d~=END;
+     SELECT d~=_D; CT d~=_D;
+END;

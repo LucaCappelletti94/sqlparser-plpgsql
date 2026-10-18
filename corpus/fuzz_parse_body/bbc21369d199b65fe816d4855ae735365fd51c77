@@ -1,0 +1,5 @@
+
+BEGIN
+	INSERT INTOs (id) VALUES (NWE.$id);
+	RETURN
+END;

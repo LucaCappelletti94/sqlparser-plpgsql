@@ -1,0 +1,7 @@
+ 
+BEGIN     SELECT id, Uif FROM chain c JOIN(((((((((((((      SELECT ide_asset_models (
+    ~~*       )
+   .child_id;
+ .  <
+    RETURN NEW;
+END;
