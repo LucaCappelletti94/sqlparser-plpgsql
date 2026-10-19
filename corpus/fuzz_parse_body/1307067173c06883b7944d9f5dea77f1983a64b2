@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH REn AS (
-        SELECT iaenr,d ptd
-        UNION;
-END;

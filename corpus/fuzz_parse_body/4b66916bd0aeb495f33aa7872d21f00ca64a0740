@@ -1,4 +1,0 @@
-
-BEGIN
-    RETURN    R ?|C?CCCNnn;
-END;`

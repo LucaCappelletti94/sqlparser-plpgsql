@@ -1,6 +1,0 @@
-
-BEGIN
-  
-    SELECT ALL
- -vRET;
-END;

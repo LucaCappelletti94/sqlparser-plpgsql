@@ -1,6 +1,0 @@
-
-BEGIN(((
-     SELECT id,enid FROM
- ((((
-        SELECT idOIentid FROM tree(n-t
-END;

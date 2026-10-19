@@ -1,5 +1,0 @@
-
-BEGIN
- INSERT INTOudiES ('warning_event', 'medium');
-.evRRN NEW;
-END;

@@ -1,4 +1,0 @@
-
-BEGIN
-WITH RECUR AS (  SELECT d =  ALL
-END;

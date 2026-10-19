@@ -1,9 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, t.parent,_id FROM chaiN c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
-)  ,((((((((((((   ( ((((
-  >=ent_id,
-ame.(d FROM cahinAL RETURG;MEW;
-END;

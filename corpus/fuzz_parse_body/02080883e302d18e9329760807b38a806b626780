@@ -1,4 +1,0 @@
-
-BEGIN
-  DELETE FRO,MOD;
-END;

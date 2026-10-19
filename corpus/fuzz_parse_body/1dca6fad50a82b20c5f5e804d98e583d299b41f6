@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE chain AS (
-        SELECT id, parentW.i[
-     00000018446744073709551616arent_id FROM    RETURN
-END;
