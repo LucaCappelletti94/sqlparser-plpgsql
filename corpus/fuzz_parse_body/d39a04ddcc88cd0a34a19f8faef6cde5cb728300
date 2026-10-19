@@ -1,0 +1,4 @@
+
+BEGIN
+  SELECT id, p NOT=NULL;N
+END;

@@ -1,0 +1,10 @@
+
+BEGIN(
+        SELECT _id FROM
+( ( ( WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, p FROM
+(   ((((
+       ECTBEGIN
+  WITH(RECURSIVE chain ;MEWO
+END;

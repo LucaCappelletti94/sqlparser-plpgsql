@@ -1,0 +1,8 @@
+
+DECLARE
+$BEGIN
+    -- Grße 世界
+    RAISE # 世界
+    RAI;
+BEGIN
+ ECL

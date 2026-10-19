@@ -1,0 +1,6 @@
+
+BEGIN
+  WITH REChain AS  ((((
+        SELECT id, parend_id FROM
+    (((INSERT INTO prx   SELECT     $am.    *  rouparen3_;MEWO
+END;

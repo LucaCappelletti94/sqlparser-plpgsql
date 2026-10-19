@@ -1,0 +1,20 @@
+
+BEGIN
+    /*/ ou */
+    RETURN ?--URN ?--AC0CCCCTUR  ::EC0CCCCCN
+   ::CN
+   ::ECCCCCCCN
+   ::E
+   ::EcN ?--URN ?--AC0CCCCTUR  ::ECCCCC1CN
+   ::CN
+   ::ECCCCCCCN
+   ::EC
+   ::E
+   ::ECN ?--URN ?--AC0CCCCTUR  ::ECCCCC1CN
+   ::CN
+   ::E
+   ::EcN ?--URN ?--AC0CCCCTUR  ::ECCCCC1CN
+   ::CN
+   ::ECCCCCCCN
+   ::ECC;
+END;

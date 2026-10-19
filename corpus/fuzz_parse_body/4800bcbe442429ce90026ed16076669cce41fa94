@@ -1,0 +1,5 @@
+
+BEGIN
+SELECT id, t.parent,_id FROM chain c JOIN tree_ ,((((((((((((     ((((
+      !(LIS 
+END;

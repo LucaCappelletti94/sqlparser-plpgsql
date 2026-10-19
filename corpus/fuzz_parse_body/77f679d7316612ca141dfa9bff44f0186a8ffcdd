@@ -1,0 +1,4 @@
+ 
+BEGIN   SELECT d,   $am.       *pama
+END;
+ND;

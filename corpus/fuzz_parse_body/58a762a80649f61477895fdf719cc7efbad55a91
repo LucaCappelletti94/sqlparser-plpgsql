@@ -1,0 +1,9 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+        SELECT id FROMgroup_mbesrhips
+    WHERE user_id = OLD.  s (_npe>membesrhips
+    WHERE (SEroup_id IN (SELECT   I     (NEW (     besrhips
+    WHERE user_id = OLD.user_id
+      AND group_>>AS (       0SELECT id, WLD;
+END;

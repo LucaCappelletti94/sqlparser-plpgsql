@@ -1,0 +1,4 @@
+
+BEGIN
+ SELECT p[:aa]pEU;
+END;

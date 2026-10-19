@@ -1,0 +1,8 @@
+ 
+BEGIN 
+    INSERT INTO pr(paent_id, child_id)
+    VALUES (renr_id) 
+ON CONFLICT  DO NOTHING;
+
+   __tid, c
+END;

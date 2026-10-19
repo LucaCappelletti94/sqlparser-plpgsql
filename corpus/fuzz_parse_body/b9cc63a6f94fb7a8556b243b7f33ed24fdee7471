@@ -1,0 +1,9 @@
+
+@EGIN
+	;
+   
+ RAISE NOTICE 'a',é;
+END   
+    RAISE NOTICE a~fé;
+  
+    RAISE NOTICE '% R

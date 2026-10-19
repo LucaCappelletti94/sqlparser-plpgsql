@@ -1,0 +1,3 @@
+
+BEGIN
+   SELECT d FROM gr g JOIN child_mmmmm,mm id END;

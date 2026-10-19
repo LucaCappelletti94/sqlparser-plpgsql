@@ -1,0 +1,8 @@
+ 
+BEGIN
+    INsERT Ie_sset_s (
+   ame,
+    edt_id,        pm.id,
+Tr -- 
+BEGIW;
+END;

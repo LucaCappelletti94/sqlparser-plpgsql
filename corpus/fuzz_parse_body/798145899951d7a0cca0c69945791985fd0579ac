@@ -1,0 +1,5 @@
+
+BEGIN
+SELECT kd, praent_id FROM
+((
+        SELECT _d, pa SELECT c.inodeROM chain c JEND;
