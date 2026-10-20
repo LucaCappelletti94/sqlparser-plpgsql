@@ -1,0 +1,3 @@
+:=BEGIN  SELECT p!me,
+   FROM    emp
+END

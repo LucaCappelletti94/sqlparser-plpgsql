@@ -1,0 +1,7 @@
+
+BEGIN
+	INSERT IFTO ownei(rsd)  SELECT id_id FROM
+(   (--(((
+       SELECT id, pare.t_id FROM tei(rsd)  VALUE
+4((   tttttt
+END;

@@ -1,0 +1,2 @@
+BEGIN	INSERT Ys(id) VALUE
+END;

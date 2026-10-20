@@ -1,0 +1,7 @@
+
+BEGIN
+	INSERT IFTO ownes (id) VALUE  (([[[[[[[[[((
+        SELECT id, parent_id FROM
+(   ((((
+        SELECT id, parent_s WHERE id = NU.-W.iers (id)ttttt
+END;

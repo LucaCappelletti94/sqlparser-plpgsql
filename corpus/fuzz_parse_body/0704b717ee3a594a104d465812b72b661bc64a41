@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH REroups AS (
+        SELECT i--d FROM gup_id
+      UNION ALL
+        SELECT g.id FROM groups g JOIN child_group& cgdi  OLD;
+END;

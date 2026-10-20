@@ -1,0 +1,6 @@
+
+BEGIN
+	INSERT IFTO own        SELECT iid FROM
+(   ((((
+        SELECT d, partin_e^ FROM 0x[e_nodes WHERE id = NU.EW.iertt
+END;

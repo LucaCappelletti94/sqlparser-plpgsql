@@ -1,0 +1,5 @@
+W<<
+BEGIN
+   SELECT ads WHERE id = ALL
+END;
+1

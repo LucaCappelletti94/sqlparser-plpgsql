@@ -1,0 +1,5 @@
+
+BE
+BEGIN
+ RETURN - - #NnRETURN - - #Nn;
+END;

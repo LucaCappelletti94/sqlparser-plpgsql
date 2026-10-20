@@ -1,0 +1,17 @@
+
+BI N NEW;
+BI  
+BEG INSERT INT 
+BEGIN
+    INSERT INT1O proc   SELECT 
+        pam.  NEW.  *pad,
+    $    *pamSname,
+  name,
+      m.
+        NEW.  *pad,
+    $cm.asse       *pamSEd,
+    $am,
+       pam.namerent_i d,    pam.name,
+      NEW.  *pad,       *pamSEd,
+    $a%m,as.asse    a
+END;

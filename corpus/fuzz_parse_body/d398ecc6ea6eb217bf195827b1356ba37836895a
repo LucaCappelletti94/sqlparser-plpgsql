@@ -1,0 +1,6 @@
+
+BEGIN
+	INSERT IFTO ownei(SELECT id,rent_id FROM
+(   (--(((
+        SELECT id, pare.t_id FROM tei(rsttt
+END;

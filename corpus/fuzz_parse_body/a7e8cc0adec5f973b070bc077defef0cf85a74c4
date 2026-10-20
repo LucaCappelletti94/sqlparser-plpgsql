@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH REC AS (  SELECT id, pt_id FROM
+    ((       SELECT-- , ROM  S
+DEC
+BEGIN
+ent
+END;

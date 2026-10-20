@@ -1,0 +1,10 @@
+ 
+BEGIN
+    INsERT INTO procedure(
+      id
+        )
+    SELECT 
+        pamd = NEW.child_idm
+ .   
+    RETURF  (
+    )       END;

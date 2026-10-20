@@ -1,0 +1,9 @@
+ 
+BEGIN
+    INsERT IXNe_asset_models (
+          b
+        )
+    SELECT 
+          
+   _id FROM cc.parent,(((((((((((    INsERT IXNTW;
+END;

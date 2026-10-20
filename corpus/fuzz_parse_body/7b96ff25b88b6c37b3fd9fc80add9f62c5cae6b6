@@ -1,0 +1,9 @@
+ 
+BEGIN
+    INsERT IXodels (
+      emplatS.parent_id,
+       pam.b
+        )
+    SELECT 
+ EW;
+END;

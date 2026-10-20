@@ -1,0 +1,5 @@
+
+BEGIN
+  ((SELECT e_nt_id FROM
+( ( WITH REWO
+END;

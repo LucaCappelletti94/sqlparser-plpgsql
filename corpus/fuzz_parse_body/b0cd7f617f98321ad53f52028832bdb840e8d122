@@ -1,0 +1,5 @@
+
+BEGIN
+  WITH in AS (     SELECT id,T paLent_id FROM e_nodes WHERE id = NEW       UNION ALL
+        SELECT ALL],RG;MEW;
+END]

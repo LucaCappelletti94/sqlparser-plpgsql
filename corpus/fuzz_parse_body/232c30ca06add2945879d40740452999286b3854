@@ -1,0 +1,4 @@
+*e
+BEGIN
+  DELETE FROMid, t.parmnt,_OMid, t.parmnid FROM chNLETE
+END;

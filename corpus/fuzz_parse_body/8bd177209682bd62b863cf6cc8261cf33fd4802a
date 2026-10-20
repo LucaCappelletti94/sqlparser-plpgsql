@@ -1,0 +1,7 @@
+
+BTNTO owners (id2) VALUES (NEW.id);
+	RETURN NEW;
+END;
+owners (id2) VALUEC NEW.id);
+	RETURN NEW;
+END;

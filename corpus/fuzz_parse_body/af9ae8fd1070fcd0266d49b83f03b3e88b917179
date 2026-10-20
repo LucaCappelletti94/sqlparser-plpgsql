@@ -1,0 +1,9 @@
+ 
+BEGIN
+    INSERT INT0O proc   SELECT 
+  *,
+    $am.asse *mSEd,
+    $am.asse       *pamSEd,
+    $am.d,
+  %%%roca
+END;

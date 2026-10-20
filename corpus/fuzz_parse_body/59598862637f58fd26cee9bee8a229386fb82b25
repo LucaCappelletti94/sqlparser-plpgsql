@@ -1,0 +1,7 @@
+
+BEGIN
+  ((
+    SELECT id, parent_id FROM
+    ((((
+                SELECT s.idrt., apent,_idn JOIN(((NEEWO
+END;

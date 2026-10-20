@@ -1,0 +1,6 @@
+ 
+BEGIN
+ SELECT 
+        pa_id,
+     *pamela
+END;

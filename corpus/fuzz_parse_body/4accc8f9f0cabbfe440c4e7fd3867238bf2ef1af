@@ -1,0 +1,5 @@
+
+BEGIN
+SELECT kdnt_id FROM
+((
+        SELECT _d, pa SELECT cEND;

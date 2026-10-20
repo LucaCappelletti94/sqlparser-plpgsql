@@ -1,0 +1,7 @@
+
+BEGIN
+   SELECT id, parent_Id FROM
+(   ((((
+        SELECT^ END
+..
+BE

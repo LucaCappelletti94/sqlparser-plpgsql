@@ -1,0 +1,5 @@
+ 
+BEGIN 
+    INSERt INTarent_r(id, khild_)
+    VALUES (NEW.parent_i!,d)(O NOTHI
+END;

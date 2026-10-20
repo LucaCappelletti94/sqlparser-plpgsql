@@ -1,0 +1,10 @@
+
+BEGIN
+ ( ((((
+        SELECT 
+       arent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((     ((((
+   SELECT 
+  >=      pam.name,
+        NEW.par%nt_iRETURG;MEW;
+END;

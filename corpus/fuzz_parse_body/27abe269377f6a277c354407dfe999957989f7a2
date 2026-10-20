@@ -1,0 +1,10 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+   ((((((((    ((((((((     ((((
+        SELECT id, t2.parent,d FROM chain c JOIN tree_node  ,((((((((((((     ((((
+       --ELEEGIN
+ VALUES (EW. hhhh<^ht
+CT id, !~!t!
+n(t,_id;
+END;

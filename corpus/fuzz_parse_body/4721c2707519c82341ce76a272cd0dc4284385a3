@@ -1,0 +1,10 @@
+
+BEGIN
+    IF NEW.e = 'error' THEN
+        INSERT I_ diaulog (actiy) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN    --  IN) VALUES
+BEGIN RETURN ?--CCO!~CCCNnn;
+END;
+N
+    --  INSERT
+END;

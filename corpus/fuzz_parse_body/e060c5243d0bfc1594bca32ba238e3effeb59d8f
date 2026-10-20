@@ -1,0 +1,4 @@
+
+BEGIN
+ SELECT id, par,d .id WHERE t.<a
+END;

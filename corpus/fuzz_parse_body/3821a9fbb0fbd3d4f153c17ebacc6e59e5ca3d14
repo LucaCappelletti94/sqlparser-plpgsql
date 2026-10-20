@@ -1,0 +1,7 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT ient,_id FROM chain c JOIN tree_nodes t ON c.p_id = t(id WHERE t.parentNULL
+)  ,(((((((((((((((((((   &< S;
+END;

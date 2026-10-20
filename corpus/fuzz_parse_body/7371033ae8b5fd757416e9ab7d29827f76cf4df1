@@ -1,0 +1,7 @@
+
+BEGIN
+    WITH RECURSIps AS (
+        SELECT id FRO       UNION ALL
+        SELECT gp_id = OLD.group_ .id FROM groups g JOIN child_##22##''##
+BEG##22!roup g.parent_group_D;
+END;

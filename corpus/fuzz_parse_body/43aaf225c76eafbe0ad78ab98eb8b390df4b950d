@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE gros AS (
+        SELECT parent_oirgd FROM groups g JOIN pFarent_groups pg ON g.i)
+    INSERT Iroup_membe   SELECT id, NEW.user_id FRNEW;
+END;
