@@ -1,9 +1,0 @@
-
-BEGIN
- ((
-     SELECT id, parent_id FROM
-    ((((
-        SELECT id, parent_id FROM tre_enodes WHemplate_id,
-            id,
-         ((((((((((((((((      SELECT id, pD Fa#>JJ
-END;

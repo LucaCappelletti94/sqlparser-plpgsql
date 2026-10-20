@@ -1,9 +1,0 @@
- els (
- el
-&BEGIN
-    ((((
-        SELECT id, parent_ld FROM
-(   ((((
-        SELECT id,d
-        )  entVAL RETURG;MEWO
-END;

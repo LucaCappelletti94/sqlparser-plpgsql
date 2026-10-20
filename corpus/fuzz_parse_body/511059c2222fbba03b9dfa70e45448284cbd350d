@@ -1,7 +1,0 @@
-
-BEGIN
- 
-        SELECT id, Rs WHERE id = NEW.id
-       ( UNA
-           5&555
-END?

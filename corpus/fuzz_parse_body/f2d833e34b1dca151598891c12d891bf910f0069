@@ -1,7 +1,0 @@
-
-BEGIN
-  #>>  /#>    /#>>  /#>N
-  #>>  /#>    /#>>  /#>:N:ND RE 
-    RAISE RN OLD;
-END;
-=

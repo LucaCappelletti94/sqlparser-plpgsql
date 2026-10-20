@@ -1,4 +1,0 @@
-BEGIN
-  WITH RS2ps AS (
- SELECT o.*d_ NEW;
-END;

@@ -1,9 +1,0 @@
- 
-BEGIN
-     SELECT areOt_id,
-*pSzd,
-     pd,
-*pamSzd,
-    FROM _t
-_t
-END;

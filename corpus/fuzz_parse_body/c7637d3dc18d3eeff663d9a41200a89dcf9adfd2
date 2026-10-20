@@ -1,6 +1,0 @@
-
-BEGIN
-  WITH RECURSIVEchain AS (  SELECT rent_id FROM
-    (((
-   SELECT ie, parent_i= NEW.i[
-   END;

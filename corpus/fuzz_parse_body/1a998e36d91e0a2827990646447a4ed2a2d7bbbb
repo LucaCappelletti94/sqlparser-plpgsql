@@ -1,14 +1,0 @@
- 
-BEGIN
-    INSERT Iasts (
-    name,
-            ppocedu    )
-    SELECT EGIN
-  %  INSERT INTO 
-   e,
-    
-        pam.name,
-     NEW.parent_id,
-~       pam_id  
-  D;
-END;

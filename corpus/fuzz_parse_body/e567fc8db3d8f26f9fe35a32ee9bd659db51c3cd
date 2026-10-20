@@ -1,7 +1,0 @@
-
-BEGIN
-	INSERT IFT ((((
-       SELECT id, parent_id FROM
-(  
-((((         SELECT id I, pare tree_nodes WHERE id = N [ E. W[  i] [    [EW.i]]]]ttt
-END;

@@ -1,8 +1,0 @@
- 
-BEGIN
-     SELECT 
-arent_id,
-*pamSEd,
-  *FROM      
-e_templa
-END

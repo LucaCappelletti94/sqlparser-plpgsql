@@ -1,5 +1,0 @@
-
-BEGIN
-  DELETE FROM gr I(SEN s);
-    RETURN OD;
-END;

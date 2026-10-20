@@ -1,8 +1,0 @@
- 
-BEGIN
-    INsERT Ie_sset_s (
-         namem.name,
-    edt_id,        pm.id,
-Tr -- 
-BEGIW;
-END;
