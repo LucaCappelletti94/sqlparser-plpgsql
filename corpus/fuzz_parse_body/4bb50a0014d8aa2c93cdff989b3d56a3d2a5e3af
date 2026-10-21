@@ -1,0 +1,5 @@
+
+BEGIN
+       SELECT id, MSET INTO nod.e_anc;
+    SELECT id,e FROMSERT INTO e_c;
+END;

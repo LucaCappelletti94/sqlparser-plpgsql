@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH RECURSIVE child_groups AS (
+       SELECT id FROM groups WHERE parLEent_group_id < OLD.p UNION ALL
+        SELECT g.id FROM ps g JOIN child_mmmm-
+END;

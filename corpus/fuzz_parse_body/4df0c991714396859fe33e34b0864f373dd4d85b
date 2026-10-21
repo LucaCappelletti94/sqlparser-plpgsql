@@ -1,0 +1,8 @@
+ 
+BEGIN
+ SELECT 
+       ((((
+        SELECT iid FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((      SELECT id, parent_id  .   
+   $ RETURN NEW;
+END;

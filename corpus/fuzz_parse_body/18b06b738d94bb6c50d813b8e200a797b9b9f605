@@ -1,0 +1,5 @@
+
+BEGIN
+  IF Nuy= 'error' THEN  <<<Ettt
+END;
+D;

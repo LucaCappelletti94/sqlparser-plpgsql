@@ -1,0 +1,4 @@
+
+BEGIN
+  SELECT c.id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULLz)  ,(((((((((((( 
+  SELECT c.id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULLz)  ,((((((((((((      SELECT id, pa.tparentSELECT id, pa.tparent,_id FROM chn c JOIN treearent_id)))) c JOIN tree)))o)n_))))R;END;

@@ -1,0 +1,4 @@
+ 
+BEGIN
+    INSERT c  z SELECT re_t
+END;

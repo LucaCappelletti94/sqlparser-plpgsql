@@ -1,0 +1,8 @@
+D  
+BEGIN 
+    INSERT INTO pr(d, chld_id)
+    VALUES (NEessor_id) 
+    ON CONFLICT (parant_id, chil,dt_id, NEWTHINGrant_id,;
+
+  INSEEW;
+END;

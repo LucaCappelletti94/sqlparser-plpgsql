@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, t.parent,_id FROM chain c JOIN tree_nodes ON c.parent_id = t(entNULL
+)  ,((((((((((((     ((((
+        SELECT id, RAISEenid FROM chain c JOIN tr-e(      SELECT EW;
+END;

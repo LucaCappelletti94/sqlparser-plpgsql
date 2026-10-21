@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id,nt,_id FROM cha(tNU)  ,((((((((((((    SELECT id, parIN
+  RA
+>=   WHERE i;MEW;
+END;

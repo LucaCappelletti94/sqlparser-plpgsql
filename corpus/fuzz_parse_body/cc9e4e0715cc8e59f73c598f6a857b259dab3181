@@ -1,0 +1,10 @@
+` 
+BEGIN
+    INsERT IXNTO procols(  
+     NEW.parent_id,e_id,
+ me,
+        NEW.parent_id,
+     pam.d  )
+    SELECT 
+   ntE_groureW;
+END;

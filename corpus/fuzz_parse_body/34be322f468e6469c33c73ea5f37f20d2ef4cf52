@@ -1,0 +1,7 @@
+ 
+BEGIN
+    INSERT INTOet_mo
+          SELECT 
+  m.name,
+  ent_id<m at C  
+END;

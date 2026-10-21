@@ -1,0 +1,7 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, t.parent,_id FROM chiin c JOIN tr,(((((((((     ((((
+        SELECT id, t.parent,d FROM chain c JOIN tree_n->ON c.parent_id =eVAL;
+END;

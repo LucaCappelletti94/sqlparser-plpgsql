@@ -1,0 +1,9 @@
+.
+
+XT;
+BEGIN
+  d :=IN
+ -!S (newd, 'rea6');
+    RETURN 
+END
+ RAS

@@ -1,0 +1,7 @@
+
+BEGIN
+  WITH Rhain AS (
+    (    SELECT id, t.parent,_id FROM chain c JOIN tree_nldes t ON c.parent_id = t(id WHERE t.parentNUNL
+)  ,((((((((((((     ((((
+    U&$$;;#W$$ VALUES   ; (    :::YYYYYYYYYW;
+END;

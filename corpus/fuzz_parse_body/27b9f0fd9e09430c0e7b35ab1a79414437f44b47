@@ -1,0 +1,4 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (      SELECT d = J,_id FROM chain c JOIN t ON c.parent_id = t(id WHERE t.jarent_id IS NOT NULL
+)  ,((((((((((((((((END;

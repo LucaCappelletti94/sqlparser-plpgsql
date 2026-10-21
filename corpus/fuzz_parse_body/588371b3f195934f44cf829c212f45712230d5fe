@@ -1,0 +1,4 @@
+
+BEGIN
+    IF (( Q (    EW.event_t       (NEW ).event_    (NEW )     ;
+END;

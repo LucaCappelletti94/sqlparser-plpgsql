@@ -1,0 +1,5 @@
+
+BEGIN
+  DELETE FROM group_me
+    WHERE .parent_= OL.  rOLD;
+END;

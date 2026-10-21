@@ -1,0 +1,10 @@
+ 
+BEGIN
+       SELEcT id, parent_id FROM
+(   ((((
+       INSERT  ERT      ((((
+        SELECT id, parent_id FROM
+(   ((((
+       INSERT   SELE
+    (((END
+;

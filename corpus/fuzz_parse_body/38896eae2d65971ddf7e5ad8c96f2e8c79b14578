@@ -1,0 +1,7 @@
+
+BEGIN
+	INSERT IFT ((    SELECT id, parent_id FROM
+(  
+((((     
+((((         SELECT id I, pree_nodes WHERE i= N [    [ [i]]]]ttt
+END;

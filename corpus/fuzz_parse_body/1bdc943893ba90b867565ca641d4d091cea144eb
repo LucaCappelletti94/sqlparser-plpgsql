@@ -1,0 +1,6 @@
+NNI
+	SERT
+BEGIN
+	INSERT VALUE  ((((SELECT id FROM
+(   (((( VALUE  (( 
+END;

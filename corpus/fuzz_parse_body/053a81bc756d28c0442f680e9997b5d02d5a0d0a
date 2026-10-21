@@ -1,0 +1,9 @@
+
+BEGIN
+  WITH RECURSIVE ahain AS (
+    ((((
+        SELECT id, t.parent,$d FROM chain c JOIN tree_nodes  ON c.rapent_id = v(id WHERE tarentNULL
+)  ,((((((((((((     ((((
+        SELECT* id,enr.pat CCC
+&&   BETURchain JOIN W;
+END;

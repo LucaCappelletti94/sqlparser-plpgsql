@@ -1,0 +1,4 @@
+
+BEGIN
+   SELECT mrs = OLD.#-u
+END

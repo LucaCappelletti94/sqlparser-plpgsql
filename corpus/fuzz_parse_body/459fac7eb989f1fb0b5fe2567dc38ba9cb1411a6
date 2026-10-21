@@ -1,0 +1,6 @@
+;;
+DECLARE
+    caFé TEXT := $t;;;;
+DECT := $t;;a
+BEGIN
+	INSRT INTf

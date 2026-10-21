@@ -1,0 +1,5 @@
+
+BEGIN
+ VALUES (NEW.yd);
+	RETURN hhhh->hhh*hhhha>hhh->hhhh/NE0thhhhh->hhh->hh
+END;

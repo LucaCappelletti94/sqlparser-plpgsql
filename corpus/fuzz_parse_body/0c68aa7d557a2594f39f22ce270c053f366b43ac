@@ -1,0 +1,12 @@
+5~=
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, paren      UNION ALL
+        SELECT c(((((AS (
+    ((((
+        SELECT d = NEW.id
+        UNION ALL
+        SELECT c.id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parent_id IS NOT NULL
+)  ,(((((((((((((((( SELECT c.id, t.par@@@xhC/NEhhhhhh^hhhhhURN ?--CCO!~C/NEhhhhhh^hh=hhhhh/-Eh@@@@@@@@@@@@@@@@@@hhC/NEhh55~=5=55~=hhhhhhURN ?--CCO!~C/NEhent,5+55%5~=_id FROM chain c
+END;

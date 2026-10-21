@@ -1,0 +1,4 @@
+
+BEGIN
+ SELECT pare=d<=  W;
+END;

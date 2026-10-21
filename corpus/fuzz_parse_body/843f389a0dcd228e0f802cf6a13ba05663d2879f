@@ -1,0 +1,6 @@
+
+BEGIN
+   (WITH RECURSIVroups AS (
+        SELECT parentgroup_id AS id FROM groups W   UNION ALL
+      SELECT parent_grod AS id FROM groups WW   UNION ALL
+      SELECT parent_up_id AS id FROM group W  @N   END;

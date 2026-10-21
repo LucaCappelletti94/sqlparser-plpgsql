@@ -1,0 +1,9 @@
+
+BEGIN
+      SELECT ideod
+        UNION ALL
+        SELECT ALL
+    id
+      UNION ALL
+     G;MEW;
+END;

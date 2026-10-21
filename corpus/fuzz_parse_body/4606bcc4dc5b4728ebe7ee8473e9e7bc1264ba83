@@ -1,0 +1,6 @@
+ 
+BEGIN
+  SELECT 
+        *pamSEd,
+   *d,_templa
+END;

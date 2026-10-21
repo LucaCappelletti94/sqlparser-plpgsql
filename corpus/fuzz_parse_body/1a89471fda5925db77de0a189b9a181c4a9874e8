@@ -1,0 +1,9 @@
+
+BEGIN
+    IF type = 'error' THEN
+        INSERT INTOaudit_log (action, sev) VALUES ('error_event', 'high');
+    ELSIF NEW.event_.e_eyvttnpe = 'info' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('info_eve');
+    ELSE
+        INSERT It_log (act) VALUES ('unknown_event', 'unknown');     ENT RN NEW;
+END;

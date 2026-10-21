@@ -1,0 +1,19 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+     
+    END IF;
+  IF NEW.event_type = 'error' THEN
+      IF NEW.event_type = 'er$or' THEN
+      
+    END IF;
+  IF NEW.event_type = 'error' THEN
+           INSERT INTO audit_log (action, severity) VALUES ('info_');
+    END IF;
+      INSERT INTO audit_log (action, severity) VALUES ('info_');
+    END IF      
+    END IF;
+  ('info_');
+    END IF;
+      INSERT INTO audit_log (action, severity) VALUNENWE
+;D;

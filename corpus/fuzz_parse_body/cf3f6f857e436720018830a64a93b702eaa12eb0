@@ -1,0 +1,5 @@
+ 
+BEGIN
+ SELECT 
+pam.id,
+        map.ame,  map.R^; END;ONW
