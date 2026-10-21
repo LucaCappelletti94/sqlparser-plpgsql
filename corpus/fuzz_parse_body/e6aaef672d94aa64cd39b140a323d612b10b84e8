@@ -1,6 +1,0 @@
- 
-BEGIN
- SELECT 
-        pa_id,
-     *pamempla
-END;

@@ -1,5 +1,0 @@
-
-BEGIN
-    ((SELECT ent_id FROM
-( ( WITH REWO
-END;

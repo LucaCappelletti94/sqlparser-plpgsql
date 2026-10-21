@@ -1,6 +1,0 @@
-
-BEGIN
-    IF NEW.eent_type = 'error' THEN
- VALUES ('error_nt', 'hfo_event', 'low');
-     RETURN NEW;
-.END;

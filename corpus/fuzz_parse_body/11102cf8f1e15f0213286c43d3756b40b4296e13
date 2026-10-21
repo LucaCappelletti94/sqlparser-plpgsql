@@ -1,6 +1,0 @@
-
-BEGIN
-  WITH in AS (     SELECT id,T parent_id FROM e_nodes WHERE id = NEW.id
-        UNION ALL
-        SELECT ALL],RG;MEW;
-END]

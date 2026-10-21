@@ -1,5 +1,0 @@
- 
-BEGIN
-   INSERT  INT1Oc   SELECT 
-           NEW.   $   *pamd,  roca
-END;

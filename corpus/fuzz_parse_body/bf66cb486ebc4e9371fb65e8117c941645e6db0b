@@ -1,4 +1,0 @@
-
-BEGIN
-    RETURN URN ?||B<<B|B<bBCD>C?||B<D>CCCCCNnn;
-END;

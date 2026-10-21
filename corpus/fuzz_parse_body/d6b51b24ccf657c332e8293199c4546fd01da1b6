@@ -1,5 +1,0 @@
-
-BEGIN
-     (
-        SELECT paT INTO gr(grouerEW;
-END;

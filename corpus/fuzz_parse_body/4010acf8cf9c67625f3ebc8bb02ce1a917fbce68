@@ -1,5 +1,0 @@
---
-BEGIN
- VALUES (NEW.d);
-	RETURN hhhh*hh~~*hh/NEttt
-END;

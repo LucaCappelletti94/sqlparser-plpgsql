@@ -1,3 +1,0 @@
-:=BEGIN  SELECT p!me,
-   FROM    empla
-END

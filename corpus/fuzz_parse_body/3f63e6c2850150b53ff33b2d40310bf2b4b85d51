@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH RECURSdups AS (
-    SELECT    ALL
-          END;
-

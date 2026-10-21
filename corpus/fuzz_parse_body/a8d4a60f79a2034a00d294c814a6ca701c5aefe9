@@ -1,5 +1,0 @@
-W<<
-BEGIN
-   SELECT id,s WHERE id = ALL
-END;
-1

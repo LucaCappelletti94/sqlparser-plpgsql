@@ -1,6 +1,0 @@
-
-BEGIN
-  WITH REin AS (
-    ((((
-        SELECT id, parent_id FROM tree_nodes WHE  ,((--((((
-        SELECT c.id, t.parent,_id FROM chain END;

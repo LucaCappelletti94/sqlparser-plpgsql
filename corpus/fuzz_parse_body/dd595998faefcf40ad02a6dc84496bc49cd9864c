@@ -1,6 +1,0 @@
-
-BEGIN(((
-        SELECT i FROM
- ((((
-    SELECT idid Ft_id FROM tree-nt(--
-END;

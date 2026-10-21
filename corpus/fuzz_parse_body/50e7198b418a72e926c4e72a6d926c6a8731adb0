@@ -1,9 +1,0 @@
-
-BEGIN
- VALUES (NEW.id);
-	RETURN$$$$+++++++++++tedols (
-            name,EW.parNENEW.parent_id,
-        pam.    b
-        )
-  ++++t
-END;

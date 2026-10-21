@@ -1,5 +1,0 @@
- 
-BEGIN   INSERT INTO parent_proce2durr(pa)
-    VALUES (NEW.pad) 
-    ON CONFLICT (Parent_d,it_id,$child_;
-END;

@@ -1,9 +1,0 @@
- 
-BEGIN
-   ;  SELECT 
-   me,
- id,
-*pamS,
-   FROM      
-  epla
-END;

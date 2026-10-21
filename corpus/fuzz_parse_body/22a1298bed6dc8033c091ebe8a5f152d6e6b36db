@@ -1,9 +1,0 @@
- 
-BEGIN
-    INsERT IXodels (
-        edure_templatS.parent_id,
-       pam.b
-        )
-    SELECT 
- EW;
-END;

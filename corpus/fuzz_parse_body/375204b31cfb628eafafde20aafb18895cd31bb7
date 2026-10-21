@@ -1,5 +1,0 @@
- 
-BEGIN
-     SELECT 
-a  d,
-* AS ( END;

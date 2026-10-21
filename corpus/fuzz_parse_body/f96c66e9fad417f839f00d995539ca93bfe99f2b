@@ -1,6 +1,0 @@
- 
-BEGIN
-    INSErT INTO proc   SELECT 
-   m.name,
-   arent_id<        p&m.idat!TURN NEW;
-END;

@@ -1,7 +1,0 @@
-
-BEGIN
-
-  SELECT pa FROM gcrsh sr(ogu0_id, wser_iTdURN_gu0_id, N_id,d)G;
- NEW:
-END R;
-ET

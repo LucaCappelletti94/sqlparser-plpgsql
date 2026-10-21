@@ -1,4 +1,0 @@
-
-BEGIN
-    WITH RECURSIVE ch AS ( SELECT ipa FROM t_   WITH(RT I
-END;

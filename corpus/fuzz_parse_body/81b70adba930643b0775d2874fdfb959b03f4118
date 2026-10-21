@@ -1,7 +1,0 @@
- 
-BEGIN 
-    INSERT INTO pare  VALUES (ssor_id) 
-    ON CONFLICT (parant_id, childt_id, NEWTFINGrant_id,;
-
-    ;
-END;

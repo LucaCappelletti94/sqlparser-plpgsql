@@ -1,9 +1,0 @@
- 
-BEGIN
-    INsERT IXNe_asset_models (
-          b
-        )
-    SELECT 
-          
-   _id FROM chain c JOIN tree_nodes t ON c.parent,(((((((((((    INsERT IXNTW;
-END;

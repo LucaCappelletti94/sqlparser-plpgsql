@@ -1,5 +1,0 @@
-
-BEGIN
-     (
-        SELECT pap_iRT INTO gr(grouerEW;
-END;

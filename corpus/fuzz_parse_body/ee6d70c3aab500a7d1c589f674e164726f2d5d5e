@@ -1,9 +1,0 @@
-
-BEGIN
-  ((((
-        SELECT idd FROM
-    ((((
-   INSERT 
-    /*+ o*/
- O
-END;
