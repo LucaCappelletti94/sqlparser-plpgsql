@@ -445,6 +445,21 @@ mod tests {
         assert!(!Scanner::new("x").has_unterminated_dollar_quote());
     }
 
+    #[test]
+    fn an_unterminated_string_runs_to_the_end() {
+        assert_eq!(Scanner::new("'abc ; x").find_in_code(b';'), None);
+    }
+
+    #[test]
+    fn an_unterminated_block_comment_runs_to_the_end() {
+        assert_eq!(Scanner::new("/* a ; b").find_in_code(b';'), None);
+    }
+
+    #[test]
+    fn a_digit_led_dollar_tag_is_a_placeholder() {
+        assert_eq!(Scanner::new("$1$ ; $1$").find_in_code(b';'), Some(4));
+    }
+
     /// A `$$` that is commented out or quoted opens nothing.
     #[test]
     fn a_dollar_quote_inside_another_span_is_not_unterminated() {
