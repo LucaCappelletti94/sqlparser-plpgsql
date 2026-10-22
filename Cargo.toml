@@ -5,8 +5,8 @@ edition = "2024"
 rust-version = "1.88"
 license = "MIT"
 description = "Lexical scanner, preprocessor, and body parser for PL/pgSQL function bodies."
-repository = "https://github.com/LucaCappelletti94/sqlparser-plpgsql"
-homepage = "https://github.com/LucaCappelletti94/sqlparser-plpgsql"
+repository = "https://github.com/connetto-rs/sqlparser-plpgsql"
+homepage = "https://github.com/connetto-rs/sqlparser-plpgsql"
 documentation = "https://docs.rs/sqlparser-plpgsql"
 
 [dependencies]
