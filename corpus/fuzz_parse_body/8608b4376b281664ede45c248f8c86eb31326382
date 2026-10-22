@@ -1,7 +1,0 @@
- 
-BEGIN
-    INSERT INTOet_models 
-          SELECT 
-  m.name,
-  ent_id< mat C  
-END;

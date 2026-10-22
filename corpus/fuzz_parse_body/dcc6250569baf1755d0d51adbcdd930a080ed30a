@@ -1,5 +1,0 @@
-
-BEGIN
-INSERT INS ('warning_event', 'medium');
-.evRRN NEW;
-END;

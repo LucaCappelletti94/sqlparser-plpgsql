@@ -1,6 +1,0 @@
-BEGIN
-   (
-   SELECT +T ++
-f);END;(
-   SELECT +T ++
-f);END;

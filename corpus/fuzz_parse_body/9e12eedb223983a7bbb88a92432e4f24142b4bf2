@@ -1,9 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, parent_id FROid, t.parent,_id FROM chain c JOIN tree_nodedes t ON c.parent_id = t(id WHERE t.parentNULL
-)  ,(((((((((((( 
-  WITH Rz AS (
-      SELECT id,CT NEW.URG+;MEW;
-END;

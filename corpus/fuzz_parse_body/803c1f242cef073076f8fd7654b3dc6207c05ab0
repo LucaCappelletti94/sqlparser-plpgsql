@@ -1,4 +1,0 @@
-
-BEGIN
-  SELECT p_id IN ((SELECT*>>/END;
-

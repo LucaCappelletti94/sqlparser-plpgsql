@@ -1,4 +1,0 @@
- 
-BEGIN
-INSERT T##d;
-END;

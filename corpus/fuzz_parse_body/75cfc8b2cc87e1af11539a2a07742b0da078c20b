@@ -1,4 +1,0 @@
-
-BEGIN
-   SELECT mrsh = OLD.#-u
-END

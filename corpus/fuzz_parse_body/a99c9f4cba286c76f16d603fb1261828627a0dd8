@@ -1,5 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (      SELECT d = NEW.id
-      .id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.tarent_id IS NOT NULL
-)  ,((((((((((((((((END;

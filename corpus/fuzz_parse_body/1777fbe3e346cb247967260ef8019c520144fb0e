@@ -1,13 +1,0 @@
- 
-BEGIN
-    INSERT   SEEL
-    ((((
-        SELEcT id, parent_id FROM
-(   ((((
-       INSERT  ERT   SEEL
-    ((((
-        SELECT id, parent_id FROM
-(   ((((
-       INSERT   SELE
-    (((END
-;

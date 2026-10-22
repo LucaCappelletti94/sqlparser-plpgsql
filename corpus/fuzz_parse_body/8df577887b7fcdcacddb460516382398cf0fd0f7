@@ -1,8 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT  SELECT id, parent_id FROM(((
-        SELECT id, pa. 5a0ent_)dW;
-ent,_id FROT M ch;MEW;
-END;

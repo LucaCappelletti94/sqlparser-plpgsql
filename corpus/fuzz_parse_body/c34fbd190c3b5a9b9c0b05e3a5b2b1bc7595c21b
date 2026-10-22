@@ -1,7 +1,0 @@
- 
-BEGIN
-    INSERT INT  SELECT 
-    FROM prempla
-END;
-1O proca
-END;

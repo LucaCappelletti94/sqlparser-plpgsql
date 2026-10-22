@@ -1,6 +1,0 @@
-
-BEGIN
-    WITH roups AS (
-        SELECT p[
-        [
-END;
