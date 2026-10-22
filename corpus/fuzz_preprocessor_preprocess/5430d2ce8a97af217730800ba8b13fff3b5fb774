@@ -1,0 +1,4 @@
+
+WITH RECuRSIVE parentAte_ nSgroup!sAS (group_id, user_id)
+    SELECT id, es_iSERT INTO _eeid, u;
+  ';
