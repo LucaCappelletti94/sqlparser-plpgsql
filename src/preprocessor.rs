@@ -1077,6 +1077,14 @@ END";
         ));
     }
 
+    #[test]
+    fn a_qualifier_without_a_name_is_not_a_qualified_target() {
+        for body in ["BEGIN\n  rec. := 1;\nEND", "BEGIN\n  rec. = 1;\nEND"] {
+            let (out, _) = PlPgSqlPreprocessor::preprocess(body).expect("no qualified target");
+            assert_eq!(out, body);
+        }
+    }
+
     fn declared_default(body: &str) -> Option<String> {
         let (_, ctx) = PlPgSqlPreprocessor::preprocess(body).expect("preprocess");
         ctx.get_declaration("v")
