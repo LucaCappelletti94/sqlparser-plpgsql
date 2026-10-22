@@ -1,0 +1,5 @@
+
+BEGIN
+ 
+SELECT d IS NOT  W;
+END;

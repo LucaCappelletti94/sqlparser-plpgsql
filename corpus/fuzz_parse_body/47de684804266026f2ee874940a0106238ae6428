@@ -1,0 +1,5 @@
+ 
+BEGIN 
+    INSERT IN   VALUES (Nce) 
+    ON DO NOTHING;
+END;

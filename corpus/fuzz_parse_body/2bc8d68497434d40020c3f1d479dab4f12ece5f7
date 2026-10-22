@@ -1,0 +1,13 @@
+B-
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, parent_id FROM trae_n  UNION ALL
+        SELECT c.id, tB.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((          SELECT c. tB.parent,_id FROMme,EW.pa(rNEW.parent_id,
+        pae,EW.parNEW.parent_id,
+        pam.    b
+        )
+    SELECT 
+        pam.namRETURG;MEW;
+END;A;;

@@ -1,0 +1,9 @@
+ 
+BEGIN    
+ SELECT d,
+*pSzd,
+    d,
+*pamSzd,
+    FROM _t
+_t
+END;

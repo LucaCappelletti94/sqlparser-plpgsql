@@ -1,0 +1,3 @@
+
+BEGIN  SELECT id FROM g    UNION        SELECT g.id FROM gmm<mOLD;
+END;

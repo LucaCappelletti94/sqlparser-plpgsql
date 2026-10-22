@@ -1,0 +1,6 @@
+
+BEGIN      SELECT id, pareid FROM
+    ( ((
+      SELECT edno WHERE id NEW*id
+  !;MEWO
+END

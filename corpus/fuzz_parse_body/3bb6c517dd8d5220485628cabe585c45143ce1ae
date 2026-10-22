@@ -1,0 +1,9 @@
+
+BEGIN
+ 
+    SELECT id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.paren_id = it(d WHERE t.parenvNULL
+)  ,((((((((((((     ((((
+   SELECT id, t.parent,_id FROM chain c JOIN tree_noleBEGIN
+  WITH RRSWS (
+  ;@EW;
+END;

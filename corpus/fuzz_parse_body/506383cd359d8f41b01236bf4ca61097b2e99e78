@@ -1,0 +1,3 @@
+
+BEGIN   SELECT it.p, renid IS NOT zW;
+END

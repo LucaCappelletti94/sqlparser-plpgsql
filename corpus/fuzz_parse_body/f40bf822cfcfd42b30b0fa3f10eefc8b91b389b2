@@ -1,0 +1,8 @@
+
+BEGIN
+    IF Ne THEN
+ IF NeW.evt_type = 'erryr' THEN
+  VALUES ('ety)n');
+    ENT IF;
+    N NEW;
+END;

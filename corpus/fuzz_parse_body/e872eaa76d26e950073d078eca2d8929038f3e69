@@ -1,0 +1,8 @@
+ 
+BEGIN
+
+    SELECT 
+      pa.name,
+EW.pabentd,
+  cm.pW;
+END;

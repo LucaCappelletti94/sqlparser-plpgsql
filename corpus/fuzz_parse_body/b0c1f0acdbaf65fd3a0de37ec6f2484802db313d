@@ -1,0 +1,9 @@
+
+e;
+BEGIN
+    new_:=_id := uuid();
+   d :=id :=_id := uuid();
+   d := uuid();
+   d := uuid();
+  
+END;

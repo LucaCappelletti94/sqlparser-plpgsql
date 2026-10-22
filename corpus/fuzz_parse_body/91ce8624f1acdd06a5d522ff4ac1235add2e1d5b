@@ -1,0 +1,10 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, t.parent,_id FROM chaon c JOIN tree_nodes ON c.parent_id = t(id WHERE t.parentNULL
+)  ,(((((((((((((((((((((((((((((((((   SELECT id, pd FROM tree
+    ((((
+ELECT id, t.B||
+ TH 2d FRW;
+END;

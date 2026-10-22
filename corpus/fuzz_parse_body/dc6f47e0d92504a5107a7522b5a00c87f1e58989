@@ -1,0 +1,6 @@
+
+e;
+BEGIN  new_id := uuid();
+   d := uuid();
+  
+END;

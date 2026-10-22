@@ -1,0 +1,8 @@
+
+BEGIN
+	 ( SELECT iELECT id, parend FROM
+(   ((((
+        ((((
+         VALUE  (
+ ed, pa, parent_idttt
+END;

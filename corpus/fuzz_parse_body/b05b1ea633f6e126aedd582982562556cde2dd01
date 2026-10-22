@@ -1,0 +1,11 @@
+
+~
+BEGIN
+  WITH RECURSIVE chain AS (
+   ( (((
+        SELECT id,nt_asse    FROM chcin c JOIN tree_nodes t ON ct(id WHERE t.parentNULL
+)  ,(((
+        SELECT     tarent_i d,    pam.name,
+  name,*/
+        NEW.tarent_i d,        NEW. id, p^
+END;

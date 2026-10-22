@@ -1,0 +1,11 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+  --(
+        SELECT _id FROM( ( ( WITH RECURSIVE chain AS (
+    ((((
+        SELECT d, pqrbnt_id FROM
+(   ((((
+       ECTBNEI 
+G WITH(RECURS__..IVain ;MEWO
+END;

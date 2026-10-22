@@ -1,0 +1,7 @@
+
+BEGIN
+  WITH Rchan AS    (((      SELECT id, parent^id FROM
+    ((((
+       ((((
+        SELECT id+5 FROM t(rin AS CCCCO
+END;

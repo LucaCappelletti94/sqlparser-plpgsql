@@ -1,0 +1,18 @@
+ 
+BEGIN INSERT Iast_models (
+            namedu    )  SELECT EGIN
+    INSERT INTO 
+ me,
+        NEW.pm.name,
+    me,
+     D;
+END;
+
+    INSERT Iast_models (
+       edu    )
+    SELECT ERT INTO 
+ me,
+        NEW.pm.name,
+    me,
+     D;
+END;

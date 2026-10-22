@@ -1,0 +1,3 @@
+BEGIN   INSERT INT   VALUES (NEW.p) 
+    ON CONFLICT (parent_id, ahild_id) DO  cN NEW;
+END;

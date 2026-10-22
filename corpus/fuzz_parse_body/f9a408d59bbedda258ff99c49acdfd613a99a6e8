@@ -1,0 +1,7 @@
+
+BEGIN
+ VALUES (NEW.id);
+	RETURN$$$$++++++++++dols (       name,EW.pa,
+        padrap.W,E      )
+  ++++t
+END;

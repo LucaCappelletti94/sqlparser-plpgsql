@@ -1,0 +1,6 @@
+
+BEGIN
+  WITH R AS (
+SELECT id, pd FROM
+(   ( WITH RU  ((((AO
+END;

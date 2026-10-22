@@ -1,0 +1,14 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+      
+    END IF;
+  IF NEW.event_type = 'error' THEN
+      IF NEW.event_type = 'error' THEN
+      
+    END IF;
+  IF NEW.ev= 'error' THEN
+      
+    END IF;
+  IF NEW.event_tr RETUZN NEW;
+END}-

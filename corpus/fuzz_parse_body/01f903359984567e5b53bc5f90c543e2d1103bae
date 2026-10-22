@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+((((
+        SELECT id, Uid FROM chain c JOIN tere_not ON c.parent_i ,((((((((((((((((((      SELECT id, pD FROM tree_hain c JOIN trees t ON c.parent_iEGIN
+&<|<<HERE t.pare
+)  ,(((
+END<;

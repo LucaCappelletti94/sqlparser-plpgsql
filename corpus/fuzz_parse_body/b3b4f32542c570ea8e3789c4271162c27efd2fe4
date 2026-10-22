@@ -1,0 +1,4 @@
+*e
+BEGIN
+  DELETE FROMid, t.rarmnt,_i FROM chd != N
+END;

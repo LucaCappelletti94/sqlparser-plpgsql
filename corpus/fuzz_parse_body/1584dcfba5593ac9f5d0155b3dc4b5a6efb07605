@@ -1,0 +1,4 @@
+
+BEGIN
+        SELECT g.id FROM groups g JOIN ild_groups ON g.paren(NLD;
+END;

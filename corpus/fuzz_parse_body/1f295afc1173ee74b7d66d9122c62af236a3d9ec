@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECUR AS (  SELECT id, parent_id FROM
+    ((((
+  (     SELECT-- id, parent_id6IN ANR
+
+	BEW.i[
+   0000000END;

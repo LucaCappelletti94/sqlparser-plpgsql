@@ -1,0 +1,18 @@
+
+BEGIN
+	INSERT IFTO ownei(rsd)  VALUE  ((((
+       SELECT id, parent_id FROM
+(   ((((
+        SELECT id, parent_id FROM tree_ns WHE<=>d@@T @I
+<=>d@@G@@@@@@@I
+<=>d@@G@@@@@@@T @I
+<=>d@@T @I
+<=>d@d@@T @I
+<=>dd@@I
+<=>d@@G@@@@@@@T @I
+<=>d@@T @I
+<=>d@@GI
+<=>@@GI
+<=>d tQQQ>N7@@@@@@@
+RE id = N [    [EW.i]:]]]tttt
+END;
