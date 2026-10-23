@@ -1,0 +1,4 @@
+
+BEGIN
+          SELECT :paret_gid At?
+END R;

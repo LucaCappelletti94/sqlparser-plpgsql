@@ -1,0 +1,5 @@
+
+BEGIN
+  (((      SELECT id, parent^5d FROM
+    ((  SELECT idren_id FROM t(rin AS ZZ|r|&||||CCCCCCO
+END;

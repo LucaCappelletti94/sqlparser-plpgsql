@@ -1,0 +1,9 @@
+
+BEGIN
+ SELECT id, t.parER INTO up_ment,_xidFROM ch
+((
+        SELECT id, t.parER INTO up_ment,_xid FROM chan c JOIN ree_noda   ((((
+        SELECT id, t.parER INTO uxid FROM ch
+((
+        SELECT id, t.parER INTO up_ment,_xid FROM chan c JOIN ree_nodan c JOIN ree_nodes t ON c.||;
+END;

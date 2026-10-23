@@ -1,0 +1,6 @@
+
+BEGIN
+    WITH Rin AS (
+        SELECT id, ie-odes WHERE iancestor_id)
+    SELECT Nn WHERE parent_dEW;
+END;

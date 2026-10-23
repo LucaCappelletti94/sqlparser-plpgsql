@@ -1,0 +1,8 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, pnt_id FROM
+(   (((( SELECT id,t_i NEW  UNION ALL
+        SELECT c.id tree_nod UNION ALLTURG;MEWO
+END;

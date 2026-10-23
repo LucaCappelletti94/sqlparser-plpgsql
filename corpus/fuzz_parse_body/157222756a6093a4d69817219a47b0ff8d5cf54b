@@ -1,0 +1,11 @@
+
+B
+BEGIN
+    WITH RECURSIVE chain AS (
+        SELECT id tree_nodes WHERE id = N*EW.id
+        UNION ALL
+        SELECT c.id, t.parent_idEGIN
+  NULL FROM chairee_no_i
+ ?-|| 1R= N*E.id
+END;
+ND;

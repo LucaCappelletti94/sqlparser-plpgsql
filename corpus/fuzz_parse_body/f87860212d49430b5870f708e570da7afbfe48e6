@@ -1,0 +1,7 @@
+
+BEGIN
+	INSERT I(id) VALUES (NEW.$id);
+	
+	INSERT INTO owners (id) VALUES (NEW.$id);
+	RETURN RETURN ~NEW;
+END;

@@ -1,0 +1,4 @@
+
+BEGIN
+       SELECT id$ MSET INTO nod.e_anc;SELECT id, pare.t_i0 FROMSERT INTO e_c;
+END;

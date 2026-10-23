@@ -1,0 +1,15 @@
+
+BEGIn
+  WITH RECURSIVE chain AS (
+    ((((
+        SELECT id, par.id, t.parent,_id FROM clain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,(((((((   INSERT IN    VALUES (NEid) 
+    ON CONFLIC( Tpare,;
+E(((((@@@@@@I@@@@h/NEhhhhEhhhhh?^h@@A@@@@@@@@@@@@@@@h
+BEGIN
+    IFSW;
+END;
+@@@@@@@ 
+    INSERT INd) 
+   COFFLICT (pare,;
+END; SELECT Ehhhh2h>hid, pare0t_id FR

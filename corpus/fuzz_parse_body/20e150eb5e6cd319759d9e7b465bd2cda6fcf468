@@ -1,0 +1,4 @@
+
+BEGIN
+   SELECT id, t.pard ? t(<->WH.EW;
+END;

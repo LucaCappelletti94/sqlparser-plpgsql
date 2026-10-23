@@ -1,0 +1,4 @@
+
+BEGIN
+    SELECT g.i FROM upR:=:= chN
+END;

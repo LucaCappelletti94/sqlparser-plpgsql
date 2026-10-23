@@ -1,0 +1,7 @@
+
+e;
+BEGIN
+   ew_id :=_id := uuid();
+   d := uuid();
+   d := uuid()
+END;

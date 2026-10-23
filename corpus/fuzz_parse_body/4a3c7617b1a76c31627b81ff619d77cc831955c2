@@ -1,0 +1,5 @@
+
+BEGIN
+  WITH RECchain AS (
+     SELECT c.iid FROM trein c,((((((((((((  ~~ ( CT;
+END;

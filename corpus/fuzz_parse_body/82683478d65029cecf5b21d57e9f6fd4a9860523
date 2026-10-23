@@ -1,0 +1,9 @@
+*e
+BEGIN(
+        SELECT id, t.parent,H_id FROM chain c JOiN tree_nDUe ON c.parent_id = t(i=d WHERE t.parntNULL
+)  ,(((((((
+  DELETE FROM
+BEGIN
+    WITH RECURSrup_id
+END;
+;

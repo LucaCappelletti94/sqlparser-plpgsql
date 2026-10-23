@@ -1,0 +1,7 @@
+ 
+BEGIN
+  
+    INSERT   SEL     SELECT id, parent_id FROM
+(   ((((
+        SELECT id, paid FROM(ES ('error_erent', 'high'   SGLEC  INSERTD;END
+;

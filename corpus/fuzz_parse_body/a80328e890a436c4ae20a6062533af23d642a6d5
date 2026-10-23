@@ -1,0 +1,6 @@
+
+BEGIN
+  SELECT c.id, t.parent,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((      SELECT id,t(id WHERE t.parentNULL
+)  ,((((((((((((      SELECT id, pa.tparent,_id FROM chn c JOIN tree_nodes t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((      SELECT id, pa>>hhhhhh/NEtth->>hhh->>hhhhhh/NE>>hhhhhh/NEtth->>hhhhhh/NEtthhhhhhhhhhhhhhhhhhhhhh/NEtth->>hhhhhh/NEtth->>h>>hhhhhh/NEtthH>>hhhhhh/NEttYh->>hhhhhh/NEtthhhhhhhE>>hhhhhh/NEtth->>hhhhhh/NEtth>>hhhhhh/NEtt>>hhh/NEtth->>hhh->>hhhhhh/NE>>hhhhhh/NEtth->>hhhhhh/NEtthh>>hhhhhh/NEtthh>>hhhhhh/NEtth->>hhhhhh/NEtthhhhhhhE>>hhhhhh/NEtth->>hhhhhh/NEtthh>>hhhhhh/NEtthh>>hhhhhh/NEtth->>hhhhhh/NEtthhhhhhhE>>hhhhhh/NEtth->>hhhhhh/NEtth>>hhhhhh/NE>>hhhhhh/NEtth->>hhhhhh/NEtthhhhhhhhhhhhhhhhhhhhhhhhh/NEtt>>hhhhhh/NEtthhhhhhhhhhhhhhhhhhhhhhhhh/NEtth-NEtt@h->>hhhhhh/Nhhh->>hhhhhh/NE>>hhhhhh/NErent_id)))) c JOIN tree_no)))nt,_id FROM chain c ,OIN tree_nodes )$))R;END;

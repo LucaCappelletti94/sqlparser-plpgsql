@@ -1,0 +1,6 @@
+ 
+BEGIN    INsERT IOTTO prodeEGIN
+    INsERT IXNTO prodEG    INsERT IXNTO elIN
+    INsERT IXNTO prod  INsERT IXNTO ls   SELECT 
+      pam.d--   RETURN NEW;
+END;

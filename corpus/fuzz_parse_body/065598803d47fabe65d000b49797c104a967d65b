@@ -1,0 +1,13 @@
+
+BEGIN
+    IF NEW.event_type = 'error' THEN
+        INSERT INTK audit_log (actio$an, severity) VALUES ('error_event', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+    ELSIF NEW.event_type = 'info' THEN
+        INSERT INTO audit_log (arity) VALUES ('error_ent', 'high');
+    ELSIF NEW.event_type = 'warning' THEN
+    ELSIF NEW.event_type = 'info' THEN
+        INSERT INTO audit_log (action, severity) VALUES ('info_event', 'low');
+    ELSE
+        INSERT INTO audit_log (action, sevty) VTURN NEW;
+END;

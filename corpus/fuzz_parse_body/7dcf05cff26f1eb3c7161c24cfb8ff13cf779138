@@ -1,0 +1,4 @@
+
+BEGIN
+  WITH RCUR                                N
+END;

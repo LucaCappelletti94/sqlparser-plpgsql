@@ -1,0 +1,6 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (  ((((
+        SELECT id, t.parent,_id FROM chai ,((((((((((((     ((((
+        SELECT iparenog_rtup_idSERT INTO (g))))))))d;
+END;

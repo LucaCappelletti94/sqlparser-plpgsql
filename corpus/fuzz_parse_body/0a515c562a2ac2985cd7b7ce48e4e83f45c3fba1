@@ -1,0 +1,7 @@
+
+BEGIN
+  (
+        SELECT id, parentOid FROM
+  (  (((
+        SELECT id, par FRa#>JJ
+ENd;

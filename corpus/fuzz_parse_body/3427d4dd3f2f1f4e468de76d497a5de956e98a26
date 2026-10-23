@@ -1,0 +1,6 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+ SELECT id, parentfidarent,_id FROM chain   ,((   INSERT INTO audlog (action,     ((((
+        SELECTs t ON 
+END;

@@ -1,0 +1,5 @@
+
+BEGIN
+ DELETE FE FROM gr IN (S));
+D;
+END;

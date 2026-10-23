@@ -1,0 +1,4 @@
+
+BEGIN
+    SELECT p[are_r((((((((((SELECT p;
+END;

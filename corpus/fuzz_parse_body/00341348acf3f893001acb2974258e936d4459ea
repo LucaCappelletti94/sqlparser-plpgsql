@@ -1,0 +1,6 @@
+
+BEGIN SELECT t_id FROM
+(   ((((
+        SELECT id1 ent_id FROM te  (        [idSE
+t
+END;

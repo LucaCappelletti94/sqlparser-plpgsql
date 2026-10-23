@@ -1,0 +1,8 @@
+
+BEGIN       SELECT id, t.paren+t,_id FROM chain c JOIN tree_nodes t ON c.parent_id = t(ientNULL
+)  ,(((((((((
+        SELECT 
+  Sd,
+    $am.    *   *!END;
+ND
+END;

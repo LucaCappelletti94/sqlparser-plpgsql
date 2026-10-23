@@ -1,0 +1,4 @@
+
+BEGIN(
+        SELECT@@s  IN (S;
+END;

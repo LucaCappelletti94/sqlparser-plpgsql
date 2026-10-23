@@ -1,0 +1,6 @@
+ 
+BEGIN
+    INSERT INTOet_mo
+          SELECT 
+  m.namt_id<m at C  
+END;

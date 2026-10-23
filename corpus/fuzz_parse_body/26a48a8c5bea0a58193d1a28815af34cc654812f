@@ -1,0 +1,7 @@
+
+BEGIN
+  WITH RECURSIVE chain AS (
+   SELECT Oc.id, t.pa*env,_id FROM chain c JOIN tree_noees t ON c.parent_id = t(id WHERE t.parentNULL
+)  ,((((((((((((      SELECT id,hh/-Ehhhhhh^hhh>h-h>hhhhhhhh>h-h>ALL
+   ((((((T id,hh/-E n;
+END;

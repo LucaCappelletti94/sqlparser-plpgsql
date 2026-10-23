@@ -1,0 +1,3 @@
+
+BEGIN
+   SELECT g.id FROM groups g JOIN childmmmps g JOIN chmmmm id END;
