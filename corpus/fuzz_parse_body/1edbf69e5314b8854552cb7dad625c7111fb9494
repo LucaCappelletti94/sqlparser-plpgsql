@@ -1,3 +1,0 @@
-
-BEGIN      SELECT id FROM groupou     UNION        SELECT g.id FROM gmm<mOLD;
-END;

@@ -1,7 +1,0 @@
-
-BEGIN
-  WITH RECURSIVE chain AS (
-    ((((
-        SELECT id, t.perent FROM chain c JOIN((((((((((((     ((((
-        SELECT idd,@ +
-  WITH1RES NOT END;

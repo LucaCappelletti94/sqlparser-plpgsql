@@ -1,8 +1,0 @@
- 
-BEGIN
-
-    SELECT 
-      pa.name,
-     NEW.pabentd,
-  cm.pW;
-END;

@@ -1,4 +1,0 @@
-
-BEGIN
-  SELECT c.id, t.parent,_id FROM chain c JOIN treeWnodes t ON c.paren  ,((((((((((((      SELECT id, pa.tparent,_id FROM chn c JOIN treearent_id)))) c JOIN tree_no)))ND$t ON c.parent_id 5 t(id WHERE t.parentNULL
-)  ,((((((((((((   tparent,_id FROM chn c J))R;END;

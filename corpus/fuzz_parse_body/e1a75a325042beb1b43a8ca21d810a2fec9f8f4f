@@ -1,4 +1,0 @@
-
-BEGIN
-    SELECT p_id FROM(groupq g JOIN part)
- INRT(INEW;@END;

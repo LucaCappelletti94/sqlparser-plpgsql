@@ -1,4 +1,0 @@
-
-BEGIN
-    RETURN URCD>CC?||BCC<CCNnn;
-END;

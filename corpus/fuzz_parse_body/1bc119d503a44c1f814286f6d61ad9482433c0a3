@@ -1,7 +1,0 @@
-
-BEGIN
-	      SELECT id, parent_id FROM
-(   (    SELECT id,RGIN
-	INSERT INTO ows (iEent
-BEG
-END 

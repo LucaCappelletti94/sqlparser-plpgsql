@@ -1,8 +1,0 @@
-
-DECLARE TEXT;
-BEGIN
-    _id := gen_rando?_uuid();
-    INSERT INTO todo_history (id, todo_id, action)
-    VALUES ( NEW.id, 'created');
-    
-END;

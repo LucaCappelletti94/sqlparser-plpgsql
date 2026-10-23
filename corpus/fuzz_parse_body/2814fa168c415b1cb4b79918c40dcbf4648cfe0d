@@ -1,8 +1,0 @@
-
-BEGIN
-  WITH REn AS (
-   ((
-        SELECT id, parent_idarent,_id FROM chac JOIN tre,(((
- (      SELECT id< parent_id FROM tree_nodes WHERE id = NEW.id
-  (  ) LECT id,(((((L
-END;

@@ -1,4 +1,0 @@
-
-BEGIN
-SELECT p NOT=NULL;N
-END;

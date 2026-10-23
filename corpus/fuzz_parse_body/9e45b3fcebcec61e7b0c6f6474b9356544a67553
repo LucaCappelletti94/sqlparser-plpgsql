@@ -1,6 +1,0 @@
-
-BEGIN
- VALUES (hh/NEtd);
-	RETURN hihhhhhhhhhhhh(ENV->>id);
-
-END;

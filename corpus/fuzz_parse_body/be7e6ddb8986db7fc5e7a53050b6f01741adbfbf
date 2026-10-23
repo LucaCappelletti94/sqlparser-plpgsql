@@ -1,6 +1,0 @@
- 
-BEGIN
-    INsERT IESXN prols (         name,EW.parNEW.parnt_id.parNEW.parent_id,   name,EW.parNEW.parnt_id.parNEW.paren)
-    SELECT 
-    rE  paTrE  paTUR LEW;
-END;

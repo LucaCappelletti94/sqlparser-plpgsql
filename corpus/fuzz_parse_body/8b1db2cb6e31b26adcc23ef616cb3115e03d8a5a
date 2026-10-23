@@ -1,5 +1,0 @@
-
-BEGIN
-    IF Nnt_t = 'error' THEN
-  v;
-END;

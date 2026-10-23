@@ -1,7 +1,0 @@
-
-BEGIN
-  WITH Rchain AS    (((      SELECT id, parent^id FROM
-    ((((
-       ((((
-        SELECT id+5 FROM t(rin AS CCCCO
-END;

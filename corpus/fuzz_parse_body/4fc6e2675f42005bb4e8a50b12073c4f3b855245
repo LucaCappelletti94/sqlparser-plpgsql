@@ -1,6 +1,0 @@
-
-BEGIN
-  WITH Rhain AS (
-    ((((
-        SELECT id, t.parenparent_id ? t(<->WHERE t.parentNUYYYMEW;
-END;

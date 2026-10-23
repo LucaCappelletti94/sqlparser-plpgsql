@@ -1,4 +1,0 @@
-
-BEGIN
-    SELECT p[]--a5
---END;

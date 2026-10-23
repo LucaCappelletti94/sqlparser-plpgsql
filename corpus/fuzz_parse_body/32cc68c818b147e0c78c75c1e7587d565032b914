@@ -1,9 +1,0 @@
- 
-BEGIN
-    INSERT Kast_mod(
-             edu    )
- SELECT E   INSERT INTO 
- me,
-    name,  me,
-     D;
-END;

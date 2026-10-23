@@ -1,8 +1,0 @@
-
-BEGIN
-	 ( SELECT iELECT id, parend FROM
-(   ((((
-        ((((
-         VALUE  (
- ed, pa, parent_id_idtidtttt
-END;

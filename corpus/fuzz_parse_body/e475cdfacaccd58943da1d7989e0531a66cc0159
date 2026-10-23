@@ -1,5 +1,0 @@
-
-BEGIN
- VALUES (ntNE.Wid);
-	RETURN hh%hhh%hhh(id)=hhhhh%NEhhhht
-END;

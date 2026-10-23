@@ -1,6 +1,0 @@
- 
-BEGIN 
-    INSERT INTO parenced(pa,id)
-    VALUES (Nce) 
-    ON DO NOTHING;
-END;

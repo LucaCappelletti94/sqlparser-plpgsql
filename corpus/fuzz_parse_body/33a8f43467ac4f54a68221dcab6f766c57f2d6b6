@@ -1,8 +1,0 @@
- 
-BEGIN
-
-    SELECT 
-      pa.name,
-     NEW.pabent_id,
-  cm.pW;
-END;

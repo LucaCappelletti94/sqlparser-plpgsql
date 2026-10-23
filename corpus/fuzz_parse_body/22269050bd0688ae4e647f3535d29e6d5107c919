@@ -1,7 +1,0 @@
-
-BEGIN
-    WITH d_groups AS (
-        SELECT id FROMgroup_membesrhips
-    WHERE user_id = OLD.userup_id IN ((SELECT    ALL
-        SELE    END;
-

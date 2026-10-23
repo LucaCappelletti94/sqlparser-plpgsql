@@ -1,4 +1,0 @@
-
-BEGIN
- VALUES (NEW.id);
-	RETURN$$$$++++++++++++++++EGnt_id IS (((END;

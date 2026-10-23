@@ -1,5 +1,0 @@
-
-BEGIN    ((((
-      SELECT id, t.parent,_id FROM chain c JOIN tre_nodes t ON c.nt_id = t(ie)  ,((((((((((((     ((((
-   FROM cM#EWA
-END;

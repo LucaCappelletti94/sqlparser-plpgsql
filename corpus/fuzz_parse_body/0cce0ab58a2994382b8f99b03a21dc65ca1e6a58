@@ -1,4 +1,0 @@
-*e
-BEGIN
-  DELETE FROMid, t.parmnt,_id FROM chd != N
-END;
